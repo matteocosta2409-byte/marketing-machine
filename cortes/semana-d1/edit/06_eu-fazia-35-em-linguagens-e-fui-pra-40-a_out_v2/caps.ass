@@ -1,0 +1,98 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Helvetica,67,&H00FFFFFF,&H00FFFFFF,&HC8000000,&HC8000000,0,1,0,0,100,100,0,0,1,6.7,6.7,2,60,60,540,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.04,0:00:00.42,Cap,,0,0,0,,Outra coisa
+Dialogue: 0,0:00:00.42,0:00:00.58,Cap,,0,0,0,,que eu
+Dialogue: 0,0:00:00.58,0:00:01.12,Cap,,0,0,0,,fazia:
+Dialogue: 0,0:00:01.12,0:00:02.00,Cap,,0,0,0,,assistia às
+Dialogue: 0,0:00:02.00,0:00:02.30,Cap,,0,0,0,,aulas do
+Dialogue: 0,0:00:02.30,0:00:03.42,Cap,,0,0,0,,professor Felipe
+Dialogue: 0,0:00:03.42,0:00:03.86,Cap,,0,0,0,,Pereira,
+Dialogue: 0,0:00:03.86,0:00:04.30,Cap,,0,0,0,,que são
+Dialogue: 0,0:00:04.30,0:00:05.00,Cap,,0,0,0,,gratuitas no
+Dialogue: 0,0:00:05.00,0:00:05.54,Cap,,0,0,0,,YouTube.
+Dialogue: 0,0:00:05.54,0:00:05.68,Cap,,0,0,0,,Ele é
+Dialogue: 0,0:00:05.68,0:00:06.18,Cap,,0,0,0,,um professor
+Dialogue: 0,0:00:06.18,0:00:06.80,Cap,,0,0,0,,de Linguagens,
+Dialogue: 0,0:00:06.80,0:00:07.00,Cap,,0,0,0,,que tem
+Dialogue: 0,0:00:07.00,0:00:07.74,Cap,,0,0,0,,uma metodologia
+Dialogue: 0,0:00:07.74,0:00:08.12,Cap,,0,0,0,,um pouco
+Dialogue: 0,0:00:08.12,0:00:08.76,Cap,,0,0,0,,diferente.
+Dialogue: 0,0:00:08.76,0:00:09.02,Cap,,0,0,0,,Ele não
+Dialogue: 0,0:00:09.02,0:00:09.28,Cap,,0,0,0,,fala que
+Dialogue: 0,0:00:09.28,0:00:09.74,Cap,,0,0,0,,Linguagens é
+Dialogue: 0,0:00:09.74,0:00:11.06,Cap,,0,0,0,,interpretação ou
+Dialogue: 0,0:00:11.06,0:00:11.34,Cap,,0,0,0,,que você
+Dialogue: 0,0:00:11.34,0:00:11.46,Cap,,0,0,0,,tem que
+Dialogue: 0,0:00:11.46,0:00:12.22,Cap,,0,0,0,,estudar gramática
+Dialogue: 0,0:00:12.22,0:00:12.42,Cap,,0,0,0,,pra ir
+Dialogue: 0,0:00:12.42,0:00:12.60,Cap,,0,0,0,,bem no
+Dialogue: 0,0:00:12.60,0:00:13.28,Cap,,0,0,0,,Enem.
+Dialogue: 0,0:00:13.28,0:00:13.60,Cap,,0,0,0,,Ele fala
+Dialogue: 0,0:00:13.60,0:00:14.00,Cap,,0,0,0,,que você
+Dialogue: 0,0:00:14.00,0:00:14.18,Cap,,0,0,0,,tem que
+Dialogue: 0,0:00:14.18,0:00:14.94,Cap,,0,0,0,,estudar Linguagens
+Dialogue: 0,0:00:14.94,0:00:15.32,Cap,,0,0,0,,com base
+Dialogue: 0,0:00:15.32,0:00:16.54,Cap,,0,0,0,,nas competências
+Dialogue: 0,0:00:16.54,0:00:17.28,Cap,,0,0,0,,e habilidades
+Dialogue: 0,0:00:17.28,0:00:17.90,Cap,,0,0,0,,da matriz
+Dialogue: 0,0:00:17.90,0:00:18.88,Cap,,0,0,0,,referência que
+Dialogue: 0,0:00:18.88,0:00:19.34,Cap,,0,0,0,,o Enem
+Dialogue: 0,0:00:19.34,0:00:19.95,Cap,,0,0,0,,é feito.
+Dialogue: 0,0:00:19.95,0:00:20.09,Cap,,0,0,0,,que que
+Dialogue: 0,0:00:20.09,0:00:20.71,Cap,,0,0,0,,isso significa,
+Dialogue: 0,0:00:20.71,0:00:21.40,Cap,,0,0,0,,na prática?
+Dialogue: 0,0:00:21.40,0:00:21.80,Cap,,0,0,0,,Cada questão
+Dialogue: 0,0:00:21.80,0:00:22.36,Cap,,0,0,0,,da prova
+Dialogue: 0,0:00:22.36,0:00:22.66,Cap,,0,0,0,,testa uma
+Dialogue: 0,0:00:22.66,0:00:23.52,Cap,,0,0,0,,habilidade e
+Dialogue: 0,0:00:23.52,0:00:24.40,Cap,,0,0,0,,cada habilidade
+Dialogue: 0,0:00:24.40,0:00:25.12,Cap,,0,0,0,,pertence a
+Dialogue: 0,0:00:25.12,0:00:25.96,Cap,,0,0,0,,uma competência.
+Dialogue: 0,0:00:25.96,0:00:26.36,Cap,,0,0,0,,Quando você
+Dialogue: 0,0:00:26.36,0:00:26.96,Cap,,0,0,0,,entende como
+Dialogue: 0,0:00:26.96,0:00:27.36,Cap,,0,0,0,,a prova
+Dialogue: 0,0:00:27.36,0:00:28.00,Cap,,0,0,0,,é montada
+Dialogue: 0,0:00:28.00,0:00:28.52,Cap,,0,0,0,,a partir
+Dialogue: 0,0:00:28.52,0:00:28.88,Cap,,0,0,0,,disso,
+Dialogue: 0,0:00:28.88,0:00:29.20,Cap,,0,0,0,,e não
+Dialogue: 0,0:00:29.20,0:00:29.44,Cap,,0,0,0,,só o
+Dialogue: 0,0:00:29.44,0:00:30.06,Cap,,0,0,0,,conteúdo,
+Dialogue: 0,0:00:30.06,0:00:30.66,Cap,,0,0,0,,seu rendimento
+Dialogue: 0,0:00:30.66,0:00:31.56,Cap,,0,0,0,,sobe muito.
+Dialogue: 0,0:00:31.56,0:00:31.78,Cap,,0,0,0,,Só pra
+Dialogue: 0,0:00:31.78,0:00:32.48,Cap,,0,0,0,,exemplificar,
+Dialogue: 0,0:00:32.48,0:00:32.76,Cap,,0,0,0,,eu não
+Dialogue: 0,0:00:32.76,0:00:32.98,Cap,,0,0,0,,era um
+Dialogue: 0,0:00:32.98,0:00:33.32,Cap,,0,0,0,,bom aluno
+Dialogue: 0,0:00:33.32,0:00:34.00,Cap,,0,0,0,,em Linguagens.
+Dialogue: 0,0:00:34.00,0:00:34.58,Cap,,0,0,0,,Nos simulados
+Dialogue: 0,0:00:34.58,0:00:34.82,Cap,,0,0,0,,do ano,
+Dialogue: 0,0:00:34.82,0:00:35.32,Cap,,0,0,0,,eu fazia
+Dialogue: 0,0:00:35.32,0:00:35.82,Cap,,0,0,0,,trinta,
+Dialogue: 0,0:00:35.82,0:00:36.28,Cap,,0,0,0,,trinta e
+Dialogue: 0,0:00:36.28,0:00:37.30,Cap,,0,0,0,,cinco acertos
+Dialogue: 0,0:00:37.30,0:00:37.52,Cap,,0,0,0,,no meu
+Dialogue: 0,0:00:37.52,0:00:38.29,Cap,,0,0,0,,melhor simulado.
+Dialogue: 0,0:00:38.29,0:00:38.67,Cap,,0,0,0,,No ano
+Dialogue: 0,0:00:38.67,0:00:38.81,Cap,,0,0,0,,que eu
+Dialogue: 0,0:00:38.81,0:00:39.31,Cap,,0,0,0,,estudei,
+Dialogue: 0,0:00:39.31,0:00:39.59,Cap,,0,0,0,,no ano
+Dialogue: 0,0:00:39.59,0:00:39.75,Cap,,0,0,0,,que eu
+Dialogue: 0,0:00:39.75,0:00:40.33,Cap,,0,0,0,,assisti às
+Dialogue: 0,0:00:40.33,0:00:40.65,Cap,,0,0,0,,aulas do
+Dialogue: 0,0:00:40.65,0:00:41.25,Cap,,0,0,0,,Felipe,
+Dialogue: 0,0:00:41.25,0:00:41.61,Cap,,0,0,0,,na reta
+Dialogue: 0,0:00:41.61,0:00:41.93,Cap,,0,0,0,,final,
+Dialogue: 0,0:00:41.93,0:00:42.25,Cap,,0,0,0,,eu fiz
+Dialogue: 0,0:00:42.25,0:00:43.39,Cap,,0,0,0,,quarenta acertos.
+Dialogue: 0,0:00:43.39,0:00:43.83,Cap,,0,0,0,,E

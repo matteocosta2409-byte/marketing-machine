@@ -1,0 +1,59 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Helvetica,67,&H00FFFFFF,&H00FFFFFF,&HC8000000,&HC8000000,0,1,0,0,100,100,0,0,1,6.7,6.7,2,60,60,540,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.04,0:00:00.54,Cap,,0,0,0,,Outra coisa:
+Dialogue: 0,0:00:00.54,0:00:01.16,Cap,,0,0,0,,fazer muita
+Dialogue: 0,0:00:01.16,0:00:01.52,Cap,,0,0,0,,questão do
+Dialogue: 0,0:00:01.52,0:00:02.00,Cap,,0,0,0,,primeiro dia
+Dialogue: 0,0:00:02.00,0:00:02.67,Cap,,0,0,0,,misturada.
+Dialogue: 0,0:00:02.67,0:00:03.19,Cap,,0,0,0,,Linguagens,
+Dialogue: 0,0:00:03.19,0:00:03.75,Cap,,0,0,0,,Geografia,
+Dialogue: 0,0:00:03.75,0:00:04.41,Cap,,0,0,0,,Sociologia,
+Dialogue: 0,0:00:04.41,0:00:04.99,Cap,,0,0,0,,História,
+Dialogue: 0,0:00:04.99,0:00:05.59,Cap,,0,0,0,,tudo junto.
+Dialogue: 0,0:00:05.59,0:00:06.03,Cap,,0,0,0,,Quando você
+Dialogue: 0,0:00:06.03,0:00:06.47,Cap,,0,0,0,,faz em
+Dialogue: 0,0:00:06.47,0:00:07.09,Cap,,0,0,0,,alto volume,
+Dialogue: 0,0:00:07.09,0:00:07.61,Cap,,0,0,0,,os padrões
+Dialogue: 0,0:00:07.61,0:00:08.09,Cap,,0,0,0,,de cobrança
+Dialogue: 0,0:00:08.09,0:00:08.57,Cap,,0,0,0,,vão ficar
+Dialogue: 0,0:00:08.57,0:00:09.07,Cap,,0,0,0,,muito mais
+Dialogue: 0,0:00:09.07,0:00:09.55,Cap,,0,0,0,,bem gravados
+Dialogue: 0,0:00:09.55,0:00:09.83,Cap,,0,0,0,,na sua
+Dialogue: 0,0:00:09.83,0:00:10.31,Cap,,0,0,0,,cabeça.
+Dialogue: 0,0:00:10.31,0:00:10.61,Cap,,0,0,0,,Cai uma
+Dialogue: 0,0:00:10.61,0:00:11.25,Cap,,0,0,0,,questão modelo
+Dialogue: 0,0:00:11.25,0:00:11.47,Cap,,0,0,0,,lá no
+Dialogue: 0,0:00:11.47,0:00:11.85,Cap,,0,0,0,,domingo e
+Dialogue: 0,0:00:11.85,0:00:12.13,Cap,,0,0,0,,você já
+Dialogue: 0,0:00:12.13,0:00:12.39,Cap,,0,0,0,,vai ter
+Dialogue: 0,0:00:12.39,0:00:12.69,Cap,,0,0,0,,feito uma
+Dialogue: 0,0:00:12.69,0:00:13.75,Cap,,0,0,0,,exatamente igual
+Dialogue: 0,0:00:13.75,0:00:14.31,Cap,,0,0,0,,nessa semana
+Dialogue: 0,0:00:14.31,0:00:14.65,Cap,,0,0,0,,de reta
+Dialogue: 0,0:00:14.65,0:00:15.11,Cap,,0,0,0,,final.
+Dialogue: 0,0:00:15.11,0:00:15.77,Cap,,0,0,0,,Você marca
+Dialogue: 0,0:00:15.77,0:00:16.17,Cap,,0,0,0,,muito mais
+Dialogue: 0,0:00:16.17,0:00:16.69,Cap,,0,0,0,,rápido.
+Dialogue: 0,0:00:16.69,0:00:17.05,Cap,,0,0,0,,Isso vale
+Dialogue: 0,0:00:17.05,0:00:17.37,Cap,,0,0,0,,até pra
+Dialogue: 0,0:00:17.37,0:00:17.63,Cap,,0,0,0,,quem já
+Dialogue: 0,0:00:17.63,0:00:18.11,Cap,,0,0,0,,fez muita
+Dialogue: 0,0:00:18.11,0:00:18.93,Cap,,0,0,0,,prova antiga.
+Dialogue: 0,0:00:18.93,0:00:19.39,Cap,,0,0,0,,Com modelo
+Dialogue: 0,0:00:19.39,0:00:19.83,Cap,,0,0,0,,fresco na
+Dialogue: 0,0:00:19.83,0:00:20.21,Cap,,0,0,0,,cabeça,
+Dialogue: 0,0:00:20.21,0:00:20.89,Cap,,0,0,0,,você acerta
+Dialogue: 0,0:00:20.89,0:00:21.33,Cap,,0,0,0,,muito mais
+Dialogue: 0,0:00:21.33,0:00:21.81,Cap,,0,0,0,,rápido e
+Dialogue: 0,0:00:21.81,0:00:22.31,Cap,,0,0,0,,ganha tempo
+Dialogue: 0,0:00:22.31,0:00:23.09,Cap,,0,0,0,,de prova.

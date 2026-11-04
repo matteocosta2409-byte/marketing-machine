@@ -1,0 +1,106 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Helvetica,67,&H00FFFFFF,&H00FFFFFF,&HC8000000,&HC8000000,0,1,0,0,100,100,0,0,1,6.7,6.7,2,60,60,300,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.04,0:00:00.34,Cap,,0,0,0,,Cara,
+Dialogue: 0,0:00:00.34,0:00:00.78,Cap,,0,0,0,,depois da
+Dialogue: 0,0:00:00.78,0:00:01.52,Cap,,0,0,0,,aprovação acho
+Dialogue: 0,0:00:01.52,0:00:01.88,Cap,,0,0,0,,que sua
+Dialogue: 0,0:00:01.88,0:00:02.90,Cap,,0,0,0,,vida 100%
+Dialogue: 0,0:00:02.90,0:00:03.18,Cap,,0,0,0,,muda.
+Dialogue: 0,0:00:03.18,0:00:03.80,Cap,,0,0,0,,Muda tudo,
+Dialogue: 0,0:00:03.80,0:00:04.02,Cap,,0,0,0,,né?
+Dialogue: 0,0:00:04.02,0:00:04.42,Cap,,0,0,0,,Cê muda
+Dialogue: 0,0:00:04.42,0:00:05.02,Cap,,0,0,0,,sua rotina,
+Dialogue: 0,0:00:05.02,0:00:05.34,Cap,,0,0,0,,porque cê
+Dialogue: 0,0:00:05.34,0:00:05.74,Cap,,0,0,0,,vai começar
+Dialogue: 0,0:00:05.74,0:00:06.26,Cap,,0,0,0,,a frequentar
+Dialogue: 0,0:00:06.26,0:00:06.54,Cap,,0,0,0,,ali o
+Dialogue: 0,0:00:06.54,0:00:07.22,Cap,,0,0,0,,curso superior,
+Dialogue: 0,0:00:07.22,0:00:07.44,Cap,,0,0,0,,cê vai
+Dialogue: 0,0:00:07.44,0:00:07.86,Cap,,0,0,0,,mudar todo
+Dialogue: 0,0:00:07.86,0:00:08.60,Cap,,0,0,0,,seu ambiente,
+Dialogue: 0,0:00:08.60,0:00:09.02,Cap,,0,0,0,,todas as
+Dialogue: 0,0:00:09.02,0:00:09.66,Cap,,0,0,0,,pessoas que
+Dialogue: 0,0:00:09.66,0:00:10.18,Cap,,0,0,0,,você tava
+Dialogue: 0,0:00:10.18,0:00:10.66,Cap,,0,0,0,,acostumado a
+Dialogue: 0,0:00:10.66,0:00:10.86,Cap,,0,0,0,,ver no
+Dialogue: 0,0:00:10.86,0:00:11.34,Cap,,0,0,0,,cursinho vão
+Dialogue: 0,0:00:11.34,0:00:11.68,Cap,,0,0,0,,mudar,
+Dialogue: 0,0:00:11.68,0:00:12.08,Cap,,0,0,0,,então cê
+Dialogue: 0,0:00:12.08,0:00:12.34,Cap,,0,0,0,,vê um
+Dialogue: 0,0:00:12.34,0:00:12.70,Cap,,0,0,0,,monte de
+Dialogue: 0,0:00:12.70,0:00:13.46,Cap,,0,0,0,,gente diferente,
+Dialogue: 0,0:00:13.46,0:00:14.26,Cap,,0,0,0,,cê conhece
+Dialogue: 0,0:00:14.26,0:00:15.26,Cap,,0,0,0,,muitas pessoas,
+Dialogue: 0,0:00:15.26,0:00:15.96,Cap,,0,0,0,,cê conhece
+Dialogue: 0,0:00:15.96,0:00:16.94,Cap,,0,0,0,,bastante gente
+Dialogue: 0,0:00:16.94,0:00:17.32,Cap,,0,0,0,,mesmo,
+Dialogue: 0,0:00:17.32,0:00:17.58,Cap,,0,0,0,,cê vai
+Dialogue: 0,0:00:17.58,0:00:18.34,Cap,,0,0,0,,conhecer seus
+Dialogue: 0,0:00:18.34,0:00:19.14,Cap,,0,0,0,,veteranos,
+Dialogue: 0,0:00:19.14,0:00:19.92,Cap,,0,0,0,,posteriormente alguns
+Dialogue: 0,0:00:19.92,0:00:20.38,Cap,,0,0,0,,calouros,
+Dialogue: 0,0:00:20.38,0:00:21.16,Cap,,0,0,0,,professores.
+Dialogue: 0,0:00:21.16,0:00:21.58,Cap,,0,0,0,,É realmente
+Dialogue: 0,0:00:21.58,0:00:22.20,Cap,,0,0,0,,um universo
+Dialogue: 0,0:00:22.20,0:00:22.50,Cap,,0,0,0,,novo que
+Dialogue: 0,0:00:22.50,0:00:22.84,Cap,,0,0,0,,cê passa
+Dialogue: 0,0:00:22.84,0:00:23.40,Cap,,0,0,0,,a conhecer,
+Dialogue: 0,0:00:23.40,0:00:24.20,Cap,,0,0,0,,então basicamente
+Dialogue: 0,0:00:24.20,0:00:24.72,Cap,,0,0,0,,sua vida
+Dialogue: 0,0:00:24.72,0:00:25.48,Cap,,0,0,0,,inteira muda.
+Dialogue: 0,0:00:25.48,0:00:25.66,Cap,,0,0,0,,Cê tem
+Dialogue: 0,0:00:25.66,0:00:26.36,Cap,,0,0,0,,que reorganizar
+Dialogue: 0,0:00:26.36,0:00:26.56,Cap,,0,0,0,,a sua
+Dialogue: 0,0:00:26.56,0:00:26.98,Cap,,0,0,0,,vida inteira
+Dialogue: 0,0:00:26.98,0:00:27.34,Cap,,0,0,0,,pra poder
+Dialogue: 0,0:00:27.34,0:00:27.64,Cap,,0,0,0,,entrar na
+Dialogue: 0,0:00:27.64,0:00:28.19,Cap,,0,0,0,,faculdade.
+Dialogue: 0,0:00:28.19,0:00:28.37,Cap,,0,0,0,,Cê vai
+Dialogue: 0,0:00:28.37,0:00:28.73,Cap,,0,0,0,,ter novos
+Dialogue: 0,0:00:28.73,0:00:29.31,Cap,,0,0,0,,horários ali,
+Dialogue: 0,0:00:29.31,0:00:29.55,Cap,,0,0,0,,cê vai
+Dialogue: 0,0:00:29.55,0:00:30.09,Cap,,0,0,0,,poder ter
+Dialogue: 0,0:00:30.09,0:00:30.47,Cap,,0,0,0,,mais tempo
+Dialogue: 0,0:00:30.47,0:00:30.91,Cap,,0,0,0,,de lazer,
+Dialogue: 0,0:00:30.91,0:00:31.19,Cap,,0,0,0,,porque no
+Dialogue: 0,0:00:31.19,0:00:31.49,Cap,,0,0,0,,cursinho a
+Dialogue: 0,0:00:31.49,0:00:31.87,Cap,,0,0,0,,gente não
+Dialogue: 0,0:00:31.87,0:00:32.13,Cap,,0,0,0,,tem.
+Dialogue: 0,0:00:32.13,0:00:32.67,Cap,,0,0,0,,Na faculdade,
+Dialogue: 0,0:00:32.67,0:00:32.97,Cap,,0,0,0,,cê pode
+Dialogue: 0,0:00:32.97,0:00:33.27,Cap,,0,0,0,,voltar aí
+Dialogue: 0,0:00:33.27,0:00:33.71,Cap,,0,0,0,,na fa--
+Dialogue: 0,0:00:33.71,0:00:34.37,Cap,,0,0,0,,na academia,
+Dialogue: 0,0:00:34.37,0:00:34.77,Cap,,0,0,0,,normalmente o
+Dialogue: 0,0:00:34.77,0:00:35.31,Cap,,0,0,0,,pessoal para
+Dialogue: 0,0:00:35.31,0:00:35.49,Cap,,0,0,0,,de na
+Dialogue: 0,0:00:35.49,0:00:36.10,Cap,,0,0,0,,academia quando
+Dialogue: 0,0:00:36.10,0:00:36.30,Cap,,0,0,0,,tá no
+Dialogue: 0,0:00:36.30,0:00:36.68,Cap,,0,0,0,,cursinho.
+Dialogue: 0,0:00:36.68,0:00:37.30,Cap,,0,0,0,,Na faculdade,
+Dialogue: 0,0:00:37.30,0:00:37.60,Cap,,0,0,0,,existe a
+Dialogue: 0,0:00:37.60,0:00:38.42,Cap,,0,0,0,,possibilidade você
+Dialogue: 0,0:00:38.42,0:00:39.06,Cap,,0,0,0,,fazer academia,
+Dialogue: 0,0:00:39.06,0:00:39.54,Cap,,0,0,0,,dá tempo,
+Dialogue: 0,0:00:39.54,0:00:39.76,Cap,,0,0,0,,tá?
+Dialogue: 0,0:00:39.76,0:00:39.98,Cap,,0,0,0,,Você que
+Dialogue: 0,0:00:39.98,0:00:40.16,Cap,,0,0,0,,tá no
+Dialogue: 0,0:00:40.16,0:00:40.50,Cap,,0,0,0,,cursinho,
+Dialogue: 0,0:00:40.50,0:00:40.68,Cap,,0,0,0,,quando cê
+Dialogue: 0,0:00:40.68,0:00:40.96,Cap,,0,0,0,,entrar na
+Dialogue: 0,0:00:40.96,0:00:41.50,Cap,,0,0,0,,faculdade,
+Dialogue: 0,0:00:41.50,0:00:41.86,Cap,,0,0,0,,vai dar
+Dialogue: 0,0:00:41.86,0:00:42.08,Cap,,0,0,0,,tempo de
+Dialogue: 0,0:00:42.08,0:00:42.50,Cap,,0,0,0,,fazer tudo
+Dialogue: 0,0:00:42.50,0:00:42.68,Cap,,0,0,0,,que cê
+Dialogue: 0,0:00:42.68,0:00:43.39,Cap,,0,0,0,,quiser.

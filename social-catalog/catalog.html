@@ -1,0 +1,502 @@
+<title>Catálogo de Reels</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700;12..96,800&family=IBM+Plex+Sans:wght@400;500;600&display=swap">
+<style>
+  /* Layout: painel de inventário — header fixo com resumo, chips de filtro, seções por semana, bloco de brutos */
+  :root{
+    --bg:#f6f4f0; --surface:#ffffff; --surface-2:#f0ece5; --line:#e2dcd2;
+    --fg:#20201e; --muted:#6c665c; --faint:#938c81;
+    --accent:#d64533; --accent-weak:#f7e4df;
+    --ok:#2f8f5b; --ok-weak:#dcefe3; --warn:#b4791a; --warn-weak:#f4e8cf;
+    --raw:#5b6b86; --raw-weak:#e4e8ef;
+    --shadow:0 1px 2px rgba(30,28,24,.05),0 6px 20px rgba(30,28,24,.06);
+    --font-display:"Bricolage Grotesque",ui-sans-serif,system-ui,sans-serif;
+    --font-body:"IBM Plex Sans",ui-sans-serif,system-ui,sans-serif;
+  }
+  @media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+    --bg:#161514; --surface:#201e1c; --surface-2:#2a2825; --line:#363330;
+    --fg:#f0ece6; --muted:#a8a097; --faint:#7c756b;
+    --accent:#f0674f; --accent-weak:#3a221d;
+    --ok:#56c184; --ok-weak:#1e3327; --warn:#e0a84a; --warn-weak:#352a16;
+    --raw:#8ea3c4; --raw-weak:#232a36;
+    --shadow:0 1px 2px rgba(0,0,0,.3),0 8px 24px rgba(0,0,0,.35);
+    color-scheme:dark;
+  }}
+  :root[data-theme="dark"]{
+    --bg:#161514; --surface:#201e1c; --surface-2:#2a2825; --line:#363330;
+    --fg:#f0ece6; --muted:#a8a097; --faint:#7c756b;
+    --accent:#f0674f; --accent-weak:#3a221d;
+    --ok:#56c184; --ok-weak:#1e3327; --warn:#e0a84a; --warn-weak:#352a16;
+    --raw:#8ea3c4; --raw-weak:#232a36;
+    --shadow:0 1px 2px rgba(0,0,0,.3),0 8px 24px rgba(0,0,0,.35);
+    color-scheme:dark;
+  }
+  *{box-sizing:border-box}
+  body{background:var(--bg);color:var(--fg);font-family:var(--font-body);line-height:1.5;
+    font-size:15px;-webkit-font-smoothing:antialiased}
+  .wrap{max-width:960px;margin:0 auto;
+    padding-left:max(16px,env(safe-area-inset-left,0px));
+    padding-right:max(16px,env(safe-area-inset-right,0px));}
+  h1,h2,h3{font-family:var(--font-display);margin:0;text-wrap:balance}
+  .tnum{font-variant-numeric:tabular-nums}
+
+  header.top{position:sticky;top:env(safe-area-inset-top,0px);z-index:9;
+    background:color-mix(in srgb,var(--bg) 88%,transparent);backdrop-filter:blur(10px);
+    border-bottom:1px solid var(--line)}
+  body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);
+    background:var(--bg);z-index:10}
+  .top .wrap{padding-block:14px;display:flex;align-items:baseline;justify-content:space-between;gap:12px;flex-wrap:wrap}
+  .brand{display:flex;align-items:baseline;gap:10px;min-width:0}
+  .brand h1{font-size:21px;font-weight:800;letter-spacing:-.02em}
+  .brand .dot{width:9px;height:9px;border-radius:50%;background:var(--accent);flex:none;align-self:center}
+  .gen{color:var(--faint);font-size:12px}
+  .theme-btn{font-family:var(--font-body);background:var(--surface-2);color:var(--muted);
+    border:1px solid var(--line);border-radius:8px;padding:6px 10px;font-size:12.5px;cursor:pointer}
+
+  main{padding-block:20px 56px}
+
+  .tiles{display:grid;grid-template-columns:repeat(4,1fr);gap:10px;margin-bottom:18px}
+  .tile{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:14px 15px;box-shadow:var(--shadow)}
+  .tile .n{font-family:var(--font-display);font-weight:800;font-size:30px;line-height:1;letter-spacing:-.03em}
+  .tile .l{color:var(--muted);font-size:12px;margin-top:7px;text-transform:uppercase;letter-spacing:.05em}
+  .tile.ok .n{color:var(--ok)} .tile.warn .n{color:var(--warn)} .tile.raw .n{color:var(--raw)}
+
+  .note{display:flex;gap:11px;align-items:flex-start;background:var(--accent-weak);
+    border:1px solid color-mix(in srgb,var(--accent) 30%,var(--line));
+    border-radius:12px;padding:12px 14px;margin-bottom:20px;font-size:13.5px}
+  .note b{font-weight:600}
+  .note .ic{flex:none;width:18px;height:18px;border-radius:50%;background:var(--accent);color:#fff;
+    font-size:12px;font-weight:700;display:grid;place-items:center;margin-top:1px;font-family:var(--font-display)}
+  .note code{background:color-mix(in srgb,var(--fg) 8%,transparent);padding:1px 5px;border-radius:5px;font-size:12.5px}
+
+  .chips{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:16px}
+  .chip{font-family:var(--font-body);background:var(--surface);border:1px solid var(--line);
+    color:var(--muted);border-radius:999px;padding:7px 13px;font-size:13px;cursor:pointer;white-space:nowrap}
+  .chip[aria-pressed="true"]{background:var(--fg);color:var(--bg);border-color:var(--fg);font-weight:600}
+  .chip .c{font-variant-numeric:tabular-nums;opacity:.7;margin-left:5px}
+
+  .week{margin-bottom:22px}
+  .week > h2{font-size:14px;font-weight:700;color:var(--muted);text-transform:uppercase;letter-spacing:.06em;
+    padding:0 2px 9px;display:flex;justify-content:space-between;align-items:baseline;gap:10px}
+  .week > h2 .meta{font-weight:500;color:var(--faint);font-size:12px;letter-spacing:0;text-transform:none}
+  .list{display:flex;flex-direction:column;gap:8px}
+
+  .row{display:grid;grid-template-columns:1fr auto;gap:12px;align-items:center;
+    background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:12px 14px;box-shadow:var(--shadow)}
+  .row .info{min-width:0}
+  .row .name{font-weight:600;font-size:14.5px;word-break:break-word;display:flex;gap:8px;align-items:baseline;flex-wrap:wrap}
+  .row .sub{color:var(--faint);font-size:12px;margin-top:3px}
+  .tag{font-size:10.5px;font-weight:600;text-transform:uppercase;letter-spacing:.05em;
+    padding:2px 7px;border-radius:999px;white-space:nowrap}
+  .tag.src{background:var(--raw-weak);color:var(--raw)}
+  .postbtn{font-family:var(--font-body);cursor:pointer;border-radius:999px;padding:7px 13px;font-size:12.5px;font-weight:600;
+    border:1px solid var(--warn);background:var(--warn-weak);color:var(--warn);white-space:nowrap;min-width:116px;text-align:center}
+  .postbtn[data-on="1"]{border-color:var(--ok);background:var(--ok-weak);color:var(--ok)}
+
+  .raw-row .name{font-weight:600}
+  .raw-row.done{opacity:.62}
+  .tag.ed{background:var(--ok-weak);color:var(--ok)}
+  .tag.todo{background:var(--warn-weak);color:var(--warn)}
+
+  .sec-head{font-size:18px;font-weight:800;letter-spacing:-.01em;margin:30px 0 4px;display:flex;align-items:center;gap:9px}
+  .sec-head .pill{font-family:var(--font-body);font-size:11.5px;font-weight:600;color:var(--muted);
+    background:var(--surface-2);border:1px solid var(--line);padding:2px 9px;border-radius:999px}
+  .sec-sub{color:var(--muted);font-size:13px;margin:0 2px 14px}
+  footer{color:var(--faint);font-size:12px;text-align:center;margin-top:34px;padding-top:16px;border-top:1px solid var(--line)}
+
+  @media (max-width:560px){
+    .tiles{grid-template-columns:repeat(2,1fr)}
+    .row{grid-template-columns:1fr;align-items:stretch}
+    .postbtn{justify-self:start}
+  }
+</style>
+
+<header class="top">
+  <div class="wrap">
+    <div class="brand"><span class="dot"></span><h1>Catálogo de Reels</h1></div>
+    <div style="display:flex;align-items:center;gap:12px">
+      <span class="gen" id="gen"></span>
+      <button class="theme-btn" id="theme" type="button">Tema</button>
+    </div>
+  </div>
+</header>
+
+<main class="wrap">
+  <section class="tiles" id="tiles"></section>
+
+  <div class="note">
+    <span class="ic">i</span>
+    <div><b>Sincronização com o Instagram ainda não ativa.</b> Quando você configurar o token (passo a passo em <code>social-catalog/README_TOKEN.md</code>), eu puxo seus Reels postados pela Graph API e preencho os "postados" sozinho. Por enquanto, marque manualmente clicando no botão de cada vídeo — fica salvo neste aparelho.</div>
+  </div>
+
+  <div class="chips" id="chips"></div>
+  <div id="weeks"></div>
+
+  <h2 class="sec-head">Brutos na Raw Reels <span class="pill" id="rawpill"></span></h2>
+  <p class="sec-sub">Gravações originais. As marcadas como <b>editado</b> já viraram Reel; as <b>a editar</b> ainda não.</p>
+  <div class="list" id="raws"></div>
+
+  <footer id="foot"></footer>
+</main>
+
+<script>
+const DATA = {
+  "raw": [
+    {
+      "size_mb": 415.2,
+      "mtime": "2026-08-01",
+      "name": "IMG_8847.MOV"
+    },
+    {
+      "size_mb": 39.6,
+      "mtime": "2026-09-06",
+      "name": "IMG_9282.MOV"
+    },
+    {
+      "size_mb": 392.5,
+      "mtime": "2026-09-06",
+      "name": "IMG_9283.MOV"
+    },
+    {
+      "size_mb": 59.2,
+      "mtime": "2026-09-06",
+      "name": "IMG_9284.MOV"
+    },
+    {
+      "size_mb": 36.5,
+      "mtime": "2026-10-02",
+      "name": "IMG_9509.MOV"
+    },
+    {
+      "size_mb": 62.5,
+      "mtime": "2026-10-02",
+      "name": "IMG_9510.MOV"
+    },
+    {
+      "size_mb": 116.3,
+      "mtime": "2026-10-02",
+      "name": "IMG_9511.MOV"
+    },
+    {
+      "size_mb": 52.4,
+      "mtime": "2026-10-02",
+      "name": "IMG_9512.MOV"
+    },
+    {
+      "size_mb": 207.2,
+      "mtime": "2026-10-02",
+      "name": "IMG_9519.MOV"
+    },
+    {
+      "size_mb": 517.8,
+      "mtime": "2026-10-04",
+      "name": "IMG_9558.MOV"
+    },
+    {
+      "size_mb": 407.1,
+      "mtime": "2026-10-04",
+      "name": "IMG_9559.MOV"
+    },
+    {
+      "size_mb": 362.3,
+      "mtime": "2026-10-04",
+      "name": "IMG_9560.MOV"
+    },
+    {
+      "size_mb": 458.9,
+      "mtime": "2026-10-04",
+      "name": "IMG_9561.MOV"
+    },
+    {
+      "size_mb": 74.8,
+      "mtime": "2026-10-04",
+      "name": "IMG_9563.MOV"
+    },
+    {
+      "size_mb": 37.0,
+      "mtime": "2026-10-04",
+      "name": "IMG_9565.MOV"
+    },
+    {
+      "size_mb": 99.2,
+      "mtime": "2026-08-01",
+      "name": "arco p2.MOV"
+    },
+    {
+      "size_mb": 2850.4,
+      "mtime": "2026-08-01",
+      "name": "est med para empreenderdor.MOV"
+    },
+    {
+      "size_mb": 436.3,
+      "mtime": "2026-08-01",
+      "name": "ipossivel-trivial.MOV"
+    },
+    {
+      "size_mb": 669.7,
+      "mtime": "2026-08-01",
+      "name": "so comca.MOV"
+    }
+  ],
+  "weeks": {
+    "Semana 1 - 27-07-2026": [
+      {
+        "size_mb": 4.5,
+        "mtime": "2026-07-31",
+        "name": "10 desafios de estudos (9x16).mp4"
+      },
+      {
+        "size_mb": 9.5,
+        "mtime": "2026-07-31",
+        "name": "Pt 2. Coisas radicais (editado).mp4"
+      },
+      {
+        "size_mb": 39.5,
+        "mtime": "2026-07-31",
+        "name": "coisas radicais p1.mp4"
+      },
+      {
+        "size_mb": 4.5,
+        "mtime": "2026-08-01",
+        "name": "estudar nao te deixa rico (clapback).mp4"
+      },
+      {
+        "size_mb": 38.1,
+        "mtime": "2026-07-29",
+        "name": "final (1).mp4"
+      },
+      {
+        "size_mb": 29.6,
+        "mtime": "2026-07-29",
+        "name": "final (2).mp4"
+      },
+      {
+        "size_mb": 21.9,
+        "mtime": "2026-08-01",
+        "name": "o que vale a pena comprar nos estudos.mp4"
+      },
+      {
+        "size_mb": 22.7,
+        "mtime": "2026-08-01",
+        "name": "o senhor das moscas (livros classicos p1).mp4"
+      },
+      {
+        "size_mb": 36.0,
+        "mtime": "2026-08-01",
+        "name": "so comeca (1000 usuarios).mp4"
+      },
+      {
+        "size_mb": 127.2,
+        "mtime": "2026-08-01",
+        "name": "so começa.mp4"
+      },
+      {
+        "size_mb": 31.0,
+        "mtime": "2026-07-29",
+        "name": "top 3 leituras do ano.mp4"
+      },
+      {
+        "size_mb": 25.3,
+        "mtime": "2026-08-01",
+        "name": "tudo e impossivel ate ser trivial.mp4"
+      }
+    ],
+    "Semana 2 - 10-08-2026": [
+      {
+        "size_mb": 34.4,
+        "mtime": "2026-08-14",
+        "name": "6h vs 8h de sono (por que nos dormimos).mp4"
+      },
+      {
+        "size_mb": 16.3,
+        "mtime": "2026-08-14",
+        "name": "coisas radicais p3.mp4"
+      },
+      {
+        "size_mb": 62.3,
+        "mtime": "2026-08-14",
+        "name": "final.mp4"
+      },
+      {
+        "size_mb": 34.4,
+        "mtime": "2026-08-15",
+        "name": "por que eu nao tinha caderno (usava o anki).mp4"
+      },
+      {
+        "size_mb": 33.8,
+        "mtime": "2026-08-14",
+        "name": "reflexao tempo (a montanha magica).mp4"
+      },
+      {
+        "size_mb": 16.2,
+        "mtime": "2026-08-14",
+        "name": "unica dica de leitura.mp4"
+      }
+    ],
+    "Semana 3 - 31-08-2026": [
+      {
+        "size_mb": 52.4,
+        "mtime": "2026-09-06",
+        "name": "meu metodo de estudo (ciclo completo).mp4"
+      }
+    ],
+    "Semana 4 - 07-09-2026": [
+      {
+        "size_mb": 34.4,
+        "mtime": "2026-09-11",
+        "name": "3 dicas de redacao (380 a 940).mp4"
+      },
+      {
+        "size_mb": 13.4,
+        "mtime": "2026-09-11",
+        "name": "maiores fracassos.mp4"
+      }
+    ],
+    "Semana 5 - 28-09-2026": [
+      {
+        "size_mb": 235.8,
+        "mtime": "2026-10-04",
+        "name": "como parar de esquecer o que estuda.mp4"
+      },
+      {
+        "size_mb": 123.9,
+        "mtime": "2026-10-02",
+        "name": "faca o basico bem feito.mp4"
+      },
+      {
+        "size_mb": 58.0,
+        "mtime": "2026-10-04",
+        "name": "por que pago 1500 por mes em IA (claude).mp4"
+      },
+      {
+        "size_mb": 115.9,
+        "mtime": "2026-10-02",
+        "name": "quanto custa lancar um app na apple.mp4"
+      },
+      {
+        "size_mb": 174.0,
+        "mtime": "2026-10-04",
+        "name": "vao te zoar do que voce le (v1 longa).mp4"
+      },
+      {
+        "size_mb": 201.5,
+        "mtime": "2026-10-04",
+        "name": "vao te zoar do que voce le (v2 curta).mp4"
+      }
+    ],
+    "Semana 6 - 12-10-2026": [
+      {
+        "size_mb": 685.0,
+        "mtime": "2026-10-17",
+        "name": "dedicar a vida a medicina (debate).mp4"
+      },
+      {
+        "size_mb": 267.8,
+        "mtime": "2026-10-17",
+        "name": "leia autoajuda e classico (os dois).mp4"
+      }
+    ]
+  },
+  "generated": "2026-10-17T15:40:48"
+};
+// brutos que já viraram editados (mapa do que foi editado nas sessões)
+const EDITED_FROM = {
+  "IMG_9282.MOV":"meu metodo de estudo (ciclo completo)","IMG_9283.MOV":"meu metodo de estudo (ciclo completo)","IMG_9284.MOV":"meu metodo de estudo (ciclo completo)",
+  "IMG_9509.MOV":"quanto custa lancar um app na apple","IMG_9510.MOV":"quanto custa lancar um app na apple","IMG_9511.MOV":"quanto custa lancar um app na apple","IMG_9512.MOV":"quanto custa lancar um app na apple",
+  "IMG_9519.MOV":"faca o basico bem feito",
+  "IMG_9558.MOV":"como parar de esquecer o que estuda",
+  "IMG_9559.MOV":"vao te zoar do que voce le (v1 longa)","IMG_9560.MOV":"vao te zoar do que voce le (v2 curta)",
+  "IMG_9561.MOV":"leia autoajuda e classico (os dois)",
+  "IMG_9563.MOV":"por que pago 1500 por mes em IA (claude)","IMG_9565.MOV":"por que pago 1500 por mes em IA (claude)",
+  "so comca.MOV":"so começa","ipossivel-trivial.MOV":"tudo e impossivel ate ser trivial"
+};
+const LS="catalogo_reels_postados";
+let posted={}; try{posted=JSON.parse(localStorage.getItem(LS)||"{}")}catch(e){posted={}}
+function save(){try{localStorage.setItem(LS,JSON.stringify(posted))}catch(e){}}
+
+const edited=[];
+for(const [wk,vids] of Object.entries(DATA.weeks)) for(const v of vids) edited.push({...v,week:wk});
+const cleanName=n=>n.replace(/\.(mp4|mov)$/i,"");
+const fmtDate=d=>{const[y,m,da]=d.split("-");return `${da}/${m}`};
+const fmtSize=mb=>mb>=1000?(mb/1024).toFixed(1)+" GB":Math.round(mb)+" MB";
+
+let filter="todos";
+function counts(){
+  const total=edited.length;
+  const post=edited.filter(v=>posted[v.name]).length;
+  return {total,post,nao:total-post};
+}
+function renderTiles(){
+  const c=counts();
+  const rawTodo=DATA.raw.filter(r=>!EDITED_FROM[r.name]).length;
+  document.getElementById("tiles").innerHTML=[
+    ["",c.total,"Editados"],
+    ["ok",c.post,"Postados"],
+    ["warn",c.nao,"Não postados"],
+    ["raw",rawTodo,"Brutos a editar"]
+  ].map(([cl,n,l])=>`<div class="tile ${cl}"><div class="n tnum">${n}</div><div class="l">${l}</div></div>`).join("");
+}
+function renderChips(){
+  const c=counts();
+  const defs=[["todos","Todos",c.total],["nao","A postar",c.nao],["post","Postados",c.post]];
+  document.getElementById("chips").innerHTML=defs.map(([k,lab,n])=>
+    `<button class="chip" type="button" data-f="${k}" aria-pressed="${filter===k}">${lab}<span class="c tnum">${n}</span></button>`).join("");
+}
+function visible(v){ if(filter==="post")return !!posted[v.name]; if(filter==="nao")return !posted[v.name]; return true; }
+function renderWeeks(){
+  const host=document.getElementById("weeks"); host.innerHTML="";
+  const wkNames=Object.keys(DATA.weeks).sort((a,b)=>b.localeCompare(a)); // mais recente em cima
+  for(const wk of wkNames){
+    const vids=edited.filter(v=>v.week===wk && visible(v));
+    if(!vids.length) continue;
+    const label=wk.replace(/^Semana (\d+) - (\d{2})-(\d{2})-(\d{4})$/,"Semana $1 · início $2/$3");
+    const postedN=edited.filter(v=>v.week===wk && posted[v.name]).length;
+    const totalN=DATA.weeks[wk].length;
+    const sec=document.createElement("section"); sec.className="week";
+    sec.innerHTML=`<h2>${label}<span class="meta tnum">${postedN}/${totalN} postados</span></h2>`;
+    const list=document.createElement("div"); list.className="list";
+    for(const v of vids){
+      const on=posted[v.name]?1:0;
+      const row=document.createElement("div"); row.className="row";
+      row.innerHTML=`<div class="info"><div class="name">${cleanName(v.name)}</div>
+        <div class="sub tnum">${fmtDate(v.mtime)} · ${fmtSize(v.size_mb)}</div></div>
+        <button class="postbtn" type="button" data-on="${on}" data-name="${encodeURIComponent(v.name)}">${on?"✓ Postado":"Marcar postado"}</button>`;
+      list.appendChild(row);
+    }
+    sec.appendChild(list); host.appendChild(sec);
+  }
+}
+function renderRaws(){
+  const host=document.getElementById("raws"); host.innerHTML="";
+  const rows=[...DATA.raw].sort((a,b)=>b.mtime.localeCompare(a.mtime));
+  for(const r of rows){
+    const ed=EDITED_FROM[r.name];
+    const row=document.createElement("div"); row.className="row raw-row"+(ed?" done":"");
+    row.innerHTML=`<div class="info"><div class="name">${r.name}
+      <span class="tag ${ed?"ed":"todo"}">${ed?"editado":"a editar"}</span></div>
+      <div class="sub tnum">${fmtDate(r.mtime)} · ${fmtSize(r.size_mb)}${ed?` · → ${ed}`:""}</div></div>`;
+    host.appendChild(row);
+  }
+  document.getElementById("rawpill").textContent=DATA.raw.length+" arquivos";
+}
+function renderAll(){renderTiles();renderChips();renderWeeks();renderRaws();}
+
+document.addEventListener("click",e=>{
+  const pb=e.target.closest(".postbtn");
+  if(pb){const n=decodeURIComponent(pb.dataset.name); posted[n]=!posted[n]; if(!posted[n])delete posted[n]; save(); renderAll(); return;}
+  const ch=e.target.closest(".chip");
+  if(ch){filter=ch.dataset.f; renderAll(); return;}
+  if(e.target.id==="theme"){
+    const cur=document.documentElement.getAttribute("data-theme");
+    const want=cur==="dark"?"light":cur==="light"?"dark":(matchMedia("(prefers-color-scheme:dark)").matches?"light":"dark");
+    document.documentElement.setAttribute("data-theme",want);
+  }
+});
+
+const g=new Date(DATA.generated);
+document.getElementById("gen").textContent="Drive atualizado "+g.toLocaleDateString("pt-BR",{day:"2-digit",month:"2-digit",hour:"2-digit",minute:"2-digit"});
+document.getElementById("foot").textContent=`${edited.length} editados · ${DATA.raw.length} brutos · fonte: Google Drive (Raw Reels + Edited Reels). "Postado" vira automático quando o Instagram estiver conectado.`;
+renderAll();
+</script>

@@ -1,0 +1,84 @@
+{
+  "version": 1,
+  "sources": {
+    "maker": "/Users/mac-matteo/marketing machine/youtube-maker/maker.mov"
+  },
+  "ranges": [
+    {
+      "source": "maker",
+      "start": 0.149,
+      "end": 1.075
+    },
+    {
+      "source": "maker",
+      "start": 1.444,
+      "end": 4.934
+    },
+    {
+      "source": "maker",
+      "start": 5.284,
+      "end": 8.68
+    },
+    {
+      "source": "maker",
+      "start": 10.48,
+      "end": 11.095
+    },
+    {
+      "source": "maker",
+      "start": 11.404,
+      "end": 17.739
+    }
+  ],
+  "grade": "none",
+  "overlays": [
+    {
+      "file": "animations/cards/01_medicina.mov",
+      "start_in_output": 1.0,
+      "duration": 0.89
+    },
+    {
+      "file": "animations/cards/02_estudos.mov",
+      "start_in_output": 1.92,
+      "duration": 0.97
+    },
+    {
+      "file": "animations/cards/03_vibecoding.mov",
+      "start_in_output": 2.92,
+      "duration": 1.2
+    },
+    {
+      "file": "animations/cards/04_ia.mov",
+      "start_in_output": 4.18,
+      "duration": 0.46
+    },
+    {
+      "file": "animations/cards/05_produtivo.mov",
+      "start_in_output": 4.67,
+      "duration": 0.95
+    },
+    {
+      "file": "animations/cards/06_livros.mov",
+      "start_in_output": 5.65,
+      "duration": 1.2
+    },
+    {
+      "file": "animations/cards/07_musculacao.mov",
+      "start_in_output": 6.95,
+      "duration": 0.89
+    },
+    {
+      "file": "animations/cards/09_empreender.mov",
+      "start_in_output": 7.87,
+      "duration": 0.6
+    },
+    {
+      "file": "animations/cards/10_piano.mov",
+      "start_in_output": 8.5,
+      "duration": 1.9
+    }
+  ],
+  "subtitle_case": "natural",
+  "subtitle_style": "FontName=Helvetica,FontSize=15,Bold=1,PrimaryColour=&H00FFFFFF,OutlineColour=&H00000000,BackColour=&H80000000,BorderStyle=1,Outline=0,Shadow=1,Alignment=2,MarginV=28",
+  "total_duration_s": 14.76
+}

@@ -1,0 +1,17 @@
+{
+  "language_code": "por",
+  "language_probability": 1.0,
+  "text": "[barulho de objeto met\u00e1lico]",
+  "words": [
+    {
+      "text": "[barulho de objeto met\u00e1lico]",
+      "start": 0.58,
+      "end": 48.04,
+      "type": "audio_event",
+      "speaker_id": "speaker_0",
+      "logprob": -0.780097043415726
+    }
+  ],
+  "transcription_id": "fj0eSUSvnGlT8DUSd6Lq",
+  "audio_duration_secs": 49.3426875
+}

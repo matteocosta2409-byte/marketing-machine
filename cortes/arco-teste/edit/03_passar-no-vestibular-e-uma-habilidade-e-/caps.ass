@@ -1,0 +1,128 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Montserrat ExtraBold,82,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,0,0,0,0,100,100,0,0,1,6,3,2,60,60,560,1
+Style: Title,Montserrat ExtraBold,64,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,0,0,0,0,100,100,0,0,1,0,4,8,80,80,170,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.04,0:00:00.22,Cap,,0,0,0,,{\fscx112\fscy112\t(0,90,\fscx100\fscy100)}{\c&H6BE82B&}PEGAR{\c&HFFFFFF&} UMA COISA
+Dialogue: 0,0:00:00.22,0:00:00.38,Cap,,0,0,0,,PEGAR {\c&H6BE82B&}UMA{\c&HFFFFFF&} COISA
+Dialogue: 0,0:00:00.38,0:00:00.60,Cap,,0,0,0,,PEGAR UMA {\c&H6BE82B&}COISA{\c&HFFFFFF&}
+Dialogue: 0,0:00:00.60,0:00:01.14,Cap,,0,0,0,,{\fscx112\fscy112\t(0,90,\fscx100\fscy100)}{\c&H6BE82B&}DIFÍCIL{\c&HFFFFFF&}
+Dialogue: 0,0:00:01.14,0:00:01.34,Cap,,0,0,0,,{\fscx112\fscy112\t(0,90,\fscx100\fscy100)}{\c&H6BE82B&}ACHAR{\c&HFFFFFF&} O MÉTODO
+Dialogue: 0,0:00:01.34,0:00:01.46,Cap,,0,0,0,,ACHAR {\c&H6BE82B&}O{\c&HFFFFFF&} MÉTODO
+Dialogue: 0,0:00:01.46,0:00:01.75,Cap,,0,0,0,,ACHAR O {\c&H6BE82B&}MÉTODO{\c&HFFFFFF&}
+Dialogue: 0,0:00:01.75,0:00:01.86,Cap,,0,0,0,,{\fscx112\fscy112\t(0,90,\fscx100\fscy100)}{\c&H6BE82B&}E{\c&HFFFFFF&} FAZER
+Dialogue: 0,0:00:01.86,0:00:02.10,Cap,,0,0,0,,E {\c&H6BE82B&}FAZER{\c&HFFFFFF&}
+Dialogue: 0,0:00:02.10,0:00:02.59,Cap,,0,0,0,,{\fscx112\fscy112\t(0,90,\fscx100\fscy100)}{\c&H6BE82B&}FUNCIONAR{\c&HFFFFFF&}
+Dialogue: 0,0:00:02.59,0:00:02.75,Cap,,0,0,0,,{\fscx112\fscy112\t(0,90,\fscx100\fscy100)}{\c&H6BE82B&}ISSO{\c&HFFFFFF&} VALE NÃO
+Dialogue: 0,0:00:02.75,0:00:02.95,Cap,,0,0,0,,ISSO {\c&H6BE82B&}VALE{\c&HFFFFFF&} NÃO
+Dialogue: 0,0:00:02.95,0:00:03.19,Cap,,0,0,0,,ISSO VALE {\c&H6BE82B&}NÃO{\c&HFFFFFF&}
+Dialogue: 0,0:00:03.19,0:00:03.35,Cap,,0,0,0,,{\fscx112\fscy112\t(0,90,\fscx100\fscy100)}{\c&H6BE82B&}SÓ{\c&HFFFFFF&} PRA PASSAR
+Dialogue: 0,0:00:03.35,0:00:03.47,Cap,,0,0,0,,SÓ {\c&H6BE82B&}PRA{\c&HFFFFFF&} PASSAR
+Dialogue: 0,0:00:03.47,0:00:03.69,Cap,,0,0,0,,SÓ PRA {\c&H6BE82B&}PASSAR{\c&HFFFFFF&}
+Dialogue: 0,0:00:03.69,0:00:03.77,Cap,,0,0,0,,{\fscx112\fscy112\t(0,90,\fscx100\fscy100)}{\c&H6BE82B&}EM{\c&HFFFFFF&} MEDICINA
+Dialogue: 0,0:00:03.77,0:00:04.27,Cap,,0,0,0,,EM {\c&H6BE82B&}MEDICINA{\c&HFFFFFF&}
+Dialogue: 0,0:00:04.27,0:00:04.49,Cap,,0,0,0,,{\fscx112\fscy112\t(0,90,\fscx100\fscy100)}{\c&H6BE82B&}MAS{\c&HFFFFFF&} VALE PRA
+Dialogue: 0,0:00:04.49,0:00:04.69,Cap,,0,0,0,,MAS {\c&H6BE82B&}VALE{\c&HFFFFFF&} PRA
+Dialogue: 0,0:00:04.69,0:00:04.83,Cap,,0,0,0,,MAS VALE {\c&H6BE82B&}PRA{\c&HFFFFFF&}
+Dialogue: 0,0:00:04.83,0:00:05.11,Cap,,0,0,0,,{\fscx112\fscy112\t(0,90,\fscx100\fscy100)}{\c&H6BE82B&}QUALQUER{\c&HFFFFFF&} OUTRA
+Dialogue: 0,0:00:05.11,0:00:05.33,Cap,,0,0,0,,QUALQUER {\c&H6BE82B&}OUTRA{\c&HFFFFFF&}
+Dialogue: 0,0:00:05.33,0:00:05.51,Cap,,0,0,0,,{\fscx112\fscy112\t(0,90,\fscx100\fscy100)}{\c&H6BE82B&}COISA{\c&HFFFFFF&} QUE CÊ
+Dialogue: 0,0:00:05.51,0:00:05.59,Cap,,0,0,0,,COISA {\c&H6BE82B&}QUE{\c&HFFFFFF&} CÊ
+Dialogue: 0,0:00:05.59,0:00:05.67,Cap,,0,0,0,,COISA QUE {\c&H6BE82B&}CÊ{\c&HFFFFFF&}
+Dialogue: 0,0:00:05.67,0:00:05.81,Cap,,0,0,0,,{\fscx112\fscy112\t(0,90,\fscx100\fscy100)}{\c&H6BE82B&}FOR{\c&HFFFFFF&} FAZER NA
+Dialogue: 0,0:00:05.81,0:00:05.97,Cap,,0,0,0,,FOR {\c&H6BE82B&}FAZER{\c&HFFFFFF&} NA
+Dialogue: 0,0:00:05.97,0:00:06.09,Cap,,0,0,0,,FOR FAZER {\c&H6BE82B&}NA{\c&HFFFFFF&}
+Dialogue: 0,0:00:06.09,0:00:06.29,Cap,,0,0,0,,{\fscx112\fscy112\t(0,90,\fscx100\fscy100)}{\c&H6BE82B&}SUA{\c&HFFFFFF&} VIDA
+Dialogue: 0,0:00:06.29,0:00:06.45,Cap,,0,0,0,,SUA {\c&H6BE82B&}VIDA{\c&HFFFFFF&}
+Dialogue: 0,0:00:06.45,0:00:06.67,Cap,,0,0,0,,{\fscx112\fscy112\t(0,90,\fscx100\fscy100)}{\c&H6BE82B&}ENTÃO{\c&HFFFFFF&} VOCÊ
+Dialogue: 0,0:00:06.67,0:00:06.91,Cap,,0,0,0,,ENTÃO {\c&H6BE82B&}VOCÊ{\c&HFFFFFF&}
+Dialogue: 0,0:00:06.91,0:00:07.18,Cap,,0,0,0,,{\fscx112\fscy112\t(0,90,\fscx100\fscy100)}{\c&H6BE82B&}COMEÇA{\c&HFFFFFF&} A ENSINAR
+Dialogue: 0,0:00:07.18,0:00:07.25,Cap,,0,0,0,,COMEÇA {\c&H6BE82B&}A{\c&HFFFFFF&} ENSINAR
+Dialogue: 0,0:00:07.25,0:00:07.57,Cap,,0,0,0,,COMEÇA A {\c&H6BE82B&}ENSINAR{\c&HFFFFFF&}
+Dialogue: 0,0:00:07.57,0:00:07.65,Cap,,0,0,0,,{\fscx112\fscy112\t(0,90,\fscx100\fscy100)}{\c&H6BE82B&}O{\c&HFFFFFF&} QUE APRENDEU
+Dialogue: 0,0:00:07.65,0:00:07.73,Cap,,0,0,0,,O {\c&H6BE82B&}QUE{\c&HFFFFFF&} APRENDEU
+Dialogue: 0,0:00:07.73,0:00:08.27,Cap,,0,0,0,,O QUE {\c&H6BE82B&}APRENDEU{\c&HFFFFFF&}
+Dialogue: 0,0:00:08.27,0:00:08.59,Cap,,0,0,0,,{\fscx112\fscy112\t(0,90,\fscx100\fscy100)}{\c&H6BE82B&}PRIMEIRO{\c&HFFFFFF&} DE
+Dialogue: 0,0:00:08.59,0:00:08.71,Cap,,0,0,0,,PRIMEIRO {\c&H6BE82B&}DE{\c&HFFFFFF&}
+Dialogue: 0,0:00:08.71,0:00:09.05,Cap,,0,0,0,,{\fscx112\fscy112\t(0,90,\fscx100\fscy100)}{\c&H6BE82B&}GRAÇA{\c&HFFFFFF&} PRUM
+Dialogue: 0,0:00:09.05,0:00:09.17,Cap,,0,0,0,,GRAÇA {\c&H6BE82B&}PRUM{\c&HFFFFFF&}
+Dialogue: 0,0:00:09.17,0:00:09.59,Cap,,0,0,0,,{\fscx112\fscy112\t(0,90,\fscx100\fscy100)}{\c&H6BE82B&}AMIGO{\c&HFFFFFF&}
+Dialogue: 0,0:00:09.59,0:00:09.91,Cap,,0,0,0,,{\fscx112\fscy112\t(0,90,\fscx100\fscy100)}{\c&H6BE82B&}DEPOIS{\c&HFFFFFF&} PRA UMAS
+Dialogue: 0,0:00:09.91,0:00:10.03,Cap,,0,0,0,,DEPOIS {\c&H6BE82B&}PRA{\c&HFFFFFF&} UMAS
+Dialogue: 0,0:00:10.03,0:00:10.21,Cap,,0,0,0,,DEPOIS PRA {\c&H6BE82B&}UMAS{\c&HFFFFFF&}
+Dialogue: 0,0:00:10.21,0:00:10.41,Cap,,0,0,0,,{\fscx112\fscy112\t(0,90,\fscx100\fscy100)}{\c&H6BE82B&}10{\c&HFFFFFF&} PESSOAS
+Dialogue: 0,0:00:10.41,0:00:11.14,Cap,,0,0,0,,10 {\c&H6BE82B&}PESSOAS{\c&HFFFFFF&}
+Dialogue: 0,0:00:11.14,0:00:11.48,Cap,,0,0,0,,{\fscx112\fscy112\t(0,90,\fscx100\fscy100)}{\c&H6BE82B&}DEPOIS{\c&HFFFFFF&} PRA MUITO
+Dialogue: 0,0:00:11.48,0:00:11.72,Cap,,0,0,0,,DEPOIS {\c&H6BE82B&}PRA{\c&HFFFFFF&} MUITO
+Dialogue: 0,0:00:11.72,0:00:12.01,Cap,,0,0,0,,DEPOIS PRA {\c&H6BE82B&}MUITO{\c&HFFFFFF&}
+Dialogue: 0,0:00:12.01,0:00:12.20,Cap,,0,0,0,,{\fscx112\fscy112\t(0,90,\fscx100\fscy100)}{\c&H6BE82B&}MAIS{\c&HFFFFFF&} GENTE DO
+Dialogue: 0,0:00:12.20,0:00:12.42,Cap,,0,0,0,,MAIS {\c&H6BE82B&}GENTE{\c&HFFFFFF&} DO
+Dialogue: 0,0:00:12.42,0:00:12.52,Cap,,0,0,0,,MAIS GENTE {\c&H6BE82B&}DO{\c&HFFFFFF&}
+Dialogue: 0,0:00:12.52,0:00:12.64,Cap,,0,0,0,,{\fscx112\fscy112\t(0,90,\fscx100\fscy100)}{\c&H6BE82B&}QUE{\c&HFFFFFF&} VOCÊ PODERIA
+Dialogue: 0,0:00:12.64,0:00:12.92,Cap,,0,0,0,,QUE {\c&H6BE82B&}VOCÊ{\c&HFFFFFF&} PODERIA
+Dialogue: 0,0:00:12.92,0:00:13.24,Cap,,0,0,0,,QUE VOCÊ {\c&H6BE82B&}PODERIA{\c&HFFFFFF&}
+Dialogue: 0,0:00:13.24,0:00:13.73,Cap,,0,0,0,,{\fscx112\fscy112\t(0,90,\fscx100\fscy100)}{\c&H6BE82B&}IMAGINAR{\c&HFFFFFF&}
+Dialogue: 0,0:00:13.73,0:00:13.80,Cap,,0,0,0,,{\fscx112\fscy112\t(0,90,\fscx100\fscy100)}{\c&H6BE82B&}AÍ{\c&HFFFFFF&} QUE VOCÊ
+Dialogue: 0,0:00:13.80,0:00:13.93,Cap,,0,0,0,,AÍ {\c&H6BE82B&}QUE{\c&HFFFFFF&} VOCÊ
+Dialogue: 0,0:00:13.93,0:00:14.13,Cap,,0,0,0,,AÍ QUE {\c&H6BE82B&}VOCÊ{\c&HFFFFFF&}
+Dialogue: 0,0:00:14.13,0:00:14.51,Cap,,0,0,0,,{\fscx112\fscy112\t(0,90,\fscx100\fscy100)}{\c&H6BE82B&}DESCOBRE{\c&HFFFFFF&} QUE TEM
+Dialogue: 0,0:00:14.51,0:00:14.61,Cap,,0,0,0,,DESCOBRE {\c&H6BE82B&}QUE{\c&HFFFFFF&} TEM
+Dialogue: 0,0:00:14.61,0:00:14.75,Cap,,0,0,0,,DESCOBRE QUE {\c&H6BE82B&}TEM{\c&HFFFFFF&}
+Dialogue: 0,0:00:14.75,0:00:14.94,Cap,,0,0,0,,{\fscx112\fscy112\t(0,90,\fscx100\fscy100)}{\c&H6BE82B&}MAIS{\c&HFFFFFF&} DE UM
+Dialogue: 0,0:00:14.94,0:00:14.97,Cap,,0,0,0,,MAIS {\c&H6BE82B&}DE{\c&HFFFFFF&} UM
+Dialogue: 0,0:00:14.97,0:00:15.09,Cap,,0,0,0,,MAIS DE {\c&H6BE82B&}UM{\c&HFFFFFF&}
+Dialogue: 0,0:00:15.09,0:00:15.35,Cap,,0,0,0,,{\fscx112\fscy112\t(0,90,\fscx100\fscy100)}{\c&H6BE82B&}JEITO{\c&HFFFFFF&} DE
+Dialogue: 0,0:00:15.35,0:00:15.47,Cap,,0,0,0,,JEITO {\c&H6BE82B&}DE{\c&HFFFFFF&}
+Dialogue: 0,0:00:15.47,0:00:15.79,Cap,,0,0,0,,{\fscx112\fscy112\t(0,90,\fscx100\fscy100)}{\c&H6BE82B&}CONSEGUIR{\c&HFFFFFF&} AJUDAR
+Dialogue: 0,0:00:15.79,0:00:16.02,Cap,,0,0,0,,CONSEGUIR {\c&H6BE82B&}AJUDAR{\c&HFFFFFF&}
+Dialogue: 0,0:00:16.02,0:00:16.17,Cap,,0,0,0,,{\fscx112\fscy112\t(0,90,\fscx100\fscy100)}{\c&H6BE82B&}AS{\c&HFFFFFF&} PESSOAS
+Dialogue: 0,0:00:16.17,0:00:16.68,Cap,,0,0,0,,AS {\c&H6BE82B&}PESSOAS{\c&HFFFFFF&}
+Dialogue: 0,0:00:16.68,0:00:16.88,Cap,,0,0,0,,{\fscx112\fscy112\t(0,90,\fscx100\fscy100)}{\c&H6BE82B&}TEM{\c&HFFFFFF&} QUEM VOCÊ
+Dialogue: 0,0:00:16.88,0:00:17.04,Cap,,0,0,0,,TEM {\c&H6BE82B&}QUEM{\c&HFFFFFF&} VOCÊ
+Dialogue: 0,0:00:17.04,0:00:17.33,Cap,,0,0,0,,TEM QUEM {\c&H6BE82B&}VOCÊ{\c&HFFFFFF&}
+Dialogue: 0,0:00:17.33,0:00:17.78,Cap,,0,0,0,,{\fscx112\fscy112\t(0,90,\fscx100\fscy100)}{\c&H6BE82B&}SENTA{\c&HFFFFFF&} JUNTO TODO
+Dialogue: 0,0:00:17.78,0:00:18.21,Cap,,0,0,0,,SENTA {\c&H6BE82B&}JUNTO{\c&HFFFFFF&} TODO
+Dialogue: 0,0:00:18.21,0:00:18.50,Cap,,0,0,0,,SENTA JUNTO {\c&H6BE82B&}TODO{\c&HFFFFFF&}
+Dialogue: 0,0:00:18.50,0:00:18.86,Cap,,0,0,0,,{\fscx112\fscy112\t(0,90,\fscx100\fscy100)}{\c&H6BE82B&}MÊS{\c&HFFFFFF&} PRA
+Dialogue: 0,0:00:18.86,0:00:18.97,Cap,,0,0,0,,MÊS {\c&H6BE82B&}PRA{\c&HFFFFFF&}
+Dialogue: 0,0:00:18.97,0:00:19.56,Cap,,0,0,0,,{\fscx112\fscy112\t(0,90,\fscx100\fscy100)}{\c&H6BE82B&}ACOMPANHAR{\c&HFFFFFF&}
+Dialogue: 0,0:00:19.56,0:00:19.72,Cap,,0,0,0,,{\fscx112\fscy112\t(0,90,\fscx100\fscy100)}{\c&H6BE82B&}COMO{\c&HFFFFFF&} NAS
+Dialogue: 0,0:00:19.72,0:00:19.88,Cap,,0,0,0,,COMO {\c&H6BE82B&}NAS{\c&HFFFFFF&}
+Dialogue: 0,0:00:19.88,0:00:20.48,Cap,,0,0,0,,{\fscx112\fscy112\t(0,90,\fscx100\fscy100)}{\c&H6BE82B&}MENTORIAS{\c&HFFFFFF&}
+Dialogue: 0,0:00:20.48,0:00:20.62,Cap,,0,0,0,,{\fscx112\fscy112\t(0,90,\fscx100\fscy100)}{\c&H6BE82B&}E{\c&HFFFFFF&} TEM O
+Dialogue: 0,0:00:20.62,0:00:20.77,Cap,,0,0,0,,E {\c&H6BE82B&}TEM{\c&HFFFFFF&} O
+Dialogue: 0,0:00:20.77,0:00:20.83,Cap,,0,0,0,,E TEM {\c&H6BE82B&}O{\c&HFFFFFF&}
+Dialogue: 0,0:00:20.83,0:00:20.94,Cap,,0,0,0,,{\fscx112\fscy112\t(0,90,\fscx100\fscy100)}{\c&H6BE82B&}QUE{\c&HFFFFFF&} VOCÊ
+Dialogue: 0,0:00:20.94,0:00:21.16,Cap,,0,0,0,,QUE {\c&H6BE82B&}VOCÊ{\c&HFFFFFF&}
+Dialogue: 0,0:00:21.16,0:00:21.54,Cap,,0,0,0,,{\fscx112\fscy112\t(0,90,\fscx100\fscy100)}{\c&H6BE82B&}CONSTRÓI{\c&HFFFFFF&} UMA
+Dialogue: 0,0:00:21.54,0:00:21.74,Cap,,0,0,0,,CONSTRÓI {\c&H6BE82B&}UMA{\c&HFFFFFF&}
+Dialogue: 0,0:00:21.74,0:00:21.99,Cap,,0,0,0,,{\fscx112\fscy112\t(0,90,\fscx100\fscy100)}{\c&H6BE82B&}VEZ{\c&HFFFFFF&}
+Dialogue: 0,0:00:21.99,0:00:22.12,Cap,,0,0,0,,{\fscx112\fscy112\t(0,90,\fscx100\fscy100)}{\c&H6BE82B&}QUE{\c&HFFFFFF&} CONTINUA
+Dialogue: 0,0:00:22.12,0:00:22.46,Cap,,0,0,0,,QUE {\c&H6BE82B&}CONTINUA{\c&HFFFFFF&}
+Dialogue: 0,0:00:22.46,0:00:22.82,Cap,,0,0,0,,{\fscx112\fscy112\t(0,90,\fscx100\fscy100)}{\c&H6BE82B&}RODANDO{\c&HFFFFFF&} QUANDO
+Dialogue: 0,0:00:22.82,0:00:23.02,Cap,,0,0,0,,RODANDO {\c&H6BE82B&}QUANDO{\c&HFFFFFF&}
+Dialogue: 0,0:00:23.02,0:00:23.28,Cap,,0,0,0,,{\fscx112\fscy112\t(0,90,\fscx100\fscy100)}{\c&H6BE82B&}VOCÊ{\c&HFFFFFF&} NÃO TÁ
+Dialogue: 0,0:00:23.28,0:00:23.42,Cap,,0,0,0,,VOCÊ {\c&H6BE82B&}NÃO{\c&HFFFFFF&} TÁ
+Dialogue: 0,0:00:23.42,0:00:23.56,Cap,,0,0,0,,VOCÊ NÃO {\c&H6BE82B&}TÁ{\c&HFFFFFF&}
+Dialogue: 0,0:00:23.56,0:00:23.88,Cap,,0,0,0,,{\fscx112\fscy112\t(0,90,\fscx100\fscy100)}{\c&H6BE82B&}LÁ{\c&HFFFFFF&}
+Dialogue: 0,0:00:23.88,0:00:24.08,Cap,,0,0,0,,{\fscx112\fscy112\t(0,90,\fscx100\fscy100)}{\c&H6BE82B&}COMO{\c&HFFFFFF&} UMA
+Dialogue: 0,0:00:24.08,0:00:24.22,Cap,,0,0,0,,COMO {\c&H6BE82B&}UMA{\c&HFFFFFF&}
+Dialogue: 0,0:00:24.22,0:00:24.76,Cap,,0,0,0,,{\fscx112\fscy112\t(0,90,\fscx100\fscy100)}{\c&H6BE82B&}PLATAFORMA{\c&HFFFFFF&} DE
+Dialogue: 0,0:00:24.76,0:00:24.88,Cap,,0,0,0,,PLATAFORMA {\c&H6BE82B&}DE{\c&HFFFFFF&}
+Dialogue: 0,0:00:24.88,0:00:25.30,Cap,,0,0,0,,{\fscx112\fscy112\t(0,90,\fscx100\fscy100)}{\c&H6BE82B&}ESTUDOS{\c&HFFFFFF&}
+Dialogue: 0,0:00:25.30,0:00:25.72,Cap,,0,0,0,,{\fscx112\fscy112\t(0,90,\fscx100\fscy100)}{\c&H6BE82B&}E{\c&HFFFFFF&} NADA DISSO
+Dialogue: 0,0:00:25.72,0:00:25.96,Cap,,0,0,0,,E {\c&H6BE82B&}NADA{\c&HFFFFFF&} DISSO
+Dialogue: 0,0:00:25.96,0:00:26.18,Cap,,0,0,0,,E NADA {\c&H6BE82B&}DISSO{\c&HFFFFFF&}
+Dialogue: 0,0:00:26.18,0:00:26.54,Cap,,0,0,0,,{\fscx112\fscy112\t(0,90,\fscx100\fscy100)}{\c&H6BE82B&}COMPETE{\c&HFFFFFF&} COM A
+Dialogue: 0,0:00:26.54,0:00:26.60,Cap,,0,0,0,,COMPETE {\c&H6BE82B&}COM{\c&HFFFFFF&} A
+Dialogue: 0,0:00:26.60,0:00:26.70,Cap,,0,0,0,,COMPETE COM {\c&H6BE82B&}A{\c&HFFFFFF&}
+Dialogue: 0,0:00:26.70,0:00:27.53,Cap,,0,0,0,,{\fscx112\fscy112\t(0,90,\fscx100\fscy100)}{\c&H6BE82B&}FACULDADE{\c&HFFFFFF&}
+Dialogue: 1,0:00:00.00,0:00:27.13,Title,,0,0,0,,{\q0}Passar no vestibular é uma habilidade (e serve pra tudo)

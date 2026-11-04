@@ -1,0 +1,70 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Helvetica,67,&H00FFFFFF,&H00FFFFFF,&HC8000000,&HC8000000,0,1,0,0,100,100,0,0,1,6.7,6.7,2,60,60,300,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.04,0:00:00.22,Cap,,0,0,0,,Que que
+Dialogue: 0,0:00:00.22,0:00:00.74,Cap,,0,0,0,,eu fiz
+Dialogue: 0,0:00:00.74,0:00:01.28,Cap,,0,0,0,,pra todas
+Dialogue: 0,0:00:01.28,0:00:01.98,Cap,,0,0,0,,as matérias,
+Dialogue: 0,0:00:01.98,0:00:02.26,Cap,,0,0,0,,como eu
+Dialogue: 0,0:00:02.26,0:00:03.12,Cap,,0,0,0,,estudei todas
+Dialogue: 0,0:00:03.12,0:00:03.76,Cap,,0,0,0,,as matérias
+Dialogue: 0,0:00:03.76,0:00:04.18,Cap,,0,0,0,,pra poder
+Dialogue: 0,0:00:04.18,0:00:04.46,Cap,,0,0,0,,ali ter
+Dialogue: 0,0:00:04.46,0:00:04.70,Cap,,0,0,0,,um bom
+Dialogue: 0,0:00:04.70,0:00:05.30,Cap,,0,0,0,,rendimento nos
+Dialogue: 0,0:00:05.30,0:00:05.80,Cap,,0,0,0,,vestibulares que
+Dialogue: 0,0:00:05.80,0:00:06.25,Cap,,0,0,0,,eu prestei?
+Dialogue: 0,0:00:06.25,0:00:06.71,Cap,,0,0,0,,Assisti uma
+Dialogue: 0,0:00:06.71,0:00:07.21,Cap,,0,0,0,,boa aula,
+Dialogue: 0,0:00:07.21,0:00:07.71,Cap,,0,0,0,,fazia uma
+Dialogue: 0,0:00:07.71,0:00:08.13,Cap,,0,0,0,,leitura de
+Dialogue: 0,0:00:08.13,0:00:08.55,Cap,,0,0,0,,um bom
+Dialogue: 0,0:00:08.55,0:00:09.13,Cap,,0,0,0,,material,
+Dialogue: 0,0:00:09.13,0:00:09.63,Cap,,0,0,0,,fazia uma
+Dialogue: 0,0:00:09.63,0:00:10.77,Cap,,0,0,0,,verbalização,
+Dialogue: 0,0:00:10.77,0:00:11.15,Cap,,0,0,0,,essa talvez
+Dialogue: 0,0:00:11.15,0:00:11.47,Cap,,0,0,0,,seja uma
+Dialogue: 0,0:00:11.47,0:00:11.89,Cap,,0,0,0,,parte mais
+Dialogue: 0,0:00:11.89,0:00:12.37,Cap,,0,0,0,,importante que
+Dialogue: 0,0:00:12.37,0:00:12.63,Cap,,0,0,0,,eu vejo
+Dialogue: 0,0:00:12.63,0:00:13.29,Cap,,0,0,0,,pouquíssima gente
+Dialogue: 0,0:00:13.29,0:00:13.99,Cap,,0,0,0,,comentando,
+Dialogue: 0,0:00:13.99,0:00:14.33,Cap,,0,0,0,,mas que
+Dialogue: 0,0:00:14.33,0:00:14.73,Cap,,0,0,0,,foi muito
+Dialogue: 0,0:00:14.73,0:00:15.33,Cap,,0,0,0,,importante pra
+Dialogue: 0,0:00:15.33,0:00:15.56,Cap,,0,0,0,,mim.
+Dialogue: 0,0:00:15.56,0:00:16.40,Cap,,0,0,0,,Muitas questões,
+Dialogue: 0,0:00:16.40,0:00:16.68,Cap,,0,0,0,,muitas,
+Dialogue: 0,0:00:16.68,0:00:17.00,Cap,,0,0,0,,muitas,
+Dialogue: 0,0:00:17.00,0:00:17.72,Cap,,0,0,0,,muitas questões.
+Dialogue: 0,0:00:17.72,0:00:18.32,Cap,,0,0,0,,Flashcards das
+Dialogue: 0,0:00:18.32,0:00:18.70,Cap,,0,0,0,,matérias que
+Dialogue: 0,0:00:18.70,0:00:18.86,Cap,,0,0,0,,eu ia
+Dialogue: 0,0:00:18.86,0:00:19.32,Cap,,0,0,0,,esquecer,
+Dialogue: 0,0:00:19.32,0:00:20.24,Cap,,0,0,0,,então confeccionar
+Dialogue: 0,0:00:20.24,0:00:21.02,Cap,,0,0,0,,os flashcards,
+Dialogue: 0,0:00:21.02,0:00:21.68,Cap,,0,0,0,,e depois
+Dialogue: 0,0:00:21.68,0:00:22.08,Cap,,0,0,0,,muita prova
+Dialogue: 0,0:00:22.08,0:00:22.54,Cap,,0,0,0,,antiga.
+Dialogue: 0,0:00:22.54,0:00:23.16,Cap,,0,0,0,,Seis coisas
+Dialogue: 0,0:00:23.16,0:00:23.36,Cap,,0,0,0,,que se
+Dialogue: 0,0:00:23.36,0:00:23.80,Cap,,0,0,0,,você fizer
+Dialogue: 0,0:00:23.80,0:00:24.36,Cap,,0,0,0,,pra todas
+Dialogue: 0,0:00:24.36,0:00:24.94,Cap,,0,0,0,,as matérias,
+Dialogue: 0,0:00:24.94,0:00:25.22,Cap,,0,0,0,,não tem
+Dialogue: 0,0:00:25.22,0:00:25.54,Cap,,0,0,0,,como você
+Dialogue: 0,0:00:25.54,0:00:26.12,Cap,,0,0,0,,não passar.
+Dialogue: 0,0:00:26.12,0:00:26.65,Cap,,0,0,0,,Confia mim.
+Dialogue: 0,0:00:26.65,0:00:27.07,Cap,,0,0,0,,Esse método
+Dialogue: 0,0:00:27.07,0:00:27.35,Cap,,0,0,0,,de estudo
+Dialogue: 0,0:00:27.35,0:00:27.75,Cap,,0,0,0,,é muito
+Dialogue: 0,0:00:27.75,0:00:28.30,Cap,,0,0,0,,bom.

@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "sources": {
+    "src": "/Users/mac-matteo/marketing machine/youtube-maker/v2b/src.mov"
+  },
+  "ranges": [
+    {
+      "source": "src",
+      "start": 0.549,
+      "end": 1.509
+    },
+    {
+      "source": "src",
+      "start": 1.789,
+      "end": 2.469
+    },
+    {
+      "source": "src",
+      "start": 2.69,
+      "end": 3.369
+    },
+    {
+      "source": "src",
+      "start": 3.609,
+      "end": 4.47
+    },
+    {
+      "source": "src",
+      "start": 4.689,
+      "end": 6.53
+    },
+    {
+      "source": "src",
+      "start": 6.809,
+      "end": 7.649
+    },
+    {
+      "source": "src",
+      "start": 7.91,
+      "end": 8.289
+    },
+    {
+      "source": "src",
+      "start": 14.77,
+      "end": 15.629
+    },
+    {
+      "source": "src",
+      "start": 15.91,
+      "end": 18.309
+    },
+    {
+      "source": "src",
+      "start": 18.529,
+      "end": 23.479
+    }
+  ],
+  "grade": "none",
+  "overlays": [
+    {
+      "file": "animations/cards/01_medicina.mov",
+      "start_in_output": 1.011,
+      "duration": 0.9
+    },
+    {
+      "file": "animations/cards/02_estudos.mov",
+      "start_in_output": 1.69,
+      "duration": 1.12
+    },
+    {
+      "file": "animations/cards/05_produtivo.mov",
+      "start_in_output": 2.57,
+      "duration": 1.4
+    },
+    {
+      "file": "animations/cards/08_cafe.mov",
+      "start_in_output": 3.771,
+      "duration": 1.4
+    },
+    {
+      "file": "animations/cards/03_vibecoding.mov",
+      "start_in_output": 5.072,
+      "duration": 1.1
+    },
+    {
+      "file": "animations/cards/04_ia.mov",
+      "start_in_output": 5.911,
+      "duration": 0.33
+    },
+    {
+      "file": "animations/cards/09_empreender.mov",
+      "start_in_output": 6.29,
+      "duration": 1.09
+    },
+    {
+      "file": "animations/cards/10_piano.mov",
+      "start_in_output": 7.149,
+      "duration": 1.8
+    }
+  ],
+  "subtitle_case": "natural",
+  "subtitle_style": "FontName=Helvetica,FontSize=15,Bold=1,PrimaryColour=&H00FFFFFF,OutlineColour=&H00000000,BackColour=&H80000000,BorderStyle=1,Outline=0,Shadow=1,Alignment=2,MarginV=40",
+  "total_duration_s": 14.448
+}

@@ -1,0 +1,2 @@
+file '/Users/mac-matteo/marketing machine/cortes/semana-d1/raw1.mov'
+file '/Users/mac-matteo/marketing machine/cortes/semana-d1/raw2.mov'

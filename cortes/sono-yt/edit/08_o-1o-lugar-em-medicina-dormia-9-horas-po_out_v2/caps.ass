@@ -1,0 +1,104 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Helvetica,67,&H00FFFFFF,&H00FFFFFF,&HC8000000,&HC8000000,0,1,0,0,100,100,0,0,1,6.7,6.7,2,60,60,540,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.04,0:00:00.46,Cap,,0,0,0,,Então,
+Dialogue: 0,0:00:00.46,0:00:01.28,Cap,,0,0,0,,sintetizando,
+Dialogue: 0,0:00:01.28,0:00:01.40,Cap,,0,0,0,,o que
+Dialogue: 0,0:00:01.40,0:00:01.74,Cap,,0,0,0,,eu quero
+Dialogue: 0,0:00:01.74,0:00:02.24,Cap,,0,0,0,,que vocês
+Dialogue: 0,0:00:02.24,0:00:02.68,Cap,,0,0,0,,entendam é
+Dialogue: 0,0:00:02.68,0:00:02.92,Cap,,0,0,0,,que o
+Dialogue: 0,0:00:02.92,0:00:03.30,Cap,,0,0,0,,sono não
+Dialogue: 0,0:00:03.30,0:00:03.70,Cap,,0,0,0,,é de
+Dialogue: 0,0:00:03.70,0:00:04.68,Cap,,0,0,0,,forma alguma
+Dialogue: 0,0:00:04.68,0:00:05.22,Cap,,0,0,0,,seu inimigo.
+Dialogue: 0,0:00:05.22,0:00:05.54,Cap,,0,0,0,,Sempre que
+Dialogue: 0,0:00:05.54,0:00:06.34,Cap,,0,0,0,,você precisar
+Dialogue: 0,0:00:06.34,0:00:06.70,Cap,,0,0,0,,tirar um
+Dialogue: 0,0:00:06.70,0:00:07.20,Cap,,0,0,0,,cochilo,
+Dialogue: 0,0:00:07.20,0:00:07.70,Cap,,0,0,0,,se você
+Dialogue: 0,0:00:07.70,0:00:08.36,Cap,,0,0,0,,fica cansado,
+Dialogue: 0,0:00:08.36,0:00:08.66,Cap,,0,0,0,,cara,
+Dialogue: 0,0:00:08.66,0:00:08.94,Cap,,0,0,0,,tire um
+Dialogue: 0,0:00:08.94,0:00:09.34,Cap,,0,0,0,,cochilo.
+Dialogue: 0,0:00:09.34,0:00:10.28,Cap,,0,0,0,,Existem países,
+Dialogue: 0,0:00:10.28,0:00:10.70,Cap,,0,0,0,,isso também
+Dialogue: 0,0:00:10.70,0:00:11.06,Cap,,0,0,0,,é citado
+Dialogue: 0,0:00:11.06,0:00:11.46,Cap,,0,0,0,,no livro,
+Dialogue: 0,0:00:11.46,0:00:12.38,Cap,,0,0,0,,existem países
+Dialogue: 0,0:00:12.38,0:00:12.86,Cap,,0,0,0,,na Europa
+Dialogue: 0,0:00:12.86,0:00:13.04,Cap,,0,0,0,,em que
+Dialogue: 0,0:00:13.04,0:00:13.62,Cap,,0,0,0,,a sesta,
+Dialogue: 0,0:00:13.62,0:00:13.92,Cap,,0,0,0,,ou seja,
+Dialogue: 0,0:00:13.92,0:00:14.92,Cap,,0,0,0,,aquele cochilinho
+Dialogue: 0,0:00:14.92,0:00:15.51,Cap,,0,0,0,,da tarde,
+Dialogue: 0,0:00:15.51,0:00:16.69,Cap,,0,0,0,,é constitucional.
+Dialogue: 0,0:00:16.69,0:00:17.85,Cap,,0,0,0,,Os mercados,
+Dialogue: 0,0:00:17.85,0:00:18.89,Cap,,0,0,0,,as farmácias,
+Dialogue: 0,0:00:18.89,0:00:19.75,Cap,,0,0,0,,tudo fecha
+Dialogue: 0,0:00:19.75,0:00:20.11,Cap,,0,0,0,,no período
+Dialogue: 0,0:00:20.11,0:00:20.51,Cap,,0,0,0,,do almoço,
+Dialogue: 0,0:00:20.51,0:00:20.89,Cap,,0,0,0,,porque eles
+Dialogue: 0,0:00:20.89,0:00:21.57,Cap,,0,0,0,,entendem que
+Dialogue: 0,0:00:21.57,0:00:22.01,Cap,,0,0,0,,aquele,
+Dialogue: 0,0:00:22.01,0:00:22.49,Cap,,0,0,0,,aquele tempo
+Dialogue: 0,0:00:22.49,0:00:22.69,Cap,,0,0,0,,entre o
+Dialogue: 0,0:00:22.69,0:00:23.77,Cap,,0,0,0,,almoço e
+Dialogue: 0,0:00:23.77,0:00:24.27,Cap,,0,0,0,,umas duas,
+Dialogue: 0,0:00:24.27,0:00:24.59,Cap,,0,0,0,,três da
+Dialogue: 0,0:00:24.59,0:00:24.85,Cap,,0,0,0,,tarde,
+Dialogue: 0,0:00:24.85,0:00:25.27,Cap,,0,0,0,,um momento
+Dialogue: 0,0:00:25.27,0:00:25.94,Cap,,0,0,0,,de descanso.
+Dialogue: 0,0:00:25.94,0:00:26.38,Cap,,0,0,0,,Vocês têm
+Dialogue: 0,0:00:26.38,0:00:26.62,Cap,,0,0,0,,que ter
+Dialogue: 0,0:00:26.62,0:00:26.90,Cap,,0,0,0,,isso em
+Dialogue: 0,0:00:26.90,0:00:27.22,Cap,,0,0,0,,mente.
+Dialogue: 0,0:00:27.22,0:00:27.44,Cap,,0,0,0,,Eu era
+Dialogue: 0,0:00:27.44,0:00:27.88,Cap,,0,0,0,,uma pessoa
+Dialogue: 0,0:00:27.88,0:00:28.44,Cap,,0,0,0,,que dormia
+Dialogue: 0,0:00:28.44,0:00:28.94,Cap,,0,0,0,,bastante.
+Dialogue: 0,0:00:28.94,0:00:29.32,Cap,,0,0,0,,Eu sempre
+Dialogue: 0,0:00:29.32,0:00:29.78,Cap,,0,0,0,,dormia ali
+Dialogue: 0,0:00:29.78,0:00:30.58,Cap,,0,0,0,,aquelas oito,
+Dialogue: 0,0:00:30.58,0:00:31.14,Cap,,0,0,0,,nove horas,
+Dialogue: 0,0:00:31.14,0:00:31.56,Cap,,0,0,0,,se fosse
+Dialogue: 0,0:00:31.56,0:00:32.18,Cap,,0,0,0,,necessário.
+Dialogue: 0,0:00:32.18,0:00:32.40,Cap,,0,0,0,,Caso eu
+Dialogue: 0,0:00:32.40,0:00:32.84,Cap,,0,0,0,,entendesse que
+Dialogue: 0,0:00:32.84,0:00:33.24,Cap,,0,0,0,,eu estivesse
+Dialogue: 0,0:00:33.24,0:00:33.52,Cap,,0,0,0,,cansado,
+Dialogue: 0,0:00:33.52,0:00:33.84,Cap,,0,0,0,,eu dormia
+Dialogue: 0,0:00:33.84,0:00:34.46,Cap,,0,0,0,,a quantidade
+Dialogue: 0,0:00:34.46,0:00:34.68,Cap,,0,0,0,,que eu
+Dialogue: 0,0:00:34.68,0:00:35.66,Cap,,0,0,0,,achasse necessário
+Dialogue: 0,0:00:35.66,0:00:35.92,Cap,,0,0,0,,e eu
+Dialogue: 0,0:00:35.92,0:00:36.42,Cap,,0,0,0,,recomendo que
+Dialogue: 0,0:00:36.42,0:00:37.06,Cap,,0,0,0,,vocês façam
+Dialogue: 0,0:00:37.06,0:00:37.44,Cap,,0,0,0,,o mesmo.
+Dialogue: 0,0:00:37.44,0:00:37.94,Cap,,0,0,0,,Não percam
+Dialogue: 0,0:00:37.94,0:00:38.40,Cap,,0,0,0,,nem sequer
+Dialogue: 0,0:00:38.40,0:00:39.02,Cap,,0,0,0,,um minuto
+Dialogue: 0,0:00:39.02,0:00:39.55,Cap,,0,0,0,,de sono
+Dialogue: 0,0:00:39.55,0:00:39.93,Cap,,0,0,0,,pra ficar
+Dialogue: 0,0:00:39.93,0:00:40.39,Cap,,0,0,0,,estudando,
+Dialogue: 0,0:00:40.39,0:00:40.89,Cap,,0,0,0,,porque aquele
+Dialogue: 0,0:00:40.89,0:00:41.39,Cap,,0,0,0,,estudo não
+Dialogue: 0,0:00:41.39,0:00:41.69,Cap,,0,0,0,,vai ser
+Dialogue: 0,0:00:41.69,0:00:42.11,Cap,,0,0,0,,eficiente.
+Dialogue: 0,0:00:42.11,0:00:42.75,Cap,,0,0,0,,Você provavelmente
+Dialogue: 0,0:00:42.75,0:00:43.09,Cap,,0,0,0,,não vai
+Dialogue: 0,0:00:43.09,0:00:43.71,Cap,,0,0,0,,lembrar aquela
+Dialogue: 0,0:00:43.71,0:00:44.17,Cap,,0,0,0,,parte da
+Dialogue: 0,0:00:44.17,0:00:44.57,Cap,,0,0,0,,matéria que
+Dialogue: 0,0:00:44.57,0:00:45.23,Cap,,0,0,0,,você estudou,
+Dialogue: 0,0:00:45.23,0:00:45.61,Cap,,0,0,0,,caso você
+Dialogue: 0,0:00:45.61,0:00:46.76,Cap,,0,0,0,,esteja cansado.

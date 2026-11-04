@@ -1,0 +1,53 @@
+# Segredos: nunca sobem
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+cookies*
+.claude/settings.local.json
+
+# Repos internos preservados com outro nome (ver video-use e motion/remotion)
+.git-local/
+
+# Dependências e gerados
+node_modules/
+.venv/
+venv/
+__pycache__/
+*.pyc
+dist/
+build/
+.remotion/
+*.log
+.DS_Store
+
+# Logs do navegador automatizado (contêm tokens)
+.playwright-mcp/
+
+# Binários
+social-catalog/bin/
+
+# Vídeo e áudio: ficam no Mac/Drive
+*.[mM][oO][vV]
+*.[mM][pP]4
+*.[mM]4[vV]
+*.[mM][kK][vV]
+*.[aA][vV][iI]
+*.[wW][eE][bB][mM]
+*.[wW][aA][vV]
+*.[mM][pP]3
+*.[mM]4[aA]
+*.[aA][aA][cC]
+*.[aA][iI][fF][fF]
+*.[fF][lL][aA][cC]
+
+# Imagens: fotos pessoais, frames e renders ficam fora; só os ícones sobem
+*.[pP][nN][gG]
+*.[jJ][pP][gG]
+*.[jJ][pP][eE][gG]
+*.[hH][eE][iI][cC]
+*.[wW][eE][bB][pP]
+*.[gG][iI][fF]
+!assets/icons/**

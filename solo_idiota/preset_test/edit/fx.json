@@ -1,0 +1,47 @@
+{
+ "overlays": [
+  {
+   "file": "preset_test/edit/motion/titulo.png",
+   "start_in_output": 0,
+   "duration": "all"
+  },
+  {
+   "file": "preset_test/edit/motion/x10.mov",
+   "src_time": 3.04
+  },
+  {
+   "file": "preset_test/edit/motion/acao.mov",
+   "src_time": 7.12
+  },
+  {
+   "file": "preset_test/edit/motion/p70.mov",
+   "src_time": 9.98
+  },
+  {
+   "file": "preset_test/edit/motion/parado.mov",
+   "src_time": 18.4
+  }
+ ],
+ "sfx": [
+  {
+   "file": "/Users/mac-matteo/marketing machine/assets/sfx/pop.wav",
+   "src_time": 3.04,
+   "db": -6
+  },
+  {
+   "file": "/Users/mac-matteo/marketing machine/assets/sfx/pop.wav",
+   "src_time": 7.12,
+   "db": -6
+  },
+  {
+   "file": "/Users/mac-matteo/marketing machine/assets/sfx/pop.wav",
+   "src_time": 9.98,
+   "db": -6
+  },
+  {
+   "file": "/Users/mac-matteo/marketing machine/assets/sfx/pop.wav",
+   "src_time": 18.4,
+   "db": -6
+  }
+ ]
+}

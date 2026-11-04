@@ -1,0 +1,16 @@
+[0:v]trim=start=1.000:end=5.008,setpts=PTS-STARTPTS,crop=606:1080:614:0,scale=1080:1920,setsar=1[v0];
+[0:a]atrim=start=1.000:end=5.008,asetpts=PTS-STARTPTS[a0];
+[0:v]trim=start=5.278:end=5.720,setpts=PTS-STARTPTS,crop=606:1080:614:0,scale=1080:1920,setsar=1[v1];
+[0:a]atrim=start=5.278:end=5.720,asetpts=PTS-STARTPTS[a1];
+[0:v]trim=start=5.980:end=8.836,setpts=PTS-STARTPTS,crop=606:1080:614:0,scale=1080:1920,setsar=1[v2];
+[0:a]atrim=start=5.980:end=8.836,asetpts=PTS-STARTPTS[a2];
+[0:v]trim=start=9.041:end=12.480,setpts=PTS-STARTPTS,crop=606:1080:614:0,scale=1080:1920,setsar=1[v3];
+[0:a]atrim=start=9.041:end=12.480,asetpts=PTS-STARTPTS[a3];
+[0:v]trim=start=12.700:end=15.940,setpts=PTS-STARTPTS,crop=606:1080:614:0,scale=1080:1920,setsar=1[v4];
+[0:a]atrim=start=12.700:end=15.940,asetpts=PTS-STARTPTS[a4];
+[v0][a0][v1][a1][v2][a2][v3][a3][v4][a4]concat=n=5:v=1:a=1[cv0][ca];
+[cv0]format=yuv420p[cv];
+[ca]loudnorm=I=-14:TP=-1:LRA=11,aresample=48000,asetnsamples=n=1024:p=0,asetpts=N/SR/TB[aout];
+movie='/Users/mac-matteo/marketing machine/cortes/semana-d2/edit/05_o-enem-nao-te-avisa-o-assunto-da-questao/title.png',format=rgba,scale=out_color_matrix=bt709:out_range=tv,format=yuva420p[tt];
+[cv][tt]overlay=0:0:enable='lt(t,4.0)'[cvt];
+[cvt]ass='/Users/mac-matteo/marketing machine/cortes/semana-d2/edit/05_o-enem-nao-te-avisa-o-assunto-da-questao/caps.ass':fontsdir='/Users/mac-matteo/marketing machine/assets/fonts/clipper'[outv]

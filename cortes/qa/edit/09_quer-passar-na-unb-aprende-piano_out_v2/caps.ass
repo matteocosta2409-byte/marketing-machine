@@ -1,0 +1,82 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Helvetica,67,&H00FFFFFF,&H00FFFFFF,&HC8000000,&HC8000000,0,1,0,0,100,100,0,0,1,6.7,6.7,2,60,60,540,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.04,0:00:00.46,Cap,,0,0,0,,Uma coisa
+Dialogue: 0,0:00:00.46,0:00:00.94,Cap,,0,0,0,,curiosa é
+Dialogue: 0,0:00:00.94,0:00:01.52,Cap,,0,0,0,,que muita
+Dialogue: 0,0:00:01.52,0:00:01.94,Cap,,0,0,0,,gente que
+Dialogue: 0,0:00:01.94,0:00:02.24,Cap,,0,0,0,,passou na
+Dialogue: 0,0:00:02.24,0:00:02.66,Cap,,0,0,0,,Medicina da
+Dialogue: 0,0:00:02.66,0:00:03.06,Cap,,0,0,0,,UnB,
+Dialogue: 0,0:00:03.06,0:00:03.38,Cap,,0,0,0,,na minha
+Dialogue: 0,0:00:03.38,0:00:03.96,Cap,,0,0,0,,turma tocava
+Dialogue: 0,0:00:03.96,0:00:04.18,Cap,,0,0,0,,piano.
+Dialogue: 0,0:00:04.18,0:00:04.68,Cap,,0,0,0,,Então assim,
+Dialogue: 0,0:00:04.68,0:00:04.90,Cap,,0,0,0,,é,
+Dialogue: 0,0:00:04.90,0:00:05.34,Cap,,0,0,0,,tinha umas
+Dialogue: 0,0:00:05.34,0:00:06.28,Cap,,0,0,0,,sete respostas
+Dialogue: 0,0:00:06.28,0:00:06.58,Cap,,0,0,0,,lá que
+Dialogue: 0,0:00:06.58,0:00:06.84,Cap,,0,0,0,,eram que
+Dialogue: 0,0:00:06.84,0:00:07.54,Cap,,0,0,0,,tocavam piano.
+Dialogue: 0,0:00:07.54,0:00:07.84,Cap,,0,0,0,,Então,
+Dialogue: 0,0:00:07.84,0:00:07.96,Cap,,0,0,0,,é,
+Dialogue: 0,0:00:07.96,0:00:08.16,Cap,,0,0,0,,e pra
+Dialogue: 0,0:00:08.16,0:00:08.44,Cap,,0,0,0,,uma turma
+Dialogue: 0,0:00:08.44,0:00:08.90,Cap,,0,0,0,,de quarenta
+Dialogue: 0,0:00:08.90,0:00:09.40,Cap,,0,0,0,,é bastante
+Dialogue: 0,0:00:09.40,0:00:10.00,Cap,,0,0,0,,pe-- muita
+Dialogue: 0,0:00:10.00,0:00:10.44,Cap,,0,0,0,,gente,
+Dialogue: 0,0:00:10.44,0:00:10.70,Cap,,0,0,0,,po-- e
+Dialogue: 0,0:00:10.70,0:00:11.02,Cap,,0,0,0,,nem foi
+Dialogue: 0,0:00:11.02,0:00:11.32,Cap,,0,0,0,,todo mundo
+Dialogue: 0,0:00:11.32,0:00:11.82,Cap,,0,0,0,,que respondeu,
+Dialogue: 0,0:00:11.82,0:00:12.28,Cap,,0,0,0,,foi pouca
+Dialogue: 0,0:00:12.28,0:00:12.50,Cap,,0,0,0,,gente que
+Dialogue: 0,0:00:12.50,0:00:12.80,Cap,,0,0,0,,respondeu,
+Dialogue: 0,0:00:12.80,0:00:13.23,Cap,,0,0,0,,inclusive.
+Dialogue: 0,0:00:13.23,0:00:13.68,Cap,,0,0,0,,Então é
+Dialogue: 0,0:00:13.68,0:00:14.16,Cap,,0,0,0,,muita gente
+Dialogue: 0,0:00:14.16,0:00:14.62,Cap,,0,0,0,,que toca
+Dialogue: 0,0:00:14.62,0:00:14.98,Cap,,0,0,0,,piano.
+Dialogue: 0,0:00:14.98,0:00:15.50,Cap,,0,0,0,,Então,
+Dialogue: 0,0:00:15.50,0:00:15.72,Cap,,0,0,0,,eu acho
+Dialogue: 0,0:00:15.72,0:00:15.90,Cap,,0,0,0,,que se
+Dialogue: 0,0:00:15.90,0:00:16.18,Cap,,0,0,0,,você quer
+Dialogue: 0,0:00:16.18,0:00:16.56,Cap,,0,0,0,,passar na
+Dialogue: 0,0:00:16.56,0:00:16.76,Cap,,0,0,0,,UnB,
+Dialogue: 0,0:00:16.76,0:00:17.00,Cap,,0,0,0,,não tem
+Dialogue: 0,0:00:17.00,0:00:17.30,Cap,,0,0,0,,por que
+Dialogue: 0,0:00:17.30,0:00:17.86,Cap,,0,0,0,,não aprender
+Dialogue: 0,0:00:17.86,0:00:18.16,Cap,,0,0,0,,a tocar
+Dialogue: 0,0:00:18.16,0:00:18.38,Cap,,0,0,0,,piano,
+Dialogue: 0,0:00:18.38,0:00:18.60,Cap,,0,0,0,,que não
+Dialogue: 0,0:00:18.60,0:00:19.08,Cap,,0,0,0,,é complexo,
+Dialogue: 0,0:00:19.08,0:00:19.24,Cap,,0,0,0,,não é
+Dialogue: 0,0:00:19.24,0:00:19.65,Cap,,0,0,0,,difícil.
+Dialogue: 0,0:00:19.65,0:00:20.05,Cap,,0,0,0,,E você
+Dialogue: 0,0:00:20.05,0:00:20.65,Cap,,0,0,0,,vai gostar,
+Dialogue: 0,0:00:20.65,0:00:20.95,Cap,,0,0,0,,você vai
+Dialogue: 0,0:00:20.95,0:00:21.57,Cap,,0,0,0,,aprender pra
+Dialogue: 0,0:00:21.57,0:00:21.97,Cap,,0,0,0,,prova e
+Dialogue: 0,0:00:21.97,0:00:22.53,Cap,,0,0,0,,você vai,
+Dialogue: 0,0:00:22.53,0:00:22.89,Cap,,0,0,0,,assim,
+Dialogue: 0,0:00:22.89,0:00:23.37,Cap,,0,0,0,,tirar onda,
+Dialogue: 0,0:00:23.37,0:00:23.69,Cap,,0,0,0,,tocar pro
+Dialogue: 0,0:00:23.69,0:00:24.09,Cap,,0,0,0,,seu pai,
+Dialogue: 0,0:00:24.09,0:00:24.41,Cap,,0,0,0,,tocar pra
+Dialogue: 0,0:00:24.41,0:00:24.89,Cap,,0,0,0,,sua mãe,
+Dialogue: 0,0:00:24.89,0:00:25.21,Cap,,0,0,0,,tocar pra
+Dialogue: 0,0:00:25.21,0:00:26.15,Cap,,0,0,0,,sua namorada,
+Dialogue: 0,0:00:26.15,0:00:26.45,Cap,,0,0,0,,enfim,
+Dialogue: 0,0:00:26.45,0:00:26.81,Cap,,0,0,0,,é muito
+Dialogue: 0,0:00:26.81,0:00:27.37,Cap,,0,0,0,,prazeroso tocar
+Dialogue: 0,0:00:27.37,0:00:28.19,Cap,,0,0,0,,um instrumento

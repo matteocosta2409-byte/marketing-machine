@@ -1,0 +1,52 @@
+{
+ "grupos": [
+  {
+   "zona": "topo",
+   "itens": [
+    {
+     "img": "/Users/mac-matteo/marketing machine/assets/cards/ciencias/einstein.png",
+     "palavra": "gênio"
+    },
+    {
+     "img": "/Users/mac-matteo/marketing machine/assets/cards/ciencias/newton.png",
+     "palavra": "pensando"
+    },
+    {
+     "img": "/Users/mac-matteo/marketing machine/assets/cards/ciencias/brain.png",
+     "palavra": "demais"
+    }
+   ]
+  },
+  {
+   "zona": "peito",
+   "fim": "sucesso",
+   "itens": [
+    {
+     "img": "/Users/mac-matteo/marketing machine/carrosseis/fotos/treino-academia-halter.PNG",
+     "palavra": "ação"
+    },
+    {
+     "img": "/Users/mac-matteo/marketing machine/carrosseis/fotos/equipe-handebol-quadra.jpg",
+     "palavra": "inteligência"
+    }
+   ]
+  },
+  {
+   "zona": "topo",
+   "itens": [
+    {
+     "img": "/Users/mac-matteo/marketing machine/carrosseis/fotos/macbook-cafe.jpg",
+     "palavra": "plano"
+    },
+    {
+     "img": "/Users/mac-matteo/marketing machine/carrosseis/fotos/livro-aberto-mesa.jpg",
+     "palavra": "aprender"
+    },
+    {
+     "img": "/Users/mac-matteo/marketing machine/carrosseis/fotos/estudo-matematica-mesa.PNG",
+     "palavra": "rápido"
+    }
+   ]
+  }
+ ]
+}

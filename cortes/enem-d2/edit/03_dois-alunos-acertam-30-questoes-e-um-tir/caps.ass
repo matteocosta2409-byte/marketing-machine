@@ -1,0 +1,121 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Helvetica,67,&H00FFFFFF,&H00FFFFFF,&HC8000000,&HC8000000,0,1,0,0,100,100,0,0,1,6.7,6.7,2,60,60,300,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.04,0:00:00.54,Cap,,0,0,0,,O Enem
+Dialogue: 0,0:00:00.54,0:00:01.04,Cap,,0,0,0,,usa a
+Dialogue: 0,0:00:01.04,0:00:01.60,Cap,,0,0,0,,TRI,
+Dialogue: 0,0:00:01.60,0:00:02.04,Cap,,0,0,0,,Teoria de
+Dialogue: 0,0:00:02.04,0:00:02.64,Cap,,0,0,0,,Resposta ao
+Dialogue: 0,0:00:02.64,0:00:02.91,Cap,,0,0,0,,Item.
+Dialogue: 0,0:00:02.91,0:00:03.29,Cap,,0,0,0,,Muito provavelmente
+Dialogue: 0,0:00:03.29,0:00:03.47,Cap,,0,0,0,,você já
+Dialogue: 0,0:00:03.47,0:00:03.89,Cap,,0,0,0,,ouviu falar
+Dialogue: 0,0:00:03.89,0:00:04.17,Cap,,0,0,0,,nela.
+Dialogue: 0,0:00:04.17,0:00:04.95,Cap,,0,0,0,,Na TRI,
+Dialogue: 0,0:00:04.95,0:00:05.49,Cap,,0,0,0,,cada questão
+Dialogue: 0,0:00:05.49,0:00:06.01,Cap,,0,0,0,,tem três
+Dialogue: 0,0:00:06.01,0:00:07.29,Cap,,0,0,0,,características básicas:
+Dialogue: 0,0:00:07.29,0:00:08.09,Cap,,0,0,0,,a dificuldade,
+Dialogue: 0,0:00:08.09,0:00:08.35,Cap,,0,0,0,,que é
+Dialogue: 0,0:00:08.35,0:00:08.77,Cap,,0,0,0,,quanto de
+Dialogue: 0,0:00:08.77,0:00:09.47,Cap,,0,0,0,,conhecimento você
+Dialogue: 0,0:00:09.47,0:00:09.91,Cap,,0,0,0,,precisa pra
+Dialogue: 0,0:00:09.91,0:00:10.43,Cap,,0,0,0,,acertar,
+Dialogue: 0,0:00:10.43,0:00:11.33,Cap,,0,0,0,,a discriminação
+Dialogue: 0,0:00:11.33,0:00:11.93,Cap,,0,0,0,,da questão,
+Dialogue: 0,0:00:11.93,0:00:12.05,Cap,,0,0,0,,que é
+Dialogue: 0,0:00:12.05,0:00:12.57,Cap,,0,0,0,,o quanto
+Dialogue: 0,0:00:12.57,0:00:13.61,Cap,,0,0,0,,aquela questão
+Dialogue: 0,0:00:13.61,0:00:14.35,Cap,,0,0,0,,separa um
+Dialogue: 0,0:00:14.35,0:00:15.09,Cap,,0,0,0,,bom candidato
+Dialogue: 0,0:00:15.09,0:00:15.35,Cap,,0,0,0,,de um
+Dialogue: 0,0:00:15.35,0:00:16.19,Cap,,0,0,0,,mau candidato,
+Dialogue: 0,0:00:16.19,0:00:16.65,Cap,,0,0,0,,quem sabe
+Dialogue: 0,0:00:16.65,0:00:17.05,Cap,,0,0,0,,a matéria
+Dialogue: 0,0:00:17.05,0:00:17.25,Cap,,0,0,0,,e quem
+Dialogue: 0,0:00:17.25,0:00:17.79,Cap,,0,0,0,,não sabe,
+Dialogue: 0,0:00:17.79,0:00:18.17,Cap,,0,0,0,,e uma
+Dialogue: 0,0:00:18.17,0:00:18.49,Cap,,0,0,0,,coisa que
+Dialogue: 0,0:00:18.49,0:00:19.43,Cap,,0,0,0,,chama acerto
+Dialogue: 0,0:00:19.43,0:00:20.23,Cap,,0,0,0,,ao acaso.
+Dialogue: 0,0:00:20.23,0:00:20.95,Cap,,0,0,0,,Basicamente,
+Dialogue: 0,0:00:20.95,0:00:21.41,Cap,,0,0,0,,a chance
+Dialogue: 0,0:00:21.41,0:00:21.63,Cap,,0,0,0,,de alguém
+Dialogue: 0,0:00:21.63,0:00:22.25,Cap,,0,0,0,,acertar aquela
+Dialogue: 0,0:00:22.25,0:00:22.67,Cap,,0,0,0,,questão no
+Dialogue: 0,0:00:22.67,0:00:23.04,Cap,,0,0,0,,chute.
+Dialogue: 0,0:00:23.04,0:00:23.20,Cap,,0,0,0,,E o
+Dialogue: 0,0:00:23.20,0:00:23.78,Cap,,0,0,0,,principal,
+Dialogue: 0,0:00:23.78,0:00:24.42,Cap,,0,0,0,,a TRI
+Dialogue: 0,0:00:24.42,0:00:24.70,Cap,,0,0,0,,olha a
+Dialogue: 0,0:00:24.70,0:00:25.44,Cap,,0,0,0,,coerência dos
+Dialogue: 0,0:00:25.44,0:00:26.36,Cap,,0,0,0,,seus acertos.
+Dialogue: 0,0:00:26.36,0:00:26.78,Cap,,0,0,0,,Ela espera
+Dialogue: 0,0:00:26.78,0:00:27.10,Cap,,0,0,0,,que quem
+Dialogue: 0,0:00:27.10,0:00:27.46,Cap,,0,0,0,,acerta as
+Dialogue: 0,0:00:27.46,0:00:28.36,Cap,,0,0,0,,difíceis também
+Dialogue: 0,0:00:28.36,0:00:28.82,Cap,,0,0,0,,acerte as
+Dialogue: 0,0:00:28.82,0:00:29.30,Cap,,0,0,0,,fáceis,
+Dialogue: 0,0:00:29.30,0:00:29.58,Cap,,0,0,0,,pois se
+Dialogue: 0,0:00:29.58,0:00:29.84,Cap,,0,0,0,,fosse o
+Dialogue: 0,0:00:29.84,0:00:30.40,Cap,,0,0,0,,contrário,
+Dialogue: 0,0:00:30.40,0:00:30.86,Cap,,0,0,0,,ia parecer
+Dialogue: 0,0:00:30.86,0:00:31.16,Cap,,0,0,0,,que você
+Dialogue: 0,0:00:31.16,0:00:31.66,Cap,,0,0,0,,tá chutando
+Dialogue: 0,0:00:31.66,0:00:32.28,Cap,,0,0,0,,e acertando
+Dialogue: 0,0:00:32.28,0:00:32.60,Cap,,0,0,0,,só por
+Dialogue: 0,0:00:32.60,0:00:33.42,Cap,,0,0,0,,conta disso.
+Dialogue: 0,0:00:33.42,0:00:33.72,Cap,,0,0,0,,Olha esses
+Dialogue: 0,0:00:33.72,0:00:34.22,Cap,,0,0,0,,dois alunos
+Dialogue: 0,0:00:34.22,0:00:34.52,Cap,,0,0,0,,aqui.
+Dialogue: 0,0:00:34.52,0:00:34.92,Cap,,0,0,0,,Os dois
+Dialogue: 0,0:00:34.92,0:00:35.86,Cap,,0,0,0,,acertaram trinta
+Dialogue: 0,0:00:35.86,0:00:36.60,Cap,,0,0,0,,questões.
+Dialogue: 0,0:00:36.60,0:00:36.82,Cap,,0,0,0,,Só que
+Dialogue: 0,0:00:36.82,0:00:37.26,Cap,,0,0,0,,o aluno
+Dialogue: 0,0:00:37.26,0:00:37.76,Cap,,0,0,0,,A acertou
+Dialogue: 0,0:00:37.76,0:00:38.48,Cap,,0,0,0,,as fáceis
+Dialogue: 0,0:00:38.48,0:00:38.76,Cap,,0,0,0,,e as
+Dialogue: 0,0:00:38.76,0:00:39.52,Cap,,0,0,0,,médias e
+Dialogue: 0,0:00:39.52,0:00:40.02,Cap,,0,0,0,,o B
+Dialogue: 0,0:00:40.02,0:00:40.58,Cap,,0,0,0,,errou as
+Dialogue: 0,0:00:40.58,0:00:41.18,Cap,,0,0,0,,fáceis e
+Dialogue: 0,0:00:41.18,0:00:41.62,Cap,,0,0,0,,acertou as
+Dialogue: 0,0:00:41.62,0:00:42.19,Cap,,0,0,0,,difíceis.
+Dialogue: 0,0:00:42.19,0:00:43.07,Cap,,0,0,0,,Pra TRI,
+Dialogue: 0,0:00:43.07,0:00:43.67,Cap,,0,0,0,,o padrão
+Dialogue: 0,0:00:43.67,0:00:44.25,Cap,,0,0,0,,B parece
+Dialogue: 0,0:00:44.25,0:00:44.51,Cap,,0,0,0,,que foi
+Dialogue: 0,0:00:44.51,0:00:45.07,Cap,,0,0,0,,chute.
+Dialogue: 0,0:00:45.07,0:00:45.17,Cap,,0,0,0,,E o
+Dialogue: 0,0:00:45.17,0:00:45.57,Cap,,0,0,0,,resultado é
+Dialogue: 0,0:00:45.57,0:00:46.09,Cap,,0,0,0,,o seguinte:
+Dialogue: 0,0:00:46.09,0:00:46.55,Cap,,0,0,0,,mesmo número
+Dialogue: 0,0:00:46.55,0:00:47.39,Cap,,0,0,0,,de acertos,
+Dialogue: 0,0:00:47.39,0:00:48.53,Cap,,0,0,0,,notas diferentes.
+Dialogue: 0,0:00:48.53,0:00:48.93,Cap,,0,0,0,,O aluno
+Dialogue: 0,0:00:48.93,0:00:49.27,Cap,,0,0,0,,A tira
+Dialogue: 0,0:00:49.27,0:00:49.71,Cap,,0,0,0,,uma nota
+Dialogue: 0,0:00:49.71,0:00:50.12,Cap,,0,0,0,,maior.
+Dialogue: 0,0:00:50.12,0:00:50.34,Cap,,0,0,0,,Então a
+Dialogue: 0,0:00:50.34,0:00:51.12,Cap,,0,0,0,,regra prática
+Dialogue: 0,0:00:51.12,0:00:51.28,Cap,,0,0,0,,é o
+Dialogue: 0,0:00:51.28,0:00:51.74,Cap,,0,0,0,,seguinte:
+Dialogue: 0,0:00:51.74,0:00:52.24,Cap,,0,0,0,,não pode
+Dialogue: 0,0:00:52.24,0:00:52.88,Cap,,0,0,0,,deixar escapar
+Dialogue: 0,0:00:52.88,0:00:53.54,Cap,,0,0,0,,nenhuma questão
+Dialogue: 0,0:00:53.54,0:00:54.14,Cap,,0,0,0,,fácil ou
+Dialogue: 0,0:00:54.14,0:00:54.48,Cap,,0,0,0,,média,
+Dialogue: 0,0:00:54.48,0:00:54.82,Cap,,0,0,0,,senão sua
+Dialogue: 0,0:00:54.82,0:00:55.30,Cap,,0,0,0,,nota cai
+Dialogue: 0,0:00:55.30,0:00:56.10,Cap,,0,0,0,,bastante.
+Dialogue: 0,0:00:56.10,0:00:56.52,Cap,,0,0,0,,É

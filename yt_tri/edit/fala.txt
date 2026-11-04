@@ -1,0 +1,18 @@
+Cada questão do Enem tem uma curva em forma de S. Na horizontal, o nível do aluno. Na vertical, a chance de ele acertar.
+Olha essa aqui: questão 91 de natureza de 2025, caderno amarelo. Física, transferência de calor.
+Pra quem está abaixo de 500, a curva prevê 41% de acerto. Os candidatos reais dessa faixa acertaram 44%. De 600 a 649, a curva diz 83%, os reais, 86%. De 700 a 749, 99 e 99.
+A teoria e os candidatos reais quase se sobrepõem. Nem sempre encaixa tão bem assim, e daqui a pouco eu te mostro quando não encaixa.
+Essa é a parte que quase ninguém explica. A conta é uma multiplicação, não uma soma.
+Vou usar três questões reais de natureza de 2024, caderno amarelo: a 93, fácil, a 92, média, e a 127, difícil. O aluno acertou as duas primeiras e errou a difícil.
+A conta pergunta, pra cada nota possível: qual a chance de alguém desse nível responder exatamente assim?
+Alguém de nota 400 tem 18% de chance de acertar a fácil, 26% de acertar a média e 72% de errar a difícil. Multiplica tudo: cerca de 3%.
+Alguém de nota 700: 92%, 74% e 53%. Multiplica: 36%.
+Só com as respostas, o nível mais provável é 700. Depois entra uma informação inicial, que é como os concluintes de 2009 se distribuíam. Com três questões, ela puxa pra perto de 600. Com a prova inteira, as respostas contam muito mais.
+E a nota final é a média de todos esses níveis, levando em conta o quanto cada um é plausível.
+Agora inverte, com as mesmas três. Errou as duas mais fáceis e acertou a difícil. Os níveis mais plausíveis caem pra 400 e 500.
+O acerto na difícil não sustentou uma nota alta, porque errar as fáceis é muito improvável pra um aluno forte.
+Esse exemplo é cálculo nosso, com os parâmetros oficiais e só seis notas, pra caber na tela. A conta real percorre a escala toda.
+Agora com a prova inteira. Isso aqui é uma simulação: um aluno inventado, de nível 700, respondendo às questões reais de natureza de 2024.
+Depois da primeira resposta, certa, a estimativa é 582, com margem de 110. Quase não diz nada. Na terceira ele erra, e cai pra 556. Na oitava, já está em 681, com margem de 49. No fim, nas 44 questões válidas, 722, com margem de 26.
+A cada resposta, a montanha fica mais estreita.
+E repara: o aluno era 700 e saiu com 722. A nota é uma medida, e toda medida tem erro.

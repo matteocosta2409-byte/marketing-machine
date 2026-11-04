@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "sources": {
+    "src": "/Users/mac-matteo/marketing machine/solo_idiota/src.mov"
+  },
+  "ranges": [
+    {
+      "source": "src",
+      "start": 1.12,
+      "end": 5.68
+    },
+    {
+      "source": "src",
+      "start": 6.02,
+      "end": 8.818
+    },
+    {
+      "source": "src",
+      "start": 9.24,
+      "end": 11.08
+    },
+    {
+      "source": "src",
+      "start": 12.32,
+      "end": 19.51
+    },
+    {
+      "source": "src",
+      "start": 19.92,
+      "end": 24.551
+    },
+    {
+      "source": "src",
+      "start": 24.94,
+      "end": 26.457
+    },
+    {
+      "source": "src",
+      "start": 26.96,
+      "end": 28.267
+    }
+  ],
+  "grade": "none",
+  "overlays": [],
+  "subtitle_case": "natural",
+  "subtitle_style": "FontName=Helvetica,FontSize=10,Bold=0,Italic=1,PrimaryColour=&H00FFFFFF,OutlineColour=&HC8000000,BorderStyle=1,Outline=1,Shadow=1,Alignment=2,MarginV=45",
+  "total_duration_s": 23.843
+}

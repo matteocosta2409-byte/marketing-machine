@@ -1,0 +1,175 @@
+{
+  "version": 1,
+  "sources": {
+    "IMG_9282": "/Users/mac-matteo/marketing machine/solo_p/IMG_9282.mov",
+    "IMG_9283": "/Users/mac-matteo/marketing machine/solo_p/IMG_9283.mov",
+    "IMG_9284": "/Users/mac-matteo/marketing machine/solo_p/IMG_9284.mov"
+  },
+  "ranges": [
+    {
+      "source": "IMG_9282",
+      "start": 0.3,
+      "end": 5.995
+    },
+    {
+      "source": "IMG_9283",
+      "start": 0.209,
+      "end": 6.415
+    },
+    {
+      "source": "IMG_9283",
+      "start": 6.854,
+      "end": 13.64
+    },
+    {
+      "source": "IMG_9283",
+      "start": 13.86,
+      "end": 14.62
+    },
+    {
+      "source": "IMG_9283",
+      "start": 15.22,
+      "end": 16.16
+    },
+    {
+      "source": "IMG_9283",
+      "start": 16.54,
+      "end": 20.28
+    },
+    {
+      "source": "IMG_9283",
+      "start": 20.542,
+      "end": 24.382
+    },
+    {
+      "source": "IMG_9283",
+      "start": 24.587,
+      "end": 26.472
+    },
+    {
+      "source": "IMG_9283",
+      "start": 26.88,
+      "end": 29.86
+    },
+    {
+      "source": "IMG_9283",
+      "start": 30.32,
+      "end": 35.699
+    },
+    {
+      "source": "IMG_9283",
+      "start": 35.94,
+      "end": 41.43
+    },
+    {
+      "source": "IMG_9283",
+      "start": 41.809,
+      "end": 44.04
+    },
+    {
+      "source": "IMG_9283",
+      "start": 44.258,
+      "end": 48.09
+    },
+    {
+      "source": "IMG_9283",
+      "start": 48.36,
+      "end": 52.349
+    },
+    {
+      "source": "IMG_9283",
+      "start": 52.533,
+      "end": 54.69
+    },
+    {
+      "source": "IMG_9283",
+      "start": 55.02,
+      "end": 59.54
+    },
+    {
+      "source": "IMG_9283",
+      "start": 59.84,
+      "end": 61.694
+    },
+    {
+      "source": "IMG_9283",
+      "start": 62.06,
+      "end": 64.72
+    },
+    {
+      "source": "IMG_9283",
+      "start": 65.04,
+      "end": 68.68
+    },
+    {
+      "source": "IMG_9283",
+      "start": 68.98,
+      "end": 71.893
+    },
+    {
+      "source": "IMG_9283",
+      "start": 72.085,
+      "end": 73.76
+    },
+    {
+      "source": "IMG_9283",
+      "start": 74.02,
+      "end": 86.745
+    },
+    {
+      "source": "IMG_9283",
+      "start": 86.957,
+      "end": 87.74
+    },
+    {
+      "source": "IMG_9283",
+      "start": 88.78,
+      "end": 94.065
+    },
+    {
+      "source": "IMG_9283",
+      "start": 94.322,
+      "end": 96.86
+    },
+    {
+      "source": "IMG_9283",
+      "start": 97.12,
+      "end": 103.805
+    },
+    {
+      "source": "IMG_9283",
+      "start": 103.988,
+      "end": 111.26
+    },
+    {
+      "source": "IMG_9283",
+      "start": 112.08,
+      "end": 112.296
+    },
+    {
+      "source": "IMG_9283",
+      "start": 112.543,
+      "end": 121.507
+    },
+    {
+      "source": "IMG_9283",
+      "start": 121.86,
+      "end": 127.01
+    },
+    {
+      "source": "IMG_9283",
+      "start": 127.28,
+      "end": 131.58
+    },
+    {
+      "source": "IMG_9284",
+      "start": 0.439,
+      "end": 9.284
+    }
+  ],
+  "grade": "none",
+  "overlays": [],
+  "subtitle_case": "natural",
+  "subtitle_style": "FontName=Helvetica,FontSize=15,Bold=0,Italic=1,PrimaryColour=&H00FFFFFF,OutlineColour=&HC8000000,BorderStyle=1,Outline=1,Shadow=1,Alignment=2,MarginV=60",
+  "total_duration_s": 135.935
+}

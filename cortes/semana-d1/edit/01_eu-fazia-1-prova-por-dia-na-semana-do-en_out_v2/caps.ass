@@ -1,0 +1,59 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Helvetica,67,&H00FFFFFF,&H00FFFFFF,&HC8000000,&HC8000000,0,1,0,0,100,100,0,0,1,6.7,6.7,2,60,60,540,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.04,0:00:00.40,Cap,,0,0,0,,A primeira
+Dialogue: 0,0:00:00.40,0:00:01.14,Cap,,0,0,0,,estratégia é
+Dialogue: 0,0:00:01.14,0:00:01.28,Cap,,0,0,0,,o que
+Dialogue: 0,0:00:01.28,0:00:01.64,Cap,,0,0,0,,eu chamo
+Dialogue: 0,0:00:01.64,0:00:02.44,Cap,,0,0,0,,de maratona
+Dialogue: 0,0:00:02.44,0:00:03.22,Cap,,0,0,0,,de provas.
+Dialogue: 0,0:00:03.22,0:00:03.80,Cap,,0,0,0,,Uma prova
+Dialogue: 0,0:00:03.80,0:00:04.20,Cap,,0,0,0,,por dia,
+Dialogue: 0,0:00:04.20,0:00:04.82,Cap,,0,0,0,,de segunda
+Dialogue: 0,0:00:04.82,0:00:05.46,Cap,,0,0,0,,a sexta,
+Dialogue: 0,0:00:05.46,0:00:05.74,Cap,,0,0,0,,e no
+Dialogue: 0,0:00:05.74,0:00:06.08,Cap,,0,0,0,,sábado eu
+Dialogue: 0,0:00:06.08,0:00:06.74,Cap,,0,0,0,,descansava.
+Dialogue: 0,0:00:06.74,0:00:07.40,Cap,,0,0,0,,Mas atenção:
+Dialogue: 0,0:00:07.40,0:00:07.66,Cap,,0,0,0,,isso é
+Dialogue: 0,0:00:07.66,0:00:07.96,Cap,,0,0,0,,pra quem
+Dialogue: 0,0:00:07.96,0:00:08.30,Cap,,0,0,0,,já tá
+Dialogue: 0,0:00:08.30,0:00:09.20,Cap,,0,0,0,,mais avançado,
+Dialogue: 0,0:00:09.20,0:00:09.56,Cap,,0,0,0,,pra quem
+Dialogue: 0,0:00:09.56,0:00:10.08,Cap,,0,0,0,,já estudou
+Dialogue: 0,0:00:10.08,0:00:10.28,Cap,,0,0,0,,o ano
+Dialogue: 0,0:00:10.28,0:00:10.72,Cap,,0,0,0,,inteiro,
+Dialogue: 0,0:00:10.72,0:00:11.18,Cap,,0,0,0,,já terminou
+Dialogue: 0,0:00:11.18,0:00:11.76,Cap,,0,0,0,,a matéria
+Dialogue: 0,0:00:11.76,0:00:12.04,Cap,,0,0,0,,e já
+Dialogue: 0,0:00:12.04,0:00:12.74,Cap,,0,0,0,,tá acostumado
+Dialogue: 0,0:00:12.74,0:00:13.06,Cap,,0,0,0,,a fazer
+Dialogue: 0,0:00:13.06,0:00:13.84,Cap,,0,0,0,,bastante prova
+Dialogue: 0,0:00:13.84,0:00:14.18,Cap,,0,0,0,,antiga do
+Dialogue: 0,0:00:14.18,0:00:14.64,Cap,,0,0,0,,Enem.
+Dialogue: 0,0:00:14.64,0:00:15.28,Cap,,0,0,0,,Cinco provas
+Dialogue: 0,0:00:15.28,0:00:15.98,Cap,,0,0,0,,na semana
+Dialogue: 0,0:00:15.98,0:00:16.52,Cap,,0,0,0,,é muita
+Dialogue: 0,0:00:16.52,0:00:17.10,Cap,,0,0,0,,coisa.
+Dialogue: 0,0:00:17.10,0:00:17.40,Cap,,0,0,0,,Se você
+Dialogue: 0,0:00:17.40,0:00:17.80,Cap,,0,0,0,,não tá
+Dialogue: 0,0:00:17.80,0:00:18.50,Cap,,0,0,0,,acostumado,
+Dialogue: 0,0:00:18.50,0:00:18.94,Cap,,0,0,0,,você vai
+Dialogue: 0,0:00:18.94,0:00:19.60,Cap,,0,0,0,,se esgotar
+Dialogue: 0,0:00:19.60,0:00:19.86,Cap,,0,0,0,,e só
+Dialogue: 0,0:00:19.86,0:00:20.46,Cap,,0,0,0,,chegar mais
+Dialogue: 0,0:00:20.46,0:00:21.00,Cap,,0,0,0,,cansado no
+Dialogue: 0,0:00:21.00,0:00:21.64,Cap,,0,0,0,,dia oficial,
+Dialogue: 0,0:00:21.64,0:00:21.96,Cap,,0,0,0,,então não
+Dialogue: 0,0:00:21.96,0:00:22.28,Cap,,0,0,0,,vale a
+Dialogue: 0,0:00:22.28,0:00:22.74,Cap,,0,0,0,,pena.
+Dialogue: 0,0:00:22.74,0:00:23.24,Cap,,0,0,0,,E

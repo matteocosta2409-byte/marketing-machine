@@ -1,0 +1,123 @@
+{
+  "version": 1,
+  "sources": {
+    "src": "/Users/mac-matteo/marketing machine/solo_9558/src.mov"
+  },
+  "ranges": [
+    {
+      "source": "src",
+      "start": 0.0,
+      "end": 2.74
+    },
+    {
+      "source": "src",
+      "start": 3.16,
+      "end": 6.64
+    },
+    {
+      "source": "src",
+      "start": 6.92,
+      "end": 13.16
+    },
+    {
+      "source": "src",
+      "start": 13.4,
+      "end": 16.099
+    },
+    {
+      "source": "src",
+      "start": 16.68,
+      "end": 18.9
+    },
+    {
+      "source": "src",
+      "start": 22.12,
+      "end": 24.2
+    },
+    {
+      "source": "src",
+      "start": 24.52,
+      "end": 28.44
+    },
+    {
+      "source": "src",
+      "start": 28.76,
+      "end": 29.32
+    },
+    {
+      "source": "src",
+      "start": 29.58,
+      "end": 33.76
+    },
+    {
+      "source": "src",
+      "start": 34.76,
+      "end": 35.12
+    },
+    {
+      "source": "src",
+      "start": 35.36,
+      "end": 39.12
+    },
+    {
+      "source": "src",
+      "start": 39.42,
+      "end": 41.62
+    },
+    {
+      "source": "src",
+      "start": 41.84,
+      "end": 46.86
+    },
+    {
+      "source": "src",
+      "start": 47.14,
+      "end": 50.06
+    },
+    {
+      "source": "src",
+      "start": 50.32,
+      "end": 60.18
+    },
+    {
+      "source": "src",
+      "start": 60.48,
+      "end": 61.3
+    },
+    {
+      "source": "src",
+      "start": 61.52,
+      "end": 62.88
+    },
+    {
+      "source": "src",
+      "start": 63.28,
+      "end": 69.02
+    },
+    {
+      "source": "src",
+      "start": 69.72,
+      "end": 79.72
+    },
+    {
+      "source": "src",
+      "start": 80.0,
+      "end": 81.62
+    },
+    {
+      "source": "src",
+      "start": 81.92,
+      "end": 83.46
+    },
+    {
+      "source": "src",
+      "start": 83.84,
+      "end": 84.858
+    }
+  ],
+  "grade": "none",
+  "overlays": [],
+  "subtitle_case": "natural",
+  "subtitle_style": "FontName=Helvetica,FontSize=10,Bold=0,Italic=1,PrimaryColour=&H00FFFFFF,OutlineColour=&HC8000000,BorderStyle=1,Outline=1,Shadow=1,Alignment=2,MarginV=45",
+  "total_duration_s": 74.337
+}

@@ -1,0 +1,252 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Helvetica,87,&H00FFFFFF,&H00FFFFFF,&HB0000000,&H00000000,0,0,0,0,100,100,0,0,1,6.7,0,2,40,40,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.04,0:00:00.67,Cap,,0,0,0,,{\pos(540,1280)}Escuta essa:
+Dialogue: 0,0:00:00.67,0:00:00.99,Cap,,0,0,0,,{\pos(540,1280)}o arco
+Dialogue: 0,0:00:00.99,0:00:01.35,Cap,,0,0,0,,{\pos(540,1280)}do estudante
+Dialogue: 0,0:00:01.37,0:00:01.71,Cap,,0,0,0,,{\pos(540,1280)}de medicina
+Dialogue: 0,0:00:01.75,0:00:02.13,Cap,,0,0,0,,{\pos(540,1280)}por empreendedor
+Dialogue: 0,0:00:02.33,0:00:02.81,Cap,,0,0,0,,{\pos(540,1280)}talvez seja
+Dialogue: 0,0:00:02.81,0:00:03.15,Cap,,0,0,0,,{\pos(540,1280)}o mais
+Dialogue: 0,0:00:03.15,0:00:03.78,Cap,,0,0,0,,{\pos(540,1280)}previsível que
+Dialogue: 0,0:00:03.78,0:00:04.08,Cap,,0,0,0,,{\pos(540,1280)}existe.
+Dialogue: 0,0:00:04.23,0:00:04.86,Cap,,0,0,0,,{\pos(540,1280)}Começa aos
+Dialogue: 0,0:00:04.87,0:00:05.47,Cap,,0,0,0,,{\pos(540,1280)}17 anos,
+Dialogue: 0,0:00:05.47,0:00:05.89,Cap,,0,0,0,,{\pos(540,1280)}quando você
+Dialogue: 0,0:00:05.89,0:00:06.27,Cap,,0,0,0,,{\pos(540,1280)}senta pra
+Dialogue: 0,0:00:06.27,0:00:06.89,Cap,,0,0,0,,{\pos(540,1280)}estudar pela
+Dialogue: 0,0:00:06.89,0:00:07.41,Cap,,0,0,0,,{\pos(540,1280)}primeira vez
+Dialogue: 0,0:00:07.41,0:00:07.77,Cap,,0,0,0,,{\pos(540,1280)}na vida
+Dialogue: 0,0:00:07.77,0:00:08.17,Cap,,0,0,0,,{\pos(540,1280)}pra passar
+Dialogue: 0,0:00:08.17,0:00:08.50,Cap,,0,0,0,,{\pos(540,1280)}no vestibular.
+Dialogue: 0,0:00:08.67,0:00:08.93,Cap,,0,0,0,,{\pos(540,1280)}E aí
+Dialogue: 0,0:00:08.93,0:00:09.47,Cap,,0,0,0,,{\pos(540,1280)}acontece uma
+Dialogue: 0,0:00:09.47,0:00:09.79,Cap,,0,0,0,,{\pos(540,1280)}coisa que
+Dialogue: 0,0:00:09.79,0:00:10.14,Cap,,0,0,0,,{\pos(540,1280)}nunca tinha
+Dialogue: 0,0:00:10.14,0:00:10.91,Cap,,0,0,0,,{\pos(540,1280)}acontecido antes:
+Dialogue: 0,0:00:11.06,0:00:11.53,Cap,,0,0,0,,{\pos(540,1280)}sua nota
+Dialogue: 0,0:00:11.53,0:00:11.97,Cap,,0,0,0,,{\pos(540,1280)}começa a
+Dialogue: 0,0:00:11.97,0:00:12.27,Cap,,0,0,0,,{\pos(540,1280)}subir.
+Dialogue: 0,0:00:12.32,0:00:12.57,Cap,,0,0,0,,{\pos(540,1280)}Cê não
+Dialogue: 0,0:00:12.57,0:00:13.11,Cap,,0,0,0,,{\pos(540,1280)}fica viciado
+Dialogue: 0,0:00:13.14,0:00:13.56,Cap,,0,0,0,,{\pos(540,1280)}na matéria,
+Dialogue: 0,0:00:13.62,0:00:13.94,Cap,,0,0,0,,{\pos(540,1280)}cê fica
+Dialogue: 0,0:00:13.94,0:00:14.52,Cap,,0,0,0,,{\pos(540,1280)}viciado em
+Dialogue: 0,0:00:14.52,0:00:14.92,Cap,,0,0,0,,{\pos(540,1280)}ser melhor
+Dialogue: 0,0:00:14.92,0:00:15.44,Cap,,0,0,0,,{\pos(540,1280)}essa semana
+Dialogue: 0,0:00:15.58,0:00:15.78,Cap,,0,0,0,,{\pos(540,1280)}do que
+Dialogue: 0,0:00:15.78,0:00:16.18,Cap,,0,0,0,,{\pos(540,1280)}você era
+Dialogue: 0,0:00:16.18,0:00:16.62,Cap,,0,0,0,,{\pos(540,1280)}na semana
+Dialogue: 0,0:00:16.62,0:00:16.92,Cap,,0,0,0,,{\pos(540,1280)}passada.
+Dialogue: 0,0:00:17.07,0:00:17.55,Cap,,0,0,0,,{\pos(540,1280)}Então você
+Dialogue: 0,0:00:17.55,0:00:17.91,Cap,,0,0,0,,{\pos(540,1280)}começa a
+Dialogue: 0,0:00:17.91,0:00:18.35,Cap,,0,0,0,,{\pos(540,1280)}estudar o
+Dialogue: 0,0:00:18.35,0:00:18.94,Cap,,0,0,0,,{\pos(540,1280)}próprio estudo,
+Dialogue: 0,0:00:19.07,0:00:19.45,Cap,,0,0,0,,{\pos(540,1280)}descobre a
+Dialogue: 0,0:00:19.45,0:00:20.11,Cap,,0,0,0,,{\pos(540,1280)}revisão espaçada,
+Dialogue: 0,0:00:20.35,0:00:20.65,Cap,,0,0,0,,{\pos(540,1280)}flashcard,
+Dialogue: 0,0:00:21.25,0:00:21.89,Cap,,0,0,0,,{\pos(540,1280)}coloca questões
+Dialogue: 0,0:00:22.01,0:00:22.33,Cap,,0,0,0,,{\pos(540,1280)}no lugar
+Dialogue: 0,0:00:22.33,0:00:22.59,Cap,,0,0,0,,{\pos(540,1280)}de ficar
+Dialogue: 0,0:00:22.59,0:00:23.13,Cap,,0,0,0,,{\pos(540,1280)}fazendo resumo.
+Dialogue: 0,0:00:23.34,0:00:23.78,Cap,,0,0,0,,{\pos(540,1280)}E funciona.
+Dialogue: 0,0:00:24.11,0:00:24.53,Cap,,0,0,0,,{\pos(540,1280)}A disciplina
+Dialogue: 0,0:00:24.61,0:00:24.92,Cap,,0,0,0,,{\pos(540,1280)}que você
+Dialogue: 0,0:00:24.92,0:00:25.36,Cap,,0,0,0,,{\pos(540,1280)}não tinha
+Dialogue: 0,0:00:25.40,0:00:25.72,Cap,,0,0,0,,{\pos(540,1280)}passa a
+Dialogue: 0,0:00:25.72,0:00:26.22,Cap,,0,0,0,,{\pos(540,1280)}fazer parte
+Dialogue: 0,0:00:26.22,0:00:26.46,Cap,,0,0,0,,{\pos(540,1280)}de quem
+Dialogue: 0,0:00:26.46,0:00:26.90,Cap,,0,0,0,,{\pos(540,1280)}você é.
+Dialogue: 0,0:00:26.90,0:00:27.20,Cap,,0,0,0,,{\pos(540,1280)}Dois ou
+Dialogue: 0,0:00:27.20,0:00:27.54,Cap,,0,0,0,,{\pos(540,1280)}três anos
+Dialogue: 0,0:00:27.54,0:00:27.84,Cap,,0,0,0,,{\pos(540,1280)}depois,
+Dialogue: 0,0:00:27.94,0:00:28.30,Cap,,0,0,0,,{\pos(540,1280)}seu nome
+Dialogue: 0,0:00:28.30,0:00:28.58,Cap,,0,0,0,,{\pos(540,1280)}tá lá
+Dialogue: 0,0:00:28.58,0:00:29.02,Cap,,0,0,0,,{\pos(540,1280)}na lista:
+Dialogue: 0,0:00:29.12,0:00:29.74,Cap,,0,0,0,,{\pos(540,1280)}Medicina na
+Dialogue: 0,0:00:29.74,0:00:30.04,Cap,,0,0,0,,{\pos(540,1280)}Federal.
+Dialogue: 0,0:00:30.18,0:00:30.56,Cap,,0,0,0,,{\pos(540,1280)}A coisa
+Dialogue: 0,0:00:30.56,0:00:31.02,Cap,,0,0,0,,{\pos(540,1280)}mais difícil
+Dialogue: 0,0:00:31.02,0:00:31.16,Cap,,0,0,0,,{\pos(540,1280)}que cê
+Dialogue: 0,0:00:31.16,0:00:31.62,Cap,,0,0,0,,{\pos(540,1280)}tentou fazer
+Dialogue: 0,0:00:31.62,0:00:32.06,Cap,,0,0,0,,{\pos(540,1280)}na vida
+Dialogue: 0,0:00:32.10,0:00:32.46,Cap,,0,0,0,,{\pos(540,1280)}e agora
+Dialogue: 0,0:00:32.46,0:00:33.02,Cap,,0,0,0,,{\pos(540,1280)}você conseguiu.
+Dialogue: 0,0:00:33.22,0:00:33.44,Cap,,0,0,0,,{\pos(540,1280)}E aí
+Dialogue: 0,0:00:33.44,0:00:33.68,Cap,,0,0,0,,{\pos(540,1280)}vem a
+Dialogue: 0,0:00:33.68,0:00:33.98,Cap,,0,0,0,,{\pos(540,1280)}parte que
+Dialogue: 0,0:00:33.98,0:00:34.30,Cap,,0,0,0,,{\pos(540,1280)}ninguém te
+Dialogue: 0,0:00:34.30,0:00:34.60,Cap,,0,0,0,,{\pos(540,1280)}avisa:
+Dialogue: 0,0:00:34.86,0:00:35.22,Cap,,0,0,0,,{\pos(540,1280)}a coisa
+Dialogue: 0,0:00:35.22,0:00:35.40,Cap,,0,0,0,,{\pos(540,1280)}que te
+Dialogue: 0,0:00:35.40,0:00:35.78,Cap,,0,0,0,,{\pos(540,1280)}ocupou a
+Dialogue: 0,0:00:35.78,0:00:36.44,Cap,,0,0,0,,{\pos(540,1280)}cabeça pelos
+Dialogue: 0,0:00:36.44,0:00:37.14,Cap,,0,0,0,,{\pos(540,1280)}últimos anos
+Dialogue: 0,0:00:37.17,0:00:37.47,Cap,,0,0,0,,{\pos(540,1280)}some.
+Dialogue: 0,0:00:37.48,0:00:37.79,Cap,,0,0,0,,{\pos(540,1280)}E você
+Dialogue: 0,0:00:37.79,0:00:38.24,Cap,,0,0,0,,{\pos(540,1280)}sente um
+Dialogue: 0,0:00:38.24,0:00:38.54,Cap,,0,0,0,,{\pos(540,1280)}vazio.
+Dialogue: 0,0:00:38.67,0:00:38.83,Cap,,0,0,0,,{\pos(540,1280)}E não
+Dialogue: 0,0:00:38.83,0:00:39.17,Cap,,0,0,0,,{\pos(540,1280)}é decepção
+Dialogue: 0,0:00:39.51,0:00:39.73,Cap,,0,0,0,,{\pos(540,1280)}com o
+Dialogue: 0,0:00:39.73,0:00:40.03,Cap,,0,0,0,,{\pos(540,1280)}curso.
+Dialogue: 0,0:00:40.16,0:00:40.56,Cap,,0,0,0,,{\pos(540,1280)}É outra
+Dialogue: 0,0:00:40.56,0:00:41.12,Cap,,0,0,0,,{\pos(540,1280)}coisa totalmente
+Dialogue: 0,0:00:41.22,0:00:41.52,Cap,,0,0,0,,{\pos(540,1280)}diferente.
+Dialogue: 0,0:00:41.74,0:00:42.10,Cap,,0,0,0,,{\pos(540,1280)}O motor
+Dialogue: 0,0:00:42.16,0:00:42.68,Cap,,0,0,0,,{\pos(540,1280)}mental que
+Dialogue: 0,0:00:42.68,0:00:43.22,Cap,,0,0,0,,{\pos(540,1280)}você construiu
+Dialogue: 0,0:00:43.26,0:00:43.64,Cap,,0,0,0,,{\pos(540,1280)}pra poder
+Dialogue: 0,0:00:43.64,0:00:44.08,Cap,,0,0,0,,{\pos(540,1280)}passar em
+Dialogue: 0,0:00:44.08,0:00:44.96,Cap,,0,0,0,,{\pos(540,1280)}medicina continua
+Dialogue: 0,0:00:45.00,0:00:45.30,Cap,,0,0,0,,{\pos(540,1280)}ligado,
+Dialogue: 0,0:00:45.54,0:00:45.74,Cap,,0,0,0,,{\pos(540,1280)}só que
+Dialogue: 0,0:00:45.74,0:00:46.08,Cap,,0,0,0,,{\pos(540,1280)}agora ele
+Dialogue: 0,0:00:46.08,0:00:46.40,Cap,,0,0,0,,{\pos(540,1280)}não tem
+Dialogue: 0,0:00:46.40,0:00:46.82,Cap,,0,0,0,,{\pos(540,1280)}mais pra
+Dialogue: 0,0:00:46.82,0:00:47.13,Cap,,0,0,0,,{\pos(540,1280)}onde ir.
+Dialogue: 0,0:00:47.13,0:00:47.39,Cap,,0,0,0,,{\pos(540,1280)}Porque a
+Dialogue: 0,0:00:47.39,0:00:47.89,Cap,,0,0,0,,{\pos(540,1280)}medicina vai
+Dialogue: 0,0:00:47.89,0:00:48.29,Cap,,0,0,0,,{\pos(540,1280)}te tomar
+Dialogue: 0,0:00:48.29,0:00:48.79,Cap,,0,0,0,,{\pos(540,1280)}seis anos
+Dialogue: 0,0:00:48.79,0:00:49.11,Cap,,0,0,0,,{\pos(540,1280)}só de
+Dialogue: 0,0:00:49.11,0:00:49.41,Cap,,0,0,0,,{\pos(540,1280)}curso,
+Dialogue: 0,0:00:49.49,0:00:49.96,Cap,,0,0,0,,{\pos(540,1280)}mais alguns
+Dialogue: 0,0:00:49.96,0:00:50.09,Cap,,0,0,0,,{\pos(540,1280)}que cê
+Dialogue: 0,0:00:50.09,0:00:50.39,Cap,,0,0,0,,{\pos(540,1280)}vai fazer
+Dialogue: 0,0:00:50.39,0:00:50.79,Cap,,0,0,0,,{\pos(540,1280)}de residência.
+Dialogue: 0,0:00:51.05,0:00:51.34,Cap,,0,0,0,,{\pos(540,1280)}E ela
+Dialogue: 0,0:00:51.34,0:00:52.13,Cap,,0,0,0,,{\pos(540,1280)}merece cada
+Dialogue: 0,0:00:52.18,0:00:52.60,Cap,,0,0,0,,{\pos(540,1280)}um desses
+Dialogue: 0,0:00:52.68,0:00:52.98,Cap,,0,0,0,,{\pos(540,1280)}anos.
+Dialogue: 0,0:00:53.09,0:00:53.40,Cap,,0,0,0,,{\pos(540,1280)}Mas ela
+Dialogue: 0,0:00:53.41,0:00:53.76,Cap,,0,0,0,,{\pos(540,1280)}só toma
+Dialogue: 0,0:00:53.77,0:00:54.06,Cap,,0,0,0,,{\pos(540,1280)}o seu
+Dialogue: 0,0:00:54.06,0:00:54.36,Cap,,0,0,0,,{\pos(540,1280)}tempo de
+Dialogue: 0,0:00:54.37,0:00:54.66,Cap,,0,0,0,,{\pos(540,1280)}estudo,
+Dialogue: 0,0:00:54.84,0:00:55.16,Cap,,0,0,0,,{\pos(540,1280)}ela não
+Dialogue: 0,0:00:55.16,0:00:55.38,Cap,,0,0,0,,{\pos(540,1280)}tira a
+Dialogue: 0,0:00:55.38,0:00:55.83,Cap,,0,0,0,,{\pos(540,1280)}sua vontade
+Dialogue: 0,0:00:55.91,0:00:56.34,Cap,,0,0,0,,{\pos(540,1280)}de construir
+Dialogue: 0,0:00:56.52,0:00:56.73,Cap,,0,0,0,,{\pos(540,1280)}algo.
+Dialogue: 0,0:00:56.73,0:00:56.94,Cap,,0,0,0,,{\pos(540,1280)}aí que
+Dialogue: 0,0:00:56.94,0:00:57.23,Cap,,0,0,0,,{\pos(540,1280)}cai a
+Dialogue: 0,0:00:57.23,0:00:57.53,Cap,,0,0,0,,{\pos(540,1280)}ficha:
+Dialogue: 0,0:00:57.67,0:00:58.05,Cap,,0,0,0,,{\pos(540,1280)}passar no
+Dialogue: 0,0:00:58.05,0:00:58.55,Cap,,0,0,0,,{\pos(540,1280)}vestibular é
+Dialogue: 0,0:00:58.55,0:00:58.93,Cap,,0,0,0,,{\pos(540,1280)}uma habilidade
+Dialogue: 0,0:00:59.11,0:00:59.29,Cap,,0,0,0,,{\pos(540,1280)}que te
+Dialogue: 0,0:00:59.29,0:00:59.95,Cap,,0,0,0,,{\pos(540,1280)}ajuda não
+Dialogue: 0,0:00:59.95,0:01:00.35,Cap,,0,0,0,,{\pos(540,1280)}só a
+Dialogue: 0,0:01:00.35,0:01:00.77,Cap,,0,0,0,,{\pos(540,1280)}fazer essa
+Dialogue: 0,0:01:00.77,0:01:01.05,Cap,,0,0,0,,{\pos(540,1280)}prova.
+Dialogue: 0,0:01:01.05,0:01:01.39,Cap,,0,0,0,,{\pos(540,1280)}Pegar uma
+Dialogue: 0,0:01:01.39,0:01:01.91,Cap,,0,0,0,,{\pos(540,1280)}coisa difícil,
+Dialogue: 0,0:01:02.15,0:01:02.47,Cap,,0,0,0,,{\pos(540,1280)}achar o
+Dialogue: 0,0:01:02.47,0:01:02.87,Cap,,0,0,0,,{\pos(540,1280)}método e
+Dialogue: 0,0:01:02.87,0:01:03.41,Cap,,0,0,0,,{\pos(540,1280)}fazer funcionar,
+Dialogue: 0,0:01:03.83,0:01:04.19,Cap,,0,0,0,,{\pos(540,1280)}isso vale
+Dialogue: 0,0:01:04.19,0:01:04.59,Cap,,0,0,0,,{\pos(540,1280)}não só
+Dialogue: 0,0:01:04.59,0:01:04.93,Cap,,0,0,0,,{\pos(540,1280)}pra passar
+Dialogue: 0,0:01:04.93,0:01:05.31,Cap,,0,0,0,,{\pos(540,1280)}em medicina,
+Dialogue: 0,0:01:05.51,0:01:05.93,Cap,,0,0,0,,{\pos(540,1280)}mas vale
+Dialogue: 0,0:01:05.93,0:01:06.35,Cap,,0,0,0,,{\pos(540,1280)}pra qualquer
+Dialogue: 0,0:01:06.35,0:01:06.75,Cap,,0,0,0,,{\pos(540,1280)}outra coisa
+Dialogue: 0,0:01:06.75,0:01:06.91,Cap,,0,0,0,,{\pos(540,1280)}que cê
+Dialogue: 0,0:01:06.91,0:01:07.21,Cap,,0,0,0,,{\pos(540,1280)}for fazer
+Dialogue: 0,0:01:07.21,0:01:07.53,Cap,,0,0,0,,{\pos(540,1280)}na sua
+Dialogue: 0,0:01:07.53,0:01:07.69,Cap,,0,0,0,,{\pos(540,1280)}vida.
+Dialogue: 0,0:01:07.69,0:01:08.15,Cap,,0,0,0,,{\pos(540,1280)}Então você
+Dialogue: 0,0:01:08.15,0:01:08.49,Cap,,0,0,0,,{\pos(540,1280)}começa a
+Dialogue: 0,0:01:08.49,0:01:08.89,Cap,,0,0,0,,{\pos(540,1280)}ensinar o
+Dialogue: 0,0:01:08.89,0:01:09.27,Cap,,0,0,0,,{\pos(540,1280)}que aprendeu,
+Dialogue: 0,0:01:09.51,0:01:09.95,Cap,,0,0,0,,{\pos(540,1280)}primeiro de
+Dialogue: 0,0:01:09.95,0:01:10.41,Cap,,0,0,0,,{\pos(540,1280)}graça prum
+Dialogue: 0,0:01:10.41,0:01:10.71,Cap,,0,0,0,,{\pos(540,1280)}amigo,
+Dialogue: 0,0:01:10.83,0:01:11.27,Cap,,0,0,0,,{\pos(540,1280)}depois pra
+Dialogue: 0,0:01:11.27,0:01:11.65,Cap,,0,0,0,,{\pos(540,1280)}umas 10
+Dialogue: 0,0:01:11.65,0:01:11.95,Cap,,0,0,0,,{\pos(540,1280)}pessoas.
+Dialogue: 0,0:01:12.34,0:01:12.92,Cap,,0,0,0,,{\pos(540,1280)}Depois pra
+Dialogue: 0,0:01:12.92,0:01:13.40,Cap,,0,0,0,,{\pos(540,1280)}muito mais
+Dialogue: 0,0:01:13.40,0:01:13.72,Cap,,0,0,0,,{\pos(540,1280)}gente do
+Dialogue: 0,0:01:13.72,0:01:13.90,Cap,,0,0,0,,{\pos(540,1280)}que eu
+Dialogue: 0,0:01:13.90,0:01:14.56,Cap,,0,0,0,,{\pos(540,1280)}poderia imaginar.
+Dialogue: 0,0:01:14.78,0:01:14.98,Cap,,0,0,0,,{\pos(540,1280)}aí que
+Dialogue: 0,0:01:14.98,0:01:15.48,Cap,,0,0,0,,{\pos(540,1280)}você descobre
+Dialogue: 0,0:01:15.56,0:01:15.80,Cap,,0,0,0,,{\pos(540,1280)}que tem
+Dialogue: 0,0:01:15.80,0:01:16.02,Cap,,0,0,0,,{\pos(540,1280)}mais de
+Dialogue: 0,0:01:16.02,0:01:16.40,Cap,,0,0,0,,{\pos(540,1280)}um jeito
+Dialogue: 0,0:01:16.40,0:01:16.82,Cap,,0,0,0,,{\pos(540,1280)}de conseguir
+Dialogue: 0,0:01:16.84,0:01:17.22,Cap,,0,0,0,,{\pos(540,1280)}ajudar as
+Dialogue: 0,0:01:17.22,0:01:17.52,Cap,,0,0,0,,{\pos(540,1280)}pessoas.
+Dialogue: 0,0:01:17.73,0:01:18.09,Cap,,0,0,0,,{\pos(540,1280)}Tem quem
+Dialogue: 0,0:01:18.09,0:01:18.68,Cap,,0,0,0,,{\pos(540,1280)}você senta
+Dialogue: 0,0:01:18.83,0:01:19.55,Cap,,0,0,0,,{\pos(540,1280)}junto todo
+Dialogue: 0,0:01:19.55,0:01:20.02,Cap,,0,0,0,,{\pos(540,1280)}mês pra
+Dialogue: 0,0:01:20.02,0:01:20.32,Cap,,0,0,0,,{\pos(540,1280)}acompanhar,
+Dialogue: 0,0:01:20.61,0:01:20.93,Cap,,0,0,0,,{\pos(540,1280)}como nas
+Dialogue: 0,0:01:20.93,0:01:21.23,Cap,,0,0,0,,{\pos(540,1280)}mentorias.
+Dialogue: 0,0:01:21.54,0:01:21.83,Cap,,0,0,0,,{\pos(540,1280)}E tem
+Dialogue: 0,0:01:21.83,0:01:22.00,Cap,,0,0,0,,{\pos(540,1280)}o que
+Dialogue: 0,0:01:22.00,0:01:22.52,Cap,,0,0,0,,{\pos(540,1280)}você constrói
+Dialogue: 0,0:01:22.60,0:01:23.05,Cap,,0,0,0,,{\pos(540,1280)}uma vez,
+Dialogue: 0,0:01:23.05,0:01:23.48,Cap,,0,0,0,,{\pos(540,1280)}que continua
+Dialogue: 0,0:01:23.52,0:01:24.08,Cap,,0,0,0,,{\pos(540,1280)}rodando quando
+Dialogue: 0,0:01:24.08,0:01:24.48,Cap,,0,0,0,,{\pos(540,1280)}você não
+Dialogue: 0,0:01:24.48,0:01:24.92,Cap,,0,0,0,,{\pos(540,1280)}tá lá,
+Dialogue: 0,0:01:24.94,0:01:25.28,Cap,,0,0,0,,{\pos(540,1280)}como uma
+Dialogue: 0,0:01:25.28,0:01:25.94,Cap,,0,0,0,,{\pos(540,1280)}plataforma de
+Dialogue: 0,0:01:25.94,0:01:26.24,Cap,,0,0,0,,{\pos(540,1280)}estudos.
+Dialogue: 0,0:01:26.41,0:01:26.65,Cap,,0,0,0,,{\pos(540,1280)}E não
+Dialogue: 0,0:01:26.65,0:01:27.01,Cap,,0,0,0,,{\pos(540,1280)}é escolher
+Dialogue: 0,0:01:27.13,0:01:27.53,Cap,,0,0,0,,{\pos(540,1280)}entre ser
+Dialogue: 0,0:01:27.53,0:01:27.95,Cap,,0,0,0,,{\pos(540,1280)}médico ou
+Dialogue: 0,0:01:27.95,0:01:28.42,Cap,,0,0,0,,{\pos(540,1280)}ser empreendedor,
+Dialogue: 0,0:01:28.67,0:01:29.03,Cap,,0,0,0,,{\pos(540,1280)}é entender
+Dialogue: 0,0:01:29.23,0:01:29.49,Cap,,0,0,0,,{\pos(540,1280)}que a
+Dialogue: 0,0:01:29.49,0:01:30.19,Cap,,0,0,0,,{\pos(540,1280)}mesma pessoa,
+Dialogue: 0,0:01:30.42,0:01:30.80,Cap,,0,0,0,,{\pos(540,1280)}que aprendeu
+Dialogue: 0,0:01:30.92,0:01:31.32,Cap,,0,0,0,,{\pos(540,1280)}a passar
+Dialogue: 0,0:01:31.36,0:01:31.80,Cap,,0,0,0,,{\pos(540,1280)}numa prova
+Dialogue: 0,0:01:31.80,0:01:32.10,Cap,,0,0,0,,{\pos(540,1280)}difícil,
+Dialogue: 0,0:01:32.32,0:01:32.72,Cap,,0,0,0,,{\pos(540,1280)}aprendeu a
+Dialogue: 0,0:01:32.72,0:01:33.40,Cap,,0,0,0,,{\pos(540,1280)}construir algo
+Dialogue: 0,0:01:33.40,0:01:33.78,Cap,,0,0,0,,{\pos(540,1280)}de valor.
+Dialogue: 0,0:01:33.82,0:01:34.25,Cap,,0,0,0,,{\pos(540,1280)}que dá,
+Dialogue: 0,0:01:34.25,0:01:34.50,Cap,,0,0,0,,{\pos(540,1280)}sim,
+Dialogue: 0,0:01:34.50,0:01:34.84,Cap,,0,0,0,,{\pos(540,1280)}pra fazer
+Dialogue: 0,0:01:34.84,0:01:35.28,Cap,,0,0,0,,{\pos(540,1280)}as duas
+Dialogue: 0,0:01:35.28,0:01:35.64,Cap,,0,0,0,,{\pos(540,1280)}coisas ao
+Dialogue: 0,0:01:35.64,0:01:36.11,Cap,,0,0,0,,{\pos(540,1280)}mesmo tempo.
+Dialogue: 0,0:01:36.11,0:01:36.25,Cap,,0,0,0,,{\pos(540,1280)}Oi,
+Dialogue: 0,0:01:36.25,0:01:36.49,Cap,,0,0,0,,{\pos(540,1280)}eu sou
+Dialogue: 0,0:01:36.49,0:01:36.81,Cap,,0,0,0,,{\pos(540,1280)}o Matteo.
+Dialogue: 0,0:01:37.07,0:01:37.57,Cap,,0,0,0,,{\pos(540,1280)}Eu faço
+Dialogue: 0,0:01:37.57,0:01:38.21,Cap,,0,0,0,,{\pos(540,1280)}medicina e
+Dialogue: 0,0:01:38.21,0:01:38.91,Cap,,0,0,0,,{\pos(540,1280)}empreendo educação.
+Dialogue: 0,0:01:39.19,0:01:39.61,Cap,,0,0,0,,{\pos(540,1280)}As duas
+Dialogue: 0,0:01:39.61,0:01:39.91,Cap,,0,0,0,,{\pos(540,1280)}coisas,
+Dialogue: 0,0:01:40.11,0:01:40.45,Cap,,0,0,0,,{\pos(540,1280)}não uma
+Dialogue: 0,0:01:40.45,0:01:40.85,Cap,,0,0,0,,{\pos(540,1280)}ao invés
+Dialogue: 0,0:01:40.85,0:01:41.27,Cap,,0,0,0,,{\pos(540,1280)}da outra.
+Dialogue: 0,0:01:41.27,0:01:41.47,Cap,,0,0,0,,{\pos(540,1280)}E se
+Dialogue: 0,0:01:41.47,0:01:41.75,Cap,,0,0,0,,{\pos(540,1280)}você se
+Dialogue: 0,0:01:41.75,0:01:42.27,Cap,,0,0,0,,{\pos(540,1280)}identificou com
+Dialogue: 0,0:01:42.27,0:01:42.77,Cap,,0,0,0,,{\pos(540,1280)}qualquer parte
+Dialogue: 0,0:01:42.77,0:01:43.33,Cap,,0,0,0,,{\pos(540,1280)}desse vídeo,
+Dialogue: 0,0:01:43.39,0:01:43.89,Cap,,0,0,0,,{\pos(540,1280)}você achou
+Dialogue: 0,0:01:43.89,0:01:44.25,Cap,,0,0,0,,{\pos(540,1280)}o lugar
+Dialogue: 0,0:01:44.27,0:01:44.48,Cap,,0,0,0,,{\pos(540,1280)}certo.
+Dialogue: 0,0:01:44.48,0:01:44.86,Cap,,0,0,0,,{\pos(540,1280)}Me segue
+Dialogue: 0,0:01:44.86,0:01:45.00,Cap,,0,0,0,,{\pos(540,1280)}aqui,
+Dialogue: 0,0:01:45.00,0:01:45.30,Cap,,0,0,0,,{\pos(540,1280)}irmão.
+Dialogue: 0,0:01:45.42,0:01:45.94,Cap,,0,0,0,,{\pos(540,1280)}Tamo junto.

@@ -1,0 +1,1131 @@
+{
+ "video": "semana2/acut.mp4",
+ "duration": 462.286,
+ "segs": [
+  {
+   "from": 12.7,
+   "to": 18.6,
+   "g": "AberturaS",
+   "props": {
+    "t": "A semana do *dia 2*",
+    "items": [
+     "*Natureza*",
+     "*Matemática*",
+     "treino de *tempo*"
+    ],
+    "b": [
+     1.2,
+     2.2,
+     3.2
+    ]
+   }
+  },
+  {
+   "from": 25.2,
+   "to": 33.5,
+   "g": "Notas",
+   "props": {
+    "t": "*82 acertos* no dia 2",
+    "itens": [
+     [
+      40,
+      "/45",
+      "Natureza",
+      5.4
+     ],
+     [
+      42,
+      "/45",
+      "Matemática",
+      6.6
+     ]
+    ]
+   }
+  },
+  {
+   "from": 50.1,
+   "to": 65.5,
+   "g": "Maratona",
+   "props": {
+    "dicas": [
+     "prova à tarde",
+     "ordem de prova",
+     "correção à noite",
+     "questões de manhã",
+     "revisão + flashcards",
+     "sábado e domingo"
+    ],
+    "t": "Um *Enem por dia*",
+    "nota": "5 horas cronometradas, como no domingo",
+    "b": [
+     2.5,
+     12.9,
+     7.9
+    ]
+   }
+  },
+  {
+   "from": 65.6,
+   "to": 102.0,
+   "g": "Provas",
+   "props": {
+    "dicas": [
+     "prova à tarde",
+     "ordem de prova",
+     "correção à noite",
+     "questões de manhã",
+     "revisão + flashcards",
+     "sábado e domingo"
+    ],
+    "b": [
+     1.1,
+     23.3
+    ],
+    "chips": [
+     [
+      "o próprio Enem, feito pelo *Inep*",
+      "ok",
+      8.2
+     ],
+     [
+      "vale até as mais antigas e o *PPL*",
+      "ok",
+      15.0
+     ]
+    ]
+   }
+  },
+  {
+   "from": 102.1,
+   "to": 117.3,
+   "g": "Dica",
+   "props": {
+    "on": 0,
+    "dicas": [
+     "prova à tarde",
+     "ordem de prova",
+     "correção à noite",
+     "questões de manhã",
+     "revisão + flashcards",
+     "sábado e domingo"
+    ],
+    "t": "Um *ensaio* do dia oficial",
+    "chips": [
+     [
+      "sem celular",
+      "ok",
+      9.1
+     ],
+     [
+      "sem calculadora",
+      "ok",
+      9.9
+     ],
+     [
+      "cartão-resposta impresso",
+      "ok",
+      11.5
+     ]
+    ],
+    "card": {
+     "big": "13:30",
+     "label": "o horário de verdade",
+     "at": 5.8
+    }
+   }
+  },
+  {
+   "from": 117.4,
+   "to": 136.8,
+   "g": "Aquecimento",
+   "props": {
+    "b": [
+     0.0,
+     3.0
+    ]
+   }
+  },
+  {
+   "from": 136.9,
+   "to": 146.8,
+   "g": "Dica",
+   "props": {
+    "on": 1,
+    "dicas": [
+     "prova à tarde",
+     "ordem de prova",
+     "correção à noite",
+     "questões de manhã",
+     "revisão + flashcards",
+     "sábado e domingo"
+    ],
+    "t": "Treine sua *ordem de prova*",
+    "chips": [
+     [
+      "o vídeo completo tá no *card aqui em cima*",
+      "ok",
+      5.2
+     ]
+    ]
+   }
+  },
+  {
+   "from": 146.9,
+   "to": 155.6,
+   "g": "Alunos",
+   "props": {
+    "b": [
+     1.0,
+     3.2,
+     5.6
+    ]
+   }
+  },
+  {
+   "from": 155.7,
+   "to": 159.1,
+   "g": "Regra",
+   "props": {
+    "t": "Garantir *fáceis e médias* primeiro",
+    "b": [
+     9
+    ]
+   }
+  },
+  {
+   "from": 159.2,
+   "to": 191.3,
+   "g": "Lista",
+   "props": {
+    "title": "Minha *ordem de prova*",
+    "items": [
+     [
+      "1ª hora",
+      "natureza teórica",
+      0.2
+     ],
+     [
+      "Depois",
+      "matemática rápida e fácil",
+      7.9
+     ],
+     [
+      "~3h30",
+      "as que ficaram, pulando",
+      16.5
+     ],
+     [
+      "Última hora",
+      "garimpar acertos",
+      22.4
+     ],
+     [
+      "15 min finais",
+      "gabarito com calma",
+      28.5
+     ]
+    ]
+   }
+  },
+  {
+   "from": 206.3,
+   "to": 255.9,
+   "g": "Dica",
+   "props": {
+    "on": 2,
+    "dicas": [
+     "prova à tarde",
+     "ordem de prova",
+     "correção à noite",
+     "questões de manhã",
+     "revisão + flashcards",
+     "sábado e domingo"
+    ],
+    "t": "Corrigir à *noite*",
+    "sub": "por que você errou?",
+    "chips": [
+     [
+      "não sabia: *lista de revisão*",
+      "go",
+      14.9
+     ],
+     [
+      "falta de atenção: *anota*",
+      "go",
+      19.3
+     ],
+     [
+      "faltou tempo: *ordem e ritmo*",
+      "go",
+      27.6
+     ]
+    ],
+    "card": {
+     "big": "TEMPO",
+     "label": "quantas questões em 1h e em 3h30?",
+     "at": 39.6
+    }
+   }
+  },
+  {
+   "from": 256.0,
+   "to": 281.0,
+   "g": "Dica",
+   "props": {
+    "on": 3,
+    "dicas": [
+     "prova à tarde",
+     "ordem de prova",
+     "correção à noite",
+     "questões de manhã",
+     "revisão + flashcards",
+     "sábado e domingo"
+    ],
+    "t": "De manhã: *questões*",
+    "sub": "natureza + matemática misturadas",
+    "chips": [
+     [
+      "*altíssimo* volume",
+      "ok",
+      2.3
+     ],
+     [
+      "todos os modelos de questão",
+      "ok",
+      8.4
+     ],
+     [
+      "revisão direcionada nos erros",
+      "ok",
+      15.2
+     ]
+    ]
+   }
+  },
+  {
+   "from": 281.1,
+   "to": 295.8,
+   "g": "Dica",
+   "props": {
+    "on": 3,
+    "dicas": [
+     "prova à tarde",
+     "ordem de prova",
+     "correção à noite",
+     "questões de manhã",
+     "revisão + flashcards",
+     "sábado e domingo"
+    ],
+    "t": "Por que *misturadas*?",
+    "chips": [
+     [
+      "a prova não avisa o assunto",
+      "ok",
+      2.1
+     ],
+     [
+      "genética ao lado de eletrodinâmica",
+      "go",
+      4.3
+     ],
+     [
+      "treina *reconhecer* o que ela pede",
+      "ok",
+      11.0
+     ]
+    ]
+   }
+  },
+  {
+   "from": 295.9,
+   "to": 318.9,
+   "g": "Cai",
+   "props": {
+    "on": 3,
+    "dicas": [
+     "prova à tarde",
+     "ordem de prova",
+     "correção à noite",
+     "questões de manhã",
+     "revisão + flashcards",
+     "sábado e domingo"
+    ],
+    "cols": [
+     [
+      "MATEMÁTICA",
+      [
+       [
+        "porcentagem",
+        2.5
+       ],
+       [
+        "razão e proporção",
+        3.3
+       ],
+       [
+        "estatística",
+        4.2
+       ],
+       [
+        "leitura de gráfico",
+        5.1
+       ],
+       [
+        "geometria",
+        6.3
+       ]
+      ]
+     ],
+     [
+      "NATUREZA",
+      [
+       [
+        "ecologia",
+        8.1
+       ],
+       [
+        "fisiologia humana",
+        8.8
+       ],
+       [
+        "genética",
+        9.9
+       ],
+       [
+        "química ambiental",
+        10.9
+       ],
+       [
+        "eletricidade",
+        12.2
+       ]
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "from": 324.9,
+   "to": 343.5,
+   "g": "Dica",
+   "props": {
+    "on": 4,
+    "dicas": [
+     "prova à tarde",
+     "ordem de prova",
+     "correção à noite",
+     "questões de manhã",
+     "revisão + flashcards",
+     "sábado e domingo"
+    ],
+    "t": "Revisão *passiva*",
+    "sub": "pra não ficar exausto",
+    "chips": [
+     [
+      "videoaula do assunto",
+      "ok",
+      3.9
+     ],
+     [
+      "relida no material",
+      "ok",
+      5.5
+     ],
+     [
+      "matéria nova",
+      "x",
+      7.8
+     ],
+     [
+      "energia pra prova da tarde",
+      "ok",
+      13.0
+     ]
+    ]
+   }
+  },
+  {
+   "from": 358.9,
+   "to": 378.8,
+   "g": "Provas",
+   "props": {
+    "on": 4,
+    "dicas": [
+     "prova à tarde",
+     "ordem de prova",
+     "correção à noite",
+     "questões de manhã",
+     "revisão + flashcards",
+     "sábado e domingo"
+    ],
+    "title": "Não é pra *qualquer pessoa*",
+    "b": [
+     1.9,
+     13.9
+    ],
+    "a": {
+     "tag": "INICIANTE",
+     "t": "SÓ AS PROVAS DE MATEMÁTICA",
+     "s": "sobe a média com menos esforço"
+    },
+    "c": {
+     "tag": "ESTUDOU O ANO TODO",
+     "t": "ESTRATÉGIA COMPLETA",
+     "s": "e tá indo bem nos simulados"
+    }
+   }
+  },
+  {
+   "from": 378.9,
+   "to": 404.0,
+   "g": "Dica",
+   "props": {
+    "on": 5,
+    "dicas": [
+     "prova à tarde",
+     "ordem de prova",
+     "correção à noite",
+     "questões de manhã",
+     "revisão + flashcards",
+     "sábado e domingo"
+    ],
+    "t": "Sábado: *descanso*",
+    "sub": "nada de prova, deixa tudo pronto",
+    "chips": [
+     [
+      "documento com foto",
+      "ok",
+      6.1
+     ],
+     [
+      "caneta + cartão de confirmação",
+      "ok",
+      7.2
+     ],
+     [
+      "água e algo pra comer",
+      "ok",
+      10.5
+     ],
+     [
+      "confere o caminho",
+      "ok",
+      13.8
+     ],
+     [
+      "*dorme cedo*",
+      "ok",
+      19.4
+     ]
+    ]
+   }
+  },
+  {
+   "from": 404.1,
+   "to": 416.6,
+   "g": "Dica",
+   "props": {
+    "on": 5,
+    "dicas": [
+     "prova à tarde",
+     "ordem de prova",
+     "correção à noite",
+     "questões de manhã",
+     "revisão + flashcards",
+     "sábado e domingo"
+    ],
+    "t": "Domingo: *só repetir*",
+    "chips": [
+     [
+      "5 fáceis de matemática de manhã",
+      "ok",
+      2.2
+     ],
+     [
+      "chegar por volta do meio-dia",
+      "ok",
+      5.5
+     ],
+     [
+      "a ordem que já fez *5 vezes*",
+      "ok",
+      8.1
+     ]
+    ]
+   }
+  },
+  {
+   "from": 416.7,
+   "to": 444.3,
+   "g": "Semana",
+   "props": {
+    "cells": [
+     [
+      0,
+      1,
+      "prova antiga · 5h",
+      1.0
+     ],
+     [
+      1,
+      1,
+      "prova antiga · 5h",
+      1.15
+     ],
+     [
+      2,
+      1,
+      "prova antiga · 5h",
+      1.3
+     ],
+     [
+      3,
+      1,
+      "prova antiga · 5h",
+      1.45
+     ],
+     [
+      4,
+      1,
+      "prova antiga · 5h",
+      1.6
+     ],
+     [
+      0,
+      0,
+      "questões + revisão",
+      7.0
+     ],
+     [
+      1,
+      0,
+      "questões + revisão",
+      7.15
+     ],
+     [
+      2,
+      0,
+      "questões + revisão",
+      7.3
+     ],
+     [
+      3,
+      0,
+      "questões + revisão",
+      7.45
+     ],
+     [
+      4,
+      0,
+      "questões + revisão",
+      7.6
+     ],
+     [
+      0,
+      2,
+      "correção",
+      13.8
+     ],
+     [
+      1,
+      2,
+      "correção",
+      13.950000000000001
+     ],
+     [
+      2,
+      2,
+      "correção",
+      14.100000000000001
+     ],
+     [
+      3,
+      2,
+      "correção",
+      14.25
+     ],
+     [
+      4,
+      2,
+      "correção",
+      14.4
+     ],
+     [
+      0,
+      0,
+      "flashcards",
+      19.7,
+      false,
+      true
+     ],
+     [
+      1,
+      0,
+      "flashcards",
+      19.8,
+      false,
+      true
+     ],
+     [
+      2,
+      0,
+      "flashcards",
+      19.9,
+      false,
+      true
+     ],
+     [
+      3,
+      0,
+      "flashcards",
+      20.0,
+      false,
+      true
+     ],
+     [
+      4,
+      0,
+      "flashcards",
+      20.099999999999998,
+      false,
+      true
+     ],
+     [
+      5,
+      0,
+      "descanso",
+      24.4
+     ],
+     [
+      5,
+      1,
+      "descanso",
+      24.4
+     ],
+     [
+      5,
+      2,
+      "descanso",
+      24.4
+     ],
+     [
+      6,
+      1,
+      "ENEM",
+      27.0,
+      true
+     ]
+    ]
+   }
+  }
+ ],
+ "lowers": [
+  {
+   "from": 22.9,
+   "to": 25.15,
+   "name": "Matteo",
+   "role": "@matteo.rocha_"
+  }
+ ],
+ "zooms": [
+  {
+   "from": 200.8,
+   "to": 206.2,
+   "s": 1.12
+  },
+  {
+   "from": 350.7,
+   "to": 354.8,
+   "s": 1.12
+  },
+  {
+   "from": 450.5,
+   "to": 452.6,
+   "s": 1.15
+  }
+ ],
+ "sfx": [
+  {
+   "t": 12.7,
+   "f": "sfx/whoosh.wav",
+   "v": 0.32
+  },
+  {
+   "t": 25.2,
+   "f": "sfx/whoosh.wav",
+   "v": 0.32
+  },
+  {
+   "t": 50.1,
+   "f": "sfx/whoosh.wav",
+   "v": 0.32
+  },
+  {
+   "t": 65.6,
+   "f": "sfx/whoosh.wav",
+   "v": 0.32
+  },
+  {
+   "t": 102.1,
+   "f": "sfx/whoosh.wav",
+   "v": 0.32
+  },
+  {
+   "t": 117.4,
+   "f": "sfx/whoosh.wav",
+   "v": 0.32
+  },
+  {
+   "t": 136.9,
+   "f": "sfx/whoosh.wav",
+   "v": 0.32
+  },
+  {
+   "t": 146.9,
+   "f": "sfx/whoosh.wav",
+   "v": 0.32
+  },
+  {
+   "t": 155.7,
+   "f": "sfx/whoosh.wav",
+   "v": 0.32
+  },
+  {
+   "t": 159.2,
+   "f": "sfx/whoosh.wav",
+   "v": 0.32
+  },
+  {
+   "t": 206.3,
+   "f": "sfx/whoosh.wav",
+   "v": 0.32
+  },
+  {
+   "t": 256.0,
+   "f": "sfx/whoosh.wav",
+   "v": 0.32
+  },
+  {
+   "t": 281.1,
+   "f": "sfx/whoosh.wav",
+   "v": 0.32
+  },
+  {
+   "t": 295.9,
+   "f": "sfx/whoosh.wav",
+   "v": 0.32
+  },
+  {
+   "t": 324.9,
+   "f": "sfx/whoosh.wav",
+   "v": 0.32
+  },
+  {
+   "t": 358.9,
+   "f": "sfx/whoosh.wav",
+   "v": 0.32
+  },
+  {
+   "t": 378.9,
+   "f": "sfx/whoosh.wav",
+   "v": 0.32
+  },
+  {
+   "t": 404.1,
+   "f": "sfx/whoosh.wav",
+   "v": 0.32
+  },
+  {
+   "t": 416.7,
+   "f": "sfx/whoosh.wav",
+   "v": 0.32
+  },
+  {
+   "t": 0.0,
+   "f": "sfx/whoosh.wav",
+   "v": 0.22
+  },
+  {
+   "t": 20.2,
+   "f": "sfx/whoosh.wav",
+   "v": 0.22
+  },
+  {
+   "t": 21.3,
+   "f": "sfx/whoosh.wav",
+   "v": 0.22
+  },
+  {
+   "t": 44.7,
+   "f": "sfx/whoosh.wav",
+   "v": 0.22
+  },
+  {
+   "t": 457.7,
+   "f": "sfx/whoosh.wav",
+   "v": 0.22
+  },
+  {
+   "t": 7.3,
+   "f": "sfx/pop.wav",
+   "v": 0.22
+  },
+  {
+   "t": 11.0,
+   "f": "sfx/pop.wav",
+   "v": 0.22
+  },
+  {
+   "t": 36.0,
+   "f": "sfx/pop.wav",
+   "v": 0.22
+  },
+  {
+   "t": 37.300000000000004,
+   "f": "sfx/pop.wav",
+   "v": 0.22
+  },
+  {
+   "t": 39.6,
+   "f": "sfx/pop.wav",
+   "v": 0.22
+  },
+  {
+   "t": 191.4,
+   "f": "sfx/pop.wav",
+   "v": 0.22
+  },
+  {
+   "t": 321.5,
+   "f": "sfx/pop.wav",
+   "v": 0.22
+  },
+  {
+   "t": 319.3,
+   "f": "sfx/pop.wav",
+   "v": 0.22
+  },
+  {
+   "t": 344.0,
+   "f": "sfx/pop.wav",
+   "v": 0.22
+  },
+  {
+   "t": 346.6,
+   "f": "sfx/pop.wav",
+   "v": 0.22
+  },
+  {
+   "t": 444.9,
+   "f": "sfx/pop.wav",
+   "v": 0.22
+  },
+  {
+   "t": 447.4,
+   "f": "sfx/pop.wav",
+   "v": 0.22
+  }
+ ],
+ "music": {
+  "f": "enem/music.mp3",
+  "v": 0.045
+ },
+ "ovs": [
+  {
+   "from": 0.0,
+   "to": 3.2,
+   "k": "Big",
+   "lines": [
+    {
+     "t": "FALTA 1 SEMANA",
+     "at": 0.1,
+     "size": 170
+    },
+    {
+     "t": "PRO DIA 2",
+     "at": 1.5,
+     "size": 150,
+     "c": "g"
+    }
+   ]
+  },
+  {
+   "from": 3.2,
+   "to": 5.8,
+   "k": "Quote",
+   "t": "a prova mais *temida* do Brasil",
+   "step": 0.14
+  },
+  {
+   "from": 5.8,
+   "to": 12.6,
+   "k": "Pills",
+   "items": [
+    {
+     "t": "base do vídeo do *dia 1*",
+     "at": 1.5
+    },
+    {
+     "t": "com alguns *ajustes*",
+     "at": 5.2
+    }
+   ]
+  },
+  {
+   "from": 20.2,
+   "to": 21.3,
+   "k": "Photo",
+   "src": "enem1/fotos/ucb.jpg",
+   "title": "1º lugar em Medicina"
+  },
+  {
+   "from": 21.3,
+   "to": 23.0,
+   "k": "Photo",
+   "src": "enem1/fotos/pintado.jpg",
+   "title": "1º lugar em Medicina",
+   "sub": "duas vezes"
+  },
+  {
+   "from": 33.6,
+   "to": 41.6,
+   "k": "Pills",
+   "items": [
+    {
+     "t": "treinar *redação*",
+     "at": 2.4,
+     "x": true
+    },
+    {
+     "t": "*caderninho* de repertórios",
+     "at": 3.7,
+     "x": true
+    },
+    {
+     "t": "reler *redações*",
+     "at": 6.0,
+     "x": true
+    }
+   ]
+  },
+  {
+   "from": 41.6,
+   "to": 44.7,
+   "k": "Quote",
+   "t": "outra dificuldade, *muito maior*",
+   "step": 0.18
+  },
+  {
+   "from": 44.7,
+   "to": 45.8,
+   "k": "Big",
+   "lines": [
+    {
+     "t": "O TEMPO",
+     "at": 0.1,
+     "size": 240,
+     "c": "g"
+    }
+   ]
+  },
+  {
+   "from": 45.8,
+   "to": 50.1,
+   "k": "Quote",
+   "t": "consomem tempo até nas *questões fáceis*",
+   "step": 0.14
+  },
+  {
+   "from": 191.3,
+   "to": 194.4,
+   "k": "Pills",
+   "items": [
+    {
+     "t": "vídeo da *estratégia* aqui em cima",
+     "at": 0.1
+    }
+   ]
+  },
+  {
+   "from": 196.5,
+   "to": 200.7,
+   "k": "Quote",
+   "t": "no domingo, *nada pela primeira vez*",
+   "step": 0.16
+  },
+  {
+   "from": 319.0,
+   "to": 324.8,
+   "k": "Pills",
+   "items": [
+    {
+     "t": "banco com *todas as provas*",
+     "at": 2.5
+    },
+    {
+     "t": "link na *descrição*",
+     "at": 0.3
+    }
+   ]
+  },
+  {
+   "from": 343.6,
+   "to": 350.6,
+   "k": "Pills",
+   "items": [
+    {
+     "t": "flashcards *todo dia*",
+     "at": 0.4
+    },
+    {
+     "t": "matéria *fresca*",
+     "at": 3.0
+    }
+   ]
+  },
+  {
+   "from": 354.9,
+   "to": 358.8,
+   "k": "Quote",
+   "t": "“a pessoa não vai ficar *cansada*?”",
+   "step": 0.15
+  },
+  {
+   "from": 444.4,
+   "to": 450.4,
+   "k": "Pills",
+   "items": [
+    {
+     "t": "lista do que *mais cai*",
+     "at": 0.5
+    },
+    {
+     "t": "banco de *questões*",
+     "at": 3.0
+    }
+   ]
+  },
+  {
+   "from": 452.7,
+   "to": 456.2,
+   "k": "Quote",
+   "t": "boa prova dia *15*",
+   "step": 0.2
+  },
+  {
+   "from": 456.2,
+   "to": 457.7,
+   "k": "Quote",
+   "t": "vai correr atrás dos seus *sonhos*",
+   "step": 0.08
+  },
+  {
+   "from": 457.7,
+   "to": 462.286,
+   "k": "Photo",
+   "src": "enem1/fotos/selfie-estudo.jpg",
+   "title": "o que minha mãe me dizia",
+   "sub": "todo dia, no ano do vestibular"
+  }
+ ]
+}

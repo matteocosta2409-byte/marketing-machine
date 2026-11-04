@@ -1,0 +1,73 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Helvetica,67,&H00FFFFFF,&H00FFFFFF,&HC8000000,&HC8000000,0,1,0,0,100,100,0,0,1,6.7,6.7,2,60,60,300,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.04,0:00:00.54,Cap,,0,0,0,,E juntando
+Dialogue: 0,0:00:00.54,0:00:00.70,Cap,,0,0,0,,tudo,
+Dialogue: 0,0:00:00.70,0:00:00.90,Cap,,0,0,0,,a minha
+Dialogue: 0,0:00:00.90,0:00:01.48,Cap,,0,0,0,,semana ficava
+Dialogue: 0,0:00:01.48,0:00:01.80,Cap,,0,0,0,,assim:
+Dialogue: 0,0:00:01.80,0:00:02.22,Cap,,0,0,0,,todas as
+Dialogue: 0,0:00:02.22,0:00:02.78,Cap,,0,0,0,,tardes de
+Dialogue: 0,0:00:02.78,0:00:03.26,Cap,,0,0,0,,segunda a
+Dialogue: 0,0:00:03.26,0:00:03.80,Cap,,0,0,0,,sexta,
+Dialogue: 0,0:00:03.80,0:00:04.22,Cap,,0,0,0,,uma prova
+Dialogue: 0,0:00:04.22,0:00:04.86,Cap,,0,0,0,,antiga no
+Dialogue: 0,0:00:04.86,0:00:05.40,Cap,,0,0,0,,tempo e
+Dialogue: 0,0:00:05.40,0:00:05.58,Cap,,0,0,0,,com a
+Dialogue: 0,0:00:05.58,0:00:06.42,Cap,,0,0,0,,redação.
+Dialogue: 0,0:00:06.42,0:00:06.90,Cap,,0,0,0,,E antes
+Dialogue: 0,0:00:06.90,0:00:07.20,Cap,,0,0,0,,dela,
+Dialogue: 0,0:00:07.20,0:00:07.62,Cap,,0,0,0,,relia os
+Dialogue: 0,0:00:07.62,0:00:08.48,Cap,,0,0,0,,meus repertórios.
+Dialogue: 0,0:00:08.48,0:00:08.88,Cap,,0,0,0,,Todas as
+Dialogue: 0,0:00:08.88,0:00:09.34,Cap,,0,0,0,,noites,
+Dialogue: 0,0:00:09.34,0:00:10.18,Cap,,0,0,0,,correção da
+Dialogue: 0,0:00:10.18,0:00:10.58,Cap,,0,0,0,,prova do
+Dialogue: 0,0:00:10.58,0:00:10.82,Cap,,0,0,0,,dia,
+Dialogue: 0,0:00:10.82,0:00:11.36,Cap,,0,0,0,,erro por
+Dialogue: 0,0:00:11.36,0:00:11.82,Cap,,0,0,0,,erro.
+Dialogue: 0,0:00:11.82,0:00:12.24,Cap,,0,0,0,,E todos
+Dialogue: 0,0:00:12.24,0:00:12.60,Cap,,0,0,0,,os dias
+Dialogue: 0,0:00:12.60,0:00:13.06,Cap,,0,0,0,,pela manhã,
+Dialogue: 0,0:00:13.06,0:00:13.98,Cap,,0,0,0,,repertórios com
+Dialogue: 0,0:00:13.98,0:00:15.18,Cap,,0,0,0,,alguns flashcards.
+Dialogue: 0,0:00:15.18,0:00:15.84,Cap,,0,0,0,,Segunda,
+Dialogue: 0,0:00:15.84,0:00:16.44,Cap,,0,0,0,,quarta e
+Dialogue: 0,0:00:16.44,0:00:16.78,Cap,,0,0,0,,sexta de
+Dialogue: 0,0:00:16.78,0:00:17.08,Cap,,0,0,0,,manhã,
+Dialogue: 0,0:00:17.08,0:00:17.64,Cap,,0,0,0,,questões de
+Dialogue: 0,0:00:17.64,0:00:18.10,Cap,,0,0,0,,Humanas em
+Dialogue: 0,0:00:18.10,0:00:18.74,Cap,,0,0,0,,alto volume
+Dialogue: 0,0:00:18.74,0:00:19.30,Cap,,0,0,0,,com revisão
+Dialogue: 0,0:00:19.30,0:00:19.94,Cap,,0,0,0,,direcionada.
+Dialogue: 0,0:00:19.94,0:00:20.34,Cap,,0,0,0,,Com base
+Dialogue: 0,0:00:20.34,0:00:20.56,Cap,,0,0,0,,no que
+Dialogue: 0,0:00:20.56,0:00:20.96,Cap,,0,0,0,,você tá
+Dialogue: 0,0:00:20.96,0:00:21.28,Cap,,0,0,0,,errando,
+Dialogue: 0,0:00:21.28,0:00:21.94,Cap,,0,0,0,,você revisa
+Dialogue: 0,0:00:21.94,0:00:22.95,Cap,,0,0,0,,aquela matéria.
+Dialogue: 0,0:00:22.95,0:00:23.45,Cap,,0,0,0,,E terça
+Dialogue: 0,0:00:23.45,0:00:23.89,Cap,,0,0,0,,e quinta
+Dialogue: 0,0:00:23.89,0:00:24.55,Cap,,0,0,0,,pela manhã,
+Dialogue: 0,0:00:24.55,0:00:24.97,Cap,,0,0,0,,assistir às
+Dialogue: 0,0:00:24.97,0:00:25.27,Cap,,0,0,0,,aulas do
+Dialogue: 0,0:00:25.27,0:00:25.97,Cap,,0,0,0,,Felipe Pereira,
+Dialogue: 0,0:00:25.97,0:00:26.49,Cap,,0,0,0,,somada às
+Dialogue: 0,0:00:26.49,0:00:26.87,Cap,,0,0,0,,questões de
+Dialogue: 0,0:00:26.87,0:00:28.07,Cap,,0,0,0,,Linguagens divididas
+Dialogue: 0,0:00:28.07,0:00:28.89,Cap,,0,0,0,,por competência.
+Dialogue: 0,0:00:28.89,0:00:29.23,Cap,,0,0,0,,Sábado é
+Dialogue: 0,0:00:29.23,0:00:30.23,Cap,,0,0,0,,descanso total
+Dialogue: 0,0:00:30.23,0:00:30.67,Cap,,0,0,0,,e domingo
+Dialogue: 0,0:00:30.67,0:00:30.77,Cap,,0,0,0,,é o
+Dialogue: 0,0:00:30.77,0:00:31.05,Cap,,0,0,0,,dia da
+Dialogue: 0,0:00:31.05,0:00:31.71,Cap,,0,0,0,,prova.

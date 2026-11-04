@@ -1,0 +1,99 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Helvetica,67,&H00FFFFFF,&H00FFFFFF,&HC8000000,&HC8000000,0,1,0,0,100,100,0,0,1,6.7,6.7,2,60,60,540,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.04,0:00:00.76,Cap,,0,0,0,,Dessas quinze,
+Dialogue: 0,0:00:00.76,0:00:00.96,Cap,,0,0,0,,eu acho
+Dialogue: 0,0:00:00.96,0:00:01.26,Cap,,0,0,0,,que assim,
+Dialogue: 0,0:00:01.26,0:00:01.76,Cap,,0,0,0,,umas sete
+Dialogue: 0,0:00:01.76,0:00:02.14,Cap,,0,0,0,,ou oito
+Dialogue: 0,0:00:02.14,0:00:02.56,Cap,,0,0,0,,passaram pra
+Dialogue: 0,0:00:02.56,0:00:02.96,Cap,,0,0,0,,medicina na
+Dialogue: 0,0:00:02.96,0:00:03.36,Cap,,0,0,0,,Federal.
+Dialogue: 0,0:00:03.36,0:00:03.94,Cap,,0,0,0,,Então assim,
+Dialogue: 0,0:00:03.94,0:00:04.52,Cap,,0,0,0,,eu duvido,
+Dialogue: 0,0:00:04.52,0:00:04.94,Cap,,0,0,0,,inclusive,
+Dialogue: 0,0:00:04.94,0:00:05.34,Cap,,0,0,0,,assim,
+Dialogue: 0,0:00:05.34,0:00:05.74,Cap,,0,0,0,,eu duvido
+Dialogue: 0,0:00:05.74,0:00:06.14,Cap,,0,0,0,,cês acharem
+Dialogue: 0,0:00:06.14,0:00:06.56,Cap,,0,0,0,,uma taxa
+Dialogue: 0,0:00:06.56,0:00:07.30,Cap,,0,0,0,,de aprovação
+Dialogue: 0,0:00:07.30,0:00:07.78,Cap,,0,0,0,,tão grande
+Dialogue: 0,0:00:07.78,0:00:08.16,Cap,,0,0,0,,quanto a
+Dialogue: 0,0:00:08.16,0:00:08.64,Cap,,0,0,0,,turma de
+Dialogue: 0,0:00:08.64,0:00:09.20,Cap,,0,0,0,,medicina,
+Dialogue: 0,0:00:09.20,0:00:09.46,Cap,,0,0,0,,quanto a
+Dialogue: 0,0:00:09.46,0:00:09.74,Cap,,0,0,0,,turma da
+Dialogue: 0,0:00:09.74,0:00:10.56,Cap,,0,0,0,,academia de
+Dialogue: 0,0:00:10.56,0:00:11.04,Cap,,0,0,0,,Taguatinga.
+Dialogue: 0,0:00:11.04,0:00:11.38,Cap,,0,0,0,,A Aí
+Dialogue: 0,0:00:11.38,0:00:11.58,Cap,,0,0,0,,foi uma
+Dialogue: 0,0:00:11.58,0:00:11.86,Cap,,0,0,0,,época que
+Dialogue: 0,0:00:11.86,0:00:12.28,Cap,,0,0,0,,eu estudei
+Dialogue: 0,0:00:12.28,0:00:13.00,Cap,,0,0,0,,bastante,
+Dialogue: 0,0:00:13.00,0:00:13.44,Cap,,0,0,0,,chegava no
+Dialogue: 0,0:00:13.44,0:00:13.82,Cap,,0,0,0,,cursinho ali
+Dialogue: 0,0:00:13.82,0:00:14.16,Cap,,0,0,0,,por volta
+Dialogue: 0,0:00:14.16,0:00:14.58,Cap,,0,0,0,,das nove
+Dialogue: 0,0:00:14.58,0:00:14.98,Cap,,0,0,0,,da manhã,
+Dialogue: 0,0:00:14.98,0:00:15.14,Cap,,0,0,0,,só ia
+Dialogue: 0,0:00:15.14,0:00:15.56,Cap,,0,0,0,,embora às
+Dialogue: 0,0:00:15.56,0:00:15.86,Cap,,0,0,0,,nove da
+Dialogue: 0,0:00:15.86,0:00:16.06,Cap,,0,0,0,,noite.
+Dialogue: 0,0:00:16.06,0:00:16.44,Cap,,0,0,0,,Então era
+Dialogue: 0,0:00:16.44,0:00:16.90,Cap,,0,0,0,,um estudo
+Dialogue: 0,0:00:16.90,0:00:17.60,Cap,,0,0,0,,bem intenso.
+Dialogue: 0,0:00:17.60,0:00:18.06,Cap,,0,0,0,,Eu parava
+Dialogue: 0,0:00:18.06,0:00:18.30,Cap,,0,0,0,,só pra
+Dialogue: 0,0:00:18.30,0:00:19.08,Cap,,0,0,0,,almoçar.
+Dialogue: 0,0:00:19.08,0:00:19.36,Cap,,0,0,0,,A galera
+Dialogue: 0,0:00:19.36,0:00:19.68,Cap,,0,0,0,,às vezes
+Dialogue: 0,0:00:19.68,0:00:20.10,Cap,,0,0,0,,me olhava
+Dialogue: 0,0:00:20.10,0:00:20.52,Cap,,0,0,0,,torto lá,
+Dialogue: 0,0:00:20.52,0:00:20.80,Cap,,0,0,0,,achava que
+Dialogue: 0,0:00:20.80,0:00:20.94,Cap,,0,0,0,,eu era
+Dialogue: 0,0:00:20.94,0:00:21.42,Cap,,0,0,0,,meio maluco,
+Dialogue: 0,0:00:21.42,0:00:21.60,Cap,,0,0,0,,porque eu
+Dialogue: 0,0:00:21.60,0:00:22.02,Cap,,0,0,0,,não parava
+Dialogue: 0,0:00:22.02,0:00:22.62,Cap,,0,0,0,,pra lanchar
+Dialogue: 0,0:00:22.62,0:00:23.16,Cap,,0,0,0,,e assim,
+Dialogue: 0,0:00:23.16,0:00:23.34,Cap,,0,0,0,,é,
+Dialogue: 0,0:00:23.34,0:00:24.00,Cap,,0,0,0,,realmente eu
+Dialogue: 0,0:00:24.00,0:00:24.80,Cap,,0,0,0,,era meio
+Dialogue: 0,0:00:24.80,0:00:25.32,Cap,,0,0,0,,louco nessa
+Dialogue: 0,0:00:25.32,0:00:25.50,Cap,,0,0,0,,época,
+Dialogue: 0,0:00:25.50,0:00:26.24,Cap,,0,0,0,,estudava bastante,
+Dialogue: 0,0:00:26.24,0:00:27.00,Cap,,0,0,0,,mas foi
+Dialogue: 0,0:00:27.00,0:00:27.38,Cap,,0,0,0,,uma época
+Dialogue: 0,0:00:27.38,0:00:28.08,Cap,,0,0,0,,muito importante
+Dialogue: 0,0:00:28.08,0:00:28.32,Cap,,0,0,0,,pra eu
+Dialogue: 0,0:00:28.32,0:00:28.92,Cap,,0,0,0,,conseguir ali
+Dialogue: 0,0:00:28.92,0:00:29.26,Cap,,0,0,0,,buscar o
+Dialogue: 0,0:00:29.26,0:00:29.70,Cap,,0,0,0,,meu sonho
+Dialogue: 0,0:00:29.70,0:00:30.34,Cap,,0,0,0,,depois conseguir
+Dialogue: 0,0:00:30.34,0:00:30.78,Cap,,0,0,0,,ser aprovado
+Dialogue: 0,0:00:30.78,0:00:31.16,Cap,,0,0,0,,em primeiro
+Dialogue: 0,0:00:31.16,0:00:31.49,Cap,,0,0,0,,lugar.
+Dialogue: 0,0:00:31.49,0:00:32.01,Cap,,0,0,0,,Então eu
+Dialogue: 0,0:00:32.01,0:00:32.27,Cap,,0,0,0,,digo que
+Dialogue: 0,0:00:32.27,0:00:32.61,Cap,,0,0,0,,valeu muito
+Dialogue: 0,0:00:32.61,0:00:33.05,Cap,,0,0,0,,a pena
+Dialogue: 0,0:00:33.05,0:00:33.65,Cap,,0,0,0,,e basicamente
+Dialogue: 0,0:00:33.65,0:00:34.15,Cap,,0,0,0,,os cursinhos
+Dialogue: 0,0:00:34.15,0:00:34.31,Cap,,0,0,0,,que eu
+Dialogue: 0,0:00:34.31,0:00:35.05,Cap,,0,0,0,,passei ao
+Dialogue: 0,0:00:35.05,0:00:35.37,Cap,,0,0,0,,longo da
+Dialogue: 0,0:00:35.37,0:00:35.95,Cap,,0,0,0,,minha trajetória
+Dialogue: 0,0:00:35.95,0:00:36.49,Cap,,0,0,0,,foram esses,
+Dialogue: 0,0:00:36.49,0:00:36.79,Cap,,0,0,0,,eu acho
+Dialogue: 0,0:00:36.79,0:00:36.87,Cap,,0,0,0,,que eu
+Dialogue: 0,0:00:36.87,0:00:37.21,Cap,,0,0,0,,não esqueci
+Dialogue: 0,0:00:37.21,0:00:38.03,Cap,,0,0,0,,de nenhum.

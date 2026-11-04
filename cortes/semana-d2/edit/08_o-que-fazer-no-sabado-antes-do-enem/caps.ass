@@ -1,0 +1,64 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Helvetica,67,&H00FFFFFF,&H00FFFFFF,&HC8000000,&HC8000000,0,1,0,0,100,100,0,0,1,6.7,6.7,2,60,60,300,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.04,0:00:00.24,Cap,,0,0,0,,E o
+Dialogue: 0,0:00:00.24,0:00:00.78,Cap,,0,0,0,,sábado é
+Dialogue: 0,0:00:00.78,0:00:01.61,Cap,,0,0,0,,de descanso.
+Dialogue: 0,0:00:01.61,0:00:01.95,Cap,,0,0,0,,Nada de
+Dialogue: 0,0:00:01.95,0:00:02.59,Cap,,0,0,0,,prova,
+Dialogue: 0,0:00:02.59,0:00:03.33,Cap,,0,0,0,,sem maratona,
+Dialogue: 0,0:00:03.33,0:00:03.69,Cap,,0,0,0,,sem fazer
+Dialogue: 0,0:00:03.69,0:00:04.23,Cap,,0,0,0,,questão.
+Dialogue: 0,0:00:04.23,0:00:04.81,Cap,,0,0,0,,Aproveita pra
+Dialogue: 0,0:00:04.81,0:00:05.41,Cap,,0,0,0,,deixar tudo
+Dialogue: 0,0:00:05.41,0:00:05.75,Cap,,0,0,0,,pronto.
+Dialogue: 0,0:00:05.75,0:00:06.33,Cap,,0,0,0,,Documento com
+Dialogue: 0,0:00:06.33,0:00:06.89,Cap,,0,0,0,,foto,
+Dialogue: 0,0:00:06.89,0:00:07.53,Cap,,0,0,0,,caneta que
+Dialogue: 0,0:00:07.53,0:00:07.75,Cap,,0,0,0,,cê vai
+Dialogue: 0,0:00:07.75,0:00:08.31,Cap,,0,0,0,,utilizar,
+Dialogue: 0,0:00:08.31,0:00:08.71,Cap,,0,0,0,,cartão de
+Dialogue: 0,0:00:08.71,0:00:09.69,Cap,,0,0,0,,confirmação impresso,
+Dialogue: 0,0:00:09.69,0:00:09.99,Cap,,0,0,0,,água na
+Dialogue: 0,0:00:09.99,0:00:10.43,Cap,,0,0,0,,garrafinha que
+Dialogue: 0,0:00:10.43,0:00:10.67,Cap,,0,0,0,,cê vai
+Dialogue: 0,0:00:10.67,0:00:11.13,Cap,,0,0,0,,usar,
+Dialogue: 0,0:00:11.13,0:00:11.79,Cap,,0,0,0,,alguma coisa
+Dialogue: 0,0:00:11.79,0:00:12.09,Cap,,0,0,0,,pra comer
+Dialogue: 0,0:00:12.09,0:00:12.39,Cap,,0,0,0,,antes da
+Dialogue: 0,0:00:12.39,0:00:13.05,Cap,,0,0,0,,prova e
+Dialogue: 0,0:00:13.05,0:00:13.55,Cap,,0,0,0,,confere o
+Dialogue: 0,0:00:13.55,0:00:14.03,Cap,,0,0,0,,caminho até
+Dialogue: 0,0:00:14.03,0:00:14.55,Cap,,0,0,0,,o local.
+Dialogue: 0,0:00:14.55,0:00:14.73,Cap,,0,0,0,,Vai lá
+Dialogue: 0,0:00:14.73,0:00:14.91,Cap,,0,0,0,,no seu
+Dialogue: 0,0:00:14.91,0:00:15.23,Cap,,0,0,0,,local de
+Dialogue: 0,0:00:15.23,0:00:15.55,Cap,,0,0,0,,prova,
+Dialogue: 0,0:00:15.55,0:00:15.75,Cap,,0,0,0,,vê o
+Dialogue: 0,0:00:15.75,0:00:16.17,Cap,,0,0,0,,caminho,
+Dialogue: 0,0:00:16.17,0:00:16.57,Cap,,0,0,0,,vê quanto
+Dialogue: 0,0:00:16.57,0:00:16.95,Cap,,0,0,0,,tempo tá
+Dialogue: 0,0:00:16.95,0:00:17.27,Cap,,0,0,0,,dando pra
+Dialogue: 0,0:00:17.27,0:00:17.69,Cap,,0,0,0,,você não
+Dialogue: 0,0:00:17.69,0:00:18.55,Cap,,0,0,0,,se atrasar
+Dialogue: 0,0:00:18.55,0:00:19.03,Cap,,0,0,0,,e dorme
+Dialogue: 0,0:00:19.03,0:00:19.31,Cap,,0,0,0,,cedo.
+Dialogue: 0,0:00:19.31,0:00:19.55,Cap,,0,0,0,,Você passou
+Dialogue: 0,0:00:19.55,0:00:19.87,Cap,,0,0,0,,a semana
+Dialogue: 0,0:00:19.87,0:00:20.55,Cap,,0,0,0,,inteira treinando
+Dialogue: 0,0:00:20.55,0:00:21.19,Cap,,0,0,0,,às treze
+Dialogue: 0,0:00:21.19,0:00:21.71,Cap,,0,0,0,,e trinta.
+Dialogue: 0,0:00:21.71,0:00:22.19,Cap,,0,0,0,,Não faz
+Dialogue: 0,0:00:22.19,0:00:22.67,Cap,,0,0,0,,sentido chegar
+Dialogue: 0,0:00:22.67,0:00:22.99,Cap,,0,0,0,,no Enem
+Dialogue: 0,0:00:22.99,0:00:23.79,Cap,,0,0,0,,cansado.
+Dialogue: 0,0:00:23.79,0:00:24.27,Cap,,0,0,0,,No

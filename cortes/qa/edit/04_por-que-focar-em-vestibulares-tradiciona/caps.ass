@@ -1,0 +1,63 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Helvetica,67,&H00FFFFFF,&H00FFFFFF,&HC8000000,&HC8000000,0,1,0,0,100,100,0,0,1,6.7,6.7,2,60,60,300,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.04,0:00:00.50,Cap,,0,0,0,,Todos os
+Dialogue: 0,0:00:00.50,0:00:01.08,Cap,,0,0,0,,cursinhos,
+Dialogue: 0,0:00:01.08,0:00:01.64,Cap,,0,0,0,,todo mundo
+Dialogue: 0,0:00:01.64,0:00:01.98,Cap,,0,0,0,,vai falar
+Dialogue: 0,0:00:01.98,0:00:02.20,Cap,,0,0,0,,pra você
+Dialogue: 0,0:00:02.20,0:00:02.80,Cap,,0,0,0,,fazer Enem,
+Dialogue: 0,0:00:02.80,0:00:02.94,Cap,,0,0,0,,que o
+Dialogue: 0,0:00:02.94,0:00:03.50,Cap,,0,0,0,,Enem aquilo,
+Dialogue: 0,0:00:03.50,0:00:03.66,Cap,,0,0,0,,que o
+Dialogue: 0,0:00:03.66,0:00:04.16,Cap,,0,0,0,,Enem isso.
+Dialogue: 0,0:00:04.16,0:00:04.62,Cap,,0,0,0,,Enem tá
+Dialogue: 0,0:00:04.62,0:00:05.12,Cap,,0,0,0,,saturado,
+Dialogue: 0,0:00:05.12,0:00:05.42,Cap,,0,0,0,,vou ser
+Dialogue: 0,0:00:05.42,0:00:05.78,Cap,,0,0,0,,sincero com
+Dialogue: 0,0:00:05.78,0:00:06.04,Cap,,0,0,0,,vocês,
+Dialogue: 0,0:00:06.04,0:00:06.38,Cap,,0,0,0,,Enem tá
+Dialogue: 0,0:00:06.38,0:00:06.86,Cap,,0,0,0,,saturado.
+Dialogue: 0,0:00:06.86,0:00:07.38,Cap,,0,0,0,,Enem agora
+Dialogue: 0,0:00:07.38,0:00:08.24,Cap,,0,0,0,,aceita notas
+Dialogue: 0,0:00:08.24,0:00:08.88,Cap,,0,0,0,,de três
+Dialogue: 0,0:00:08.88,0:00:09.54,Cap,,0,0,0,,anos antigos
+Dialogue: 0,0:00:09.54,0:00:09.84,Cap,,0,0,0,,de Enem,
+Dialogue: 0,0:00:09.84,0:00:10.20,Cap,,0,0,0,,então assim,
+Dialogue: 0,0:00:10.20,0:00:11.00,Cap,,0,0,0,,concorrência vai
+Dialogue: 0,0:00:11.00,0:00:11.46,Cap,,0,0,0,,tá lá
+Dialogue: 0,0:00:11.46,0:00:12.03,Cap,,0,0,0,,em cima.
+Dialogue: 0,0:00:12.03,0:00:12.47,Cap,,0,0,0,,Eu indico
+Dialogue: 0,0:00:12.47,0:00:13.45,Cap,,0,0,0,,vocês prestarem
+Dialogue: 0,0:00:13.45,0:00:14.89,Cap,,0,0,0,,vestibulares tradicionais,
+Dialogue: 0,0:00:14.89,0:00:15.33,Cap,,0,0,0,,por quê?
+Dialogue: 0,0:00:15.33,0:00:16.05,Cap,,0,0,0,,Prestando vestibular
+Dialogue: 0,0:00:16.05,0:00:16.71,Cap,,0,0,0,,tradicional,
+Dialogue: 0,0:00:16.71,0:00:17.15,Cap,,0,0,0,,muito mais
+Dialogue: 0,0:00:17.15,0:00:17.61,Cap,,0,0,0,,difícil,
+Dialogue: 0,0:00:17.61,0:00:18.05,Cap,,0,0,0,,muito mais
+Dialogue: 0,0:00:18.05,0:00:18.77,Cap,,0,0,0,,conteudista,
+Dialogue: 0,0:00:18.77,0:00:19.17,Cap,,0,0,0,,você vai
+Dialogue: 0,0:00:19.17,0:00:19.47,Cap,,0,0,0,,se dar
+Dialogue: 0,0:00:19.47,0:00:19.65,Cap,,0,0,0,,bem no
+Dialogue: 0,0:00:19.65,0:00:19.87,Cap,,0,0,0,,Enem.
+Dialogue: 0,0:00:19.87,0:00:20.41,Cap,,0,0,0,,Confia em
+Dialogue: 0,0:00:20.41,0:00:20.65,Cap,,0,0,0,,mim,
+Dialogue: 0,0:00:20.65,0:00:21.13,Cap,,0,0,0,,todo mundo
+Dialogue: 0,0:00:21.13,0:00:21.49,Cap,,0,0,0,,que presta
+Dialogue: 0,0:00:21.49,0:00:22.57,Cap,,0,0,0,,vestibular vai
+Dialogue: 0,0:00:22.57,0:00:22.83,Cap,,0,0,0,,bem no
+Dialogue: 0,0:00:22.83,0:00:23.08,Cap,,0,0,0,,Enem.
+Dialogue: 0,0:00:23.08,0:00:23.55,Cap,,0,0,0,,Então essa
+Dialogue: 0,0:00:23.55,0:00:23.61,Cap,,0,0,0,,é a
+Dialogue: 0,0:00:23.61,0:00:24.07,Cap,,0,0,0,,minha dica.
+Dialogue: 0,0:00:24.07,0:00:24.65,Cap,,0,0,0,,por isso

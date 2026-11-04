@@ -1,0 +1,19 @@
+[0:v]trim=start=1.000:end=3.550,setpts=PTS-STARTPTS,scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,setsar=1[v0];
+[0:a]atrim=start=1.000:end=3.550,asetpts=PTS-STARTPTS[a0];
+[0:v]trim=start=3.780:end=7.645,setpts=PTS-STARTPTS,scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,setsar=1[v1];
+[0:a]atrim=start=3.780:end=7.645,asetpts=PTS-STARTPTS[a1];
+[0:v]trim=start=32.225:end=36.904,setpts=PTS-STARTPTS,scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,setsar=1[v2];
+[0:a]atrim=start=32.225:end=36.904,asetpts=PTS-STARTPTS[a2];
+[0:v]trim=start=51.580:end=54.177,setpts=PTS-STARTPTS,scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,setsar=1[v3];
+[0:a]atrim=start=51.580:end=54.177,asetpts=PTS-STARTPTS[a3];
+[0:v]trim=start=68.140:end=71.130,setpts=PTS-STARTPTS,scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,setsar=1[v4];
+[0:a]atrim=start=68.140:end=71.130,asetpts=PTS-STARTPTS[a4];
+[0:v]trim=start=82.320:end=86.080,setpts=PTS-STARTPTS,scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,setsar=1[v5];
+[0:a]atrim=start=82.320:end=86.080,asetpts=PTS-STARTPTS[a5];
+[0:v]trim=start=93.725:end=98.585,setpts=PTS-STARTPTS,scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,setsar=1[v6];
+[0:a]atrim=start=93.725:end=98.585,asetpts=PTS-STARTPTS[a6];
+[0:v]trim=start=104.677:end=106.505,setpts=PTS-STARTPTS,scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,setsar=1[v7];
+[0:a]atrim=start=104.677:end=106.505,asetpts=PTS-STARTPTS[a7];
+[v0][a0][v1][a1][v2][a2][v3][a3][v4][a4][v5][a5][v6][a6][v7][a7]concat=n=8:v=1:a=1[cv][ca];
+[ca]loudnorm=I=-14:TP=-1:LRA=11[aout];
+[cv]ass='/Users/mac-matteo/marketing machine/cortes/arco-teste/edit/03_passar-no-vestibular-e-uma-habilidade-e-/caps.ass':fontsdir='/Users/mac-matteo/marketing machine/assets/fonts/clipper'[outv]

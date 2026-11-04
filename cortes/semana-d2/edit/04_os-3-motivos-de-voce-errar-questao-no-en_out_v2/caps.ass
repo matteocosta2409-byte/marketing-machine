@@ -1,0 +1,116 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Helvetica,67,&H00FFFFFF,&H00FFFFFF,&HC8000000,&HC8000000,0,1,0,0,100,100,0,0,1,6.7,6.7,2,60,60,540,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.04,0:00:00.18,Cap,,0,0,0,,E à
+Dialogue: 0,0:00:00.18,0:00:00.60,Cap,,0,0,0,,noite,
+Dialogue: 0,0:00:00.60,0:00:01.36,Cap,,0,0,0,,você corrige
+Dialogue: 0,0:00:01.36,0:00:01.72,Cap,,0,0,0,,a prova
+Dialogue: 0,0:00:01.72,0:00:01.98,Cap,,0,0,0,,que fez
+Dialogue: 0,0:00:01.98,0:00:02.62,Cap,,0,0,0,,à tarde.
+Dialogue: 0,0:00:02.62,0:00:02.80,Cap,,0,0,0,,Essa é
+Dialogue: 0,0:00:02.80,0:00:03.12,Cap,,0,0,0,,uma das
+Dialogue: 0,0:00:03.12,0:00:03.74,Cap,,0,0,0,,partes que
+Dialogue: 0,0:00:03.74,0:00:04.22,Cap,,0,0,0,,mais faz
+Dialogue: 0,0:00:04.22,0:00:04.82,Cap,,0,0,0,,diferença e
+Dialogue: 0,0:00:04.82,0:00:04.98,Cap,,0,0,0,,que o
+Dialogue: 0,0:00:04.98,0:00:05.80,Cap,,0,0,0,,pessoal quase
+Dialogue: 0,0:00:05.80,0:00:06.28,Cap,,0,0,0,,todo mundo
+Dialogue: 0,0:00:06.28,0:00:06.72,Cap,,0,0,0,,pula.
+Dialogue: 0,0:00:06.72,0:00:07.26,Cap,,0,0,0,,Não basta
+Dialogue: 0,0:00:07.26,0:00:07.90,Cap,,0,0,0,,olhar quantos
+Dialogue: 0,0:00:07.90,0:00:08.48,Cap,,0,0,0,,acertos você
+Dialogue: 0,0:00:08.48,0:00:08.78,Cap,,0,0,0,,fez.
+Dialogue: 0,0:00:08.78,0:00:09.12,Cap,,0,0,0,,Pra cada
+Dialogue: 0,0:00:09.12,0:00:09.80,Cap,,0,0,0,,questão errada,
+Dialogue: 0,0:00:09.80,0:00:10.14,Cap,,0,0,0,,você tem
+Dialogue: 0,0:00:10.14,0:00:10.30,Cap,,0,0,0,,que se
+Dialogue: 0,0:00:10.30,0:00:11.04,Cap,,0,0,0,,perguntar por
+Dialogue: 0,0:00:11.04,0:00:11.36,Cap,,0,0,0,,que que
+Dialogue: 0,0:00:11.36,0:00:12.06,Cap,,0,0,0,,você errou.
+Dialogue: 0,0:00:12.06,0:00:12.86,Cap,,0,0,0,,Quase sempre
+Dialogue: 0,0:00:12.86,0:00:12.98,Cap,,0,0,0,,é um
+Dialogue: 0,0:00:12.98,0:00:13.74,Cap,,0,0,0,,desses três
+Dialogue: 0,0:00:13.74,0:00:14.38,Cap,,0,0,0,,motivos:
+Dialogue: 0,0:00:14.38,0:00:14.80,Cap,,0,0,0,,ou você
+Dialogue: 0,0:00:14.80,0:00:15.24,Cap,,0,0,0,,não sabia
+Dialogue: 0,0:00:15.24,0:00:15.90,Cap,,0,0,0,,a matéria,
+Dialogue: 0,0:00:15.90,0:00:16.14,Cap,,0,0,0,,e aí
+Dialogue: 0,0:00:16.14,0:00:16.68,Cap,,0,0,0,,essa questão
+Dialogue: 0,0:00:16.68,0:00:17.08,Cap,,0,0,0,,vai pruma
+Dialogue: 0,0:00:17.08,0:00:17.36,Cap,,0,0,0,,lista de
+Dialogue: 0,0:00:17.36,0:00:17.76,Cap,,0,0,0,,revisão na
+Dialogue: 0,0:00:17.76,0:00:18.66,Cap,,0,0,0,,manhã seguinte,
+Dialogue: 0,0:00:18.66,0:00:18.98,Cap,,0,0,0,,ou você
+Dialogue: 0,0:00:18.98,0:00:19.64,Cap,,0,0,0,,até sabia,
+Dialogue: 0,0:00:19.64,0:00:19.98,Cap,,0,0,0,,mas errou
+Dialogue: 0,0:00:19.98,0:00:20.42,Cap,,0,0,0,,por falta
+Dialogue: 0,0:00:20.42,0:00:21.24,Cap,,0,0,0,,de atenção,
+Dialogue: 0,0:00:21.24,0:00:21.48,Cap,,0,0,0,,e essa
+Dialogue: 0,0:00:21.48,0:00:22.12,Cap,,0,0,0,,você anota,
+Dialogue: 0,0:00:22.12,0:00:22.52,Cap,,0,0,0,,porque Enem
+Dialogue: 0,0:00:22.52,0:00:23.38,Cap,,0,0,0,,repete muito
+Dialogue: 0,0:00:23.38,0:00:23.82,Cap,,0,0,0,,os tipos
+Dialogue: 0,0:00:23.82,0:00:24.66,Cap,,0,0,0,,de pegadinha
+Dialogue: 0,0:00:24.66,0:00:24.86,Cap,,0,0,0,,e o
+Dialogue: 0,0:00:24.86,0:00:25.50,Cap,,0,0,0,,padrão de
+Dialogue: 0,0:00:25.50,0:00:25.98,Cap,,0,0,0,,questão que
+Dialogue: 0,0:00:25.98,0:00:26.26,Cap,,0,0,0,,cai na
+Dialogue: 0,0:00:26.26,0:00:26.63,Cap,,0,0,0,,prova.
+Dialogue: 0,0:00:26.63,0:00:26.81,Cap,,0,0,0,,Ou o
+Dialogue: 0,0:00:26.81,0:00:27.21,Cap,,0,0,0,,terceiro:
+Dialogue: 0,0:00:27.21,0:00:28.03,Cap,,0,0,0,,faltou tempo.
+Dialogue: 0,0:00:28.03,0:00:28.29,Cap,,0,0,0,,Cê nem
+Dialogue: 0,0:00:28.29,0:00:28.73,Cap,,0,0,0,,chegou na
+Dialogue: 0,0:00:28.73,0:00:29.35,Cap,,0,0,0,,questão e
+Dialogue: 0,0:00:29.35,0:00:29.63,Cap,,0,0,0,,teve que
+Dialogue: 0,0:00:29.63,0:00:30.05,Cap,,0,0,0,,chutar no
+Dialogue: 0,0:00:30.05,0:00:30.37,Cap,,0,0,0,,final.
+Dialogue: 0,0:00:30.37,0:00:30.53,Cap,,0,0,0,,Aí o
+Dialogue: 0,0:00:30.53,0:00:30.87,Cap,,0,0,0,,problema não
+Dialogue: 0,0:00:30.87,0:00:31.07,Cap,,0,0,0,,é nem
+Dialogue: 0,0:00:31.07,0:00:31.57,Cap,,0,0,0,,conteúdo,
+Dialogue: 0,0:00:31.57,0:00:31.77,Cap,,0,0,0,,é só
+Dialogue: 0,0:00:31.77,0:00:32.39,Cap,,0,0,0,,a ordem
+Dialogue: 0,0:00:32.39,0:00:32.61,Cap,,0,0,0,,e o
+Dialogue: 0,0:00:32.61,0:00:33.13,Cap,,0,0,0,,ritmo que
+Dialogue: 0,0:00:33.13,0:00:33.57,Cap,,0,0,0,,você faz
+Dialogue: 0,0:00:33.57,0:00:34.09,Cap,,0,0,0,,a prova.
+Dialogue: 0,0:00:34.09,0:00:34.69,Cap,,0,0,0,,Por isso,
+Dialogue: 0,0:00:34.69,0:00:35.15,Cap,,0,0,0,,além dos
+Dialogue: 0,0:00:35.15,0:00:35.51,Cap,,0,0,0,,erros,
+Dialogue: 0,0:00:35.51,0:00:35.95,Cap,,0,0,0,,olha também
+Dialogue: 0,0:00:35.95,0:00:36.35,Cap,,0,0,0,,o seu
+Dialogue: 0,0:00:36.35,0:00:36.79,Cap,,0,0,0,,tempo.
+Dialogue: 0,0:00:36.79,0:00:37.43,Cap,,0,0,0,,Quantas questões
+Dialogue: 0,0:00:37.43,0:00:38.37,Cap,,0,0,0,,você faz?
+Dialogue: 0,0:00:38.37,0:00:38.91,Cap,,0,0,0,,Quantas questões
+Dialogue: 0,0:00:38.91,0:00:39.39,Cap,,0,0,0,,você tinha
+Dialogue: 0,0:00:39.39,0:00:39.81,Cap,,0,0,0,,feito depois
+Dialogue: 0,0:00:39.81,0:00:40.23,Cap,,0,0,0,,da primeira
+Dialogue: 0,0:00:40.23,0:00:40.57,Cap,,0,0,0,,hora?
+Dialogue: 0,0:00:40.57,0:00:40.93,Cap,,0,0,0,,E depois
+Dialogue: 0,0:00:40.93,0:00:41.23,Cap,,0,0,0,,de três
+Dialogue: 0,0:00:41.23,0:00:41.53,Cap,,0,0,0,,horas e
+Dialogue: 0,0:00:41.53,0:00:42.05,Cap,,0,0,0,,meia?
+Dialogue: 0,0:00:42.05,0:00:42.31,Cap,,0,0,0,,Se você
+Dialogue: 0,0:00:42.31,0:00:42.61,Cap,,0,0,0,,tá sempre
+Dialogue: 0,0:00:42.61,0:00:43.15,Cap,,0,0,0,,atrasado no
+Dialogue: 0,0:00:43.15,0:00:43.97,Cap,,0,0,0,,mesmo ponto,
+Dialogue: 0,0:00:43.97,0:00:44.61,Cap,,0,0,0,,já sabe
+Dialogue: 0,0:00:44.61,0:00:44.77,Cap,,0,0,0,,o que
+Dialogue: 0,0:00:44.77,0:00:45.63,Cap,,0,0,0,,ajustar no
+Dialogue: 0,0:00:45.63,0:00:46.25,Cap,,0,0,0,,dia seguinte,
+Dialogue: 0,0:00:46.25,0:00:46.85,Cap,,0,0,0,,na próxima
+Dialogue: 0,0:00:46.85,0:00:47.25,Cap,,0,0,0,,prova antiga
+Dialogue: 0,0:00:47.25,0:00:47.49,Cap,,0,0,0,,que você
+Dialogue: 0,0:00:47.49,0:00:48.15,Cap,,0,0,0,,vai fazer.
+Dialogue: 0,0:00:48.15,0:00:48.63,Cap,,0,0,0,,De

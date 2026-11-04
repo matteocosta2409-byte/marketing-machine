@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "sources": {
+    "src": "/Users/mac-matteo/marketing machine/apps-video/src.mov"
+  },
+  "ranges": [
+    {
+      "source": "src",
+      "start": 0.0,
+      "end": 24.542
+    }
+  ],
+  "grade": "none",
+  "overlays": [
+    {
+      "file": "animations/cards/1_claude.mov",
+      "start_in_output": 0.18,
+      "duration": 1.4
+    },
+    {
+      "file": "animations/cards/2_supabase.mov",
+      "start_in_output": 1.58,
+      "duration": 1.5
+    },
+    {
+      "file": "animations/cards/3_vercel.mov",
+      "start_in_output": 3.18,
+      "duration": 1.5
+    },
+    {
+      "file": "animations/cards/4_asaas.mov",
+      "start_in_output": 5.48,
+      "duration": 0.96
+    },
+    {
+      "file": "animations/cards/5_posthog.mov",
+      "start_in_output": 6.44,
+      "duration": 1.5
+    },
+    {
+      "file": "animations/cards/6_spotify.mov",
+      "start_in_output": 9.54,
+      "duration": 1.5
+    }
+  ],
+  "subtitle_case": "natural",
+  "subtitle_style": "FontName=Helvetica,FontSize=15,Bold=1,PrimaryColour=&H00FFFFFF,OutlineColour=&H00000000,BackColour=&H80000000,BorderStyle=1,Outline=0,Shadow=1,Alignment=2,MarginV=40",
+  "total_duration_s": 24.542
+}

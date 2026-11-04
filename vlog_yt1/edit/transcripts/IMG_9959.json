@@ -1,0 +1,65 @@
+{
+  "language_code": "por",
+  "language_probability": 1.0,
+  "text": "Cafezinho com chocolate Oi?",
+  "words": [
+    {
+      "text": "Cafezinho",
+      "start": 1.64,
+      "end": 2.38,
+      "type": "word",
+      "speaker_id": "speaker_0",
+      "logprob": -0.08201372605981305
+    },
+    {
+      "text": " ",
+      "start": 2.38,
+      "end": 2.44,
+      "type": "spacing",
+      "speaker_id": "speaker_0",
+      "logprob": 0.0
+    },
+    {
+      "text": "com",
+      "start": 2.44,
+      "end": 2.52,
+      "type": "word",
+      "speaker_id": "speaker_0",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 2.52,
+      "end": 2.58,
+      "type": "spacing",
+      "speaker_id": "speaker_0",
+      "logprob": -0.0001851148990681395
+    },
+    {
+      "text": "chocolate",
+      "start": 2.58,
+      "end": 3.32,
+      "type": "word",
+      "speaker_id": "speaker_0",
+      "logprob": -0.0001851148990681395
+    },
+    {
+      "text": " ",
+      "start": 3.32,
+      "end": 3.36,
+      "type": "spacing",
+      "speaker_id": "speaker_0",
+      "logprob": -0.10993793606758118
+    },
+    {
+      "text": "Oi?",
+      "start": 3.86,
+      "end": 4.04,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.08400233553644891
+    }
+  ],
+  "transcription_id": "sY2kQaKSvcxffzSYJjyU",
+  "audio_duration_secs": 4.18
+}

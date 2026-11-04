@@ -1,0 +1,38 @@
+[
+  {
+    "file": "1_claude.png",
+    "start": 0.18,
+    "duration": 1.4,
+    "round": true
+  },
+  {
+    "file": "2_supabase.png",
+    "start": 1.58,
+    "duration": 1.5,
+    "round": true
+  },
+  {
+    "file": "3_vercel.png",
+    "start": 3.18,
+    "duration": 1.5,
+    "round": true
+  },
+  {
+    "file": "4_asaas.png",
+    "start": 5.48,
+    "duration": 0.96,
+    "round": true
+  },
+  {
+    "file": "5_posthog.png",
+    "start": 6.44,
+    "duration": 1.5,
+    "round": true
+  },
+  {
+    "file": "6_spotify.png",
+    "start": 9.54,
+    "duration": 1.5,
+    "round": false
+  }
+]

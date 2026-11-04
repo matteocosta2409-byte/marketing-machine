@@ -1,0 +1,69 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Helvetica,67,&H00FFFFFF,&H00FFFFFF,&HC8000000,&HC8000000,0,1,0,0,100,100,0,0,1,6.7,6.7,2,60,60,540,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.04,0:00:00.24,Cap,,0,0,0,,E é
+Dialogue: 0,0:00:00.24,0:00:00.66,Cap,,0,0,0,,por isso
+Dialogue: 0,0:00:00.66,0:00:00.82,Cap,,0,0,0,,que o
+Dialogue: 0,0:00:00.82,0:00:01.44,Cap,,0,0,0,,rascunho da
+Dialogue: 0,0:00:01.44,0:00:02.20,Cap,,0,0,0,,minha redação
+Dialogue: 0,0:00:02.20,0:00:02.62,Cap,,0,0,0,,vinha só
+Dialogue: 0,0:00:02.62,0:00:03.08,Cap,,0,0,0,,depois de
+Dialogue: 0,0:00:03.08,0:00:03.56,Cap,,0,0,0,,Humanas,
+Dialogue: 0,0:00:03.56,0:00:03.80,Cap,,0,0,0,,com uma
+Dialogue: 0,0:00:03.80,0:00:03.96,Cap,,0,0,0,,hora e
+Dialogue: 0,0:00:03.96,0:00:04.48,Cap,,0,0,0,,quarenta e
+Dialogue: 0,0:00:04.48,0:00:04.86,Cap,,0,0,0,,cinco de
+Dialogue: 0,0:00:04.86,0:00:05.12,Cap,,0,0,0,,prova,
+Dialogue: 0,0:00:05.12,0:00:05.36,Cap,,0,0,0,,mais ou
+Dialogue: 0,0:00:05.36,0:00:05.98,Cap,,0,0,0,,menos.
+Dialogue: 0,0:00:05.98,0:00:06.54,Cap,,0,0,0,,Nesse momento
+Dialogue: 0,0:00:06.54,0:00:07.16,Cap,,0,0,0,,eu escrevia
+Dialogue: 0,0:00:07.16,0:00:07.94,Cap,,0,0,0,,palavra por
+Dialogue: 0,0:00:07.94,0:00:08.60,Cap,,0,0,0,,palavra a
+Dialogue: 0,0:00:08.60,0:00:09.46,Cap,,0,0,0,,introdução,
+Dialogue: 0,0:00:09.46,0:00:09.70,Cap,,0,0,0,,o meu
+Dialogue: 0,0:00:09.70,0:00:10.18,Cap,,0,0,0,,D1 e
+Dialogue: 0,0:00:10.18,0:00:10.38,Cap,,0,0,0,,o meu
+Dialogue: 0,0:00:10.38,0:00:11.08,Cap,,0,0,0,,D2.
+Dialogue: 0,0:00:11.08,0:00:11.52,Cap,,0,0,0,,Era uma
+Dialogue: 0,0:00:11.52,0:00:12.36,Cap,,0,0,0,,hora inteira
+Dialogue: 0,0:00:12.36,0:00:12.86,Cap,,0,0,0,,só pra
+Dialogue: 0,0:00:12.86,0:00:13.36,Cap,,0,0,0,,isso.
+Dialogue: 0,0:00:13.36,0:00:13.84,Cap,,0,0,0,,Proposta de
+Dialogue: 0,0:00:13.84,0:00:14.38,Cap,,0,0,0,,intervenção eu
+Dialogue: 0,0:00:14.38,0:00:15.04,Cap,,0,0,0,,não rascunhava,
+Dialogue: 0,0:00:15.04,0:00:15.46,Cap,,0,0,0,,eu gostava
+Dialogue: 0,0:00:15.46,0:00:15.84,Cap,,0,0,0,,de jogar
+Dialogue: 0,0:00:15.84,0:00:16.38,Cap,,0,0,0,,direto no
+Dialogue: 0,0:00:16.38,0:00:17.50,Cap,,0,0,0,,folheto definitivo,
+Dialogue: 0,0:00:17.50,0:00:17.88,Cap,,0,0,0,,porque pra
+Dialogue: 0,0:00:17.88,0:00:18.10,Cap,,0,0,0,,mim era
+Dialogue: 0,0:00:18.10,0:00:18.50,Cap,,0,0,0,,uma parte
+Dialogue: 0,0:00:18.50,0:00:19.14,Cap,,0,0,0,,mais tranquila
+Dialogue: 0,0:00:19.14,0:00:19.46,Cap,,0,0,0,,dentro da
+Dialogue: 0,0:00:19.46,0:00:19.91,Cap,,0,0,0,,redação.
+Dialogue: 0,0:00:19.91,0:00:20.19,Cap,,0,0,0,,Uma hora
+Dialogue: 0,0:00:20.19,0:00:20.77,Cap,,0,0,0,,inteira pra
+Dialogue: 0,0:00:20.77,0:00:21.47,Cap,,0,0,0,,três parágrafos
+Dialogue: 0,0:00:21.47,0:00:22.13,Cap,,0,0,0,,parece muito,
+Dialogue: 0,0:00:22.13,0:00:22.39,Cap,,0,0,0,,mas é
+Dialogue: 0,0:00:22.39,0:00:22.79,Cap,,0,0,0,,aqui que
+Dialogue: 0,0:00:22.79,0:00:23.23,Cap,,0,0,0,,a redação
+Dialogue: 0,0:00:23.23,0:00:23.69,Cap,,0,0,0,,é feita
+Dialogue: 0,0:00:23.69,0:00:24.16,Cap,,0,0,0,,de fato.
+Dialogue: 0,0:00:24.16,0:00:24.64,Cap,,0,0,0,,Depois,
+Dialogue: 0,0:00:24.64,0:00:25.02,Cap,,0,0,0,,passar a
+Dialogue: 0,0:00:25.02,0:00:25.30,Cap,,0,0,0,,limpo é
+Dialogue: 0,0:00:25.30,0:00:25.80,Cap,,0,0,0,,só copiar
+Dialogue: 0,0:00:25.80,0:00:26.16,Cap,,0,0,0,,com muita
+Dialogue: 0,0:00:26.16,0:00:26.50,Cap,,0,0,0,,calma no
+Dialogue: 0,0:00:26.50,0:00:27.48,Cap,,0,0,0,,definitivo.

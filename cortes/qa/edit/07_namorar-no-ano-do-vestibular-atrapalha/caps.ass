@@ -1,0 +1,128 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Helvetica,67,&H00FFFFFF,&H00FFFFFF,&HC8000000,&HC8000000,0,1,0,0,100,100,0,0,1,6.7,6.7,2,60,60,300,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.04,0:00:00.20,Cap,,0,0,0,,Cara,
+Dialogue: 0,0:00:00.20,0:00:00.40,Cap,,0,0,0,,eu não
+Dialogue: 0,0:00:00.40,0:00:01.32,Cap,,0,0,0,,namorava enquanto
+Dialogue: 0,0:00:01.32,0:00:01.62,Cap,,0,0,0,,eu tava
+Dialogue: 0,0:00:01.62,0:00:02.26,Cap,,0,0,0,,no cursinho,
+Dialogue: 0,0:00:02.26,0:00:02.52,Cap,,0,0,0,,mas eu
+Dialogue: 0,0:00:02.52,0:00:03.00,Cap,,0,0,0,,acho que
+Dialogue: 0,0:00:03.00,0:00:03.36,Cap,,0,0,0,,tem um
+Dialogue: 0,0:00:03.36,0:00:03.71,Cap,,0,0,0,,ponto.
+Dialogue: 0,0:00:03.71,0:00:03.91,Cap,,0,0,0,,O seu
+Dialogue: 0,0:00:03.91,0:00:04.37,Cap,,0,0,0,,namorado,
+Dialogue: 0,0:00:04.37,0:00:04.97,Cap,,0,0,0,,sua namorada,
+Dialogue: 0,0:00:04.97,0:00:05.15,Cap,,0,0,0,,tem que
+Dialogue: 0,0:00:05.15,0:00:05.53,Cap,,0,0,0,,entender o
+Dialogue: 0,0:00:05.53,0:00:05.95,Cap,,0,0,0,,contexto que
+Dialogue: 0,0:00:05.95,0:00:06.30,Cap,,0,0,0,,cê tá.
+Dialogue: 0,0:00:06.30,0:00:06.46,Cap,,0,0,0,,Cê tá
+Dialogue: 0,0:00:06.46,0:00:07.26,Cap,,0,0,0,,no vestibular,
+Dialogue: 0,0:00:07.26,0:00:07.46,Cap,,0,0,0,,cê tem
+Dialogue: 0,0:00:07.46,0:00:07.94,Cap,,0,0,0,,que entender
+Dialogue: 0,0:00:07.94,0:00:08.14,Cap,,0,0,0,,que é
+Dialogue: 0,0:00:08.14,0:00:08.40,Cap,,0,0,0,,o ano
+Dialogue: 0,0:00:08.40,0:00:09.00,Cap,,0,0,0,,do vestibular,
+Dialogue: 0,0:00:09.00,0:00:09.15,Cap,,0,0,0,,pô.
+Dialogue: 0,0:00:09.15,0:00:09.33,Cap,,0,0,0,,Cê tem
+Dialogue: 0,0:00:09.33,0:00:09.81,Cap,,0,0,0,,que abdicar
+Dialogue: 0,0:00:09.81,0:00:10.27,Cap,,0,0,0,,de bastante
+Dialogue: 0,0:00:10.27,0:00:10.49,Cap,,0,0,0,,coisa e
+Dialogue: 0,0:00:10.49,0:00:10.69,Cap,,0,0,0,,cê tem
+Dialogue: 0,0:00:10.69,0:00:10.91,Cap,,0,0,0,,que se
+Dialogue: 0,0:00:10.91,0:00:11.35,Cap,,0,0,0,,empenhar.
+Dialogue: 0,0:00:11.35,0:00:11.75,Cap,,0,0,0,,Então se
+Dialogue: 0,0:00:11.75,0:00:11.95,Cap,,0,0,0,,o seu
+Dialogue: 0,0:00:11.95,0:00:12.67,Cap,,0,0,0,,namoro for
+Dialogue: 0,0:00:12.67,0:00:13.13,Cap,,0,0,0,,te tirar
+Dialogue: 0,0:00:13.13,0:00:13.43,Cap,,0,0,0,,o seu
+Dialogue: 0,0:00:13.43,0:00:13.70,Cap,,0,0,0,,foco,
+Dialogue: 0,0:00:13.70,0:00:14.06,Cap,,0,0,0,,eu acho
+Dialogue: 0,0:00:14.06,0:00:14.36,Cap,,0,0,0,,que é
+Dialogue: 0,0:00:14.36,0:00:15.14,Cap,,0,0,0,,uma decisão
+Dialogue: 0,0:00:15.14,0:00:16.04,Cap,,0,0,0,,racional você
+Dialogue: 0,0:00:16.04,0:00:16.56,Cap,,0,0,0,,encerrar com
+Dialogue: 0,0:00:16.56,0:00:16.84,Cap,,0,0,0,,esse tipo
+Dialogue: 0,0:00:16.84,0:00:17.18,Cap,,0,0,0,,de coisa.
+Dialogue: 0,0:00:17.18,0:00:17.44,Cap,,0,0,0,,Se é
+Dialogue: 0,0:00:17.44,0:00:17.84,Cap,,0,0,0,,um namoro
+Dialogue: 0,0:00:17.84,0:00:18.08,Cap,,0,0,0,,que te
+Dialogue: 0,0:00:18.08,0:00:18.78,Cap,,0,0,0,,impulsiona,
+Dialogue: 0,0:00:18.78,0:00:18.88,Cap,,0,0,0,,se é
+Dialogue: 0,0:00:18.88,0:00:19.44,Cap,,0,0,0,,uma pessoa
+Dialogue: 0,0:00:19.44,0:00:20.09,Cap,,0,0,0,,que consegue
+Dialogue: 0,0:00:20.09,0:00:20.73,Cap,,0,0,0,,amplificar o
+Dialogue: 0,0:00:20.73,0:00:21.36,Cap,,0,0,0,,seu estudo,
+Dialogue: 0,0:00:21.36,0:00:21.58,Cap,,0,0,0,,eu acho
+Dialogue: 0,0:00:21.58,0:00:21.80,Cap,,0,0,0,,que não
+Dialogue: 0,0:00:21.80,0:00:22.26,Cap,,0,0,0,,tem porque
+Dialogue: 0,0:00:22.26,0:00:22.54,Cap,,0,0,0,,largar,
+Dialogue: 0,0:00:22.54,0:00:22.74,Cap,,0,0,0,,eu acho
+Dialogue: 0,0:00:22.74,0:00:23.00,Cap,,0,0,0,,que essa
+Dialogue: 0,0:00:23.00,0:00:23.32,Cap,,0,0,0,,pessoa,
+Dialogue: 0,0:00:23.32,0:00:23.74,Cap,,0,0,0,,de novo,
+Dialogue: 0,0:00:23.74,0:00:24.12,Cap,,0,0,0,,só vai
+Dialogue: 0,0:00:24.12,0:00:24.60,Cap,,0,0,0,,te aumentar
+Dialogue: 0,0:00:24.60,0:00:24.84,Cap,,0,0,0,,a chance
+Dialogue: 0,0:00:24.84,0:00:25.14,Cap,,0,0,0,,de você
+Dialogue: 0,0:00:25.14,0:00:25.69,Cap,,0,0,0,,ser aprovado,
+Dialogue: 0,0:00:25.69,0:00:26.15,Cap,,0,0,0,,mas essa
+Dialogue: 0,0:00:26.15,0:00:26.49,Cap,,0,0,0,,pessoa tem
+Dialogue: 0,0:00:26.49,0:00:26.95,Cap,,0,0,0,,que entender
+Dialogue: 0,0:00:26.95,0:00:27.13,Cap,,0,0,0,,que às
+Dialogue: 0,0:00:27.13,0:00:27.35,Cap,,0,0,0,,vezes cê
+Dialogue: 0,0:00:27.35,0:00:27.91,Cap,,0,0,0,,vai abdicar
+Dialogue: 0,0:00:27.91,0:00:28.15,Cap,,0,0,0,,de um
+Dialogue: 0,0:00:28.15,0:00:28.49,Cap,,0,0,0,,tempo de
+Dialogue: 0,0:00:28.49,0:00:29.23,Cap,,0,0,0,,qualidade pra
+Dialogue: 0,0:00:29.23,0:00:29.55,Cap,,0,0,0,,poder ali
+Dialogue: 0,0:00:29.55,0:00:29.95,Cap,,0,0,0,,estudar.
+Dialogue: 0,0:00:29.95,0:00:30.23,Cap,,0,0,0,,Então se
+Dialogue: 0,0:00:30.23,0:00:30.77,Cap,,0,0,0,,ela entende
+Dialogue: 0,0:00:30.77,0:00:31.03,Cap,,0,0,0,,isso,
+Dialogue: 0,0:00:31.03,0:00:31.29,Cap,,0,0,0,,cara,
+Dialogue: 0,0:00:31.29,0:00:31.85,Cap,,0,0,0,,fenomenal,
+Dialogue: 0,0:00:31.85,0:00:32.31,Cap,,0,0,0,,muito bom
+Dialogue: 0,0:00:32.31,0:00:32.59,Cap,,0,0,0,,mesmo,
+Dialogue: 0,0:00:32.59,0:00:32.87,Cap,,0,0,0,,porque ela
+Dialogue: 0,0:00:32.87,0:00:33.07,Cap,,0,0,0,,só vai
+Dialogue: 0,0:00:33.07,0:00:33.45,Cap,,0,0,0,,te ajudar
+Dialogue: 0,0:00:33.45,0:00:33.69,Cap,,0,0,0,,ali,
+Dialogue: 0,0:00:33.69,0:00:33.95,Cap,,0,0,0,,ela vai
+Dialogue: 0,0:00:33.95,0:00:34.09,Cap,,0,0,0,,te,
+Dialogue: 0,0:00:34.09,0:00:34.49,Cap,,0,0,0,,te aliviar
+Dialogue: 0,0:00:34.49,0:00:34.95,Cap,,0,0,0,,o estresse,
+Dialogue: 0,0:00:34.95,0:00:35.40,Cap,,0,0,0,,vai poder
+Dialogue: 0,0:00:35.40,0:00:35.88,Cap,,0,0,0,,passar tempo
+Dialogue: 0,0:00:35.88,0:00:36.24,Cap,,0,0,0,,com ela,
+Dialogue: 0,0:00:36.24,0:00:36.92,Cap,,0,0,0,,cê vai--
+Dialogue: 0,0:00:36.92,0:00:37.22,Cap,,0,0,0,,e viver
+Dialogue: 0,0:00:37.22,0:00:37.52,Cap,,0,0,0,,um pouco
+Dialogue: 0,0:00:37.52,0:00:37.94,Cap,,0,0,0,,da vida,
+Dialogue: 0,0:00:37.94,0:00:38.12,Cap,,0,0,0,,né,
+Dialogue: 0,0:00:38.12,0:00:38.32,Cap,,0,0,0,,que é
+Dialogue: 0,0:00:38.32,0:00:38.44,Cap,,0,0,0,,o,
+Dialogue: 0,0:00:38.44,0:00:38.60,Cap,,0,0,0,,que é
+Dialogue: 0,0:00:38.60,0:00:39.28,Cap,,0,0,0,,importante,
+Dialogue: 0,0:00:39.28,0:00:39.62,Cap,,0,0,0,,né.
+Dialogue: 0,0:00:39.62,0:00:40.06,Cap,,0,0,0,,O vestibular
+Dialogue: 0,0:00:40.06,0:00:40.26,Cap,,0,0,0,,é só
+Dialogue: 0,0:00:40.26,0:00:40.80,Cap,,0,0,0,,uma fase
+Dialogue: 0,0:00:40.80,0:00:41.10,Cap,,0,0,0,,da vida,
+Dialogue: 0,0:00:41.10,0:00:41.39,Cap,,0,0,0,,então você
+Dialogue: 0,0:00:41.39,0:00:41.65,Cap,,0,0,0,,tem que
+Dialogue: 0,0:00:41.65,0:00:42.03,Cap,,0,0,0,,curtir a
+Dialogue: 0,0:00:42.03,0:00:42.65,Cap,,0,0,0,,vida tanto
+Dialogue: 0,0:00:42.65,0:00:43.55,Cap,,0,0,0,,quanto estudar
+Dialogue: 0,0:00:43.55,0:00:44.15,Cap,,0,0,0,,pro vestibular.
+Dialogue: 0,0:00:44.15,0:00:44.67,Cap,,0,0,0,,Então

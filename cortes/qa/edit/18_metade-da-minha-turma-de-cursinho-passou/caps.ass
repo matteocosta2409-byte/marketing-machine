@@ -1,0 +1,100 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Helvetica,67,&H00FFFFFF,&H00FFFFFF,&HC8000000,&HC8000000,0,1,0,0,100,100,0,0,1,6.7,6.7,2,60,60,300,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.04,0:00:00.32,Cap,,0,0,0,,Eu acho
+Dialogue: 0,0:00:00.32,0:00:00.60,Cap,,0,0,0,,que foi
+Dialogue: 0,0:00:00.60,0:00:01.16,Cap,,0,0,0,,de extrema
+Dialogue: 0,0:00:01.16,0:00:01.78,Cap,,0,0,0,,importância eu
+Dialogue: 0,0:00:01.78,0:00:02.22,Cap,,0,0,0,,ter entrado
+Dialogue: 0,0:00:02.22,0:00:02.79,Cap,,0,0,0,,no cursinho.
+Dialogue: 0,0:00:02.79,0:00:03.45,Cap,,0,0,0,,Conheci pessoas
+Dialogue: 0,0:00:03.45,0:00:04.15,Cap,,0,0,0,,maravilhosas,
+Dialogue: 0,0:00:04.15,0:00:04.91,Cap,,0,0,0,,conheci pessoas
+Dialogue: 0,0:00:04.91,0:00:05.45,Cap,,0,0,0,,que hoje
+Dialogue: 0,0:00:05.45,0:00:06.19,Cap,,0,0,0,,fazem faculdade
+Dialogue: 0,0:00:06.19,0:00:06.57,Cap,,0,0,0,,comigo,
+Dialogue: 0,0:00:06.57,0:00:06.87,Cap,,0,0,0,,então,
+Dialogue: 0,0:00:06.87,0:00:07.23,Cap,,0,0,0,,da minha
+Dialogue: 0,0:00:07.23,0:00:07.55,Cap,,0,0,0,,turma do
+Dialogue: 0,0:00:07.55,0:00:08.03,Cap,,0,0,0,,cursinho,
+Dialogue: 0,0:00:08.03,0:00:08.45,Cap,,0,0,0,,tem mais
+Dialogue: 0,0:00:08.45,0:00:09.11,Cap,,0,0,0,,duas pessoas
+Dialogue: 0,0:00:09.11,0:00:09.43,Cap,,0,0,0,,que são
+Dialogue: 0,0:00:09.43,0:00:09.91,Cap,,0,0,0,,da minha
+Dialogue: 0,0:00:09.91,0:00:10.53,Cap,,0,0,0,,turma hoje
+Dialogue: 0,0:00:10.53,0:00:11.01,Cap,,0,0,0,,da UnB,
+Dialogue: 0,0:00:11.01,0:00:11.67,Cap,,0,0,0,,então eu
+Dialogue: 0,0:00:11.67,0:00:11.89,Cap,,0,0,0,,era de
+Dialogue: 0,0:00:11.89,0:00:12.33,Cap,,0,0,0,,uma turma
+Dialogue: 0,0:00:12.33,0:00:12.71,Cap,,0,0,0,,lá um
+Dialogue: 0,0:00:12.71,0:00:13.53,Cap,,0,0,0,,pouco diferente,
+Dialogue: 0,0:00:13.53,0:00:13.67,Cap,,0,0,0,,né,
+Dialogue: 0,0:00:13.67,0:00:14.23,Cap,,0,0,0,,que eles-eles
+Dialogue: 0,0:00:14.23,0:00:14.57,Cap,,0,0,0,,chamam de
+Dialogue: 0,0:00:14.57,0:00:15.24,Cap,,0,0,0,,turma avançada,
+Dialogue: 0,0:00:15.24,0:00:15.60,Cap,,0,0,0,,que tinha
+Dialogue: 0,0:00:15.60,0:00:16.48,Cap,,0,0,0,,apenas quinze
+Dialogue: 0,0:00:16.48,0:00:17.14,Cap,,0,0,0,,pessoas.
+Dialogue: 0,0:00:17.14,0:00:17.86,Cap,,0,0,0,,Dessas quinze,
+Dialogue: 0,0:00:17.86,0:00:18.06,Cap,,0,0,0,,eu acho
+Dialogue: 0,0:00:18.06,0:00:18.36,Cap,,0,0,0,,que assim,
+Dialogue: 0,0:00:18.36,0:00:18.86,Cap,,0,0,0,,umas sete
+Dialogue: 0,0:00:18.86,0:00:19.24,Cap,,0,0,0,,ou oito
+Dialogue: 0,0:00:19.24,0:00:19.66,Cap,,0,0,0,,passaram pra
+Dialogue: 0,0:00:19.66,0:00:20.06,Cap,,0,0,0,,medicina na
+Dialogue: 0,0:00:20.06,0:00:20.47,Cap,,0,0,0,,Federal.
+Dialogue: 0,0:00:20.47,0:00:21.05,Cap,,0,0,0,,Então assim,
+Dialogue: 0,0:00:21.05,0:00:21.63,Cap,,0,0,0,,eu duvido,
+Dialogue: 0,0:00:21.63,0:00:22.05,Cap,,0,0,0,,inclusive,
+Dialogue: 0,0:00:22.05,0:00:22.45,Cap,,0,0,0,,assim,
+Dialogue: 0,0:00:22.45,0:00:22.85,Cap,,0,0,0,,eu duvido
+Dialogue: 0,0:00:22.85,0:00:23.25,Cap,,0,0,0,,cês acharem
+Dialogue: 0,0:00:23.25,0:00:23.67,Cap,,0,0,0,,uma taxa
+Dialogue: 0,0:00:23.67,0:00:24.41,Cap,,0,0,0,,de aprovação
+Dialogue: 0,0:00:24.41,0:00:24.89,Cap,,0,0,0,,tão grande
+Dialogue: 0,0:00:24.89,0:00:25.27,Cap,,0,0,0,,quanto a
+Dialogue: 0,0:00:25.27,0:00:25.75,Cap,,0,0,0,,turma de
+Dialogue: 0,0:00:25.75,0:00:26.31,Cap,,0,0,0,,medicina,
+Dialogue: 0,0:00:26.31,0:00:26.57,Cap,,0,0,0,,quanto a
+Dialogue: 0,0:00:26.57,0:00:26.85,Cap,,0,0,0,,turma da
+Dialogue: 0,0:00:26.85,0:00:27.67,Cap,,0,0,0,,academia de
+Dialogue: 0,0:00:27.67,0:00:28.15,Cap,,0,0,0,,Taguatinga.
+Dialogue: 0,0:00:28.15,0:00:28.37,Cap,,0,0,0,,A gente
+Dialogue: 0,0:00:28.37,0:00:28.89,Cap,,0,0,0,,gostava muito
+Dialogue: 0,0:00:28.89,0:00:29.21,Cap,,0,0,0,,de falar
+Dialogue: 0,0:00:29.21,0:00:29.47,Cap,,0,0,0,,que gente
+Dialogue: 0,0:00:29.47,0:00:29.65,Cap,,0,0,0,,era a
+Dialogue: 0,0:00:29.65,0:00:30.19,Cap,,0,0,0,,turma avançada
+Dialogue: 0,0:00:30.19,0:00:30.85,Cap,,0,0,0,,de Taguatinga,
+Dialogue: 0,0:00:30.85,0:00:31.31,Cap,,0,0,0,,mas enfim,
+Dialogue: 0,0:00:31.31,0:00:31.61,Cap,,0,0,0,,eu conheci
+Dialogue: 0,0:00:31.61,0:00:32.41,Cap,,0,0,0,,essas pessoas,
+Dialogue: 0,0:00:32.41,0:00:32.89,Cap,,0,0,0,,gosto muito
+Dialogue: 0,0:00:32.89,0:00:33.31,Cap,,0,0,0,,delas até
+Dialogue: 0,0:00:33.31,0:00:33.53,Cap,,0,0,0,,hoje,
+Dialogue: 0,0:00:33.53,0:00:34.21,Cap,,0,0,0,,mantenho contato
+Dialogue: 0,0:00:34.21,0:00:34.97,Cap,,0,0,0,,com algumas,
+Dialogue: 0,0:00:34.97,0:00:35.33,Cap,,0,0,0,,e duas
+Dialogue: 0,0:00:35.33,0:00:35.95,Cap,,0,0,0,,delas fazem
+Dialogue: 0,0:00:35.95,0:00:36.37,Cap,,0,0,0,,medicina na
+Dialogue: 0,0:00:36.37,0:00:36.83,Cap,,0,0,0,,minha turma,
+Dialogue: 0,0:00:36.83,0:00:36.95,Cap,,0,0,0,,que é
+Dialogue: 0,0:00:36.95,0:00:37.47,Cap,,0,0,0,,o Guilherme
+Dialogue: 0,0:00:37.47,0:00:37.61,Cap,,0,0,0,,e a
+Dialogue: 0,0:00:37.61,0:00:38.03,Cap,,0,0,0,,Isabela.
+Dialogue: 0,0:00:38.03,0:00:38.51,Cap,,0,0,0,,Então assim,
+Dialogue: 0,0:00:38.51,0:00:38.61,Cap,,0,0,0,,é um
+Dialogue: 0,0:00:38.61,0:00:39.09,Cap,,0,0,0,,cursinho muito
+Dialogue: 0,0:00:39.09,0:00:39.59,Cap,,0,0,0,,bom,
+Dialogue: 0,0:00:39.59,0:00:40.01,Cap,,0,0,0,,eu gosto
+Dialogue: 0,0:00:40.01,0:00:40.31,Cap,,0,0,0,,muito de
+Dialogue: 0,0:00:40.31,0:00:40.95,Cap,,0,0,0,,lá.

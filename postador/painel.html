@@ -1,0 +1,414 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Postador Matteo</title>
+<style>
+:root {
+  --bg: #f6f5f1; --card: #ffffff; --ink: #1d1d1b; --muted: #77756f; --line: #e4e2db;
+  --musgo: #4f6b3a; --musgo-bg: #e8eedf; --ambar: #a86b00; --ambar-bg: #fbf0d9;
+  --verm: #b3261e; --verm-bg: #fbe4e2; --cinza-bg: #efeee9;
+  --yap: #5b6ee1; --broll: #2e8b6e; --caixinha: #c2569b; --corte: #d0742c; --outro: #8a8a8a;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #141413; --card: #1e1e1c; --ink: #ecebe6; --muted: #9a9890; --line: #2f2f2c;
+    --musgo: #9cc27a; --musgo-bg: #26301e; --ambar: #f0b44c; --ambar-bg: #3a2e14;
+    --verm: #ff8a80; --verm-bg: #3d1f1d; --cinza-bg: #2a2a27;
+  }
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--bg); color: var(--ink); font: 14px/1.45 -apple-system, BlinkMacSystemFont, "Inter", sans-serif; }
+header { display: flex; align-items: center; gap: 12px; padding: 16px 24px; border-bottom: 1px solid var(--line); background: var(--card); position: sticky; top: 0; z-index: 2; flex-wrap: wrap; }
+header h1 { font-size: 17px; margin: 0 12px 0 0; }
+header .sp { flex: 1; }
+button { font: inherit; border: 1px solid var(--line); background: var(--card); color: var(--ink); border-radius: 8px; padding: 6px 12px; cursor: pointer; }
+button:hover { border-color: var(--muted); }
+button.pri { background: var(--musgo); color: #fff; border-color: var(--musgo); }
+button.perigo { color: var(--verm); }
+main { padding: 20px 24px 60px; max-width: 1500px; margin: 0 auto; display: grid; gap: 24px; }
+section h2 { font-size: 13px; text-transform: uppercase; letter-spacing: .06em; color: var(--muted); margin: 0 0 10px; }
+.kpis { display: grid; grid-template-columns: repeat(auto-fit, minmax(170px, 1fr)); gap: 12px; }
+.kpi { background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 12px 14px; }
+.kpi b { display: block; font-size: 24px; font-variant-numeric: tabular-nums; }
+.kpi span { color: var(--muted); font-size: 12px; }
+.semana { display: grid; grid-template-columns: repeat(7, minmax(150px, 1fr)); gap: 8px; overflow-x: auto; }
+.dia { background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 8px; min-height: 260px; display: flex; flex-direction: column; gap: 6px; }
+.dia.hoje { border-color: var(--musgo); box-shadow: 0 0 0 1px var(--musgo); }
+.dia h3 { margin: 0 0 2px; font-size: 13px; display: flex; justify-content: space-between; }
+.dia h3 small { color: var(--muted); font-weight: 400; }
+.dia .seg { font-size: 11.5px; font-weight: 600; color: var(--musgo); margin: -2px 0 2px; }
+.slot { border: 1px dashed var(--line); border-radius: 8px; padding: 6px 8px; color: var(--muted); font-size: 12px; }
+.post { border-radius: 8px; padding: 6px 8px; background: var(--bg); border-left: 3px solid var(--outro); font-size: 12px; cursor: pointer; }
+.post .t { font-weight: 600; color: var(--ink); display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+.versao { display: inline-block; font-size: 10.5px; font-weight: 700; padding: 0 6px; border-radius: 99px; background: var(--ink); color: var(--bg); margin-left: 4px; vertical-align: 1px; }
+.post .h { color: var(--muted); font-variant-numeric: tabular-nums; }
+.post.normal { border-left-style: dotted; }
+.chips { display: flex; gap: 4px; flex-wrap: wrap; margin-top: 4px; }
+.chip { font-size: 10.5px; padding: 1px 6px; border-radius: 99px; background: var(--cinza-bg); color: var(--muted); white-space: nowrap; }
+.chip.ok { background: var(--musgo-bg); color: var(--musgo); }
+.chip.and { background: var(--ambar-bg); color: var(--ambar); }
+.chip.err { background: var(--verm-bg); color: var(--verm); }
+.chip.can { text-decoration: line-through; }
+.t-yap-horizontal, .t-yap-vertical { border-left-color: var(--yap) !important; }
+.t-broll { border-left-color: var(--broll) !important; }
+.t-caixinha { border-left-color: var(--caixinha) !important; }
+.t-corte-yt { border-left-color: var(--corte) !important; }
+.legenda { display: flex; gap: 14px; flex-wrap: wrap; color: var(--muted); font-size: 12px; margin-top: 8px; }
+.legenda i { display: inline-block; width: 10px; height: 10px; border-radius: 3px; margin-right: 4px; vertical-align: -1px; }
+.validar { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 10px; }
+.vcard { background: var(--card); border: 1px solid var(--line); border-left: 4px solid var(--outro); border-radius: 12px; padding: 12px; display: grid; gap: 8px; }
+.vcard .nums { display: flex; gap: 14px; font-variant-numeric: tabular-nums; }
+.vcard .nums div span { display: block; color: var(--muted); font-size: 11px; }
+.vcard .nums b { font-size: 16px; }
+.vcard .acoes { display: flex; gap: 6px; flex-wrap: wrap; align-items: center; }
+.vcard input { font: inherit; padding: 4px 6px; border: 1px solid var(--line); border-radius: 6px; background: var(--bg); color: var(--ink); }
+.vered { font-weight: 700; font-size: 12px; padding: 2px 8px; border-radius: 99px; }
+.v-bombou { background: var(--musgo-bg); color: var(--musgo); }
+.v-mediano { background: var(--cinza-bg); color: var(--muted); }
+.v-flopou { background: var(--verm-bg); color: var(--verm); }
+table { width: 100%; border-collapse: collapse; background: var(--card); border: 1px solid var(--line); border-radius: 12px; overflow: hidden; font-variant-numeric: tabular-nums; }
+th, td { text-align: left; padding: 7px 10px; border-bottom: 1px solid var(--line); font-size: 13px; }
+th { color: var(--muted); font-weight: 500; font-size: 12px; }
+td.n, th.n { text-align: right; }
+a { color: inherit; }
+.duas { display: grid; grid-template-columns: 1fr 1fr; gap: 24px; }
+@media (max-width: 1000px) { .duas { grid-template-columns: 1fr; } }
+.drive { max-height: 420px; overflow: auto; background: var(--card); border: 1px solid var(--line); border-radius: 12px; }
+.drive div { padding: 7px 12px; border-bottom: 1px solid var(--line); cursor: pointer; display: flex; justify-content: space-between; gap: 8px; }
+.drive div:hover, .drive div.sel { background: var(--musgo-bg); }
+.drive div.ag { opacity: .45; }
+.drive small { color: var(--muted); white-space: nowrap; }
+form { background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 14px; display: grid; gap: 10px; }
+form label { display: grid; gap: 4px; font-size: 12px; color: var(--muted); }
+form input, form select, form textarea { font: inherit; color: var(--ink); background: var(--bg); border: 1px solid var(--line); border-radius: 8px; padding: 7px 9px; }
+form textarea { min-height: 110px; resize: vertical; }
+.linha { display: flex; gap: 10px; flex-wrap: wrap; }
+.linha > * { flex: 1; min-width: 140px; }
+.checks { display: flex; gap: 18px; flex-wrap: wrap; }
+.checks label { display: flex; align-items: center; gap: 6px; color: var(--ink); font-size: 13px; }
+.vazio { color: var(--muted); padding: 14px; background: var(--card); border: 1px dashed var(--line); border-radius: 12px; }
+#toast { position: fixed; bottom: 20px; left: 50%; transform: translateX(-50%); background: var(--ink); color: var(--bg); padding: 10px 16px; border-radius: 10px; display: none; z-index: 9; max-width: 90vw; }
+dialog { border: 1px solid var(--line); border-radius: 14px; background: var(--card); color: var(--ink); max-width: 560px; width: 92vw; }
+dialog pre { white-space: pre-wrap; font: inherit; background: var(--bg); padding: 10px; border-radius: 8px; max-height: 200px; overflow: auto; }
+@media (max-width: 700px) { header, main { padding-left: 16px; padding-right: 16px; } }
+</style>
+</head>
+<body>
+<header>
+  <h1>Postador</h1>
+  <button id="ant">←</button>
+  <button id="hoje">Esta semana</button>
+  <button id="prox">→</button>
+  <strong id="rotulo"></strong>
+  <span class="sp"></span>
+  <button id="recarregar">Atualizar</button>
+</header>
+<main>
+  <section><div class="kpis" id="kpis"></div></section>
+
+  <section>
+    <h2>Testes esperando decisão — teste → normal?</h2>
+    <div class="validar" id="validar"></div>
+  </section>
+
+  <section>
+    <h2>Calendário</h2>
+    <div class="semana" id="semana"></div>
+    <div class="legenda">
+      <span><i style="background:var(--yap)"></i>yap</span><span><i style="background:var(--broll)"></i>b-roll</span>
+      <span><i style="background:var(--caixinha)"></i>caixinha</span><span><i style="background:var(--corte)"></i>corte YT</span>
+      <span>borda pontilhada = Reel normal (repost validado)</span>
+    </div>
+  </section>
+
+  <section>
+    <h2>Revisão da semana — o que funcionou</h2>
+    <div class="duas">
+      <div id="portipo"></div>
+      <div id="ranking"></div>
+    </div>
+  </section>
+
+  <section>
+    <h2>Agendar do Drive</h2>
+    <div class="duas">
+      <div class="drive" id="drive"></div>
+      <form id="form">
+        <label>Vídeo<input name="caminho" readonly placeholder="escolha um vídeo na lista ao lado" required></label>
+        <div class="linha">
+          <label>Tipo<select name="tipo">
+            <option value="yap-horizontal">yap horizontal</option><option value="yap-vertical">yap vertical (fotos)</option>
+            <option value="broll">b-roll</option><option value="caixinha">caixinha</option>
+            <option value="corte-yt">corte do YouTube</option><option value="outro">outro</option>
+          </select></label>
+          <label>Quando (vazio = próximo horário livre)<input name="quando" type="datetime-local"></label>
+        </div>
+        <label>Legenda<textarea name="legenda" placeholder="legenda do Reel / TikTok"></textarea></label>
+        <label>Título do Short (gancho, até 100)<input name="yt_titulo" maxlength="100"></label>
+        <div class="checks">
+          <label><input type="checkbox" checked disabled> Reel de teste</label>
+          <label><input type="checkbox" name="tiktok"> TikTok</label>
+          <label><input type="checkbox" name="youtube"> YouTube Shorts</label>
+        </div>
+        <button class="pri" type="submit" id="enviar">Agendar</button>
+      </form>
+    </div>
+  </section>
+</main>
+<dialog id="det"><div id="detc"></div><form method="dialog" style="border:0;padding:0;background:none"><button>Fechar</button></form></dialog>
+<div id="toast"></div>
+<script>
+const SP = -3 * 3600e3;
+const TIPO_NOME = { manual: 'postado no app', 'yap-horizontal': 'yap horizontal', 'yap-vertical': 'yap vertical', broll: 'b-roll', caixinha: 'caixinha', 'corte-yt': 'corte YT', outro: 'outro', antigo: 'antigo', carrossel: 'carrossel' };
+const DEST = { ig_teste: 'teste', ig_normal: 'normal', tiktok: 'TT', youtube: 'YT' };
+const META_DIA = ['broll', 'corte-yt', 'yap', 'caixinha'];
+let inicio = segunda(new Date());
+let dados = { posts: [], base: [], grade_teste: {} };
+let seguidores = {}; // 'AAAA-MM-DD' → seguidores novos no dia (Meta; não existe por Reel)
+
+function segunda(d) { // segunda 00:00 em SP, como Date UTC
+  const sp = new Date(d.getTime() + SP); sp.setUTCHours(0, 0, 0, 0);
+  sp.setUTCDate(sp.getUTCDate() - ((sp.getUTCDay() + 6) % 7));
+  return new Date(sp.getTime() - SP);
+}
+const diaSP = (iso) => new Date(new Date(iso).getTime() + SP).toISOString().slice(0, 10);
+const horaSP = (iso) => new Date(new Date(iso).getTime() + SP).toISOString().slice(11, 16);
+const esc = (s) => String(s ?? '').replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+const n = (x) => x == null ? '—' : Number(x).toLocaleString('pt-BR');
+const fam = (t) => t?.startsWith('yap') ? 'yap' : t;
+// "... - v2 (titulo)" → título sem o sufixo + selo "v2" (nunca some no corte do card)
+function tituloComVersao(t) {
+  const m = String(t ?? '').match(/^(.*?)\s*[-–]\s*(v\d+)\b(.*)$/i);
+  return m ? `${esc(m[1])}<span class="versao">${esc(m[2].toLowerCase())}</span>${esc(m[3])}` : esc(t);
+}
+
+async function api(path, corpo) {
+  const r = await fetch(path, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(corpo) });
+  const d = await r.json();
+  if (!r.ok || d.error) throw new Error(d.error || r.status);
+  return d;
+}
+function toast(msg, ms = 3500) { const t = document.getElementById('toast'); t.textContent = msg; t.style.display = 'block'; clearTimeout(t._h); t._h = setTimeout(() => t.style.display = 'none', ms); }
+
+// views em 24 h (comparação justa) ou o que tiver
+const views = (m) => m?.h24?.views ?? m?.views ?? null;
+const mediana = (xs) => { const s = xs.filter((x) => x != null).sort((a, b) => a - b); return s.length ? s[Math.floor(s.length / 2)] : null; };
+function medianas() {
+  const porTipo = {}, todos = [];
+  for (const b of dados.base || []) {
+    const v = views(b.metricas); if (v == null) continue;
+    const t = fam(b.posts?.tipo); (porTipo[t] ??= []).push(v); todos.push(v);
+  }
+  const out = { _geral: mediana(todos) };
+  for (const [t, xs] of Object.entries(porTipo)) out[t] = xs.length >= 5 ? mediana(xs) : out._geral;
+  return out;
+}
+function veredito(v, med) {
+  if (v == null || !med) return null;
+  const r = v / med;
+  return { r, cls: r >= 1.5 ? 'bombou' : r <= 0.5 ? 'flopou' : 'mediano' };
+}
+// Seguidores do dia divididos entre os Reels publicados naquele dia, pelo alcance de cada um.
+function segEstimados(p, x) {
+  if (!x?.publicado_em) return null;
+  const dia = diaSP(x.publicado_em), total = seguidores[dia];
+  if (total == null) return null;
+  const doDia = (dados.posts || []).flatMap((q) => q.publicacoes).filter((y) => y.destino.startsWith('ig_') && y.status === 'publicado' && y.publicado_em && diaSP(y.publicado_em) === dia);
+  const alc = (y) => y.metricas?.reach ?? y.metricas?.views ?? 0;
+  const soma = doDia.reduce((s, y) => s + alc(y), 0);
+  return soma ? Math.round(total * alc(x) / soma) : null;
+}
+function chip(p) {
+  const cls = p.status === 'publicado' ? 'ok' : p.status === 'erro' ? 'err' : p.status === 'cancelado' ? 'can' : p.status === 'pendente' ? '' : 'and';
+  const icone = p.status === 'publicado' ? '✓' : p.status === 'erro' ? '!' : p.status === 'pendente' ? '' : '…';
+  return `<span class="chip ${cls}" title="${esc(p.status + (p.erro ? ': ' + p.erro : ''))}">${DEST[p.destino]} ${icone}</span>`;
+}
+
+async function carregar() {
+  const fim = new Date(inicio.getTime() + 7 * 864e5);
+  document.getElementById('rotulo').textContent =
+    `${diaSP(inicio.toISOString()).split('-').reverse().slice(0, 2).join('/')} – ${diaSP(new Date(fim - 1).toISOString()).split('-').reverse().slice(0, 2).join('/')}`;
+  try {
+    dados = await api('/api', { acao: 'listar', de: inicio.toISOString(), ate: fim.toISOString() });
+  } catch (e) { toast('Erro ao ler a fila: ' + e.message, 8000); return; }
+  try { seguidores = await api('/api/seguidores', {}); } catch {}
+  const med = medianas();
+  desenharKpis(fim, med); desenharValidar(med); desenharSemana(); desenharRevisao(fim, med);
+}
+
+function desenharKpis(fim, med) {
+  const naSemana = (dados.posts || []).flatMap((p) => p.publicacoes.map((x) => ({ ...x, tipo: p.tipo })))
+    .filter((x) => x.publicar_em >= inicio.toISOString() && x.publicar_em < fim.toISOString());
+  const testes = naSemana.filter((x) => x.destino === 'ig_teste');
+  const saiu = testes.filter((x) => x.status === 'publicado').length;
+  const espera = (dados.posts || []).filter((p) => !p.decisao && p.publicacoes.some((x) => x.destino === 'ig_teste' && x.status === 'publicado')).length;
+  const erros = naSemana.filter((x) => x.status === 'erro').length;
+  const normais = naSemana.filter((x) => x.destino === 'ig_normal' && x.tipo !== 'antigo').length;
+  document.getElementById('kpis').innerHTML = [
+    [`${testes.length}/28`, 'testes na semana (meta 4/dia)'],
+    [saiu, 'testes já publicados'],
+    [normais, 'Reels normais (validados)'],
+    [espera, 'esperando sua decisão'],
+    [erros, 'com erro'],
+    [n(med._geral), 'mediana de views (base 60 dias)'],
+    ['+' + n(Object.entries(seguidores).filter(([d]) => d >= diaSP(inicio.toISOString()) && d < diaSP(fim.toISOString())).reduce((s, [, v]) => s + v, 0)), 'seguidores novos na semana'],
+  ].map(([b, s]) => `<div class="kpi"><b>${b}</b><span>${s}</span></div>`).join('');
+}
+
+function desenharValidar(med) {
+  const lista = (dados.posts || []).filter((p) => !p.decisao && p.publicacoes.some((x) => x.destino === 'ig_teste' && x.status === 'publicado'));
+  const el = document.getElementById('validar');
+  if (!lista.length) { el.innerHTML = '<div class="vazio">Nenhum teste esperando decisão.</div>'; return; }
+  el.innerHTML = lista.map((p) => {
+    const t = p.publicacoes.find((x) => x.destino === 'ig_teste');
+    const m = t.metricas || {}; const v = views(m);
+    const horas = Math.round((Date.now() - new Date(t.publicado_em)) / 36e5);
+    const vd = veredito(v, med[fam(p.tipo)] ?? med._geral);
+    return `<div class="vcard t-${p.tipo}">
+      <div><b>${tituloComVersao(p.titulo)}</b><br><small style="color:var(--muted)">${TIPO_NOME[p.tipo]} · há ${horas} h · ${t.permalink ? `<a href="${esc(t.permalink)}" target="_blank">abrir</a>` : ''}</small></div>
+      <div class="nums">
+        <div><span>views${m.h24 ? ' 24h' : ''}</span><b>${n(v)}</b></div>
+        <div><span>alcance</span><b>${n(m.reach)}</b></div>
+        <div><span>salvos</span><b>${n(m.saved)}</b></div>
+        <div><span>shares</span><b>${n(m.shares)}</b></div>
+        <div title="estimativa: seguidores do dia × fatia do alcance deste vídeo"><span>seguidores</span><b>${segEstimados(p, t) == null ? '—' : '≈' + segEstimados(p, t)}</b></div>
+        ${vd ? `<div><span>vs mediana</span><span class="vered v-${vd.cls}">${vd.r.toFixed(1)}× ${vd.cls}</span></div>` : ''}
+      </div>
+      <div class="acoes">${p.tipo === 'manual'
+        ? `<small style="color:var(--muted)">postado no app — se for pro normal, posta pelo app</small>
+           <button onclick="descartar('${p.id}')">Já decidi</button>`
+        : `<input type="datetime-local" id="q-${p.id}" title="vazio = próximo horário da grade normal">
+           <button class="pri" onclick="validar('${p.id}')">→ Normal</button>
+           <button class="perigo" onclick="descartar('${p.id}')">Descartar</button>`}
+      </div></div>`;
+  }).join('');
+}
+
+function cardPost(p, pubs, normal = false) {
+  const x0 = pubs[0];
+  return `<div class="post t-${p.tipo} ${normal ? 'normal' : ''}" onclick="detalhe('${p.id}')">
+    <div class="h">${horaSP(x0.publicar_em)} · ${p.tipo === 'antigo' ? 'antigo' : normal ? 'Reel normal' : TIPO_NOME[p.tipo]}</div>
+    <div class="t">${tituloComVersao(p.titulo)}</div>
+    <div class="chips">${pubs.map(chip).join('')}</div></div>`;
+}
+
+function desenharSemana() {
+  const grade = dados.grade_teste || {};
+  const slots = [...new Map(Object.entries(grade).filter(([t]) => t !== 'outro')
+    .map(([t, h]) => [fam(t), h])).entries()].sort((a, b) => a[1].localeCompare(b[1]));
+  const hoje = diaSP(new Date().toISOString());
+  const nomes = ['Seg', 'Ter', 'Qua', 'Qui', 'Sex', 'Sáb', 'Dom'];
+  let html = '';
+  for (let i = 0; i < 7; i++) {
+    const dia = diaSP(new Date(inicio.getTime() + i * 864e5 + 6 * 36e5).toISOString());
+    const itens = [];
+    for (const p of dados.posts || []) {
+      const principais = p.publicacoes.filter((x) => x.destino !== 'ig_normal' && diaSP(x.publicar_em) === dia);
+      if (principais.length) itens.push({ p, pubs: principais, hora: horaSP(principais[0].publicar_em), fam: fam(p.tipo) });
+      const nor = p.publicacoes.filter((x) => x.destino === 'ig_normal' && diaSP(x.publicar_em) === dia);
+      if (nor.length) itens.push({ p, pubs: nor, hora: horaSP(nor[0].publicar_em), normal: true });
+    }
+    itens.sort((a, b) => a.hora.localeCompare(b.hora));
+    const usados = new Set(itens.filter((x) => !x.normal).map((x) => x.fam));
+    const vagos = dia >= hoje ? slots.filter(([f]) => !usados.has(f)) : [];
+    const blocos = [
+      ...itens.map((x) => ({ hora: x.hora, html: cardPost(x.p, x.pubs, x.normal) })),
+      ...vagos.map(([f, h]) => ({ hora: h, html: `<div class="slot">${h} · falta ${TIPO_NOME[f] ?? f}</div>` })),
+    ].sort((a, b) => a.hora.localeCompare(b.hora));
+    const testes = itens.filter((x) => !x.normal && x.p.tipo !== 'antigo').length;
+    const seg = seguidores[dia];
+    html += `<div class="dia ${dia === hoje ? 'hoje' : ''}"><h3>${nomes[i]} ${dia.slice(8)}/${dia.slice(5, 7)} <small>${testes}/4</small></h3>${seg ? `<div class="seg">${seg > 0 ? '+' : ''}${seg} seguidores${dia === hoje ? ' até agora' : ''}</div>` : ''}${blocos.map((b) => b.html).join('')}</div>`;
+  }
+  document.getElementById('semana').innerHTML = html;
+}
+
+function desenharRevisao(fim, med) {
+  const linhas = [];
+  for (const p of dados.posts || []) for (const x of p.publicacoes) {
+    if (!x.destino.startsWith('ig_') || x.status !== 'publicado') continue;
+    if (x.publicado_em < inicio.toISOString() || x.publicado_em >= fim.toISOString()) continue;
+    const m = x.metricas || {}; const v = views(m);
+    linhas.push({ p, x, m, v, vd: veredito(v, med[fam(p.tipo)] ?? med._geral) });
+  }
+  linhas.sort((a, b) => (b.v ?? b.m.likes ?? 0) - (a.v ?? a.m.likes ?? 0));
+  const grupos = {};
+  for (const l of linhas) (grupos[fam(l.p.tipo)] ??= []).push(l);
+  const decididos = (dados.posts || []).filter((p) => p.decisao && p.tipo !== 'antigo');
+  document.getElementById('portipo').innerHTML = linhas.length ? `<table><tr><th>tipo</th><th class="n">posts</th><th class="n">mediana views</th><th class="n">salvos/1k</th><th class="n">shares/1k</th><th class="n">→ normal</th></tr>${
+    Object.entries(grupos).map(([t, ls]) => {
+      const sv = ls.map((l) => l.v).filter((v) => v);
+      const por1k = (k) => { const tot = ls.reduce((s, l) => s + (l.v || 0), 0); return tot ? (ls.reduce((s, l) => s + (l.m[k] || 0), 0) / tot * 1000).toFixed(1) : '—'; };
+      const dec = decididos.filter((p) => fam(p.tipo) === t);
+      return `<tr><td>${TIPO_NOME[t] ?? t}</td><td class="n">${ls.length}</td><td class="n">${n(mediana(sv))}</td><td class="n">${por1k('saved')}</td><td class="n">${por1k('shares')}</td><td class="n">${dec.length ? Math.round(dec.filter((p) => p.decisao === 'normal').length / dec.length * 100) + '%' : '—'}</td></tr>`;
+    }).join('')}</table>` : '<div class="vazio">Nada publicado nesta semana ainda.</div>';
+  document.getElementById('ranking').innerHTML = linhas.length ? `<table><tr><th>post</th><th>onde</th><th class="n">views</th><th class="n">likes</th><th class="n" title="estimativa">≈ seg.</th><th>veredito</th></tr>${
+    linhas.slice(0, 15).map((l) => `<tr><td><a href="${esc(l.x.permalink || '#')}" target="_blank">${esc(l.p.titulo.slice(0, 48))}</a></td><td>${DEST[l.x.destino]}</td><td class="n">${n(l.v)}</td><td class="n">${n(l.m.likes)}</td><td class="n">${n(segEstimados(l.p, l.x))}</td><td>${l.vd ? `<span class="vered v-${l.vd.cls}">${l.vd.cls}</span>` : ''}</td></tr>`).join('')}</table>` : '';
+}
+
+function detalhe(id) {
+  const p = dados.posts.find((x) => x.id === id);
+  document.getElementById('detc').innerHTML = `<h3>${esc(p.titulo)}</h3>
+    <p style="color:var(--muted)">${TIPO_NOME[p.tipo]} · ${esc(p.origem || '')}</p>
+    <pre>${esc(p.legenda || '(sem legenda)')}</pre>
+    <table>${p.publicacoes.map((x) => `<tr><td>${DEST[x.destino]}</td><td>${diaSP(x.publicar_em).slice(5).split('-').reverse().join('/')} ${horaSP(x.publicar_em)}</td><td>${x.status}${x.erro ? `<br><small style="color:var(--verm)">${esc(x.erro)}</small>` : ''}</td><td>${
+      x.permalink ? `<a href="${esc(x.permalink)}" target="_blank">abrir</a>` : x.status === 'pendente' ? `<button class="perigo" onclick="cancelar('${x.id}')">cancelar</button>` : x.status === 'erro' ? `<button onclick="reagendar('${x.id}')">reagendar</button>` : ''}</td></tr>`).join('')}</table>`;
+  document.getElementById('det').showModal();
+}
+
+const quando = (v) => v ? new Date(v + ':00-03:00').toISOString() : undefined;
+async function validar(id) {
+  try { const r = await api('/api', { acao: 'validar', post_id: id, publicar_em: quando(document.getElementById('q-' + id).value) });
+    toast('Reel normal agendado: ' + diaSP(r.publicar_em).slice(5).split('-').reverse().join('/') + ' ' + horaSP(r.publicar_em)); carregar(); } catch (e) { toast(e.message); }
+}
+async function descartar(id) { if (!confirm('Descartar esse teste? (não vai pro normal)')) return; await api('/api', { acao: 'descartar', post_id: id }); carregar(); }
+async function cancelar(id) { if (!confirm('Cancelar essa publicação?')) return; await api('/api', { acao: 'cancelar', publicacao_id: id }); document.getElementById('det').close(); carregar(); }
+async function reagendar(id) {
+  const v = prompt('Nova data e hora (AAAA-MM-DD HH:MM, horário de SP)'); if (!v) return;
+  try { await api('/api', { acao: 'reagendar', publicacao_id: id, publicar_em: quando(v.replace(' ', 'T')) }); document.getElementById('det').close(); carregar(); } catch (e) { toast(e.message); }
+}
+
+async function carregarDrive() {
+  let origens = [];
+  try { const h = await api('/api', { acao: 'historico', de: new Date(Date.now() - 120 * 864e5).toISOString(), ate: new Date(Date.now() + 120 * 864e5).toISOString() });
+    origens = (h.posts || []).map((p) => p.origem).filter(Boolean); } catch {}
+  const { videos } = await api('/api/drive', { agendados: origens });
+  const el = document.getElementById('drive');
+  el.innerHTML = videos.map((v) => `<div class="${v.agendado ? 'ag' : ''}" data-c="${esc(v.caminho)}" data-n="${esc(v.nome)}"><span>${esc(v.nome)}${v.agendado ? ' ✓' : ''}</span><small>${esc(v.pasta)} · ${v.mb} MB</small></div>`).join('') || '<div>Nenhum vídeo no Drive.</div>';
+  el.onclick = (ev) => {
+    const d = ev.target.closest('div[data-c]'); if (!d) return;
+    el.querySelectorAll('.sel').forEach((x) => x.classList.remove('sel')); d.classList.add('sel');
+    const f = document.getElementById('form'); f.caminho.value = d.dataset.c;
+    const nome = d.dataset.n.toLowerCase();
+    f.tipo.value = /corte|yt/.test(nome) ? 'corte-yt' : /caixinha/.test(nome) ? 'caixinha' : /broll|b-roll|timelapse/.test(nome) ? 'broll' : /imagem|foto|9x16/.test(nome) ? 'yap-vertical' : 'yap-horizontal';
+  };
+}
+
+document.getElementById('form').onsubmit = async (ev) => {
+  ev.preventDefault();
+  const f = ev.target, b = document.getElementById('enviar');
+  b.disabled = true; b.textContent = 'Comprimindo e subindo…';
+  try {
+    const r = await api('/api/agendar-drive', {
+      caminho: f.caminho.value, tipo: f.tipo.value, legenda: f.legenda.value, yt_titulo: f.yt_titulo.value,
+      quando: f.quando.value ? f.quando.value.replace('T', ' ') : null,
+      destinos: ['ig_teste', ...(f.tiktok.checked ? ['tiktok'] : []), ...(f.youtube.checked ? ['youtube'] : [])],
+    });
+    toast('Agendado ✓ (' + r.destinos.join(', ') + ')'); f.reset(); carregar(); carregarDrive();
+  } catch (e) { toast('Erro: ' + e.message, 8000); }
+  b.disabled = false; b.textContent = 'Agendar';
+};
+document.getElementById('ant').onclick = () => { inicio = new Date(inicio.getTime() - 7 * 864e5); carregar(); };
+document.getElementById('prox').onclick = () => { inicio = new Date(inicio.getTime() + 7 * 864e5); carregar(); };
+document.getElementById('hoje').onclick = () => { inicio = segunda(new Date()); carregar(); };
+async function sincronizar() {
+  try { const r = await api('/api/sincronizar', {}); if (r.novos) { toast(r.novos + ' post(s) feitos no app entraram no painel'); carregar(); } } catch {}
+}
+document.getElementById('recarregar').onclick = () => { carregar(); carregarDrive(); sincronizar(); };
+carregar(); carregarDrive(); sincronizar();
+// atualiza sozinho a cada minuto (status de publicação e métricas mudam pelo cron)
+setInterval(() => { if (!document.hidden) carregar(); }, 60_000);
+</script>
+</body>
+</html>

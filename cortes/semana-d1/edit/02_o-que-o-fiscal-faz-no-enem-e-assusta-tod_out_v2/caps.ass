@@ -1,0 +1,64 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Helvetica,67,&H00FFFFFF,&H00FFFFFF,&HC8000000,&HC8000000,0,1,0,0,100,100,0,0,1,6.7,6.7,2,60,60,540,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.04,0:00:00.22,Cap,,0,0,0,,E um
+Dialogue: 0,0:00:00.22,0:00:00.70,Cap,,0,0,0,,detalhe que
+Dialogue: 0,0:00:00.70,0:00:01.68,Cap,,0,0,0,,ajudava muito:
+Dialogue: 0,0:00:01.68,0:00:02.16,Cap,,0,0,0,,o fiscal
+Dialogue: 0,0:00:02.16,0:00:02.64,Cap,,0,0,0,,de prova,
+Dialogue: 0,0:00:02.64,0:00:02.88,Cap,,0,0,0,,no dia
+Dialogue: 0,0:00:02.88,0:00:03.30,Cap,,0,0,0,,oficial,
+Dialogue: 0,0:00:03.30,0:00:03.66,Cap,,0,0,0,,vai ficar
+Dialogue: 0,0:00:03.66,0:00:04.34,Cap,,0,0,0,,riscando no
+Dialogue: 0,0:00:04.34,0:00:04.75,Cap,,0,0,0,,quadro.
+Dialogue: 0,0:00:04.75,0:00:05.13,Cap,,0,0,0,,Cinco horas
+Dialogue: 0,0:00:05.13,0:00:05.53,Cap,,0,0,0,,e meia,
+Dialogue: 0,0:00:05.53,0:00:05.79,Cap,,0,0,0,,ele vai
+Dialogue: 0,0:00:05.79,0:00:06.29,Cap,,0,0,0,,riscar.
+Dialogue: 0,0:00:06.29,0:00:06.95,Cap,,0,0,0,,Cinco horas,
+Dialogue: 0,0:00:06.95,0:00:07.69,Cap,,0,0,0,,ele risca.
+Dialogue: 0,0:00:07.69,0:00:08.39,Cap,,0,0,0,,Quatro horas,
+Dialogue: 0,0:00:08.39,0:00:09.13,Cap,,0,0,0,,ele risca.
+Dialogue: 0,0:00:09.13,0:00:09.31,Cap,,0,0,0,,E eu
+Dialogue: 0,0:00:09.31,0:00:10.15,Cap,,0,0,0,,fazia exatamente
+Dialogue: 0,0:00:10.15,0:00:10.49,Cap,,0,0,0,,isso em
+Dialogue: 0,0:00:10.49,0:00:10.89,Cap,,0,0,0,,casa.
+Dialogue: 0,0:00:10.89,0:00:11.33,Cap,,0,0,0,,Pegava um
+Dialogue: 0,0:00:11.33,0:00:11.61,Cap,,0,0,0,,vídeo do
+Dialogue: 0,0:00:11.61,0:00:12.17,Cap,,0,0,0,,YouTube que
+Dialogue: 0,0:00:12.17,0:00:12.67,Cap,,0,0,0,,simulava um
+Dialogue: 0,0:00:12.67,0:00:13.15,Cap,,0,0,0,,fiscal de
+Dialogue: 0,0:00:13.15,0:00:13.97,Cap,,0,0,0,,prova riscando
+Dialogue: 0,0:00:13.97,0:00:14.51,Cap,,0,0,0,,os marcos
+Dialogue: 0,0:00:14.51,0:00:14.95,Cap,,0,0,0,,de tempo.
+Dialogue: 0,0:00:14.95,0:00:15.37,Cap,,0,0,0,,E assim,
+Dialogue: 0,0:00:15.37,0:00:15.63,Cap,,0,0,0,,no dia
+Dialogue: 0,0:00:15.63,0:00:16.03,Cap,,0,0,0,,da prova,
+Dialogue: 0,0:00:16.03,0:00:16.75,Cap,,0,0,0,,aquele quadro
+Dialogue: 0,0:00:16.75,0:00:17.43,Cap,,0,0,0,,sendo riscado
+Dialogue: 0,0:00:17.43,0:00:17.63,Cap,,0,0,0,,não me
+Dialogue: 0,0:00:17.63,0:00:18.35,Cap,,0,0,0,,assustava mais
+Dialogue: 0,0:00:18.35,0:00:18.47,Cap,,0,0,0,,e eu
+Dialogue: 0,0:00:18.47,0:00:18.75,Cap,,0,0,0,,já tava
+Dialogue: 0,0:00:18.75,0:00:19.73,Cap,,0,0,0,,até acostumado
+Dialogue: 0,0:00:19.73,0:00:20.07,Cap,,0,0,0,,com aquela
+Dialogue: 0,0:00:20.07,0:00:20.89,Cap,,0,0,0,,metodologia de
+Dialogue: 0,0:00:20.89,0:00:21.59,Cap,,0,0,0,,contagem de
+Dialogue: 0,0:00:21.59,0:00:21.97,Cap,,0,0,0,,tempo,
+Dialogue: 0,0:00:21.97,0:00:22.55,Cap,,0,0,0,,justamente porque
+Dialogue: 0,0:00:22.55,0:00:22.85,Cap,,0,0,0,,eu já
+Dialogue: 0,0:00:22.85,0:00:23.33,Cap,,0,0,0,,tinha feito
+Dialogue: 0,0:00:23.33,0:00:23.57,Cap,,0,0,0,,isso em
+Dialogue: 0,0:00:23.57,0:00:24.33,Cap,,0,0,0,,casa cinco
+Dialogue: 0,0:00:24.33,0:00:24.75,Cap,,0,0,0,,vezes na
+Dialogue: 0,0:00:24.75,0:00:25.37,Cap,,0,0,0,,mesma semana
+Dialogue: 0,0:00:25.37,0:00:26.27,Cap,,0,0,0,,da prova.

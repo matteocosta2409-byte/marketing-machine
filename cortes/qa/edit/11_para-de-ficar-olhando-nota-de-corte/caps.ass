@@ -1,0 +1,108 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Helvetica,67,&H00FFFFFF,&H00FFFFFF,&HC8000000,&HC8000000,0,1,0,0,100,100,0,0,1,6.7,6.7,2,60,60,300,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.04,0:00:00.32,Cap,,0,0,0,,Então eu
+Dialogue: 0,0:00:00.32,0:00:00.50,Cap,,0,0,0,,acho que
+Dialogue: 0,0:00:00.50,0:00:01.38,Cap,,0,0,0,,ficar especulando
+Dialogue: 0,0:00:01.38,0:00:01.80,Cap,,0,0,0,,sobre notas
+Dialogue: 0,0:00:01.80,0:00:02.32,Cap,,0,0,0,,de corte,
+Dialogue: 0,0:00:02.32,0:00:03.18,Cap,,0,0,0,,normalmente é
+Dialogue: 0,0:00:03.18,0:00:03.48,Cap,,0,0,0,,só,
+Dialogue: 0,0:00:03.48,0:00:03.92,Cap,,0,0,0,,faz mal
+Dialogue: 0,0:00:03.92,0:00:04.22,Cap,,0,0,0,,pra si
+Dialogue: 0,0:00:04.22,0:00:04.52,Cap,,0,0,0,,mesmo,
+Dialogue: 0,0:00:04.52,0:00:04.70,Cap,,0,0,0,,quem é
+Dialogue: 0,0:00:04.70,0:00:05.24,Cap,,0,0,0,,vestibulando,
+Dialogue: 0,0:00:05.24,0:00:05.70,Cap,,0,0,0,,fica cada
+Dialogue: 0,0:00:05.70,0:00:06.02,Cap,,0,0,0,,vez mais
+Dialogue: 0,0:00:06.02,0:00:07.14,Cap,,0,0,0,,ansioso esperando.
+Dialogue: 0,0:00:07.14,0:00:07.48,Cap,,0,0,0,,O Enem
+Dialogue: 0,0:00:07.48,0:00:07.86,Cap,,0,0,0,,sai essa
+Dialogue: 0,0:00:07.86,0:00:08.22,Cap,,0,0,0,,semana,
+Dialogue: 0,0:00:08.22,0:00:08.60,Cap,,0,0,0,,então cês
+Dialogue: 0,0:00:08.60,0:00:09.02,Cap,,0,0,0,,devem tá
+Dialogue: 0,0:00:09.02,0:00:09.54,Cap,,0,0,0,,com ansiedade
+Dialogue: 0,0:00:09.54,0:00:09.90,Cap,,0,0,0,,a mil.
+Dialogue: 0,0:00:09.90,0:00:10.66,Cap,,0,0,0,,Mas fiquem
+Dialogue: 0,0:00:10.66,0:00:11.12,Cap,,0,0,0,,tranquilos,
+Dialogue: 0,0:00:11.12,0:00:11.60,Cap,,0,0,0,,não pensem
+Dialogue: 0,0:00:11.60,0:00:11.88,Cap,,0,0,0,,em nota
+Dialogue: 0,0:00:11.88,0:00:12.50,Cap,,0,0,0,,de corte,
+Dialogue: 0,0:00:12.50,0:00:12.68,Cap,,0,0,0,,é,
+Dialogue: 0,0:00:12.68,0:00:13.00,Cap,,0,0,0,,joguem a
+Dialogue: 0,0:00:13.00,0:00:13.34,Cap,,0,0,0,,nota no
+Dialogue: 0,0:00:13.34,0:00:13.76,Cap,,0,0,0,,SISU,
+Dialogue: 0,0:00:13.76,0:00:14.16,Cap,,0,0,0,,eu espero
+Dialogue: 0,0:00:14.16,0:00:14.48,Cap,,0,0,0,,muito que
+Dialogue: 0,0:00:14.48,0:00:14.86,Cap,,0,0,0,,dê certo
+Dialogue: 0,0:00:14.86,0:00:15.62,Cap,,0,0,0,,pra vocês,
+Dialogue: 0,0:00:15.62,0:00:15.86,Cap,,0,0,0,,mas não
+Dialogue: 0,0:00:15.86,0:00:16.24,Cap,,0,0,0,,tem muito
+Dialogue: 0,0:00:16.24,0:00:16.50,Cap,,0,0,0,,eu que
+Dialogue: 0,0:00:16.50,0:00:17.20,Cap,,0,0,0,,ficar especulando,
+Dialogue: 0,0:00:17.20,0:00:17.40,Cap,,0,0,0,,porque eu
+Dialogue: 0,0:00:17.40,0:00:17.74,Cap,,0,0,0,,acho que
+Dialogue: 0,0:00:17.74,0:00:18.00,Cap,,0,0,0,,eu só
+Dialogue: 0,0:00:18.00,0:00:18.94,Cap,,0,0,0,,tô corroborando
+Dialogue: 0,0:00:18.94,0:00:19.30,Cap,,0,0,0,,com o
+Dialogue: 0,0:00:19.30,0:00:19.62,Cap,,0,0,0,,tipo de
+Dialogue: 0,0:00:19.62,0:00:20.34,Cap,,0,0,0,,pensamento de
+Dialogue: 0,0:00:20.34,0:00:20.92,Cap,,0,0,0,,ficar ansioso.
+Dialogue: 0,0:00:20.92,0:00:21.18,Cap,,0,0,0,,Então não
+Dialogue: 0,0:00:21.18,0:00:21.48,Cap,,0,0,0,,vou falar
+Dialogue: 0,0:00:21.48,0:00:21.88,Cap,,0,0,0,,nada sobre
+Dialogue: 0,0:00:21.88,0:00:22.20,Cap,,0,0,0,,nota de
+Dialogue: 0,0:00:22.20,0:00:22.52,Cap,,0,0,0,,corte,
+Dialogue: 0,0:00:22.52,0:00:22.90,Cap,,0,0,0,,porque elas
+Dialogue: 0,0:00:22.90,0:00:23.44,Cap,,0,0,0,,normalmente se
+Dialogue: 0,0:00:23.44,0:00:23.74,Cap,,0,0,0,,mantêm a
+Dialogue: 0,0:00:23.74,0:00:24.34,Cap,,0,0,0,,mesma coisa.
+Dialogue: 0,0:00:24.34,0:00:24.76,Cap,,0,0,0,,a título
+Dialogue: 0,0:00:24.76,0:00:25.10,Cap,,0,0,0,,de,
+Dialogue: 0,0:00:25.10,0:00:25.56,Cap,,0,0,0,,de exemplo,
+Dialogue: 0,0:00:25.56,0:00:26.22,Cap,,0,0,0,,de curiosidade,
+Dialogue: 0,0:00:26.22,0:00:26.50,Cap,,0,0,0,,a nota
+Dialogue: 0,0:00:26.50,0:00:27.08,Cap,,0,0,0,,da ESCS
+Dialogue: 0,0:00:27.08,0:00:27.42,Cap,,0,0,0,,de,
+Dialogue: 0,0:00:27.42,0:00:28.00,Cap,,0,0,0,,de corte
+Dialogue: 0,0:00:28.00,0:00:28.40,Cap,,0,0,0,,era a
+Dialogue: 0,0:00:28.40,0:00:28.82,Cap,,0,0,0,,mesma,
+Dialogue: 0,0:00:28.82,0:00:29.16,Cap,,0,0,0,,assim,
+Dialogue: 0,0:00:29.16,0:00:29.70,Cap,,0,0,0,,mudava um
+Dialogue: 0,0:00:29.70,0:00:30.06,Cap,,0,0,0,,ponto,
+Dialogue: 0,0:00:30.06,0:00:30.38,Cap,,0,0,0,,menos de
+Dialogue: 0,0:00:30.38,0:00:30.76,Cap,,0,0,0,,um ponto,
+Dialogue: 0,0:00:30.76,0:00:31.08,Cap,,0,0,0,,às vezes,
+Dialogue: 0,0:00:31.08,0:00:31.18,Cap,,0,0,0,,de um
+Dialogue: 0,0:00:31.18,0:00:31.48,Cap,,0,0,0,,ano pro
+Dialogue: 0,0:00:31.48,0:00:31.66,Cap,,0,0,0,,outro.
+Dialogue: 0,0:00:31.66,0:00:31.92,Cap,,0,0,0,,Então a
+Dialogue: 0,0:00:31.92,0:00:32.24,Cap,,0,0,0,,nota de
+Dialogue: 0,0:00:32.24,0:00:33.16,Cap,,0,0,0,,corte continua
+Dialogue: 0,0:00:33.16,0:00:33.82,Cap,,0,0,0,,basicamente a
+Dialogue: 0,0:00:33.82,0:00:34.46,Cap,,0,0,0,,mesma há
+Dialogue: 0,0:00:34.46,0:00:34.72,Cap,,0,0,0,,anos.
+Dialogue: 0,0:00:34.72,0:00:35.08,Cap,,0,0,0,,Então eu
+Dialogue: 0,0:00:35.08,0:00:35.30,Cap,,0,0,0,,acho que
+Dialogue: 0,0:00:35.30,0:00:35.84,Cap,,0,0,0,,vocês ficarem
+Dialogue: 0,0:00:35.84,0:00:36.36,Cap,,0,0,0,,pensando sobre
+Dialogue: 0,0:00:36.36,0:00:36.92,Cap,,0,0,0,,isso não
+Dialogue: 0,0:00:36.92,0:00:37.54,Cap,,0,0,0,,é saudável
+Dialogue: 0,0:00:37.54,0:00:37.82,Cap,,0,0,0,,e só
+Dialogue: 0,0:00:37.82,0:00:38.22,Cap,,0,0,0,,fiquem mais
+Dialogue: 0,0:00:38.22,0:00:38.72,Cap,,0,0,0,,tranquilos,
+Dialogue: 0,0:00:38.72,0:00:39.29,Cap,,0,0,0,,porque o
+Dialogue: 0,0:00:39.29,0:00:39.53,Cap,,0,0,0,,que é
+Dialogue: 0,0:00:39.53,0:00:40.33,Cap,,0,0,0,,seu vai
+Dialogue: 0,0:00:40.33,0:00:40.59,Cap,,0,0,0,,vir.
+Dialogue: 0,0:00:40.59,0:00:41.23,Cap,,0,0,0,,Então fiquem
+Dialogue: 0,0:00:41.23,0:00:42.14,Cap,,0,0,0,,tranquilos.

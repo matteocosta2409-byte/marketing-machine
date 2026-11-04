@@ -1,0 +1,94 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Helvetica,67,&H00FFFFFF,&H00FFFFFF,&HC8000000,&HC8000000,0,1,0,0,100,100,0,0,1,6.7,6.7,2,60,60,540,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.04,0:00:00.50,Cap,,0,0,0,,Assisti uma
+Dialogue: 0,0:00:00.50,0:00:01.00,Cap,,0,0,0,,boa aula,
+Dialogue: 0,0:00:01.00,0:00:01.50,Cap,,0,0,0,,fazia uma
+Dialogue: 0,0:00:01.50,0:00:01.92,Cap,,0,0,0,,leitura de
+Dialogue: 0,0:00:01.92,0:00:02.34,Cap,,0,0,0,,um bom
+Dialogue: 0,0:00:02.34,0:00:02.92,Cap,,0,0,0,,material,
+Dialogue: 0,0:00:02.92,0:00:03.42,Cap,,0,0,0,,fazia uma
+Dialogue: 0,0:00:03.42,0:00:04.56,Cap,,0,0,0,,verbalização,
+Dialogue: 0,0:00:04.56,0:00:04.94,Cap,,0,0,0,,essa talvez
+Dialogue: 0,0:00:04.94,0:00:05.26,Cap,,0,0,0,,seja uma
+Dialogue: 0,0:00:05.26,0:00:05.68,Cap,,0,0,0,,parte mais
+Dialogue: 0,0:00:05.68,0:00:06.16,Cap,,0,0,0,,importante que
+Dialogue: 0,0:00:06.16,0:00:06.42,Cap,,0,0,0,,eu vejo
+Dialogue: 0,0:00:06.42,0:00:07.08,Cap,,0,0,0,,pouquíssima gente
+Dialogue: 0,0:00:07.08,0:00:07.78,Cap,,0,0,0,,comentando,
+Dialogue: 0,0:00:07.78,0:00:08.12,Cap,,0,0,0,,mas que
+Dialogue: 0,0:00:08.12,0:00:08.52,Cap,,0,0,0,,foi muito
+Dialogue: 0,0:00:08.52,0:00:09.12,Cap,,0,0,0,,importante pra
+Dialogue: 0,0:00:09.12,0:00:09.31,Cap,,0,0,0,,mim.
+Dialogue: 0,0:00:09.31,0:00:09.52,Cap,,0,0,0,,Então,
+Dialogue: 0,0:00:09.52,0:00:09.66,Cap,,0,0,0,,lê o
+Dialogue: 0,0:00:09.66,0:00:10.32,Cap,,0,0,0,,material,
+Dialogue: 0,0:00:10.32,0:00:10.68,Cap,,0,0,0,,depois cê
+Dialogue: 0,0:00:10.68,0:00:11.08,Cap,,0,0,0,,vai partir
+Dialogue: 0,0:00:11.08,0:00:11.92,Cap,,0,0,0,,pra verbalização,
+Dialogue: 0,0:00:11.92,0:00:12.12,Cap,,0,0,0,,cê vai
+Dialogue: 0,0:00:12.12,0:00:13.00,Cap,,0,0,0,,tentar explicar
+Dialogue: 0,0:00:13.00,0:00:13.34,Cap,,0,0,0,,pra si
+Dialogue: 0,0:00:13.34,0:00:13.99,Cap,,0,0,0,,mesmo tudo
+Dialogue: 0,0:00:13.99,0:00:14.45,Cap,,0,0,0,,aquilo que
+Dialogue: 0,0:00:14.45,0:00:15.37,Cap,,0,0,0,,você aprendeu,
+Dialogue: 0,0:00:15.37,0:00:15.85,Cap,,0,0,0,,tanto na
+Dialogue: 0,0:00:15.85,0:00:16.53,Cap,,0,0,0,,aula quanto
+Dialogue: 0,0:00:16.53,0:00:16.93,Cap,,0,0,0,,na leitura
+Dialogue: 0,0:00:16.93,0:00:17.17,Cap,,0,0,0,,que cê
+Dialogue: 0,0:00:17.17,0:00:18.01,Cap,,0,0,0,,fez complementar.
+Dialogue: 0,0:00:18.01,0:00:18.51,Cap,,0,0,0,,A partir
+Dialogue: 0,0:00:18.51,0:00:19.09,Cap,,0,0,0,,dessa aula,
+Dialogue: 0,0:00:19.09,0:00:19.45,Cap,,0,0,0,,cê vai
+Dialogue: 0,0:00:19.45,0:00:20.59,Cap,,0,0,0,,ali entender
+Dialogue: 0,0:00:20.59,0:00:20.93,Cap,,0,0,0,,onde tão
+Dialogue: 0,0:00:20.93,0:00:21.55,Cap,,0,0,0,,essas lacunas,
+Dialogue: 0,0:00:21.55,0:00:21.73,Cap,,0,0,0,,cê vai
+Dialogue: 0,0:00:21.73,0:00:22.21,Cap,,0,0,0,,tentar dar
+Dialogue: 0,0:00:22.21,0:00:22.53,Cap,,0,0,0,,uma aula,
+Dialogue: 0,0:00:22.53,0:00:22.71,Cap,,0,0,0,,cê vai
+Dialogue: 0,0:00:22.71,0:00:23.11,Cap,,0,0,0,,perceber:
+Dialogue: 0,0:00:23.11,0:00:23.45,Cap,,0,0,0,,"Cara,
+Dialogue: 0,0:00:23.45,0:00:24.13,Cap,,0,0,0,,travei nessa
+Dialogue: 0,0:00:24.13,0:00:24.55,Cap,,0,0,0,,parte da
+Dialogue: 0,0:00:24.55,0:00:24.77,Cap,,0,0,0,,aula que
+Dialogue: 0,0:00:24.77,0:00:25.03,Cap,,0,0,0,,eu tô
+Dialogue: 0,0:00:25.03,0:00:25.63,Cap,,0,0,0,,tentando dar".
+Dialogue: 0,0:00:25.63,0:00:25.79,Cap,,0,0,0,,Cê vai
+Dialogue: 0,0:00:25.79,0:00:26.43,Cap,,0,0,0,,identificar suas
+Dialogue: 0,0:00:26.43,0:00:27.13,Cap,,0,0,0,,lacunas,
+Dialogue: 0,0:00:27.13,0:00:27.31,Cap,,0,0,0,,cê vai
+Dialogue: 0,0:00:27.31,0:00:28.17,Cap,,0,0,0,,identificar onde
+Dialogue: 0,0:00:28.17,0:00:28.65,Cap,,0,0,0,,você não
+Dialogue: 0,0:00:28.65,0:00:28.97,Cap,,0,0,0,,tá tão
+Dialogue: 0,0:00:28.97,0:00:29.33,Cap,,0,0,0,,bem pra
+Dialogue: 0,0:00:29.33,0:00:30.21,Cap,,0,0,0,,aquela matéria.
+Dialogue: 0,0:00:30.21,0:00:30.81,Cap,,0,0,0,,Você volta
+Dialogue: 0,0:00:30.81,0:00:31.21,Cap,,0,0,0,,no livro,
+Dialogue: 0,0:00:31.21,0:00:31.85,Cap,,0,0,0,,você volta
+Dialogue: 0,0:00:31.85,0:00:32.27,Cap,,0,0,0,,na videoaula
+Dialogue: 0,0:00:32.27,0:00:32.43,Cap,,0,0,0,,que cê
+Dialogue: 0,0:00:32.43,0:00:33.05,Cap,,0,0,0,,tava vendo
+Dialogue: 0,0:00:33.05,0:00:33.31,Cap,,0,0,0,,pra você
+Dialogue: 0,0:00:33.31,0:00:34.00,Cap,,0,0,0,,tentar co--
+Dialogue: 0,0:00:34.00,0:00:34.56,Cap,,0,0,0,,preencher essas
+Dialogue: 0,0:00:34.56,0:00:35.14,Cap,,0,0,0,,lacunas.
+Dialogue: 0,0:00:35.14,0:00:35.72,Cap,,0,0,0,,Preenchidas as
+Dialogue: 0,0:00:35.72,0:00:36.06,Cap,,0,0,0,,lacunas,
+Dialogue: 0,0:00:36.06,0:00:36.24,Cap,,0,0,0,,cê vai
+Dialogue: 0,0:00:36.24,0:00:36.98,Cap,,0,0,0,,pras questões.
+Dialogue: 0,0:00:36.98,0:00:37.26,Cap,,0,0,0,,Agora cê
+Dialogue: 0,0:00:37.26,0:00:37.42,Cap,,0,0,0,,tem que
+Dialogue: 0,0:00:37.42,0:00:37.90,Cap,,0,0,0,,fazer ali,
+Dialogue: 0,0:00:37.90,0:00:38.36,Cap,,0,0,0,,em média,
+Dialogue: 0,0:00:38.36,0:00:38.88,Cap,,0,0,0,,vinte questões
+Dialogue: 0,0:00:38.88,0:00:39.78,Cap,,0,0,0,,por matéria.

@@ -1,0 +1,57 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Helvetica,67,&H00FFFFFF,&H00FFFFFF,&HC8000000,&HC8000000,0,1,0,0,100,100,0,0,1,6.7,6.7,2,60,60,300,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.04,0:00:00.26,Cap,,0,0,0,,E tem
+Dialogue: 0,0:00:00.26,0:00:00.76,Cap,,0,0,0,,uma parada
+Dialogue: 0,0:00:00.76,0:00:01.80,Cap,,0,0,0,,superinteressante.
+Dialogue: 0,0:00:01.80,0:00:02.36,Cap,,0,0,0,,Humanas tem
+Dialogue: 0,0:00:02.36,0:00:03.30,Cap,,0,0,0,,muito texto.
+Dialogue: 0,0:00:03.30,0:00:03.98,Cap,,0,0,0,,Filósofo,
+Dialogue: 0,0:00:03.98,0:00:04.38,Cap,,0,0,0,,geógrafo,
+Dialogue: 0,0:00:04.38,0:00:05.36,Cap,,0,0,0,,historiador.
+Dialogue: 0,0:00:05.36,0:00:05.60,Cap,,0,0,0,,E lendo
+Dialogue: 0,0:00:05.60,0:00:06.14,Cap,,0,0,0,,essas quarenta
+Dialogue: 0,0:00:06.14,0:00:06.68,Cap,,0,0,0,,questões,
+Dialogue: 0,0:00:06.68,0:00:06.96,Cap,,0,0,0,,às vezes
+Dialogue: 0,0:00:06.96,0:00:07.36,Cap,,0,0,0,,vinha algum
+Dialogue: 0,0:00:07.36,0:00:08.28,Cap,,0,0,0,,insight,
+Dialogue: 0,0:00:08.28,0:00:08.90,Cap,,0,0,0,,uma lembrança
+Dialogue: 0,0:00:08.90,0:00:09.12,Cap,,0,0,0,,de algo
+Dialogue: 0,0:00:09.12,0:00:09.26,Cap,,0,0,0,,que eu
+Dialogue: 0,0:00:09.26,0:00:09.50,Cap,,0,0,0,,já tinha
+Dialogue: 0,0:00:09.50,0:00:10.10,Cap,,0,0,0,,estudado,
+Dialogue: 0,0:00:10.10,0:00:10.28,Cap,,0,0,0,,que eu
+Dialogue: 0,0:00:10.28,0:00:11.08,Cap,,0,0,0,,poderia citar
+Dialogue: 0,0:00:11.08,0:00:12.04,Cap,,0,0,0,,como repertório
+Dialogue: 0,0:00:12.04,0:00:12.32,Cap,,0,0,0,,no meu
+Dialogue: 0,0:00:12.32,0:00:12.86,Cap,,0,0,0,,texto,
+Dialogue: 0,0:00:12.86,0:00:13.48,Cap,,0,0,0,,só utilizando
+Dialogue: 0,0:00:13.48,0:00:13.96,Cap,,0,0,0,,os textos
+Dialogue: 0,0:00:13.96,0:00:14.40,Cap,,0,0,0,,base e
+Dialogue: 0,0:00:14.40,0:00:14.80,Cap,,0,0,0,,os próprios
+Dialogue: 0,0:00:14.80,0:00:15.44,Cap,,0,0,0,,enunciados das
+Dialogue: 0,0:00:15.44,0:00:16.22,Cap,,0,0,0,,questões.
+Dialogue: 0,0:00:16.22,0:00:16.42,Cap,,0,0,0,,E é
+Dialogue: 0,0:00:16.42,0:00:16.84,Cap,,0,0,0,,por isso
+Dialogue: 0,0:00:16.84,0:00:17.00,Cap,,0,0,0,,que o
+Dialogue: 0,0:00:17.00,0:00:17.62,Cap,,0,0,0,,rascunho da
+Dialogue: 0,0:00:17.62,0:00:18.38,Cap,,0,0,0,,minha redação
+Dialogue: 0,0:00:18.38,0:00:18.80,Cap,,0,0,0,,vinha só
+Dialogue: 0,0:00:18.80,0:00:19.26,Cap,,0,0,0,,depois de
+Dialogue: 0,0:00:19.26,0:00:19.74,Cap,,0,0,0,,Humanas,
+Dialogue: 0,0:00:19.74,0:00:19.98,Cap,,0,0,0,,com uma
+Dialogue: 0,0:00:19.98,0:00:20.14,Cap,,0,0,0,,hora e
+Dialogue: 0,0:00:20.14,0:00:20.66,Cap,,0,0,0,,quarenta e
+Dialogue: 0,0:00:20.66,0:00:21.04,Cap,,0,0,0,,cinco de
+Dialogue: 0,0:00:21.04,0:00:21.30,Cap,,0,0,0,,prova,
+Dialogue: 0,0:00:21.30,0:00:21.54,Cap,,0,0,0,,mais ou
+Dialogue: 0,0:00:21.54,0:00:22.30,Cap,,0,0,0,,menos.

@@ -1,0 +1,143 @@
+{
+  "version": 1,
+  "sources": {
+    "src": "/Users/mac-matteo/marketing machine/solo_red/src.mov"
+  },
+  "ranges": [
+    {
+      "source": "src",
+      "start": 0.74,
+      "end": 5.934
+    },
+    {
+      "source": "src",
+      "start": 6.142,
+      "end": 6.266
+    },
+    {
+      "source": "src",
+      "start": 6.477,
+      "end": 9.3
+    },
+    {
+      "source": "src",
+      "start": 10.06,
+      "end": 12.266
+    },
+    {
+      "source": "src",
+      "start": 12.479,
+      "end": 15.6
+    },
+    {
+      "source": "src",
+      "start": 15.86,
+      "end": 21.054
+    },
+    {
+      "source": "src",
+      "start": 21.243,
+      "end": 22.807
+    },
+    {
+      "source": "src",
+      "start": 23.031,
+      "end": 24.45
+    },
+    {
+      "source": "src",
+      "start": 24.76,
+      "end": 25.466
+    },
+    {
+      "source": "src",
+      "start": 25.666,
+      "end": 27.19
+    },
+    {
+      "source": "src",
+      "start": 31.91,
+      "end": 34.263
+    },
+    {
+      "source": "src",
+      "start": 47.968,
+      "end": 50.295
+    },
+    {
+      "source": "src",
+      "start": 50.692,
+      "end": 55.829
+    },
+    {
+      "source": "src",
+      "start": 56.246,
+      "end": 60.513
+    },
+    {
+      "source": "src",
+      "start": 60.761,
+      "end": 62.08
+    },
+    {
+      "source": "src",
+      "start": 62.3,
+      "end": 69.505
+    },
+    {
+      "source": "src",
+      "start": 69.695,
+      "end": 71.372
+    },
+    {
+      "source": "src",
+      "start": 71.681,
+      "end": 75.1
+    },
+    {
+      "source": "src",
+      "start": 77.4,
+      "end": 80.06
+    },
+    {
+      "source": "src",
+      "start": 137.5,
+      "end": 140.36
+    },
+    {
+      "source": "src",
+      "start": 140.6,
+      "end": 142.92
+    },
+    {
+      "source": "src",
+      "start": 143.121,
+      "end": 151.05
+    },
+    {
+      "source": "src",
+      "start": 151.34,
+      "end": 153.46
+    },
+    {
+      "source": "src",
+      "start": 153.74,
+      "end": 159.939
+    },
+    {
+      "source": "src",
+      "start": 160.135,
+      "end": 166.36
+    },
+    {
+      "source": "src",
+      "start": 166.683,
+      "end": 169.273
+    }
+  ],
+  "grade": "none",
+  "overlays": [],
+  "subtitle_case": "natural",
+  "subtitle_style": "FontName=Helvetica,FontSize=15,Bold=0,Italic=1,PrimaryColour=&H00FFFFFF,OutlineColour=&HC8000000,BorderStyle=1,Outline=1,Shadow=1,Alignment=2,MarginV=60",
+  "total_duration_s": 84.482
+}

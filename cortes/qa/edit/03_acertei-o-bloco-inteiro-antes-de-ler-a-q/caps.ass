@@ -1,0 +1,117 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Helvetica,67,&H00FFFFFF,&H00FFFFFF,&HC8000000,&HC8000000,0,1,0,0,100,100,0,0,1,6.7,6.7,2,60,60,300,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.04,0:00:00.66,Cap,,0,0,0,,Por quê?
+Dialogue: 0,0:00:00.66,0:00:01.36,Cap,,0,0,0,,São nessas
+Dialogue: 0,0:00:01.36,0:00:01.74,Cap,,0,0,0,,provas que
+Dialogue: 0,0:00:01.74,0:00:02.06,Cap,,0,0,0,,você vai
+Dialogue: 0,0:00:02.06,0:00:02.50,Cap,,0,0,0,,pegar as
+Dialogue: 0,0:00:02.50,0:00:03.34,Cap,,0,0,0,,malícias da
+Dialogue: 0,0:00:03.34,0:00:04.16,Cap,,0,0,0,,sua prova,
+Dialogue: 0,0:00:04.16,0:00:04.92,Cap,,0,0,0,,identificar como
+Dialogue: 0,0:00:04.92,0:00:05.60,Cap,,0,0,0,,aquela matéria,
+Dialogue: 0,0:00:05.60,0:00:06.02,Cap,,0,0,0,,como por
+Dialogue: 0,0:00:06.02,0:00:06.29,Cap,,0,0,0,,exemplo,
+Dialogue: 0,0:00:06.29,0:00:07.43,Cap,,0,0,0,,eletromagnetismo,
+Dialogue: 0,0:00:07.43,0:00:07.79,Cap,,0,0,0,,cai na
+Dialogue: 0,0:00:07.79,0:00:08.61,Cap,,0,0,0,,sua prova,
+Dialogue: 0,0:00:08.61,0:00:08.99,Cap,,0,0,0,,como que
+Dialogue: 0,0:00:08.99,0:00:09.53,Cap,,0,0,0,,na UnB
+Dialogue: 0,0:00:09.53,0:00:09.93,Cap,,0,0,0,,cai,
+Dialogue: 0,0:00:09.93,0:00:11.07,Cap,,0,0,0,,muito clássico.
+Dialogue: 0,0:00:11.07,0:00:11.57,Cap,,0,0,0,,Vai cair
+Dialogue: 0,0:00:11.57,0:00:12.43,Cap,,0,0,0,,um experimento
+Dialogue: 0,0:00:12.43,0:00:12.69,Cap,,0,0,0,,que vai
+Dialogue: 0,0:00:12.69,0:00:13.03,Cap,,0,0,0,,ter uma
+Dialogue: 0,0:00:13.03,0:00:13.71,Cap,,0,0,0,,partícula sendo
+Dialogue: 0,0:00:13.71,0:00:14.57,Cap,,0,0,0,,acelerada por
+Dialogue: 0,0:00:14.57,0:00:15.01,Cap,,0,0,0,,uma diferença
+Dialogue: 0,0:00:15.01,0:00:15.70,Cap,,0,0,0,,de potencial.
+Dialogue: 0,0:00:15.70,0:00:16.34,Cap,,0,0,0,,Essa partícula
+Dialogue: 0,0:00:16.34,0:00:17.12,Cap,,0,0,0,,vai ingressar
+Dialogue: 0,0:00:17.12,0:00:17.56,Cap,,0,0,0,,num,
+Dialogue: 0,0:00:17.56,0:00:18.28,Cap,,0,0,0,,numa,
+Dialogue: 0,0:00:18.28,0:00:18.80,Cap,,0,0,0,,num campo
+Dialogue: 0,0:00:18.80,0:00:19.06,Cap,,0,0,0,,ela,
+Dialogue: 0,0:00:19.06,0:00:19.44,Cap,,0,0,0,,num campo
+Dialogue: 0,0:00:19.44,0:00:19.98,Cap,,0,0,0,,magnético,
+Dialogue: 0,0:00:19.98,0:00:20.38,Cap,,0,0,0,,numa região
+Dialogue: 0,0:00:20.38,0:00:20.66,Cap,,0,0,0,,de campo
+Dialogue: 0,0:00:20.66,0:00:21.70,Cap,,0,0,0,,eletromagnético e
+Dialogue: 0,0:00:21.70,0:00:21.98,Cap,,0,0,0,,vai fazer
+Dialogue: 0,0:00:21.98,0:00:22.47,Cap,,0,0,0,,uma curva.
+Dialogue: 0,0:00:22.47,0:00:22.85,Cap,,0,0,0,,Vai ter
+Dialogue: 0,0:00:22.85,0:00:23.27,Cap,,0,0,0,,um bloco
+Dialogue: 0,0:00:23.27,0:00:23.63,Cap,,0,0,0,,de itens
+Dialogue: 0,0:00:23.63,0:00:24.09,Cap,,0,0,0,,só perguntando
+Dialogue: 0,0:00:24.09,0:00:24.47,Cap,,0,0,0,,sobre isso.
+Dialogue: 0,0:00:24.47,0:00:24.67,Cap,,0,0,0,,Eu já
+Dialogue: 0,0:00:24.67,0:00:24.99,Cap,,0,0,0,,vi isso
+Dialogue: 0,0:00:24.99,0:00:25.31,Cap,,0,0,0,,uma,
+Dialogue: 0,0:00:25.31,0:00:25.77,Cap,,0,0,0,,duas,
+Dialogue: 0,0:00:25.77,0:00:26.09,Cap,,0,0,0,,três,
+Dialogue: 0,0:00:26.09,0:00:26.93,Cap,,0,0,0,,infinitas vezes,
+Dialogue: 0,0:00:26.93,0:00:27.33,Cap,,0,0,0,,tanto no
+Dialogue: 0,0:00:27.33,0:00:28.05,Cap,,0,0,0,,PAS três
+Dialogue: 0,0:00:28.05,0:00:28.37,Cap,,0,0,0,,quanto no
+Dialogue: 0,0:00:28.37,0:00:29.03,Cap,,0,0,0,,vestibular.
+Dialogue: 0,0:00:29.03,0:00:29.17,Cap,,0,0,0,,Que que
+Dialogue: 0,0:00:29.17,0:00:29.43,Cap,,0,0,0,,eu quero
+Dialogue: 0,0:00:29.43,0:00:29.67,Cap,,0,0,0,,dizer com
+Dialogue: 0,0:00:29.67,0:00:30.11,Cap,,0,0,0,,vocês?
+Dialogue: 0,0:00:30.11,0:00:30.47,Cap,,0,0,0,,Depois de
+Dialogue: 0,0:00:30.47,0:00:31.25,Cap,,0,0,0,,estudar matéria
+Dialogue: 0,0:00:31.25,0:00:31.57,Cap,,0,0,0,,com,
+Dialogue: 0,0:00:31.57,0:00:32.07,Cap,,0,0,0,,com bastante
+Dialogue: 0,0:00:32.07,0:00:32.63,Cap,,0,0,0,,dedicação,
+Dialogue: 0,0:00:32.63,0:00:33.15,Cap,,0,0,0,,de saber
+Dialogue: 0,0:00:33.15,0:00:33.53,Cap,,0,0,0,,muito sobre
+Dialogue: 0,0:00:33.53,0:00:34.01,Cap,,0,0,0,,a matéria,
+Dialogue: 0,0:00:34.01,0:00:34.47,Cap,,0,0,0,,fazer prova
+Dialogue: 0,0:00:34.47,0:00:34.87,Cap,,0,0,0,,antiga,
+Dialogue: 0,0:00:34.87,0:00:35.49,Cap,,0,0,0,,você-- a
+Dialogue: 0,0:00:35.49,0:00:35.93,Cap,,0,0,0,,prova antiga
+Dialogue: 0,0:00:35.93,0:00:36.53,Cap,,0,0,0,,o refino,
+Dialogue: 0,0:00:36.53,0:00:37.33,Cap,,0,0,0,,é dominar
+Dialogue: 0,0:00:37.33,0:00:37.77,Cap,,0,0,0,,como aquilo
+Dialogue: 0,0:00:37.77,0:00:38.01,Cap,,0,0,0,,cai na
+Dialogue: 0,0:00:38.01,0:00:38.53,Cap,,0,0,0,,sua prova.
+Dialogue: 0,0:00:38.53,0:00:38.91,Cap,,0,0,0,,Quando eu
+Dialogue: 0,0:00:38.91,0:00:39.33,Cap,,0,0,0,,vi um
+Dialogue: 0,0:00:39.33,0:00:39.69,Cap,,0,0,0,,bloco de
+Dialogue: 0,0:00:39.69,0:00:40.55,Cap,,0,0,0,,itens exatamente
+Dialogue: 0,0:00:40.55,0:00:41.70,Cap,,0,0,0,,falando exatamente
+Dialogue: 0,0:00:41.70,0:00:42.24,Cap,,0,0,0,,esse experimento
+Dialogue: 0,0:00:42.24,0:00:42.38,Cap,,0,0,0,,que eu
+Dialogue: 0,0:00:42.38,0:00:42.76,Cap,,0,0,0,,tô falando,
+Dialogue: 0,0:00:42.76,0:00:43.12,Cap,,0,0,0,,eu falei:
+Dialogue: 0,0:00:43.12,0:00:43.32,Cap,,0,0,0,,"Cara,
+Dialogue: 0,0:00:43.32,0:00:43.48,Cap,,0,0,0,,eu vou
+Dialogue: 0,0:00:43.48,0:00:43.88,Cap,,0,0,0,,acertar esse
+Dialogue: 0,0:00:43.88,0:00:44.38,Cap,,0,0,0,,bloco inteiro,
+Dialogue: 0,0:00:44.38,0:00:44.58,Cap,,0,0,0,,porque eu
+Dialogue: 0,0:00:44.58,0:00:44.82,Cap,,0,0,0,,já vi
+Dialogue: 0,0:00:44.82,0:00:45.24,Cap,,0,0,0,,isso mil
+Dialogue: 0,0:00:45.24,0:00:45.60,Cap,,0,0,0,,vezes".
+Dialogue: 0,0:00:45.60,0:00:46.10,Cap,,0,0,0,,Então,
+Dialogue: 0,0:00:46.10,0:00:46.80,Cap,,0,0,0,,é refino,
+Dialogue: 0,0:00:46.80,0:00:47.38,Cap,,0,0,0,,é dominar,
+Dialogue: 0,0:00:47.38,0:00:47.74,Cap,,0,0,0,,é você
+Dialogue: 0,0:00:47.74,0:00:48.16,Cap,,0,0,0,,chegar e
+Dialogue: 0,0:00:48.16,0:00:49.26,Cap,,0,0,0,,saber exatamente
+Dialogue: 0,0:00:49.26,0:00:49.48,Cap,,0,0,0,,que a
+Dialogue: 0,0:00:49.48,0:00:49.86,Cap,,0,0,0,,prova vai
+Dialogue: 0,0:00:49.86,0:00:50.14,Cap,,0,0,0,,tá te
+Dialogue: 0,0:00:50.14,0:00:50.78,Cap,,0,0,0,,cobrando antes
+Dialogue: 0,0:00:50.78,0:00:51.10,Cap,,0,0,0,,mesmo de
+Dialogue: 0,0:00:51.10,0:00:51.26,Cap,,0,0,0,,ler a
+Dialogue: 0,0:00:51.26,0:00:52.00,Cap,,0,0,0,,questão.

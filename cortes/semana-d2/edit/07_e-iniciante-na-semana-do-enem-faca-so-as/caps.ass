@@ -1,0 +1,50 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Helvetica,67,&H00FFFFFF,&H00FFFFFF,&HC8000000,&HC8000000,0,1,0,0,100,100,0,0,1,6.7,6.7,2,60,60,300,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.04,0:00:00.28,Cap,,0,0,0,,Essa não
+Dialogue: 0,0:00:00.28,0:00:00.40,Cap,,0,0,0,,é uma
+Dialogue: 0,0:00:00.40,0:00:00.98,Cap,,0,0,0,,estratégia pra
+Dialogue: 0,0:00:00.98,0:00:01.82,Cap,,0,0,0,,qualquer pessoa.
+Dialogue: 0,0:00:01.82,0:00:02.12,Cap,,0,0,0,,Se você
+Dialogue: 0,0:00:02.12,0:00:02.46,Cap,,0,0,0,,é mais
+Dialogue: 0,0:00:02.46,0:00:03.04,Cap,,0,0,0,,iniciante,
+Dialogue: 0,0:00:03.04,0:00:03.50,Cap,,0,0,0,,faz apenas
+Dialogue: 0,0:00:03.50,0:00:03.84,Cap,,0,0,0,,as provas
+Dialogue: 0,0:00:03.84,0:00:04.76,Cap,,0,0,0,,de Matemática.
+Dialogue: 0,0:00:04.76,0:00:05.34,Cap,,0,0,0,,Matemática é
+Dialogue: 0,0:00:05.34,0:00:05.70,Cap,,0,0,0,,onde você
+Dialogue: 0,0:00:05.70,0:00:06.20,Cap,,0,0,0,,vai conseguir
+Dialogue: 0,0:00:06.20,0:00:06.64,Cap,,0,0,0,,subir a
+Dialogue: 0,0:00:06.64,0:00:07.20,Cap,,0,0,0,,sua média
+Dialogue: 0,0:00:07.20,0:00:07.86,Cap,,0,0,0,,com menos
+Dialogue: 0,0:00:07.86,0:00:08.34,Cap,,0,0,0,,esforço.
+Dialogue: 0,0:00:08.34,0:00:09.06,Cap,,0,0,0,,Natureza exige
+Dialogue: 0,0:00:09.06,0:00:09.88,Cap,,0,0,0,,uma preparação
+Dialogue: 0,0:00:09.88,0:00:10.36,Cap,,0,0,0,,ao longo
+Dialogue: 0,0:00:10.36,0:00:10.74,Cap,,0,0,0,,do ano
+Dialogue: 0,0:00:10.74,0:00:11.40,Cap,,0,0,0,,inteiro.
+Dialogue: 0,0:00:11.40,0:00:11.58,Cap,,0,0,0,,Não é
+Dialogue: 0,0:00:11.58,0:00:12.24,Cap,,0,0,0,,uma semana
+Dialogue: 0,0:00:12.24,0:00:12.46,Cap,,0,0,0,,que vai
+Dialogue: 0,0:00:12.46,0:00:13.02,Cap,,0,0,0,,mudar isso.
+Dialogue: 0,0:00:13.02,0:00:13.36,Cap,,0,0,0,,Agora,
+Dialogue: 0,0:00:13.36,0:00:13.64,Cap,,0,0,0,,se você
+Dialogue: 0,0:00:13.64,0:00:14.12,Cap,,0,0,0,,estudou ano
+Dialogue: 0,0:00:14.12,0:00:14.74,Cap,,0,0,0,,inteiro,
+Dialogue: 0,0:00:14.74,0:00:15.14,Cap,,0,0,0,,tá indo
+Dialogue: 0,0:00:15.14,0:00:15.38,Cap,,0,0,0,,bem nos
+Dialogue: 0,0:00:15.38,0:00:16.02,Cap,,0,0,0,,seus simulados,
+Dialogue: 0,0:00:16.02,0:00:16.88,Cap,,0,0,0,,eu recomendo
+Dialogue: 0,0:00:16.88,0:00:17.52,Cap,,0,0,0,,muito fazer
+Dialogue: 0,0:00:17.52,0:00:18.10,Cap,,0,0,0,,a estratégia
+Dialogue: 0,0:00:18.10,0:00:18.53,Cap,,0,0,0,,completa.
+Dialogue: 0,0:00:18.53,0:00:18.97,Cap,,0,0,0,,E

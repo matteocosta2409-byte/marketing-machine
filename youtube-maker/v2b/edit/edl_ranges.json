@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "sources": {
+    "src": "/Users/mac-matteo/marketing machine/youtube-maker/v2b/src.mov"
+  },
+  "ranges": [
+    {
+      "source": "src",
+      "start": 0.549,
+      "end": 1.509
+    },
+    {
+      "source": "src",
+      "start": 1.789,
+      "end": 2.469
+    },
+    {
+      "source": "src",
+      "start": 2.69,
+      "end": 3.369
+    },
+    {
+      "source": "src",
+      "start": 3.609,
+      "end": 4.47
+    },
+    {
+      "source": "src",
+      "start": 4.689,
+      "end": 6.53
+    },
+    {
+      "source": "src",
+      "start": 6.809,
+      "end": 7.649
+    },
+    {
+      "source": "src",
+      "start": 7.91,
+      "end": 8.289
+    },
+    {
+      "source": "src",
+      "start": 14.77,
+      "end": 15.629
+    },
+    {
+      "source": "src",
+      "start": 15.91,
+      "end": 18.309
+    },
+    {
+      "source": "src",
+      "start": 18.529,
+      "end": 23.479
+    }
+  ],
+  "grade": "none",
+  "total_duration_s": 14.45
+}

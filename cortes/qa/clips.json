@@ -1,0 +1,321 @@
+[
+ {
+  "id": 1,
+  "start": 601.91,
+  "end": 660.41,
+  "score": 94,
+  "title": "Eu era um aluno medíocre|e passei em 1º lugar|em Medicina na federal",
+  "subtitle": "(saí de 630 para 780 no ENEM em um ano de preparação)",
+  "why": "Virada: aluno medíocre com média 630 no 3º ano → base sólida.",
+  "caption": "Comecei o 3º ano com média 630 no Enem. O que mudou foi esse ano de base 📚\n\n#vestibular #enem #medicina #unb #estudos",
+  "layout": "crop",
+  "kills": [
+   [
+    606.0,
+    611.4
+   ]
+  ]
+ },
+ {
+  "id": 2,
+  "start": 2055.72,
+  "end": 2141.76,
+  "kills": [
+   [
+    2065.86,
+    2108.42
+   ]
+  ],
+  "score": 90,
+  "title": "A etapa de estudo|que quase ninguém faz",
+  "subtitle": "(fiz isso e passei em 1º lugar em Medicina 2x)",
+  "why": "Verbalização: método concreto e pouco falado, ótimo pra salvar.",
+  "caption": "Verbalização: tenta dar a aula pra você mesmo. Onde travar, é ali que tá sua lacuna 🧠\n\n#vestibular #enem #medicina #metododeestudo #estudos",
+  "layout": "crop"
+ },
+ {
+  "id": 3,
+  "start": 2185.46,
+  "end": 2241.56,
+  "score": 88,
+  "title": "Sabia que ia acertar|o bloco de itens antes|de ler o enunciado",
+  "subtitle": "(fiz isso e passei em 1º lugar em Medicina 2x)",
+  "why": "Prova antiga como refino, com exemplo real da UnB (partícula no campo magnético).",
+  "caption": "Prova antiga é o refino: você aprende como a SUA prova cobra a matéria 🎯\n\n#vestibular #unb #medicina #provaantiga #estudos",
+  "layout": "crop"
+ },
+ {
+  "id": 4,
+  "start": 1895.36,
+  "end": 1921.96,
+  "score": 86,
+  "title": "Por que focar em|vestibulares tradicionais|ao invés do ENEM",
+  "subtitle": "(fiz isso e passei em 1º lugar em Medicina 2x)",
+  "why": "Opinião polêmica e curta: vestibular tradicional > só Enem.",
+  "caption": "Quem presta vestibular tradicional vai bem no Enem. O contrário nem sempre 👀\n\n#vestibular #enem #medicina #sisu #unb",
+  "layout": "crop"
+ },
+ {
+  "id": 5,
+  "start": 895.17,
+  "end": 923.23,
+  "kills": [],
+  "score": 84,
+  "title": "Estudava das 9h às 21h|e só parava pra almoçar",
+  "subtitle": "(o sacrifício que é preciso fazer pra passar em Medicina na federal)",
+  "why": "Rotina extrema + prova social da turma avançada.",
+  "caption": "Me olhavam torto no cursinho. Valeu a pena ✅\n\n#vestibular #enem #medicina #rotinadeestudos #cursinho",
+  "layout": "crop"
+ },
+ {
+  "id": 6,
+  "start": 663.45,
+  "end": 707.53,
+  "score": 82,
+  "title": "Decidi estudar em casa|pro vestibular",
+  "subtitle": "(meus pais acharam que eu ia virar vagabundo)",
+  "why": "Decisão polêmica e identificável (estudar em casa), com humor dos pais.",
+  "caption": "Estudar em casa funciona? Pra mim funcionou, mas tem um porém 🏠\n\n#vestibular #enem #medicina #estudaremcasa #estudos",
+  "layout": "crop"
+ },
+ {
+  "id": 7,
+  "start": 1420.91,
+  "end": 1474.33,
+  "score": 80,
+  "title": "Namorar no ano|do vestibular atrapalha?",
+  "subtitle": "(minha opinião sincera)",
+  "why": "Pergunta que todo vestibulando faz; resposta clara com 2 cenários.",
+  "caption": "Se te tira o foco, é decisão racional. Se te impulsiona, só soma ❤️📚\n\n#vestibular #enem #medicina #namoro #estudos",
+  "layout": "crop"
+ },
+ {
+  "id": 8,
+  "start": 1538.14,
+  "end": 1591.48,
+  "kills": [
+   [
+    1541.14,
+    1545.46
+   ]
+  ],
+  "score": 78,
+  "title": "Namorar alguém|que estuda com você",
+  "subtitle": "(eu e a Flora fazemos Medicina juntos)",
+  "why": "Casal com objetivo em comum; humaniza e engaja.",
+  "caption": "Casais com o mesmo objetivo crescem juntos 📚\n\n#medicina #unb #namoro #estudos #vestibular",
+  "layout": "crop"
+ },
+ {
+  "id": 9,
+  "start": 337.36,
+  "end": 369.38,
+  "score": 76,
+  "title": "Quer passar na UnB?|Aprende piano",
+  "subtitle": "(muita gente da minha turma de Medicina toca)",
+  "why": "Dado curioso e específico da UnB; contraintuitivo.",
+  "caption": "Cai música no vestibular da UnB, e muita gente da minha turma toca piano 🎹\n\n#unb #vestibular #medicina #piano #pas",
+  "layout": "crop"
+ },
+ {
+  "id": 10,
+  "start": 175.96,
+  "end": 210.1,
+  "score": 74,
+  "title": "Eu era péssimo em redação|e saí de 380 pra 940",
+  "subtitle": "(ainda no 3º ano do ensino médio)",
+  "why": "Superação numa matéria-dor comum.",
+  "caption": "Redação não é dom. Eu tinha notas muito baixas e cheguei em 940 ✍️\n\n#redacao #enem #vestibular #medicina #estudos",
+  "layout": "crop"
+ },
+ {
+  "id": 11,
+  "start": 1015.31,
+  "end": 1082.47,
+  "kills": [
+   [
+    1041.35,
+    1063.87
+   ]
+  ],
+  "score": 72,
+  "title": "Para de ficar|olhando nota de corte",
+  "subtitle": "(a TRI deixa ela quase igual todo ano)",
+  "why": "Acalma a ansiedade do SISU; atemporal em época de resultado.",
+  "caption": "O que é seu vai vir. Especular nota de corte só aumenta a ansiedade 🙏\n\n#sisu #enem #vestibular #medicina #notadecorte",
+  "layout": "crop"
+ },
+ {
+  "id": 12,
+  "start": 57.22,
+  "end": 105.12,
+  "kills": [],
+  "layout": "crop",
+  "score": 70,
+  "title": "Passar em Medicina|muda tudo na sua vida",
+  "subtitle": "(vai dar tempo de fazer tudo que você quiser)",
+  "why": "corte por pergunta",
+  "caption": "Depois da aprovação muda tudo: rotina, pessoas, ambiente. E sim, dá tempo de voltar pra academia 💪\n\n#vestibular #enem #medicina #unb"
+ },
+ {
+  "id": 13,
+  "start": 146.72,
+  "end": 171.9,
+  "kills": [],
+  "layout": "crop",
+  "score": 70,
+  "title": "A matéria mais difícil|do 1º semestre de Medicina",
+  "subtitle": "(o terror que fazem é real)",
+  "why": "corte por pergunta",
+  "caption": "Bioquímica no 1º semestre da UnB: a P2 de metabolismo é pesada 🧪\n\n#vestibular #enem #medicina #unb"
+ },
+ {
+  "id": 14,
+  "start": 230.04,
+  "end": 316.48,
+  "kills": [
+   [
+    259.98,
+    294.72
+   ]
+  ],
+  "layout": "crop",
+  "score": 70,
+  "title": "Comecei a tocar piano|por causa do vestibular",
+  "subtitle": "(e virou meu lazer nos intervalos)",
+  "why": "corte por pergunta",
+  "caption": "Cai música no vestibular da UnB. Comecei pelo piano da minha irmã e me apaixonei 🎹\n\n#vestibular #enem #medicina #unb"
+ },
+ {
+  "id": 15,
+  "start": 377.01,
+  "end": 431.79,
+  "kills": [],
+  "layout": "crop",
+  "score": 70,
+  "title": "As músicas que o 1º lugar|em Medicina escuta",
+  "subtitle": "(tem um que eu nem posso falar o nome)",
+  "why": "corte por pergunta",
+  "caption": "Djavan, Legião Urbana, ASAP Rocky, Linkin Park... e um que não dá pra falar 🎧\n\n#vestibular #enem #medicina #unb"
+ },
+ {
+  "id": 16,
+  "start": 441.45,
+  "end": 494.45,
+  "kills": [],
+  "layout": "crop",
+  "score": 70,
+  "title": "A comida favorita|do 1º lugar em Medicina",
+  "subtitle": "(nenhuma avó cozinha igual a minha)",
+  "why": "corte por pergunta",
+  "caption": "Moqueca da vó baiana > qualquer coisa 🍲\n\n#vestibular #enem #medicina #unb"
+ },
+ {
+  "id": 17,
+  "start": 511.07,
+  "end": 564.95,
+  "kills": [],
+  "layout": "crop",
+  "score": 70,
+  "title": "O livro favorito|do 1º lugar em Medicina",
+  "subtitle": "(todo mundo tem um russo favorito)",
+  "why": "corte por pergunta",
+  "caption": "Crime e Castigo, do Dostoiévski. O castigo mais pesado é o psicológico 📖\n\n#vestibular #enem #medicina #unb"
+ },
+ {
+  "id": 18,
+  "start": 833.19,
+  "end": 879.05,
+  "kills": [],
+  "layout": "crop",
+  "score": 70,
+  "title": "Metade da minha turma|de cursinho passou em Medicina",
+  "subtitle": "(eu duvido você achar uma taxa assim)",
+  "why": "corte por pergunta",
+  "caption": "Estudar perto de gente com o mesmo objetivo muda tudo 📚\n\n#vestibular #enem #medicina #unb"
+ },
+ {
+  "id": 19,
+  "start": 937.03,
+  "end": 970.99,
+  "kills": [],
+  "layout": "crop",
+  "score": 70,
+  "title": "Eu não segui|nenhum cursinho à risca",
+  "subtitle": "(peguei o melhor de cada um)",
+  "why": "corte por pergunta",
+  "caption": "Aprova Total, Poliedro, Ferreto, Olimpo, Academia das Específicas: usei o melhor de cada um 🎯\n\n#vestibular #enem #medicina #unb"
+ },
+ {
+  "id": 20,
+  "start": 1087.85,
+  "end": 1144.59,
+  "kills": [],
+  "layout": "crop",
+  "score": 70,
+  "title": "A prova da UnB|ficou mais fácil",
+  "subtitle": "(e o que isso faz com a nota de corte)",
+  "why": "corte por pergunta",
+  "caption": "Prova mais fácil, menos itens, mesmo tempo: o corte tende a subir 📈\n\n#vestibular #enem #medicina #unb"
+ },
+ {
+  "id": 21,
+  "start": 1199.13,
+  "end": 1240.99,
+  "kills": [],
+  "layout": "crop",
+  "score": 70,
+  "title": "A pior parte de entrar|em Medicina na UnB",
+  "subtitle": "(ninguém te conta isso)",
+  "why": "corte por pergunta",
+  "caption": "Até 3h por dia no trânsito. Tive que reorganizar a vida inteira 🚗\n\n#vestibular #enem #medicina #unb"
+ },
+ {
+  "id": 22,
+  "start": 1355.63,
+  "end": 1383.95,
+  "kills": [],
+  "layout": "crop",
+  "score": 70,
+  "title": "O país que eu|mais quero conhecer",
+  "subtitle": "(e não é nos EUA nem na Europa)",
+  "why": "corte por pergunta",
+  "caption": "Literatura, música... os russos são absurdos no que fazem 🇷🇺\n\n#vestibular #enem #medicina #unb"
+ },
+ {
+  "id": 23,
+  "start": 1605.1,
+  "end": 1641.12,
+  "kills": [],
+  "layout": "crop",
+  "score": 70,
+  "title": "Como eu conheci|minha namorada na faculdade",
+  "subtitle": "(a gente faz Medicina juntos)",
+  "why": "corte por pergunta",
+  "caption": "Conheci a Flora no primeiro semestre ❤️\n\n#vestibular #enem #medicina #unb"
+ },
+ {
+  "id": 24,
+  "start": 2048.36,
+  "end": 2080.58,
+  "kills": [],
+  "layout": "crop",
+  "score": 70,
+  "title": "Meu método de estudo|em 6 passos",
+  "subtitle": "(fiz isso e passei em 1º lugar em Medicina 2x)",
+  "why": "corte por pergunta",
+  "caption": "Aula, leitura, verbalização, questões, flashcards e prova antiga. Salva esse 📌\n\n#vestibular #enem #medicina #unb"
+ },
+ {
+  "id": 25,
+  "start": 2151.24,
+  "end": 2172.64,
+  "kills": [],
+  "layout": "crop",
+  "score": 70,
+  "title": "Use flashcards|pra nunca mais esquecer a matéria",
+  "subtitle": "(fiz isso e passei em 1º lugar em Medicina 2x)",
+  "why": "corte por pergunta",
+  "caption": "Fórmula ou conceito que você vai esquecer? Vira flashcard no Anki 🧠\n\n#vestibular #enem #medicina #unb"
+ }
+]

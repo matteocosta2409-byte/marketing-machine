@@ -1,0 +1,93 @@
+{
+  "version": 1,
+  "sources": {
+    "src": "/Users/mac-matteo/marketing machine/solo_9945/src.mov"
+  },
+  "ranges": [
+    {
+      "source": "src",
+      "start": 0.72,
+      "end": 4.54
+    },
+    {
+      "source": "src",
+      "start": 5.0,
+      "end": 9.2
+    },
+    {
+      "source": "src",
+      "start": 9.54,
+      "end": 10.14
+    },
+    {
+      "source": "src",
+      "start": 10.64,
+      "end": 12.18
+    },
+    {
+      "source": "src",
+      "start": 12.88,
+      "end": 14.08
+    },
+    {
+      "source": "src",
+      "start": 14.58,
+      "end": 18.46
+    },
+    {
+      "source": "src",
+      "start": 18.7,
+      "end": 21.18
+    },
+    {
+      "source": "src",
+      "start": 21.8,
+      "end": 26.14
+    },
+    {
+      "source": "src",
+      "start": 26.46,
+      "end": 29.46
+    },
+    {
+      "source": "src",
+      "start": 29.98,
+      "end": 33.52
+    },
+    {
+      "source": "src",
+      "start": 33.82,
+      "end": 40.24
+    },
+    {
+      "source": "src",
+      "start": 40.54,
+      "end": 43.56
+    },
+    {
+      "source": "src",
+      "start": 43.9,
+      "end": 45.76
+    },
+    {
+      "source": "src",
+      "start": 46.14,
+      "end": 50.32
+    },
+    {
+      "source": "src",
+      "start": 50.8,
+      "end": 55.34
+    },
+    {
+      "source": "src",
+      "start": 56.36,
+      "end": 57.8
+    }
+  ],
+  "grade": "none",
+  "overlays": [],
+  "subtitle_case": "natural",
+  "subtitle_style": "FontName=Helvetica,FontSize=10,Bold=0,Italic=1,PrimaryColour=&H00FFFFFF,OutlineColour=&HC8000000,BorderStyle=1,Outline=1,Shadow=1,Alignment=2,MarginV=45",
+  "total_duration_s": 50.06
+}

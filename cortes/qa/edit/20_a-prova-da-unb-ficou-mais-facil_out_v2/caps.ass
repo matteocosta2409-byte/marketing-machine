@@ -1,0 +1,125 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Helvetica,67,&H00FFFFFF,&H00FFFFFF,&HC8000000,&HC8000000,0,1,0,0,100,100,0,0,1,6.7,6.7,2,60,60,540,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.04,0:00:00.46,Cap,,0,0,0,,Vestibular da
+Dialogue: 0,0:00:00.46,0:00:00.86,Cap,,0,0,0,,UnB eu
+Dialogue: 0,0:00:00.86,0:00:01.00,Cap,,0,0,0,,tenho uma
+Dialogue: 0,0:00:01.00,0:00:01.58,Cap,,0,0,0,,opinião um
+Dialogue: 0,0:00:01.58,0:00:02.24,Cap,,0,0,0,,pouco diferente,
+Dialogue: 0,0:00:02.24,0:00:02.58,Cap,,0,0,0,,por quê?
+Dialogue: 0,0:00:02.58,0:00:02.88,Cap,,0,0,0,,A prova
+Dialogue: 0,0:00:02.88,0:00:03.22,Cap,,0,0,0,,do vestibular
+Dialogue: 0,0:00:03.22,0:00:03.79,Cap,,0,0,0,,da UnB
+Dialogue: 0,0:00:03.79,0:00:04.33,Cap,,0,0,0,,desse ano
+Dialogue: 0,0:00:04.33,0:00:05.17,Cap,,0,0,0,,foi muito
+Dialogue: 0,0:00:05.17,0:00:05.72,Cap,,0,0,0,,mais fácil.
+Dialogue: 0,0:00:05.72,0:00:06.16,Cap,,0,0,0,,Querendo ou
+Dialogue: 0,0:00:06.16,0:00:06.36,Cap,,0,0,0,,não,
+Dialogue: 0,0:00:06.36,0:00:06.66,Cap,,0,0,0,,eu acho
+Dialogue: 0,0:00:06.66,0:00:07.00,Cap,,0,0,0,,que essa
+Dialogue: 0,0:00:07.00,0:00:07.18,Cap,,0,0,0,,é uma
+Dialogue: 0,0:00:07.18,0:00:07.80,Cap,,0,0,0,,grande verdade.
+Dialogue: 0,0:00:07.80,0:00:08.22,Cap,,0,0,0,,Quem fez
+Dialogue: 0,0:00:08.22,0:00:08.68,Cap,,0,0,0,,a prova,
+Dialogue: 0,0:00:08.68,0:00:09.08,Cap,,0,0,0,,quem fez
+Dialogue: 0,0:00:09.08,0:00:09.50,Cap,,0,0,0,,prova antiga
+Dialogue: 0,0:00:09.50,0:00:09.72,Cap,,0,0,0,,no ano
+Dialogue: 0,0:00:09.72,0:00:10.13,Cap,,0,0,0,,passado,
+Dialogue: 0,0:00:10.13,0:00:10.83,Cap,,0,0,0,,sentiu isso,
+Dialogue: 0,0:00:10.83,0:00:11.15,Cap,,0,0,0,,foi uma
+Dialogue: 0,0:00:11.15,0:00:12.17,Cap,,0,0,0,,prova tranquila.
+Dialogue: 0,0:00:12.17,0:00:12.65,Cap,,0,0,0,,Sendo sincero
+Dialogue: 0,0:00:12.65,0:00:13.01,Cap,,0,0,0,,com vocês,
+Dialogue: 0,0:00:13.01,0:00:13.29,Cap,,0,0,0,,não foi
+Dialogue: 0,0:00:13.29,0:00:13.71,Cap,,0,0,0,,uma prova
+Dialogue: 0,0:00:13.71,0:00:14.49,Cap,,0,0,0,,complicada,
+Dialogue: 0,0:00:14.49,0:00:14.97,Cap,,0,0,0,,não tinham
+Dialogue: 0,0:00:14.97,0:00:15.87,Cap,,0,0,0,,questões muito
+Dialogue: 0,0:00:15.87,0:00:16.27,Cap,,0,0,0,,fora da
+Dialogue: 0,0:00:16.27,0:00:16.61,Cap,,0,0,0,,média,
+Dialogue: 0,0:00:16.61,0:00:17.25,Cap,,0,0,0,,eram questões
+Dialogue: 0,0:00:17.25,0:00:18.15,Cap,,0,0,0,,muito tranquilas,
+Dialogue: 0,0:00:18.15,0:00:18.69,Cap,,0,0,0,,fora o
+Dialogue: 0,0:00:18.69,0:00:19.09,Cap,,0,0,0,,fato de
+Dialogue: 0,0:00:19.09,0:00:19.33,Cap,,0,0,0,,que o
+Dialogue: 0,0:00:19.33,0:00:19.75,Cap,,0,0,0,,número de
+Dialogue: 0,0:00:19.75,0:00:20.66,Cap,,0,0,0,,questões diminuiu.
+Dialogue: 0,0:00:20.66,0:00:20.92,Cap,,0,0,0,,Então eu
+Dialogue: 0,0:00:20.92,0:00:21.20,Cap,,0,0,0,,tenho uma
+Dialogue: 0,0:00:21.20,0:00:21.84,Cap,,0,0,0,,prova muito
+Dialogue: 0,0:00:21.84,0:00:22.44,Cap,,0,0,0,,mais fácil,
+Dialogue: 0,0:00:22.44,0:00:23.04,Cap,,0,0,0,,com menos
+Dialogue: 0,0:00:23.04,0:00:23.62,Cap,,0,0,0,,questões,
+Dialogue: 0,0:00:23.62,0:00:24.38,Cap,,0,0,0,,no mesmo
+Dialogue: 0,0:00:24.38,0:00:25.06,Cap,,0,0,0,,tempo Então
+Dialogue: 0,0:00:25.06,0:00:25.38,Cap,,0,0,0,,não tem
+Dialogue: 0,0:00:25.38,0:00:25.80,Cap,,0,0,0,,como pensar
+Dialogue: 0,0:00:25.80,0:00:26.34,Cap,,0,0,0,,outra coisa,
+Dialogue: 0,0:00:26.34,0:00:26.82,Cap,,0,0,0,,além de
+Dialogue: 0,0:00:26.82,0:00:27.10,Cap,,0,0,0,,que a
+Dialogue: 0,0:00:27.10,0:00:27.44,Cap,,0,0,0,,nota de
+Dialogue: 0,0:00:27.44,0:00:28.10,Cap,,0,0,0,,corte talvez
+Dialogue: 0,0:00:28.10,0:00:28.62,Cap,,0,0,0,,suba.
+Dialogue: 0,0:00:28.62,0:00:29.04,Cap,,0,0,0,,O número
+Dialogue: 0,0:00:29.04,0:00:29.66,Cap,,0,0,0,,de acertos
+Dialogue: 0,0:00:29.66,0:00:30.02,Cap,,0,0,0,,que você
+Dialogue: 0,0:00:30.02,0:00:30.34,Cap,,0,0,0,,tinha que
+Dialogue: 0,0:00:30.34,0:00:31.05,Cap,,0,0,0,,fazer talvez
+Dialogue: 0,0:00:31.05,0:00:31.51,Cap,,0,0,0,,aumente,
+Dialogue: 0,0:00:31.51,0:00:31.85,Cap,,0,0,0,,não em
+Dialogue: 0,0:00:31.85,0:00:32.53,Cap,,0,0,0,,relação ao
+Dialogue: 0,0:00:32.53,0:00:33.03,Cap,,0,0,0,,ano passado,
+Dialogue: 0,0:00:33.03,0:00:33.25,Cap,,0,0,0,,porque ano
+Dialogue: 0,0:00:33.25,0:00:33.75,Cap,,0,0,0,,passado tinha
+Dialogue: 0,0:00:33.75,0:00:34.05,Cap,,0,0,0,,cento e
+Dialogue: 0,0:00:34.05,0:00:34.83,Cap,,0,0,0,,cinquenta itens,
+Dialogue: 0,0:00:34.83,0:00:35.05,Cap,,0,0,0,,mas em
+Dialogue: 0,0:00:35.05,0:00:35.73,Cap,,0,0,0,,relação a
+Dialogue: 0,0:00:35.73,0:00:36.09,Cap,,0,0,0,,um nível
+Dialogue: 0,0:00:36.09,0:00:36.49,Cap,,0,0,0,,de prova
+Dialogue: 0,0:00:36.49,0:00:36.99,Cap,,0,0,0,,difícil.
+Dialogue: 0,0:00:36.99,0:00:37.29,Cap,,0,0,0,,Então,
+Dialogue: 0,0:00:37.29,0:00:37.59,Cap,,0,0,0,,se numa
+Dialogue: 0,0:00:37.59,0:00:38.09,Cap,,0,0,0,,prova difícil
+Dialogue: 0,0:00:38.09,0:00:38.31,Cap,,0,0,0,,eu tinha
+Dialogue: 0,0:00:38.31,0:00:38.75,Cap,,0,0,0,,que fazer
+Dialogue: 0,0:00:38.75,0:00:39.73,Cap,,0,0,0,,X acertos,
+Dialogue: 0,0:00:39.73,0:00:40.25,Cap,,0,0,0,,nessa prova
+Dialogue: 0,0:00:40.25,0:00:40.83,Cap,,0,0,0,,mais fácil,
+Dialogue: 0,0:00:40.83,0:00:40.99,Cap,,0,0,0,,eu vou
+Dialogue: 0,0:00:40.99,0:00:41.13,Cap,,0,0,0,,ter que
+Dialogue: 0,0:00:41.13,0:00:41.75,Cap,,0,0,0,,fazer mais
+Dialogue: 0,0:00:41.75,0:00:42.19,Cap,,0,0,0,,acertos,
+Dialogue: 0,0:00:42.19,0:00:42.35,Cap,,0,0,0,,isso que
+Dialogue: 0,0:00:42.35,0:00:42.65,Cap,,0,0,0,,eu quero
+Dialogue: 0,0:00:42.65,0:00:42.91,Cap,,0,0,0,,dizer.
+Dialogue: 0,0:00:42.91,0:00:43.27,Cap,,0,0,0,,Então ela
+Dialogue: 0,0:00:43.27,0:00:43.47,Cap,,0,0,0,,não vai
+Dialogue: 0,0:00:43.47,0:00:43.81,Cap,,0,0,0,,aumentar em
+Dialogue: 0,0:00:43.81,0:00:44.09,Cap,,0,0,0,,relação ao
+Dialogue: 0,0:00:44.09,0:00:44.55,Cap,,0,0,0,,ano passado,
+Dialogue: 0,0:00:44.55,0:00:44.75,Cap,,0,0,0,,porque ano
+Dialogue: 0,0:00:44.75,0:00:45.19,Cap,,0,0,0,,passado tinha
+Dialogue: 0,0:00:45.19,0:00:46.03,Cap,,0,0,0,,mais itens.
+Dialogue: 0,0:00:46.03,0:00:46.27,Cap,,0,0,0,,E essa
+Dialogue: 0,0:00:46.27,0:00:47.13,Cap,,0,0,0,,comparação não
+Dialogue: 0,0:00:47.13,0:00:47.29,Cap,,0,0,0,,é,
+Dialogue: 0,0:00:47.29,0:00:47.69,Cap,,0,0,0,,não faz
+Dialogue: 0,0:00:47.69,0:00:48.12,Cap,,0,0,0,,sentido.
+Dialogue: 0,0:00:48.12,0:00:48.42,Cap,,0,0,0,,Mas eu
+Dialogue: 0,0:00:48.42,0:00:48.94,Cap,,0,0,0,,acho sim
+Dialogue: 0,0:00:48.94,0:00:49.16,Cap,,0,0,0,,que essa
+Dialogue: 0,0:00:49.16,0:00:49.52,Cap,,0,0,0,,prova foi
+Dialogue: 0,0:00:49.52,0:00:49.96,Cap,,0,0,0,,fácil e
+Dialogue: 0,0:00:49.96,0:00:50.12,Cap,,0,0,0,,que o
+Dialogue: 0,0:00:50.12,0:00:50.46,Cap,,0,0,0,,corte vai
+Dialogue: 0,0:00:50.46,0:00:51.43,Cap,,0,0,0,,vim alto.

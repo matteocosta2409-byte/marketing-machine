@@ -1,0 +1,53 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Helvetica,67,&H00FFFFFF,&H00FFFFFF,&HC8000000,&HC8000000,0,1,0,0,100,100,0,0,1,6.7,6.7,2,60,60,540,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.04,0:00:00.24,Cap,,0,0,0,,E a
+Dialogue: 0,0:00:00.24,0:00:00.82,Cap,,0,0,0,,última meia
+Dialogue: 0,0:00:00.82,0:00:01.14,Cap,,0,0,0,,hora de
+Dialogue: 0,0:00:01.14,0:00:01.62,Cap,,0,0,0,,prova,
+Dialogue: 0,0:00:01.62,0:00:01.82,Cap,,0,0,0,,eu ia
+Dialogue: 0,0:00:01.82,0:00:02.50,Cap,,0,0,0,,pro gabarito.
+Dialogue: 0,0:00:02.50,0:00:03.28,Cap,,0,0,0,,Quinze minutos
+Dialogue: 0,0:00:03.28,0:00:03.90,Cap,,0,0,0,,com muita
+Dialogue: 0,0:00:03.90,0:00:04.25,Cap,,0,0,0,,calma.
+Dialogue: 0,0:00:04.25,0:00:04.49,Cap,,0,0,0,,Eu não
+Dialogue: 0,0:00:04.49,0:00:05.13,Cap,,0,0,0,,marcava tudo
+Dialogue: 0,0:00:05.13,0:00:05.37,Cap,,0,0,0,,de uma
+Dialogue: 0,0:00:05.37,0:00:05.61,Cap,,0,0,0,,vez,
+Dialogue: 0,0:00:05.61,0:00:06.47,Cap,,0,0,0,,tipo A,
+Dialogue: 0,0:00:06.47,0:00:06.93,Cap,,0,0,0,,B,
+Dialogue: 0,0:00:06.93,0:00:07.17,Cap,,0,0,0,,C,
+Dialogue: 0,0:00:07.17,0:00:07.87,Cap,,0,0,0,,em sequência,
+Dialogue: 0,0:00:07.87,0:00:08.15,Cap,,0,0,0,,porque é
+Dialogue: 0,0:00:08.15,0:00:08.67,Cap,,0,0,0,,assim que
+Dialogue: 0,0:00:08.67,0:00:09.15,Cap,,0,0,0,,eu errava
+Dialogue: 0,0:00:09.15,0:00:09.79,Cap,,0,0,0,,uma linha
+Dialogue: 0,0:00:09.79,0:00:10.23,Cap,,0,0,0,,e acabava
+Dialogue: 0,0:00:10.23,0:00:10.83,Cap,,0,0,0,,marcando errado
+Dialogue: 0,0:00:10.83,0:00:11.37,Cap,,0,0,0,,no gabarito.
+Dialogue: 0,0:00:11.37,0:00:11.99,Cap,,0,0,0,,Eu falava
+Dialogue: 0,0:00:11.99,0:00:12.91,Cap,,0,0,0,,mentalmente o
+Dialogue: 0,0:00:12.91,0:00:13.31,Cap,,0,0,0,,número da
+Dialogue: 0,0:00:13.31,0:00:13.86,Cap,,0,0,0,,questão e
+Dialogue: 0,0:00:13.86,0:00:14.36,Cap,,0,0,0,,a letra.
+Dialogue: 0,0:00:14.36,0:00:14.96,Cap,,0,0,0,,Por exemplo,
+Dialogue: 0,0:00:14.96,0:00:15.34,Cap,,0,0,0,,um,
+Dialogue: 0,0:00:15.34,0:00:15.98,Cap,,0,0,0,,letra A.
+Dialogue: 0,0:00:15.98,0:00:16.50,Cap,,0,0,0,,Dois,
+Dialogue: 0,0:00:16.50,0:00:17.24,Cap,,0,0,0,,letra C.
+Dialogue: 0,0:00:17.24,0:00:17.81,Cap,,0,0,0,,E marcava.
+Dialogue: 0,0:00:17.81,0:00:18.25,Cap,,0,0,0,,Uma por
+Dialogue: 0,0:00:18.25,0:00:19.03,Cap,,0,0,0,,uma devagar
+Dialogue: 0,0:00:19.03,0:00:19.33,Cap,,0,0,0,,pra não
+Dialogue: 0,0:00:19.33,0:00:19.57,Cap,,0,0,0,,errar no
+Dialogue: 0,0:00:19.57,0:00:19.96,Cap,,0,0,0,,gabarito.
+Dialogue: 0,0:00:19.96,0:00:20.40,Cap,,0,0,0,,E

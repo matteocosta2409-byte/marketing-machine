@@ -1,0 +1,169 @@
+{
+  "version": 1,
+  "sources": {
+    "main": "/Users/mac-matteo/marketing machine/solo9/main.mov",
+    "cta": "/Users/mac-matteo/marketing machine/solo9/cta.mov"
+  },
+  "ranges": [
+    {
+      "source": "main",
+      "start": 14.993,
+      "end": 19.198
+    },
+    {
+      "source": "main",
+      "start": 24.394,
+      "end": 28.812
+    },
+    {
+      "source": "main",
+      "start": 41.39,
+      "end": 45.071
+    },
+    {
+      "source": "main",
+      "start": 50.245,
+      "end": 54.973
+    },
+    {
+      "source": "main",
+      "start": 69.684,
+      "end": 75.95
+    },
+    {
+      "source": "main",
+      "start": 86.319,
+      "end": 89.874
+    },
+    {
+      "source": "main",
+      "start": 96.95,
+      "end": 100.226
+    },
+    {
+      "source": "main",
+      "start": 104.75,
+      "end": 107.796
+    },
+    {
+      "source": "main",
+      "start": 117.078,
+      "end": 121.02
+    },
+    {
+      "source": "main",
+      "start": 121.59,
+      "end": 121.905
+    },
+    {
+      "source": "main",
+      "start": 130.209,
+      "end": 131.405
+    },
+    {
+      "source": "main",
+      "start": 132.297,
+      "end": 133.781
+    },
+    {
+      "source": "main",
+      "start": 138.77,
+      "end": 140.35
+    },
+    {
+      "source": "main",
+      "start": 156.374,
+      "end": 161.771
+    },
+    {
+      "source": "main",
+      "start": 178.975,
+      "end": 182.905
+    },
+    {
+      "source": "main",
+      "start": 192.003,
+      "end": 194.03
+    },
+    {
+      "source": "main",
+      "start": 203.401,
+      "end": 207.035
+    },
+    {
+      "source": "main",
+      "start": 219.17,
+      "end": 223.489
+    },
+    {
+      "source": "main",
+      "start": 238.99,
+      "end": 245.645
+    },
+    {
+      "source": "main",
+      "start": 270.225,
+      "end": 274.904
+    },
+    {
+      "source": "main",
+      "start": 281.591,
+      "end": 283.99
+    },
+    {
+      "source": "main",
+      "start": 306.13,
+      "end": 309.13
+    },
+    {
+      "source": "main",
+      "start": 320.32,
+      "end": 324.09
+    },
+    {
+      "source": "main",
+      "start": 331.725,
+      "end": 336.585
+    },
+    {
+      "source": "main",
+      "start": 421.57,
+      "end": 425.58
+    },
+    {
+      "source": "main",
+      "start": 432.53,
+      "end": 435.925
+    },
+    {
+      "source": "main",
+      "start": 440.21,
+      "end": 442.501
+    },
+    {
+      "source": "cta",
+      "start": 1.07,
+      "end": 4.101
+    },
+    {
+      "source": "cta",
+      "start": 4.475,
+      "end": 6.658
+    },
+    {
+      "source": "cta",
+      "start": 10.598,
+      "end": 13.75
+    },
+    {
+      "source": "cta",
+      "start": 13.981,
+      "end": 15.363
+    }
+  ],
+  "grade": "none",
+  "overlays": [],
+  "subtitle_case": "natural",
+  "subtitle_style": "FontName=Helvetica,FontSize=13,Bold=0,PrimaryColour=&H00FFFFFF,OutlineColour=&HB0000000,BorderStyle=1,Outline=1,Shadow=0,Alignment=2,MarginV=60",
+  "total_duration_s": 105.806
+}

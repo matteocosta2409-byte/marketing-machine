@@ -1,0 +1,77 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Helvetica,67,&H00FFFFFF,&H00FFFFFF,&HC8000000,&HC8000000,0,1,0,0,100,100,0,0,1,6.7,6.7,2,60,60,300,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.04,0:00:00.46,Cap,,0,0,0,,A galera
+Dialogue: 0,0:00:00.46,0:00:01.04,Cap,,0,0,0,,gosta de
+Dialogue: 0,0:00:01.04,0:00:01.54,Cap,,0,0,0,,saber de
+Dialogue: 0,0:00:01.54,0:00:02.50,Cap,,0,0,0,,relacionamento,
+Dialogue: 0,0:00:02.50,0:00:03.12,Cap,,0,0,0,,da Flora.
+Dialogue: 0,0:00:03.12,0:00:03.44,Cap,,0,0,0,,Eu conheci
+Dialogue: 0,0:00:03.44,0:00:03.74,Cap,,0,0,0,,a Flora
+Dialogue: 0,0:00:03.74,0:00:04.38,Cap,,0,0,0,,na faculdade,
+Dialogue: 0,0:00:04.38,0:00:04.82,Cap,,0,0,0,,pessoal.
+Dialogue: 0,0:00:04.82,0:00:05.34,Cap,,0,0,0,,Então assim,
+Dialogue: 0,0:00:05.34,0:00:05.66,Cap,,0,0,0,,eu entrei
+Dialogue: 0,0:00:05.66,0:00:06.46,Cap,,0,0,0,,na faculdade,
+Dialogue: 0,0:00:06.46,0:00:07.24,Cap,,0,0,0,,tava ali
+Dialogue: 0,0:00:07.24,0:00:07.76,Cap,,0,0,0,,meio curtindo
+Dialogue: 0,0:00:07.76,0:00:08.36,Cap,,0,0,0,,a faculdade,
+Dialogue: 0,0:00:08.36,0:00:08.68,Cap,,0,0,0,,ali aquele
+Dialogue: 0,0:00:08.68,0:00:09.35,Cap,,0,0,0,,primeiro semestre,
+Dialogue: 0,0:00:09.35,0:00:09.85,Cap,,0,0,0,,me deparei
+Dialogue: 0,0:00:09.85,0:00:10.19,Cap,,0,0,0,,com essa
+Dialogue: 0,0:00:10.19,0:00:10.83,Cap,,0,0,0,,linda mulher,
+Dialogue: 0,0:00:10.83,0:00:11.83,Cap,,0,0,0,,inteligentíssima,
+Dialogue: 0,0:00:11.83,0:00:12.65,Cap,,0,0,0,,esperta e
+Dialogue: 0,0:00:12.65,0:00:12.81,Cap,,0,0,0,,que eu
+Dialogue: 0,0:00:12.81,0:00:13.27,Cap,,0,0,0,,me interessei
+Dialogue: 0,0:00:13.27,0:00:13.69,Cap,,0,0,0,,bastante,
+Dialogue: 0,0:00:13.69,0:00:13.83,Cap,,0,0,0,,que eu
+Dialogue: 0,0:00:13.83,0:00:14.01,Cap,,0,0,0,,falei:
+Dialogue: 0,0:00:14.01,0:00:14.32,Cap,,0,0,0,,"Cara,
+Dialogue: 0,0:00:14.32,0:00:14.56,Cap,,0,0,0,,vamo ver
+Dialogue: 0,0:00:14.56,0:00:14.96,Cap,,0,0,0,,isso aqui,
+Dialogue: 0,0:00:14.96,0:00:15.15,Cap,,0,0,0,,né?".
+Dialogue: 0,0:00:15.15,0:00:15.47,Cap,,0,0,0,,E cara,
+Dialogue: 0,0:00:15.47,0:00:16.01,Cap,,0,0,0,,me apaixonei
+Dialogue: 0,0:00:16.01,0:00:16.61,Cap,,0,0,0,,100%,
+Dialogue: 0,0:00:16.61,0:00:16.85,Cap,,0,0,0,,é uma
+Dialogue: 0,0:00:16.85,0:00:17.55,Cap,,0,0,0,,pessoa que
+Dialogue: 0,0:00:17.55,0:00:18.03,Cap,,0,0,0,,eu admiro
+Dialogue: 0,0:00:18.03,0:00:18.49,Cap,,0,0,0,,bastante,
+Dialogue: 0,0:00:18.49,0:00:19.30,Cap,,0,0,0,,superinteligente.
+Dialogue: 0,0:00:19.30,0:00:20.42,Cap,,0,0,0,,E enfim,
+Dialogue: 0,0:00:20.42,0:00:20.76,Cap,,0,0,0,,conheci ela
+Dialogue: 0,0:00:20.76,0:00:21.34,Cap,,0,0,0,,na faculdade,
+Dialogue: 0,0:00:21.34,0:00:21.50,Cap,,0,0,0,,a gente
+Dialogue: 0,0:00:21.50,0:00:21.92,Cap,,0,0,0,,se conheceu
+Dialogue: 0,0:00:21.92,0:00:22.18,Cap,,0,0,0,,ali,
+Dialogue: 0,0:00:22.18,0:00:22.64,Cap,,0,0,0,,deu...
+Dialogue: 0,0:00:22.64,0:00:22.94,Cap,,0,0,0,,fala isso
+Dialogue: 0,0:00:22.94,0:00:23.12,Cap,,0,0,0,,não,
+Dialogue: 0,0:00:23.12,0:00:23.40,Cap,,0,0,0,,né?
+Dialogue: 0,0:00:23.40,0:00:23.70,Cap,,0,0,0,,Enfim,
+Dialogue: 0,0:00:23.70,0:00:23.90,Cap,,0,0,0,,a gente
+Dialogue: 0,0:00:23.90,0:00:24.42,Cap,,0,0,0,,se conheceu
+Dialogue: 0,0:00:24.42,0:00:25.08,Cap,,0,0,0,,numa festa
+Dialogue: 0,0:00:25.08,0:00:25.36,Cap,,0,0,0,,ali,
+Dialogue: 0,0:00:25.36,0:00:25.92,Cap,,0,0,0,,foi extremamente
+Dialogue: 0,0:00:25.92,0:00:26.46,Cap,,0,0,0,,prazeroso e
+Dialogue: 0,0:00:26.46,0:00:26.70,Cap,,0,0,0,,eu tô
+Dialogue: 0,0:00:26.70,0:00:27.00,Cap,,0,0,0,,com ela
+Dialogue: 0,0:00:27.00,0:00:27.26,Cap,,0,0,0,,hoje e
+Dialogue: 0,0:00:27.26,0:00:27.50,Cap,,0,0,0,,eu não
+Dialogue: 0,0:00:27.50,0:00:27.76,Cap,,0,0,0,,tenho a
+Dialogue: 0,0:00:27.76,0:00:28.00,Cap,,0,0,0,,nada a
+Dialogue: 0,0:00:28.00,0:00:28.41,Cap,,0,0,0,,reclamar.
+Dialogue: 0,0:00:28.41,0:00:29.23,Cap,,0,0,0,,Que fofo.
+Dialogue: 0,0:00:29.23,0:00:29.75,Cap,,0,0,0,,Cê tem

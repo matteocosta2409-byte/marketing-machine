@@ -1,0 +1,83 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Helvetica,67,&H00FFFFFF,&H00FFFFFF,&HC8000000,&HC8000000,0,1,0,0,100,100,0,0,1,6.7,6.7,2,60,60,300,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.04,0:00:00.62,Cap,,0,0,0,,Na primeira
+Dialogue: 0,0:00:00.62,0:00:01.04,Cap,,0,0,0,,hora de
+Dialogue: 0,0:00:01.04,0:00:01.44,Cap,,0,0,0,,prova,
+Dialogue: 0,0:00:01.44,0:00:01.88,Cap,,0,0,0,,eu fazia
+Dialogue: 0,0:00:01.88,0:00:02.50,Cap,,0,0,0,,natureza.
+Dialogue: 0,0:00:02.50,0:00:02.74,Cap,,0,0,0,,Só as
+Dialogue: 0,0:00:02.74,0:00:03.32,Cap,,0,0,0,,questões mais
+Dialogue: 0,0:00:03.32,0:00:03.82,Cap,,0,0,0,,teóricas e
+Dialogue: 0,0:00:03.82,0:00:04.58,Cap,,0,0,0,,conceituais,
+Dialogue: 0,0:00:04.58,0:00:05.08,Cap,,0,0,0,,aquelas que
+Dialogue: 0,0:00:05.08,0:00:05.48,Cap,,0,0,0,,ou você
+Dialogue: 0,0:00:05.48,0:00:06.14,Cap,,0,0,0,,sabe ou
+Dialogue: 0,0:00:06.14,0:00:06.56,Cap,,0,0,0,,você não
+Dialogue: 0,0:00:06.56,0:00:06.90,Cap,,0,0,0,,sabe.
+Dialogue: 0,0:00:06.90,0:00:07.56,Cap,,0,0,0,,Biologia é
+Dialogue: 0,0:00:07.56,0:00:08.26,Cap,,0,0,0,,quase inteira
+Dialogue: 0,0:00:08.26,0:00:08.54,Cap,,0,0,0,,assim,
+Dialogue: 0,0:00:08.54,0:00:09.42,Cap,,0,0,0,,Química conceitual
+Dialogue: 0,0:00:09.42,0:00:10.24,Cap,,0,0,0,,algumas coisas
+Dialogue: 0,0:00:10.24,0:00:10.88,Cap,,0,0,0,,e Física
+Dialogue: 0,0:00:10.88,0:00:11.12,Cap,,0,0,0,,só se
+Dialogue: 0,0:00:11.12,0:00:11.44,Cap,,0,0,0,,for alguma
+Dialogue: 0,0:00:11.44,0:00:11.86,Cap,,0,0,0,,coisa mais
+Dialogue: 0,0:00:11.86,0:00:12.26,Cap,,0,0,0,,rápida,
+Dialogue: 0,0:00:12.26,0:00:12.64,Cap,,0,0,0,,eu fazia
+Dialogue: 0,0:00:12.64,0:00:13.10,Cap,,0,0,0,,nesse primeiro
+Dialogue: 0,0:00:13.10,0:00:13.54,Cap,,0,0,0,,momento de
+Dialogue: 0,0:00:13.54,0:00:14.04,Cap,,0,0,0,,prova.
+Dialogue: 0,0:00:14.04,0:00:14.54,Cap,,0,0,0,,Toda questão
+Dialogue: 0,0:00:14.54,0:00:14.68,Cap,,0,0,0,,que eu
+Dialogue: 0,0:00:14.68,0:00:15.74,Cap,,0,0,0,,achava difícil
+Dialogue: 0,0:00:15.74,0:00:16.28,Cap,,0,0,0,,ou tinha
+Dialogue: 0,0:00:16.28,0:00:16.82,Cap,,0,0,0,,conta grande
+Dialogue: 0,0:00:16.82,0:00:17.38,Cap,,0,0,0,,pra fazer,
+Dialogue: 0,0:00:17.38,0:00:17.78,Cap,,0,0,0,,eu pulava
+Dialogue: 0,0:00:17.78,0:00:18.16,Cap,,0,0,0,,e deixava
+Dialogue: 0,0:00:18.16,0:00:18.66,Cap,,0,0,0,,pro final.
+Dialogue: 0,0:00:18.66,0:00:19.16,Cap,,0,0,0,,A ideia
+Dialogue: 0,0:00:19.16,0:00:19.56,Cap,,0,0,0,,é ganhar
+Dialogue: 0,0:00:19.56,0:00:20.38,Cap,,0,0,0,,volume de
+Dialogue: 0,0:00:20.38,0:00:21.10,Cap,,0,0,0,,questões feitas
+Dialogue: 0,0:00:21.10,0:00:21.66,Cap,,0,0,0,,num tempo
+Dialogue: 0,0:00:21.66,0:00:22.26,Cap,,0,0,0,,curto logo
+Dialogue: 0,0:00:22.26,0:00:22.82,Cap,,0,0,0,,no começo.
+Dialogue: 0,0:00:22.82,0:00:23.10,Cap,,0,0,0,,Em uma
+Dialogue: 0,0:00:23.10,0:00:23.40,Cap,,0,0,0,,hora de
+Dialogue: 0,0:00:23.40,0:00:23.76,Cap,,0,0,0,,prova,
+Dialogue: 0,0:00:23.76,0:00:24.10,Cap,,0,0,0,,dava pra
+Dialogue: 0,0:00:24.10,0:00:25.22,Cap,,0,0,0,,fazer aproximadamente
+Dialogue: 0,0:00:25.22,0:00:25.80,Cap,,0,0,0,,trinta questões
+Dialogue: 0,0:00:25.80,0:00:26.54,Cap,,0,0,0,,de natureza.
+Dialogue: 0,0:00:26.54,0:00:26.88,Cap,,0,0,0,,E isso
+Dialogue: 0,0:00:26.88,0:00:27.46,Cap,,0,0,0,,muda cem
+Dialogue: 0,0:00:27.46,0:00:28.20,Cap,,0,0,0,,por cento
+Dialogue: 0,0:00:28.20,0:00:28.76,Cap,,0,0,0,,a cabeça
+Dialogue: 0,0:00:28.76,0:00:29.02,Cap,,0,0,0,,na hora
+Dialogue: 0,0:00:29.02,0:00:29.70,Cap,,0,0,0,,da prova.
+Dialogue: 0,0:00:29.70,0:00:30.20,Cap,,0,0,0,,Depois de
+Dialogue: 0,0:00:30.20,0:00:30.52,Cap,,0,0,0,,uma hora
+Dialogue: 0,0:00:30.52,0:00:31.02,Cap,,0,0,0,,de prova,
+Dialogue: 0,0:00:31.02,0:00:31.38,Cap,,0,0,0,,que você
+Dialogue: 0,0:00:31.38,0:00:31.70,Cap,,0,0,0,,já tem
+Dialogue: 0,0:00:31.70,0:00:31.98,Cap,,0,0,0,,mais ou
+Dialogue: 0,0:00:31.98,0:00:32.44,Cap,,0,0,0,,menos um
+Dialogue: 0,0:00:32.44,0:00:32.84,Cap,,0,0,0,,terço da
+Dialogue: 0,0:00:32.84,0:00:33.70,Cap,,0,0,0,,prova feita,
+Dialogue: 0,0:00:33.70,0:00:34.04,Cap,,0,0,0,,o resto
+Dialogue: 0,0:00:34.04,0:00:34.30,Cap,,0,0,0,,vira uma
+Dialogue: 0,0:00:34.30,0:00:35.04,Cap,,0,0,0,,batalha bem
+Dialogue: 0,0:00:35.04,0:00:35.96,Cap,,0,0,0,,mais tranquila.
+Dialogue: 0,0:00:35.96,0:00:36.50,Cap,,0,0,0,,Aí,

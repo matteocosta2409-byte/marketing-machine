@@ -1,0 +1,681 @@
+{
+ "video": "enem1/acut.mp4",
+ "duration": 379.945,
+ "segs": [
+  {
+   "from": 6.2,
+   "to": 18.0,
+   "g": "Abertura1",
+   "props": {
+    "b": [
+     0.2,
+     7.3,
+     8.7,
+     10.45
+    ]
+   }
+  },
+  {
+   "from": 34.6,
+   "to": 48.6,
+   "g": "Caderno",
+   "props": {
+    "b": [
+     0.0,
+     0.4,
+     8.2,
+     11.8
+    ]
+   }
+  },
+  {
+   "from": 69.4,
+   "to": 82.0,
+   "g": "Linha",
+   "props": {
+    "title": "O *domingo* da prova",
+    "nodes": [
+     [
+      "12:00",
+      "portões abrem",
+      1.85
+     ],
+     [
+      "13:00",
+      "portões fecham",
+      3.0,
+      true
+     ],
+     [
+      "13:30",
+      "prova começa",
+      3.6
+     ],
+     [
+      "19:00",
+      "fim",
+      4.1
+     ]
+    ]
+   }
+  },
+  {
+   "from": 82.2,
+   "to": 95.5,
+   "g": "Tema",
+   "props": {
+    "b": [
+     0.2,
+     5.6,
+     12.2
+    ]
+   }
+  },
+  {
+   "from": 95.6,
+   "to": 128.8,
+   "g": "Esqueleto",
+   "props": {
+    "b": [
+     0.2,
+     5.9,
+     10.9,
+     15.4,
+     21.4,
+     26.7
+    ]
+   }
+  },
+  {
+   "from": 131.8,
+   "to": 147.9,
+   "g": "Bloco",
+   "props": {
+    "on": 1,
+    "t": "Língua *estrangeira*",
+    "sub": "5 questões de inglês",
+    "chips": [
+     [
+      "não era meu forte",
+      "x",
+      7.0
+     ],
+     [
+      "com a *cabeça fresca*",
+      "ok",
+      10.3
+     ]
+    ],
+    "card": {
+     "big": "15 min",
+     "label": "e já acabava",
+     "at": 14.5
+    }
+   }
+  },
+  {
+   "from": 148.1,
+   "to": 176.8,
+   "g": "Bloco",
+   "props": {
+    "on": 2,
+    "t": "*Humanas*: interpretação",
+    "sub": "a que eu tinha mais facilidade",
+    "chips": [
+     [
+      "textos base + o básico",
+      "ok",
+      8.3
+     ],
+     [
+      "não sabe? *pula*",
+      "go",
+      18.9
+     ],
+     [
+      "volume no começo",
+      "ok",
+      20.4
+     ]
+    ],
+    "card": {
+     "n": 40,
+     "label": "questões em 1h15",
+     "at": 27.3
+    }
+   }
+  },
+  {
+   "from": 176.9,
+   "to": 192.9,
+   "g": "Insight",
+   "props": {
+    "b": [
+     0.2,
+     3.2,
+     11.2,
+     13.0
+    ]
+   }
+  },
+  {
+   "from": 193.0,
+   "to": 213.3,
+   "g": "Rascunho",
+   "props": {
+    "b": [
+     0.2,
+     8.8,
+     9.9,
+     10.6,
+     13.6
+    ]
+   }
+  },
+  {
+   "from": 221.1,
+   "to": 237.5,
+   "g": "Bloco",
+   "props": {
+    "on": 4,
+    "t": "*Linguagens*",
+    "sub": "de pouco em pouco",
+    "chips": [
+     [
+      "45 − 5 de inglês = *40*",
+      "ok",
+      4.2
+     ],
+     [
+      "pula as que *travava*",
+      "go",
+      9.0
+     ]
+    ],
+    "card": {
+     "n": 35,
+     "label": "questões em 1h15",
+     "at": 15.0
+    }
+   }
+  },
+  {
+   "from": 237.6,
+   "to": 250.8,
+   "g": "Bloco",
+   "props": {
+    "on": 5,
+    "t": "Passar a *limpo*",
+    "sub": "com ~4h de prova",
+    "chips": [
+     [
+      "proposta direto no definitivo",
+      "ok",
+      5.7
+     ],
+     [
+      "escrever *superdevagar*",
+      "ok",
+      9.9
+     ]
+    ],
+    "card": {
+     "big": "30 min",
+     "label": "só pra copiar",
+     "at": 7.5
+    }
+   }
+  },
+  {
+   "from": 250.9,
+   "to": 268.9,
+   "g": "Bloco",
+   "props": {
+    "on": 6,
+    "t": "*Garimpar* acertos",
+    "sub": "as que ficaram pra trás",
+    "chips": [
+     [
+      "5 de humanas",
+      "go",
+      4.5
+     ],
+     [
+      "5 de linguagens",
+      "go",
+      5.4
+     ],
+     [
+      "exigem *raciocínio*",
+      "ok",
+      9.6
+     ],
+     [
+      "ir e voltar, reler",
+      "ok",
+      13.8
+     ]
+    ],
+    "card": {
+     "big": "30 min",
+     "label": "1ª metade da última hora",
+     "at": 0.6
+    }
+   }
+  },
+  {
+   "from": 269.1,
+   "to": 290.8,
+   "g": "Gabarito1",
+   "props": {
+    "b": [
+     0.2,
+     14.6,
+     4.6
+    ]
+   }
+  },
+  {
+   "from": 290.9,
+   "to": 331.8,
+   "g": "Revisao",
+   "props": {
+    "b": [
+     0.0,
+     8.7,
+     22.8,
+     26.8,
+     29.9,
+     36.9,
+     40.0
+    ]
+   }
+  },
+  {
+   "from": 331.9,
+   "to": 353.5,
+   "g": "Lista",
+   "props": {
+    "title": "*Resumo*",
+    "items": [
+     [
+      "Antes",
+      "reler os repertórios",
+      1.6
+     ],
+     [
+      "Tema + esqueleto",
+      "15 min",
+      4.6
+     ],
+     [
+      "Inglês",
+      "15 min",
+      7.0
+     ],
+     [
+      "Humanas",
+      "1h15",
+      7.7
+     ],
+     [
+      "Rascunho",
+      "1h",
+      8.5
+     ],
+     [
+      "Linguagens",
+      "1h15",
+      9.8
+     ],
+     [
+      "Definitivo",
+      "30 min",
+      10.8
+     ],
+     [
+      "Garimpo",
+      "30 min",
+      12.6
+     ],
+     [
+      "Gabarito + revisão",
+      "15 + 15 min",
+      16.5
+     ]
+    ]
+   }
+  },
+  {
+   "from": 356.3,
+   "to": 363.7,
+   "g": "Final1",
+   "props": {
+    "t": "Tire a *ansiedade* no começo",
+    "sub": "e deixe humanas te dar repertório",
+    "date": "08/11 · BOA PROVA",
+    "b": [
+     0.5,
+     4.8,
+     6.0
+    ]
+   }
+  }
+ ],
+ "lowers": [
+  {
+   "from": 25.5,
+   "to": 29.3,
+   "name": "Matteo",
+   "role": "@matteo.rocha_"
+  },
+  {
+   "from": 367.0,
+   "to": 371.0,
+   "name": "Matteo",
+   "role": "Medicina + educação"
+  }
+ ],
+ "zooms": [
+  {
+   "from": 128.9,
+   "to": 131.7,
+   "s": 1.15
+  },
+  {
+   "from": 217.9,
+   "to": 221.0,
+   "s": 1.12
+  },
+  {
+   "from": 353.6,
+   "to": 356.2,
+   "s": 1.15
+  },
+  {
+   "from": 363.8,
+   "to": 366.9,
+   "s": 1.12
+  }
+ ],
+ "sfx": [
+  {
+   "t": 6.2,
+   "f": "sfx/whoosh.wav",
+   "v": 0.32
+  },
+  {
+   "t": 34.6,
+   "f": "sfx/whoosh.wav",
+   "v": 0.32
+  },
+  {
+   "t": 69.4,
+   "f": "sfx/whoosh.wav",
+   "v": 0.32
+  },
+  {
+   "t": 82.2,
+   "f": "sfx/whoosh.wav",
+   "v": 0.32
+  },
+  {
+   "t": 95.6,
+   "f": "sfx/whoosh.wav",
+   "v": 0.32
+  },
+  {
+   "t": 131.8,
+   "f": "sfx/whoosh.wav",
+   "v": 0.32
+  },
+  {
+   "t": 148.1,
+   "f": "sfx/whoosh.wav",
+   "v": 0.32
+  },
+  {
+   "t": 176.9,
+   "f": "sfx/whoosh.wav",
+   "v": 0.32
+  },
+  {
+   "t": 193.0,
+   "f": "sfx/whoosh.wav",
+   "v": 0.32
+  },
+  {
+   "t": 221.1,
+   "f": "sfx/whoosh.wav",
+   "v": 0.32
+  },
+  {
+   "t": 237.6,
+   "f": "sfx/whoosh.wav",
+   "v": 0.32
+  },
+  {
+   "t": 250.9,
+   "f": "sfx/whoosh.wav",
+   "v": 0.32
+  },
+  {
+   "t": 269.1,
+   "f": "sfx/whoosh.wav",
+   "v": 0.32
+  },
+  {
+   "t": 290.9,
+   "f": "sfx/whoosh.wav",
+   "v": 0.32
+  },
+  {
+   "t": 331.9,
+   "f": "sfx/whoosh.wav",
+   "v": 0.32
+  },
+  {
+   "t": 356.3,
+   "f": "sfx/whoosh.wav",
+   "v": 0.32
+  },
+  {
+   "t": 0.0,
+   "f": "sfx/whoosh.wav",
+   "v": 0.22
+  },
+  {
+   "t": 19.9,
+   "f": "sfx/whoosh.wav",
+   "v": 0.22
+  },
+  {
+   "t": 21.0,
+   "f": "sfx/whoosh.wav",
+   "v": 0.22
+  },
+  {
+   "t": 376.0,
+   "f": "sfx/whoosh.wav",
+   "v": 0.22
+  },
+  {
+   "t": 51.800000000000004,
+   "f": "sfx/pop.wav",
+   "v": 0.22
+  },
+  {
+   "t": 56.5,
+   "f": "sfx/pop.wav",
+   "v": 0.22
+  },
+  {
+   "t": 60.7,
+   "f": "sfx/pop.wav",
+   "v": 0.22
+  },
+  {
+   "t": 283.70000000000005,
+   "f": "sfx/tick.wav",
+   "v": 0.25
+  },
+  {
+   "t": 285.1,
+   "f": "sfx/tick.wav",
+   "v": 0.25
+  },
+  {
+   "t": 286.50000000000006,
+   "f": "sfx/tick.wav",
+   "v": 0.25
+  },
+  {
+   "t": 286.95000000000005,
+   "f": "sfx/tick.wav",
+   "v": 0.25
+  },
+  {
+   "t": 287.40000000000003,
+   "f": "sfx/tick.wav",
+   "v": 0.25
+  },
+  {
+   "t": 287.85,
+   "f": "sfx/tick.wav",
+   "v": 0.25
+  },
+  {
+   "t": 288.30000000000007,
+   "f": "sfx/tick.wav",
+   "v": 0.25
+  },
+  {
+   "t": 288.75000000000006,
+   "f": "sfx/tick.wav",
+   "v": 0.25
+  }
+ ],
+ "music": {
+  "f": "enem/music.mp3",
+  "v": 0.045
+ },
+ "ovs": [
+  {
+   "from": 0.0,
+   "to": 3.9,
+   "k": "Big",
+   "lines": [
+    {
+     "t": "O DIA 1 TEM",
+     "at": 0.15,
+     "size": 130
+    },
+    {
+     "t": "A REDAÇÃO",
+     "at": 2.95,
+     "size": 210,
+     "c": "g"
+    }
+   ]
+  },
+  {
+   "from": 3.9,
+   "to": 6.2,
+   "k": "Quote",
+   "t": "e é ela que deixa todo mundo *nervoso*",
+   "step": 0.13
+  },
+  {
+   "from": 19.9,
+   "to": 21.0,
+   "k": "Photo",
+   "src": "enem1/fotos/ucb.jpg",
+   "title": "1º lugar em Medicina"
+  },
+  {
+   "from": 21.0,
+   "to": 22.4,
+   "k": "Photo",
+   "src": "enem1/fotos/pintado.jpg",
+   "title": "1º lugar em Medicina",
+   "sub": "duas vezes"
+  },
+  {
+   "from": 22.4,
+   "to": 25.45,
+   "k": "Shot",
+   "src": "enem1/ruf.png",
+   "w": 1555,
+   "h": 985,
+   "zoom": [
+    300,
+    815
+   ],
+   "hl": [
+    [
+     22,
+     798,
+     72,
+     36,
+     0.6
+    ],
+    [
+     538,
+     806,
+     46,
+     36,
+     1.0
+    ]
+   ],
+   "cap": "Ranking Universitário Folha (RUF) 2025"
+  },
+  {
+   "from": 48.7,
+   "to": 62.7,
+   "k": "Pills",
+   "items": [
+    {
+     "t": "usados nas minhas *redações*",
+     "at": 3.1
+    },
+    {
+     "t": "já *treinados*",
+     "at": 7.8
+    },
+    {
+     "t": "funcionavam nos *temas*",
+     "at": 12.0
+    }
+   ]
+  },
+  {
+   "from": 63.0,
+   "to": 69.3,
+   "k": "Quote",
+   "t": "1 hora antes: *relia todos*",
+   "step": 0.2
+  },
+  {
+   "from": 213.4,
+   "to": 217.8,
+   "k": "Quote",
+   "t": "é aqui que a redação é *feita de fato*",
+   "step": 0.14
+  },
+  {
+   "from": 372.5,
+   "to": 376.0,
+   "k": "Quote",
+   "t": "vai correr atrás dos seus *sonhos*",
+   "step": 0.14
+  },
+  {
+   "from": 376.0,
+   "to": 379.9,
+   "k": "Photo",
+   "src": "enem1/fotos/selfie-estudo.jpg",
+   "title": "o que minha mãe me dizia",
+   "sub": "todo dia, no ano do vestibular"
+  }
+ ]
+}

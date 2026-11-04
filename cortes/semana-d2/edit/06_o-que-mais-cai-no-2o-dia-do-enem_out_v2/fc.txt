@@ -1,0 +1,18 @@
+[0:v]trim=start=1.000:end=2.489,setpts=PTS-STARTPTS,scale=1080:-2,pad=1080:1920:0:(oh-ih)/2:black,setsar=1[v0];
+[0:a]atrim=start=1.000:end=2.489,asetpts=PTS-STARTPTS[a0];
+[0:v]trim=start=2.840:end=7.360,setpts=PTS-STARTPTS,scale=1080:-2,pad=1080:1920:0:(oh-ih)/2:black,setsar=1[v1];
+[0:a]atrim=start=2.840:end=7.360,asetpts=PTS-STARTPTS[a1];
+[0:v]trim=start=7.600:end=8.244,setpts=PTS-STARTPTS,scale=1080:-2,pad=1080:1920:0:(oh-ih)/2:black,setsar=1[v2];
+[0:a]atrim=start=7.600:end=8.244,asetpts=PTS-STARTPTS[a2];
+[0:v]trim=start=8.480:end=9.060,setpts=PTS-STARTPTS,scale=1080:-2,pad=1080:1920:0:(oh-ih)/2:black,setsar=1[v3];
+[0:a]atrim=start=8.480:end=9.060,asetpts=PTS-STARTPTS[a3];
+[0:v]trim=start=9.360:end=11.840,setpts=PTS-STARTPTS,scale=1080:-2,pad=1080:1920:0:(oh-ih)/2:black,setsar=1[v4];
+[0:a]atrim=start=9.360:end=11.840,asetpts=PTS-STARTPTS[a4];
+[0:v]trim=start=12.200:end=17.580,setpts=PTS-STARTPTS,scale=1080:-2,pad=1080:1920:0:(oh-ih)/2:black,setsar=1[v5];
+[0:a]atrim=start=12.200:end=17.580,asetpts=PTS-STARTPTS[a5];
+[v0][a0][v1][a1][v2][a2][v3][a3][v4][a4][v5][a5]concat=n=6:v=1:a=1[cv0][ca];
+[cv0]format=yuv420p[cv];
+[ca]loudnorm=I=-14:TP=-1:LRA=11,aresample=48000,asetnsamples=n=1024:p=0,asetpts=N/SR/TB[aout];
+movie='/Users/mac-matteo/marketing machine/cortes/semana-d2/edit/06_o-que-mais-cai-no-2o-dia-do-enem_out_v2/title.png',format=rgba,scale=out_color_matrix=bt709:out_range=tv,format=yuva420p[tt];
+[cv][tt]overlay=0:0[cvt];
+[cvt]ass='/Users/mac-matteo/marketing machine/cortes/semana-d2/edit/06_o-que-mais-cai-no-2o-dia-do-enem_out_v2/caps.ass':fontsdir='/Users/mac-matteo/marketing machine/assets/fonts/clipper'[outv]

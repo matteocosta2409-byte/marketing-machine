@@ -1,0 +1,104 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Helvetica,67,&H00FFFFFF,&H00FFFFFF,&HC8000000,&HC8000000,0,1,0,0,100,100,0,0,1,6.7,6.7,2,60,60,300,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.04,0:00:01.14,Cap,,0,0,0,,Casais Inteligentes
+Dialogue: 0,0:00:01.14,0:00:01.84,Cap,,0,0,0,,se Enriquecem
+Dialogue: 0,0:00:01.84,0:00:02.27,Cap,,0,0,0,,Juntos.
+Dialogue: 0,0:00:02.27,0:00:02.97,Cap,,0,0,0,,Pessoas com
+Dialogue: 0,0:00:02.97,0:00:03.61,Cap,,0,0,0,,objetivos em
+Dialogue: 0,0:00:03.61,0:00:04.21,Cap,,0,0,0,,comum só
+Dialogue: 0,0:00:04.21,0:00:04.59,Cap,,0,0,0,,tendem a
+Dialogue: 0,0:00:04.59,0:00:05.33,Cap,,0,0,0,,crescer juntas,
+Dialogue: 0,0:00:05.33,0:00:05.59,Cap,,0,0,0,,como a
+Dialogue: 0,0:00:05.59,0:00:06.25,Cap,,0,0,0,,Flora falou.
+Dialogue: 0,0:00:06.25,0:00:06.39,Cap,,0,0,0,,Eu e
+Dialogue: 0,0:00:06.39,0:00:06.69,Cap,,0,0,0,,a Flora
+Dialogue: 0,0:00:06.69,0:00:06.99,Cap,,0,0,0,,temos uma
+Dialogue: 0,0:00:06.99,0:00:07.91,Cap,,0,0,0,,relação extremamente
+Dialogue: 0,0:00:07.91,0:00:08.43,Cap,,0,0,0,,saudável no
+Dialogue: 0,0:00:08.43,0:00:09.07,Cap,,0,0,0,,sentido de
+Dialogue: 0,0:00:09.07,0:00:09.37,Cap,,0,0,0,,que a
+Dialogue: 0,0:00:09.37,0:00:10.09,Cap,,0,0,0,,gente passa
+Dialogue: 0,0:00:10.09,0:00:10.99,Cap,,0,0,0,,tempo juntos
+Dialogue: 0,0:00:10.99,0:00:11.58,Cap,,0,0,0,,estudando.
+Dialogue: 0,0:00:11.58,0:00:11.88,Cap,,0,0,0,,Ao longo
+Dialogue: 0,0:00:11.88,0:00:12.28,Cap,,0,0,0,,do segundo
+Dialogue: 0,0:00:12.28,0:00:12.62,Cap,,0,0,0,,semestre,
+Dialogue: 0,0:00:12.62,0:00:12.94,Cap,,0,0,0,,que foi
+Dialogue: 0,0:00:12.94,0:00:13.96,Cap,,0,0,0,,levemente pesado,
+Dialogue: 0,0:00:13.96,0:00:14.32,Cap,,0,0,0,,a gente--
+Dialogue: 0,0:00:14.32,0:00:14.56,Cap,,0,0,0,,eu,
+Dialogue: 0,0:00:14.56,0:00:14.98,Cap,,0,0,0,,tanto eu
+Dialogue: 0,0:00:14.98,0:00:15.36,Cap,,0,0,0,,quanto ela
+Dialogue: 0,0:00:15.36,0:00:15.70,Cap,,0,0,0,,achamos o
+Dialogue: 0,0:00:15.70,0:00:16.28,Cap,,0,0,0,,segundo semestre
+Dialogue: 0,0:00:16.28,0:00:16.82,Cap,,0,0,0,,pesado,
+Dialogue: 0,0:00:16.82,0:00:17.10,Cap,,0,0,0,,a gente
+Dialogue: 0,0:00:17.10,0:00:17.72,Cap,,0,0,0,,teve tempo
+Dialogue: 0,0:00:17.72,0:00:18.06,Cap,,0,0,0,,de ficar
+Dialogue: 0,0:00:18.06,0:00:18.72,Cap,,0,0,0,,na biblioteca
+Dialogue: 0,0:00:18.72,0:00:19.06,Cap,,0,0,0,,a tarde
+Dialogue: 0,0:00:19.06,0:00:20.06,Cap,,0,0,0,,inteira estudando
+Dialogue: 0,0:00:20.06,0:00:20.92,Cap,,0,0,0,,várias vezes,
+Dialogue: 0,0:00:20.92,0:00:21.08,Cap,,0,0,0,,de ir
+Dialogue: 0,0:00:21.08,0:00:21.38,Cap,,0,0,0,,pra uma
+Dialogue: 0,0:00:21.38,0:00:22.08,Cap,,0,0,0,,salinha ficar
+Dialogue: 0,0:00:22.08,0:00:22.54,Cap,,0,0,0,,estudando.
+Dialogue: 0,0:00:22.54,0:00:23.00,Cap,,0,0,0,,Então assim,
+Dialogue: 0,0:00:23.00,0:00:23.60,Cap,,0,0,0,,se vocês
+Dialogue: 0,0:00:23.60,0:00:23.96,Cap,,0,0,0,,têm dois
+Dialogue: 0,0:00:23.96,0:00:24.96,Cap,,0,0,0,,objetivos alinhados
+Dialogue: 0,0:00:24.96,0:00:25.46,Cap,,0,0,0,,entre si,
+Dialogue: 0,0:00:25.46,0:00:25.72,Cap,,0,0,0,,é muito
+Dialogue: 0,0:00:25.72,0:00:26.34,Cap,,0,0,0,,mais fácil
+Dialogue: 0,0:00:26.34,0:00:26.78,Cap,,0,0,0,,lidar com
+Dialogue: 0,0:00:26.78,0:00:27.18,Cap,,0,0,0,,todos os
+Dialogue: 0,0:00:27.18,0:00:27.66,Cap,,0,0,0,,problemas,
+Dialogue: 0,0:00:27.66,0:00:27.90,Cap,,0,0,0,,porque aí
+Dialogue: 0,0:00:27.90,0:00:28.20,Cap,,0,0,0,,vocês vão
+Dialogue: 0,0:00:28.20,0:00:28.46,Cap,,0,0,0,,lidar com
+Dialogue: 0,0:00:28.46,0:00:29.00,Cap,,0,0,0,,os problemas
+Dialogue: 0,0:00:29.00,0:00:29.44,Cap,,0,0,0,,juntos.
+Dialogue: 0,0:00:29.44,0:00:29.86,Cap,,0,0,0,,Eu ensino
+Dialogue: 0,0:00:29.86,0:00:30.36,Cap,,0,0,0,,matéria pra
+Dialogue: 0,0:00:30.36,0:00:30.72,Cap,,0,0,0,,ela,
+Dialogue: 0,0:00:30.72,0:00:31.18,Cap,,0,0,0,,ela ensinava
+Dialogue: 0,0:00:31.18,0:00:31.58,Cap,,0,0,0,,pra mim,
+Dialogue: 0,0:00:31.58,0:00:32.14,Cap,,0,0,0,,era extremamente
+Dialogue: 0,0:00:32.14,0:00:32.68,Cap,,0,0,0,,saudável a
+Dialogue: 0,0:00:32.68,0:00:33.08,Cap,,0,0,0,,gente só
+Dialogue: 0,0:00:33.08,0:00:33.98,Cap,,0,0,0,,se amplificava.
+Dialogue: 0,0:00:33.98,0:00:34.25,Cap,,0,0,0,,Então se
+Dialogue: 0,0:00:34.25,0:00:34.77,Cap,,0,0,0,,você consegue
+Dialogue: 0,0:00:34.77,0:00:35.03,Cap,,0,0,0,,manter uma
+Dialogue: 0,0:00:35.03,0:00:35.77,Cap,,0,0,0,,relação assim
+Dialogue: 0,0:00:35.77,0:00:36.05,Cap,,0,0,0,,com seu
+Dialogue: 0,0:00:36.05,0:00:36.41,Cap,,0,0,0,,parceiro,
+Dialogue: 0,0:00:36.41,0:00:36.57,Cap,,0,0,0,,com a
+Dialogue: 0,0:00:36.57,0:00:37.17,Cap,,0,0,0,,sua parceira,
+Dialogue: 0,0:00:37.17,0:00:37.31,Cap,,0,0,0,,cara,
+Dialogue: 0,0:00:37.31,0:00:37.49,Cap,,0,0,0,,isso é
+Dialogue: 0,0:00:37.49,0:00:38.41,Cap,,0,0,0,,maravilhoso e,
+Dialogue: 0,0:00:38.41,0:00:39.05,Cap,,0,0,0,,e assim,
+Dialogue: 0,0:00:39.05,0:00:39.17,Cap,,0,0,0,,é o
+Dialogue: 0,0:00:39.17,0:00:39.61,Cap,,0,0,0,,melhor dos
+Dialogue: 0,0:00:39.61,0:00:39.89,Cap,,0,0,0,,mundos,
+Dialogue: 0,0:00:39.89,0:00:40.17,Cap,,0,0,0,,é tá
+Dialogue: 0,0:00:40.17,0:00:40.47,Cap,,0,0,0,,com alguém
+Dialogue: 0,0:00:40.47,0:00:40.83,Cap,,0,0,0,,que você
+Dialogue: 0,0:00:40.83,0:00:41.47,Cap,,0,0,0,,gosta e
+Dialogue: 0,0:00:41.47,0:00:41.65,Cap,,0,0,0,,é tá
+Dialogue: 0,0:00:41.65,0:00:41.93,Cap,,0,0,0,,com alguém
+Dialogue: 0,0:00:41.93,0:00:42.25,Cap,,0,0,0,,que vai
+Dialogue: 0,0:00:42.25,0:00:43.07,Cap,,0,0,0,,te amplificar
+Dialogue: 0,0:00:43.07,0:00:43.31,Cap,,0,0,0,,os seus
+Dialogue: 0,0:00:43.31,0:00:44.27,Cap,,0,0,0,,resultados.

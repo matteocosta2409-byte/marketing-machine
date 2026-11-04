@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "sources": {
+    "src": "/Users/mac-matteo/marketing machine/solo_frac/src.mov"
+  },
+  "ranges": [
+    {
+      "source": "src",
+      "start": 1.0,
+      "end": 8.2
+    },
+    {
+      "source": "src",
+      "start": 28.7,
+      "end": 31.75
+    },
+    {
+      "source": "src",
+      "start": 11.2,
+      "end": 13.6
+    },
+    {
+      "source": "src",
+      "start": 14.5,
+      "end": 17.65
+    },
+    {
+      "source": "src",
+      "start": 41.0,
+      "end": 45.1
+    },
+    {
+      "source": "src",
+      "start": 51.3,
+      "end": 56.677
+    },
+    {
+      "source": "src",
+      "start": 56.965,
+      "end": 59.3
+    },
+    {
+      "source": "src",
+      "start": 66.1,
+      "end": 71.247
+    },
+    {
+      "source": "src",
+      "start": 73.939,
+      "end": 79.068
+    },
+    {
+      "source": "src",
+      "start": 79.33,
+      "end": 82.703
+    },
+    {
+      "source": "src",
+      "start": 83.063,
+      "end": 84.75
+    }
+  ],
+  "grade": "none",
+  "overlays": [],
+  "subtitle_case": "natural",
+  "subtitle_style": "FontName=Helvetica,FontSize=15,Bold=0,Italic=1,PrimaryColour=&H00FFFFFF,OutlineColour=&HC8000000,BorderStyle=1,Outline=1,Shadow=1,Alignment=2,MarginV=60",
+  "total_duration_s": 42.948
+}

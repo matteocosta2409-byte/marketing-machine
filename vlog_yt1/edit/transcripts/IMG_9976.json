@@ -1,0 +1,257 @@
+{
+  "language_code": "por",
+  "language_probability": 1.0,
+  "text": "Round dois, desenvolvimento. Lukinhas j\u00e1 pegou vinte, eu acho que eu vou perder de novo. [som de m\u00e1quina de muscula\u00e7\u00e3o]",
+  "words": [
+    {
+      "text": "Round",
+      "start": 0.92,
+      "end": 1.1,
+      "type": "word",
+      "speaker_id": "speaker_0",
+      "logprob": -0.003965254407376051
+    },
+    {
+      "text": " ",
+      "start": 1.1,
+      "end": 1.22,
+      "type": "spacing",
+      "speaker_id": "speaker_0",
+      "logprob": -0.0011044599814340472
+    },
+    {
+      "text": "dois,",
+      "start": 1.22,
+      "end": 1.4,
+      "type": "word",
+      "speaker_id": "speaker_0",
+      "logprob": -0.00299759516492486
+    },
+    {
+      "text": " ",
+      "start": 1.4,
+      "end": 1.5,
+      "type": "spacing",
+      "speaker_id": "speaker_0",
+      "logprob": -8.785339014139026e-05
+    },
+    {
+      "text": "desenvolvimento.",
+      "start": 1.5,
+      "end": 2.2,
+      "type": "word",
+      "speaker_id": "speaker_0",
+      "logprob": -8.348758080956031e-05
+    },
+    {
+      "text": " ",
+      "start": 2.2,
+      "end": 2.2,
+      "type": "spacing",
+      "speaker_id": "speaker_0",
+      "logprob": -0.529198169708252
+    },
+    {
+      "text": "Lukinhas",
+      "start": 3.0,
+      "end": 3.26,
+      "type": "word",
+      "speaker_id": "speaker_0",
+      "logprob": -0.581303171813488
+    },
+    {
+      "text": " ",
+      "start": 3.26,
+      "end": 3.28,
+      "type": "spacing",
+      "speaker_id": "speaker_0",
+      "logprob": -6.639736966462806e-05
+    },
+    {
+      "text": "j\u00e1",
+      "start": 3.28,
+      "end": 3.36,
+      "type": "word",
+      "speaker_id": "speaker_0",
+      "logprob": -6.639736966462806e-05
+    },
+    {
+      "text": " ",
+      "start": 3.36,
+      "end": 3.4,
+      "type": "spacing",
+      "speaker_id": "speaker_0",
+      "logprob": -3.3854863431770355e-05
+    },
+    {
+      "text": "pegou",
+      "start": 3.4,
+      "end": 3.62,
+      "type": "word",
+      "speaker_id": "speaker_0",
+      "logprob": -2.0360601772040356e-05
+    },
+    {
+      "text": " ",
+      "start": 3.62,
+      "end": 3.68,
+      "type": "spacing",
+      "speaker_id": "speaker_0",
+      "logprob": -0.17986007034778595
+    },
+    {
+      "text": "vinte,",
+      "start": 3.68,
+      "end": 3.9,
+      "type": "word",
+      "speaker_id": "speaker_0",
+      "logprob": -0.0899447767754585
+    },
+    {
+      "text": " ",
+      "start": 3.9,
+      "end": 3.92,
+      "type": "spacing",
+      "speaker_id": "speaker_0",
+      "logprob": -0.011048685759305954
+    },
+    {
+      "text": "eu",
+      "start": 3.92,
+      "end": 3.94,
+      "type": "word",
+      "speaker_id": "speaker_0",
+      "logprob": -0.011048685759305954
+    },
+    {
+      "text": " ",
+      "start": 3.94,
+      "end": 4.0,
+      "type": "spacing",
+      "speaker_id": "speaker_0",
+      "logprob": -1.5497195136049413e-06
+    },
+    {
+      "text": "acho",
+      "start": 4.0,
+      "end": 4.08,
+      "type": "word",
+      "speaker_id": "speaker_0",
+      "logprob": -1.5497195136049413e-06
+    },
+    {
+      "text": " ",
+      "start": 4.08,
+      "end": 4.1,
+      "type": "spacing",
+      "speaker_id": "speaker_0",
+      "logprob": -3.933898824470816e-06
+    },
+    {
+      "text": "que",
+      "start": 4.1,
+      "end": 4.14,
+      "type": "word",
+      "speaker_id": "speaker_0",
+      "logprob": -3.933898824470816e-06
+    },
+    {
+      "text": " ",
+      "start": 4.14,
+      "end": 4.14,
+      "type": "spacing",
+      "speaker_id": "speaker_0",
+      "logprob": -0.08894425630569458
+    },
+    {
+      "text": "eu",
+      "start": 4.14,
+      "end": 4.14,
+      "type": "word",
+      "speaker_id": "speaker_0",
+      "logprob": -0.08894425630569458
+    },
+    {
+      "text": " ",
+      "start": 4.14,
+      "end": 4.14,
+      "type": "spacing",
+      "speaker_id": "speaker_0",
+      "logprob": -7.986990567587782e-06
+    },
+    {
+      "text": "vou",
+      "start": 4.14,
+      "end": 4.22,
+      "type": "word",
+      "speaker_id": "speaker_0",
+      "logprob": -7.986990567587782e-06
+    },
+    {
+      "text": " ",
+      "start": 4.22,
+      "end": 4.26,
+      "type": "spacing",
+      "speaker_id": "speaker_0",
+      "logprob": -9.775113539944869e-06
+    },
+    {
+      "text": "perder",
+      "start": 4.26,
+      "end": 4.48,
+      "type": "word",
+      "speaker_id": "speaker_0",
+      "logprob": -9.775113539944869e-06
+    },
+    {
+      "text": " ",
+      "start": 4.48,
+      "end": 4.52,
+      "type": "spacing",
+      "speaker_id": "speaker_0",
+      "logprob": -3.576278118089249e-07
+    },
+    {
+      "text": "de",
+      "start": 4.52,
+      "end": 4.56,
+      "type": "word",
+      "speaker_id": "speaker_0",
+      "logprob": -3.576278118089249e-07
+    },
+    {
+      "text": " ",
+      "start": 4.56,
+      "end": 4.6,
+      "type": "spacing",
+      "speaker_id": "speaker_0",
+      "logprob": -3.325883881188929e-05
+    },
+    {
+      "text": "novo.",
+      "start": 4.6,
+      "end": 4.9,
+      "type": "word",
+      "speaker_id": "speaker_0",
+      "logprob": -0.13981497243512422
+    },
+    {
+      "text": " ",
+      "start": 4.9,
+      "end": 4.9,
+      "type": "spacing",
+      "speaker_id": "speaker_0",
+      "logprob": -0.2360818237066269
+    },
+    {
+      "text": "[som de m\u00e1quina de muscula\u00e7\u00e3o]",
+      "start": 4.9,
+      "end": 30.7,
+      "type": "audio_event",
+      "speaker_id": "speaker_1",
+      "logprob": -0.6139542265481809
+    }
+  ],
+  "transcription_id": "SRYTgCerRDIVbRcNnssP",
+  "audio_duration_secs": 30.74
+}

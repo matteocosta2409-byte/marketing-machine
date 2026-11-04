@@ -1,0 +1,118 @@
+{
+  "version": 1,
+  "sources": {
+    "src": "/Users/mac-matteo/marketing machine/solo_IMG_9559/src.mov"
+  },
+  "ranges": [
+    {
+      "source": "src",
+      "start": 0.68,
+      "end": 2.84
+    },
+    {
+      "source": "src",
+      "start": 3.32,
+      "end": 7.98
+    },
+    {
+      "source": "src",
+      "start": 8.16,
+      "end": 10.253
+    },
+    {
+      "source": "src",
+      "start": 10.94,
+      "end": 12.496
+    },
+    {
+      "source": "src",
+      "start": 12.777,
+      "end": 15.074
+    },
+    {
+      "source": "src",
+      "start": 15.302,
+      "end": 19.3
+    },
+    {
+      "source": "src",
+      "start": 19.74,
+      "end": 20.7
+    },
+    {
+      "source": "src",
+      "start": 21.28,
+      "end": 21.834
+    },
+    {
+      "source": "src",
+      "start": 22.38,
+      "end": 29.931
+    },
+    {
+      "source": "src",
+      "start": 30.26,
+      "end": 32.04
+    },
+    {
+      "source": "src",
+      "start": 33.54,
+      "end": 35.8
+    },
+    {
+      "source": "src",
+      "start": 36.02,
+      "end": 36.92
+    },
+    {
+      "source": "src",
+      "start": 37.26,
+      "end": 41.5
+    },
+    {
+      "source": "src",
+      "start": 41.92,
+      "end": 45.18
+    },
+    {
+      "source": "src",
+      "start": 45.64,
+      "end": 49.555
+    },
+    {
+      "source": "src",
+      "start": 49.82,
+      "end": 51.2
+    },
+    {
+      "source": "src",
+      "start": 52.36,
+      "end": 54.741
+    },
+    {
+      "source": "src",
+      "start": 54.985,
+      "end": 57.0
+    },
+    {
+      "source": "src",
+      "start": 57.36,
+      "end": 61.58
+    },
+    {
+      "source": "src",
+      "start": 62.12,
+      "end": 64.754
+    },
+    {
+      "source": "src",
+      "start": 65.0,
+      "end": 67.11
+    }
+  ],
+  "grade": "none",
+  "overlays": [],
+  "subtitle_case": "natural",
+  "subtitle_style": "FontName=Helvetica,FontSize=10,Bold=0,Italic=1,PrimaryColour=&H00FFFFFF,OutlineColour=&HC8000000,BorderStyle=1,Outline=1,Shadow=1,Alignment=2,MarginV=45",
+  "total_duration_s": 56.924
+}

@@ -1,0 +1,17 @@
+{
+  "language_code": "por",
+  "language_probability": 1.0,
+  "text": "[m\u00fasica eletr\u00f4nica]",
+  "words": [
+    {
+      "text": "[m\u00fasica eletr\u00f4nica]",
+      "start": 0.18,
+      "end": 6.64,
+      "type": "audio_event",
+      "speaker_id": "speaker_0",
+      "logprob": -0.12044657688860146
+    }
+  ],
+  "transcription_id": "mnPuGuL4DtgM4I9umO4F",
+  "audio_duration_secs": 7.9346875
+}

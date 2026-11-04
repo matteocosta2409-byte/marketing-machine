@@ -1,0 +1,33 @@
+POSTADOR MATTEO — POLÍTICA DE PRIVACIDADE E TERMOS DE USO
+============================================================
+
+Última atualização: 28 de outubro de 2026 (resposta automática por DM)
+
+O Postador Matteo é uma ferramenta pessoal e de uso interno de Matteo Costa Rocha (Instagram @matteo.rocha_) para agendar e publicar os próprios vídeos no Instagram, no TikTok e no YouTube, e acompanhar o desempenho desses vídeos. Ele não é oferecido ao público e não tem outros usuários.
+
+POLÍTICA DE PRIVACIDADE
+----------------------------------------
+
+Quais dados acessamos. Somente dados das contas do próprio Matteo, autorizadas por ele: informações básicas do perfil (nome de usuário e ID), os vídeos que ele mesmo envia para publicação e as métricas desses vídeos (visualizações, alcance, curtidas, comentários, salvamentos, compartilhamentos e tempo de exibição).
+
+Para que usamos. Para publicar os vídeos no horário agendado e mostrar ao Matteo, num painel privado, como cada vídeo está performando.
+
+Resposta automática por mensagem direta. Quando alguém comenta uma palavra-chave num post do @matteo.rocha_ pedindo um link, a ferramenta lê esse comentário e envia o link pedido por mensagem direta no Instagram. Para isso guardamos apenas o ID do comentário, o nome de usuário e o texto do comentário, só para não enviar a mesma mensagem duas vezes. Esses dados não são usados para nenhuma outra finalidade.
+
+O que não fazemos. Não vendemos nem compartilhamos dados com terceiros; não usamos dados para publicidade.
+
+Exclusão de dados. Qualquer pessoa pode pedir a exclusão dos seus dados (comentário e nome de usuário) escrevendo para matteocosta2409@gmail.com ou mandando uma mensagem direta para @matteo.rocha_; a exclusão é feita em até 7 dias.
+
+Armazenamento e exclusão. Os vídeos ficam em armazenamento privado só até serem publicados e depois são apagados. Tokens de acesso e métricas ficam num banco de dados privado. Dados obtidos pela API do YouTube são guardados por no máximo 30 dias. O acesso pode ser revogado a qualquer momento nas configurações de cada plataforma (Instagram: Apps e sites; Google: myaccount.google.com/permissions; TikTok: Gerenciar apps).
+
+Serviços de terceiros. O uso dos dados do YouTube segue os Termos de Serviço do YouTube (https://www.youtube.com/t/terms) e a Política de Privacidade do Google (https://policies.google.com/privacy).
+
+Contato. matteocosta2409@gmail.com
+
+TERMOS DE USO
+----------------------------------------
+
+O Postador Matteo é uma ferramenta pessoal, sem usuários externos. Só publica conteúdo criado e autorizado pelo próprio dono das contas, respeitando os termos e as políticas do Instagram/Meta, do TikTok e do YouTube/Google. É fornecido "como está", sem garantias. Dúvidas: matteocosta2409@gmail.com
+
+------------------------------------------------------------
+English summary: Postador Matteo is a private, single-user tool used only by its owner (Matteo Costa Rocha) to schedule and publish his own videos to his own Instagram, TikTok and YouTube accounts and to view analytics for those videos. It accesses the owner's own account data; when someone comments a keyword on the owner's posts it sends them the requested link by Instagram DM, storing only the comment ID, username and text to avoid duplicates (deletion on request via matteocosta2409@gmail.com). It does not sell or share data, and deletes uploaded videos after publishing. Contact: matteocosta2409@gmail.com

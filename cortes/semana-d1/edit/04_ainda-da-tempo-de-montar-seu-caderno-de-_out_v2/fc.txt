@@ -1,0 +1,18 @@
+[0:v]trim=start=1.000:end=1.960,setpts=PTS-STARTPTS,scale=1080:-2,pad=1080:1920:0:(oh-ih)/2:black,setsar=1[v0];
+[0:a]atrim=start=1.000:end=1.960,asetpts=PTS-STARTPTS[a0];
+[0:v]trim=start=2.280:end=6.399,setpts=PTS-STARTPTS,scale=1080:-2,pad=1080:1920:0:(oh-ih)/2:black,setsar=1[v1];
+[0:a]atrim=start=2.280:end=6.399,asetpts=PTS-STARTPTS[a1];
+[0:v]trim=start=6.680:end=11.347,setpts=PTS-STARTPTS,scale=1080:-2,pad=1080:1920:0:(oh-ih)/2:black,setsar=1[v2];
+[0:a]atrim=start=6.680:end=11.347,asetpts=PTS-STARTPTS[a2];
+[0:v]trim=start=11.640:end=15.543,setpts=PTS-STARTPTS,scale=1080:-2,pad=1080:1920:0:(oh-ih)/2:black,setsar=1[v3];
+[0:a]atrim=start=11.640:end=15.543,asetpts=PTS-STARTPTS[a3];
+[0:v]trim=start=15.800:end=22.620,setpts=PTS-STARTPTS,scale=1080:-2,pad=1080:1920:0:(oh-ih)/2:black,setsar=1[v4];
+[0:a]atrim=start=15.800:end=22.620,asetpts=PTS-STARTPTS[a4];
+[0:v]trim=start=22.860:end=25.580,setpts=PTS-STARTPTS,scale=1080:-2,pad=1080:1920:0:(oh-ih)/2:black,setsar=1[v5];
+[0:a]atrim=start=22.860:end=25.580,asetpts=PTS-STARTPTS[a5];
+[v0][a0][v1][a1][v2][a2][v3][a3][v4][a4][v5][a5]concat=n=6:v=1:a=1[cv0][ca];
+[cv0]format=yuv420p[cv];
+[ca]loudnorm=I=-14:TP=-1:LRA=11,aresample=48000,asetnsamples=n=1024:p=0,asetpts=N/SR/TB[aout];
+movie='/Users/mac-matteo/marketing machine/cortes/semana-d1/edit/04_ainda-da-tempo-de-montar-seu-caderno-de-_out_v2/title.png',format=rgba,scale=out_color_matrix=bt709:out_range=tv,format=yuva420p[tt];
+[cv][tt]overlay=0:0[cvt];
+[cvt]ass='/Users/mac-matteo/marketing machine/cortes/semana-d1/edit/04_ainda-da-tempo-de-montar-seu-caderno-de-_out_v2/caps.ass':fontsdir='/Users/mac-matteo/marketing machine/assets/fonts/clipper'[outv]

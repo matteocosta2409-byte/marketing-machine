@@ -1,0 +1,102 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Helvetica,67,&H00FFFFFF,&H00FFFFFF,&HC8000000,&HC8000000,0,1,0,0,100,100,0,0,1,6.7,6.7,2,60,60,300,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.04,0:00:01.08,Cap,,0,0,0,,Mas atualmente,
+Dialogue: 0,0:00:01.08,0:00:01.40,Cap,,0,0,0,,desde que
+Dialogue: 0,0:00:01.40,0:00:01.94,Cap,,0,0,0,,eu ainda
+Dialogue: 0,0:00:01.94,0:00:02.42,Cap,,0,0,0,,não troquei
+Dialogue: 0,0:00:02.42,0:00:02.62,Cap,,0,0,0,,o meu
+Dialogue: 0,0:00:02.62,0:00:03.18,Cap,,0,0,0,,livro favorito,
+Dialogue: 0,0:00:03.18,0:00:03.38,Cap,,0,0,0,,é esse
+Dialogue: 0,0:00:03.38,0:00:03.76,Cap,,0,0,0,,aqui.
+Dialogue: 0,0:00:03.76,0:00:04.00,Cap,,0,0,0,,Tá aqui
+Dialogue: 0,0:00:04.00,0:00:04.30,Cap,,0,0,0,,na minha
+Dialogue: 0,0:00:04.30,0:00:04.74,Cap,,0,0,0,,estante,
+Dialogue: 0,0:00:04.74,0:00:04.86,Cap,,0,0,0,,que é
+Dialogue: 0,0:00:04.86,0:00:05.14,Cap,,0,0,0,,um livro
+Dialogue: 0,0:00:05.14,0:00:05.74,Cap,,0,0,0,,muito bom
+Dialogue: 0,0:00:05.74,0:00:06.08,Cap,,0,0,0,,e também
+Dialogue: 0,0:00:06.08,0:00:06.78,Cap,,0,0,0,,parece meio
+Dialogue: 0,0:00:06.78,0:00:07.02,Cap,,0,0,0,,Crime e
+Dialogue: 0,0:00:07.02,0:00:07.54,Cap,,0,0,0,,Castigo.
+Dialogue: 0,0:00:07.54,0:00:07.82,Cap,,0,0,0,,Parece que
+Dialogue: 0,0:00:07.82,0:00:08.18,Cap,,0,0,0,,todo mundo
+Dialogue: 0,0:00:08.18,0:00:08.48,Cap,,0,0,0,,tem um
+Dialogue: 0,0:00:08.48,0:00:08.98,Cap,,0,0,0,,livro russo
+Dialogue: 0,0:00:08.98,0:00:09.08,Cap,,0,0,0,,que é
+Dialogue: 0,0:00:09.08,0:00:09.68,Cap,,0,0,0,,o favorito,
+Dialogue: 0,0:00:09.68,0:00:09.92,Cap,,0,0,0,,mas o
+Dialogue: 0,0:00:09.92,0:00:10.18,Cap,,0,0,0,,meu é
+Dialogue: 0,0:00:10.18,0:00:10.70,Cap,,0,0,0,,esse e
+Dialogue: 0,0:00:10.70,0:00:11.06,Cap,,0,0,0,,eu gosto
+Dialogue: 0,0:00:11.06,0:00:11.60,Cap,,0,0,0,,bastante.
+Dialogue: 0,0:00:11.60,0:00:12.34,Cap,,0,0,0,,Gostei bastante
+Dialogue: 0,0:00:12.34,0:00:13.32,Cap,,0,0,0,,do Dostoiévski,
+Dialogue: 0,0:00:13.32,0:00:13.72,Cap,,0,0,0,,então uma
+Dialogue: 0,0:00:13.72,0:00:14.40,Cap,,0,0,0,,filosofia muito
+Dialogue: 0,0:00:14.40,0:00:14.98,Cap,,0,0,0,,interessante que
+Dialogue: 0,0:00:14.98,0:00:15.32,Cap,,0,0,0,,ele aborda
+Dialogue: 0,0:00:15.32,0:00:15.70,Cap,,0,0,0,,no livro,
+Dialogue: 0,0:00:15.70,0:00:15.89,Cap,,0,0,0,,né.
+Dialogue: 0,0:00:15.89,0:00:16.17,Cap,,0,0,0,,Se você
+Dialogue: 0,0:00:16.17,0:00:16.55,Cap,,0,0,0,,não leu,
+Dialogue: 0,0:00:16.55,0:00:17.25,Cap,,0,0,0,,é basicamente
+Dialogue: 0,0:00:17.25,0:00:17.81,Cap,,0,0,0,,um cara
+Dialogue: 0,0:00:17.81,0:00:18.29,Cap,,0,0,0,,que ele,
+Dialogue: 0,0:00:18.29,0:00:18.65,Cap,,0,0,0,,como diz
+Dialogue: 0,0:00:18.65,0:00:19.05,Cap,,0,0,0,,o título,
+Dialogue: 0,0:00:19.05,0:00:19.49,Cap,,0,0,0,,comete um
+Dialogue: 0,0:00:19.49,0:00:20.39,Cap,,0,0,0,,crime e
+Dialogue: 0,0:00:20.39,0:00:21.11,Cap,,0,0,0,,é castigado.
+Dialogue: 0,0:00:21.11,0:00:21.45,Cap,,0,0,0,,Mas esse
+Dialogue: 0,0:00:21.45,0:00:21.87,Cap,,0,0,0,,castigo é
+Dialogue: 0,0:00:21.87,0:00:22.31,Cap,,0,0,0,,muito mais
+Dialogue: 0,0:00:22.31,0:00:23.07,Cap,,0,0,0,,psicológico do
+Dialogue: 0,0:00:23.07,0:00:23.35,Cap,,0,0,0,,que ele
+Dialogue: 0,0:00:23.35,0:00:24.04,Cap,,0,0,0,,mesmo fica
+Dialogue: 0,0:00:24.04,0:00:25.18,Cap,,0,0,0,,ali matutando
+Dialogue: 0,0:00:25.18,0:00:25.48,Cap,,0,0,0,,e se
+Dialogue: 0,0:00:25.48,0:00:26.08,Cap,,0,0,0,,sentindo mal
+Dialogue: 0,0:00:26.08,0:00:26.50,Cap,,0,0,0,,por aquilo,
+Dialogue: 0,0:00:26.50,0:00:27.28,Cap,,0,0,0,,aquele remorso
+Dialogue: 0,0:00:27.28,0:00:28.06,Cap,,0,0,0,,absurdo,
+Dialogue: 0,0:00:28.06,0:00:28.36,Cap,,0,0,0,,do que
+Dialogue: 0,0:00:28.36,0:00:29.14,Cap,,0,0,0,,pelo castigo
+Dialogue: 0,0:00:29.14,0:00:29.66,Cap,,0,0,0,,oficial,
+Dialogue: 0,0:00:29.66,0:00:29.86,Cap,,0,0,0,,né,
+Dialogue: 0,0:00:29.86,0:00:30.38,Cap,,0,0,0,,das leis,
+Dialogue: 0,0:00:30.38,0:00:30.60,Cap,,0,0,0,,porque ele
+Dialogue: 0,0:00:30.60,0:00:31.02,Cap,,0,0,0,,vai preso
+Dialogue: 0,0:00:31.02,0:00:31.26,Cap,,0,0,0,,no fim
+Dialogue: 0,0:00:31.26,0:00:31.68,Cap,,0,0,0,,do livro.
+Dialogue: 0,0:00:31.68,0:00:31.92,Cap,,0,0,0,,É,
+Dialogue: 0,0:00:31.92,0:00:32.18,Cap,,0,0,0,,enfim,
+Dialogue: 0,0:00:32.18,0:00:32.60,Cap,,0,0,0,,eu gosto
+Dialogue: 0,0:00:32.60,0:00:33.24,Cap,,0,0,0,,bastante desse
+Dialogue: 0,0:00:33.24,0:00:33.70,Cap,,0,0,0,,livro e
+Dialogue: 0,0:00:33.70,0:00:34.26,Cap,,0,0,0,,entre outros
+Dialogue: 0,0:00:34.26,0:00:34.80,Cap,,0,0,0,,russos também
+Dialogue: 0,0:00:34.80,0:00:35.24,Cap,,0,0,0,,gosto muito
+Dialogue: 0,0:00:35.24,0:00:35.92,Cap,,0,0,0,,de Tolstói,
+Dialogue: 0,0:00:35.92,0:00:36.12,Cap,,0,0,0,,é,
+Dialogue: 0,0:00:36.12,0:00:36.44,Cap,,0,0,0,,posso citar
+Dialogue: 0,0:00:36.44,0:00:37.02,Cap,,0,0,0,,alguns autores
+Dialogue: 0,0:00:37.02,0:00:37.22,Cap,,0,0,0,,aqui,
+Dialogue: 0,0:00:37.22,0:00:37.58,Cap,,0,0,0,,mas de
+Dialogue: 0,0:00:37.58,0:00:38.36,Cap,,0,0,0,,livro mesmo
+Dialogue: 0,0:00:38.36,0:00:38.88,Cap,,0,0,0,,favorito é
+Dialogue: 0,0:00:38.88,0:00:39.12,Cap,,0,0,0,,Crime e
+Dialogue: 0,0:00:39.12,0:00:40.14,Cap,,0,0,0,,Castigo e
+Dialogue: 0,0:00:40.14,0:00:40.40,Cap,,0,0,0,,tô lendo
+Dialogue: 0,0:00:40.40,0:00:41.08,Cap,,0,0,0,,bastante nessas
+Dialogue: 0,0:00:41.08,0:00:41.34,Cap,,0,0,0,,férias.
+Dialogue: 0,0:00:41.34,0:00:41.92,Cap,,0,0,0,,Talvez

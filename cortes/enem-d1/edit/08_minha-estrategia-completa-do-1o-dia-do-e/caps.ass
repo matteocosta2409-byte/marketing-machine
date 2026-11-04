@@ -1,0 +1,54 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Helvetica,67,&H00FFFFFF,&H00FFFFFF,&HC8000000,&HC8000000,0,1,0,0,100,100,0,0,1,6.7,6.7,2,60,60,300,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.04,0:00:00.66,Cap,,0,0,0,,Resumindo,
+Dialogue: 0,0:00:00.66,0:00:01.00,Cap,,0,0,0,,antes da
+Dialogue: 0,0:00:01.00,0:00:01.32,Cap,,0,0,0,,prova eu
+Dialogue: 0,0:00:01.32,0:00:01.70,Cap,,0,0,0,,olhava meus
+Dialogue: 0,0:00:01.70,0:00:02.48,Cap,,0,0,0,,repertórios.
+Dialogue: 0,0:00:02.48,0:00:02.90,Cap,,0,0,0,,Depois que
+Dialogue: 0,0:00:02.90,0:00:03.30,Cap,,0,0,0,,abria a
+Dialogue: 0,0:00:03.30,0:00:03.66,Cap,,0,0,0,,prova,
+Dialogue: 0,0:00:03.66,0:00:04.22,Cap,,0,0,0,,primeira coisa
+Dialogue: 0,0:00:04.22,0:00:04.56,Cap,,0,0,0,,era ver
+Dialogue: 0,0:00:04.56,0:00:05.12,Cap,,0,0,0,,o tema
+Dialogue: 0,0:00:05.12,0:00:05.82,Cap,,0,0,0,,e esquematizar
+Dialogue: 0,0:00:05.82,0:00:06.41,Cap,,0,0,0,,minha redação.
+Dialogue: 0,0:00:06.41,0:00:07.47,Cap,,0,0,0,,Depois inglês,
+Dialogue: 0,0:00:07.47,0:00:08.23,Cap,,0,0,0,,Humanas,
+Dialogue: 0,0:00:08.23,0:00:08.83,Cap,,0,0,0,,rascunho da
+Dialogue: 0,0:00:08.83,0:00:09.33,Cap,,0,0,0,,redação,
+Dialogue: 0,0:00:09.33,0:00:10.31,Cap,,0,0,0,,Linguagens e
+Dialogue: 0,0:00:10.31,0:00:11.17,Cap,,0,0,0,,passar redação
+Dialogue: 0,0:00:11.17,0:00:11.59,Cap,,0,0,0,,a limpo.
+Dialogue: 0,0:00:11.59,0:00:11.97,Cap,,0,0,0,,Meia hora
+Dialogue: 0,0:00:11.97,0:00:12.57,Cap,,0,0,0,,garimpando as
+Dialogue: 0,0:00:12.57,0:00:13.59,Cap,,0,0,0,,últimas questões,
+Dialogue: 0,0:00:13.59,0:00:13.95,Cap,,0,0,0,,cinco de
+Dialogue: 0,0:00:13.95,0:00:14.49,Cap,,0,0,0,,Humanas,
+Dialogue: 0,0:00:14.49,0:00:14.75,Cap,,0,0,0,,cinco de
+Dialogue: 0,0:00:14.75,0:00:15.43,Cap,,0,0,0,,Linguagens e
+Dialogue: 0,0:00:15.43,0:00:16.29,Cap,,0,0,0,,depois relia
+Dialogue: 0,0:00:16.29,0:00:16.95,Cap,,0,0,0,,minha redação
+Dialogue: 0,0:00:16.95,0:00:17.49,Cap,,0,0,0,,pra tentar
+Dialogue: 0,0:00:17.49,0:00:18.19,Cap,,0,0,0,,corrigir algum
+Dialogue: 0,0:00:18.19,0:00:18.41,Cap,,0,0,0,,erro que
+Dialogue: 0,0:00:18.41,0:00:19.29,Cap,,0,0,0,,eu achasse
+Dialogue: 0,0:00:19.29,0:00:20.05,Cap,,0,0,0,,nessa relida
+Dialogue: 0,0:00:20.05,0:00:20.39,Cap,,0,0,0,,final.
+Dialogue: 0,0:00:20.39,0:00:20.95,Cap,,0,0,0,,E essa
+Dialogue: 0,0:00:20.95,0:00:21.19,Cap,,0,0,0,,era a
+Dialogue: 0,0:00:21.19,0:00:21.83,Cap,,0,0,0,,minha estratégia
+Dialogue: 0,0:00:21.83,0:00:22.25,Cap,,0,0,0,,do primeiro
+Dialogue: 0,0:00:22.25,0:00:22.53,Cap,,0,0,0,,dia de
+Dialogue: 0,0:00:22.53,0:00:23.11,Cap,,0,0,0,,prova.
+Dialogue: 0,0:00:23.11,0:00:23.55,Cap,,0,0,0,,A

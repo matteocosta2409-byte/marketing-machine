@@ -1,0 +1,14 @@
+[0:v]trim=start=1.000:end=8.777,setpts=PTS-STARTPTS,crop=606:1080:680:0,scale=1080:1920,setsar=1[v0];
+[0:a]atrim=start=1.000:end=8.777,asetpts=PTS-STARTPTS[a0];
+[0:v]trim=start=9.010:end=12.745,setpts=PTS-STARTPTS,crop=606:1080:680:0,scale=1080:1920,setsar=1[v1];
+[0:a]atrim=start=9.010:end=12.745,asetpts=PTS-STARTPTS[a1];
+[0:v]trim=start=13.060:end=17.471,setpts=PTS-STARTPTS,crop=606:1080:680:0,scale=1080:1920,setsar=1[v2];
+[0:a]atrim=start=13.060:end=17.471,asetpts=PTS-STARTPTS[a2];
+[0:v]trim=start=17.661:end=24.269,setpts=PTS-STARTPTS,crop=606:1080:680:0,scale=1080:1920,setsar=1[v3];
+[0:a]atrim=start=17.661:end=24.269,asetpts=PTS-STARTPTS[a3];
+[v0][a0][v1][a1][v2][a2][v3][a3]concat=n=4:v=1:a=1[cv0][ca];
+[cv0]format=yuv420p[cv];
+[ca]loudnorm=I=-14:TP=-1:LRA=11,aresample=48000,asetnsamples=n=1024:p=0,asetpts=N/SR/TB[aout];
+movie='/Users/mac-matteo/marketing machine/cortes/enem-d2/edit/02_a-1a-coisa-que-eu-fazia-quando-a-prova-d/title.png',format=rgba,scale=out_color_matrix=bt709:out_range=tv,format=yuva420p[tt];
+[cv][tt]overlay=0:0:enable='lt(t,4.0)'[cvt];
+[cvt]ass='/Users/mac-matteo/marketing machine/cortes/enem-d2/edit/02_a-1a-coisa-que-eu-fazia-quando-a-prova-d/caps.ass':fontsdir='/Users/mac-matteo/marketing machine/assets/fonts/clipper'[outv]

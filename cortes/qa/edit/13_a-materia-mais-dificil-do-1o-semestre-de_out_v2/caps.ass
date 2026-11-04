@@ -1,0 +1,64 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Helvetica,67,&H00FFFFFF,&H00FFFFFF,&HC8000000,&HC8000000,0,1,0,0,100,100,0,0,1,6.7,6.7,2,60,60,540,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.04,0:00:00.16,Cap,,0,0,0,,Ó,
+Dialogue: 0,0:00:00.16,0:00:00.90,Cap,,0,0,0,,vou falar
+Dialogue: 0,0:00:00.90,0:00:01.30,Cap,,0,0,0,,matérias que
+Dialogue: 0,0:00:01.30,0:00:01.56,Cap,,0,0,0,,eu achava
+Dialogue: 0,0:00:01.56,0:00:02.14,Cap,,0,0,0,,difícil no
+Dialogue: 0,0:00:02.14,0:00:02.64,Cap,,0,0,0,,vestibular e
+Dialogue: 0,0:00:02.64,0:00:03.00,Cap,,0,0,0,,matérias que
+Dialogue: 0,0:00:03.00,0:00:03.22,Cap,,0,0,0,,eu achei
+Dialogue: 0,0:00:03.22,0:00:03.68,Cap,,0,0,0,,difícil na
+Dialogue: 0,0:00:03.68,0:00:04.28,Cap,,0,0,0,,faculdade.
+Dialogue: 0,0:00:04.28,0:00:04.52,Cap,,0,0,0,,Cara,
+Dialogue: 0,0:00:04.52,0:00:05.50,Cap,,0,0,0,,na faculdade,
+Dialogue: 0,0:00:05.50,0:00:06.06,Cap,,0,0,0,,bioquímica é
+Dialogue: 0,0:00:06.06,0:00:06.70,Cap,,0,0,0,,difícil,
+Dialogue: 0,0:00:06.70,0:00:07.20,Cap,,0,0,0,,bioquímica é
+Dialogue: 0,0:00:07.20,0:00:07.58,Cap,,0,0,0,,bem difícil,
+Dialogue: 0,0:00:07.58,0:00:07.70,Cap,,0,0,0,,que a
+Dialogue: 0,0:00:07.70,0:00:07.94,Cap,,0,0,0,,gente tem
+Dialogue: 0,0:00:07.94,0:00:08.32,Cap,,0,0,0,,no primeiro
+Dialogue: 0,0:00:08.32,0:00:08.79,Cap,,0,0,0,,semestre.
+Dialogue: 0,0:00:08.79,0:00:09.01,Cap,,0,0,0,,É,
+Dialogue: 0,0:00:09.01,0:00:09.43,Cap,,0,0,0,,tipo,
+Dialogue: 0,0:00:09.43,0:00:09.85,Cap,,0,0,0,,o terror
+Dialogue: 0,0:00:09.85,0:00:10.69,Cap,,0,0,0,,que fazem
+Dialogue: 0,0:00:10.69,0:00:10.87,Cap,,0,0,0,,é um
+Dialogue: 0,0:00:10.87,0:00:11.37,Cap,,0,0,0,,pouco real,
+Dialogue: 0,0:00:11.37,0:00:11.55,Cap,,0,0,0,,né?
+Dialogue: 0,0:00:11.55,0:00:11.93,Cap,,0,0,0,,Tipo,
+Dialogue: 0,0:00:11.93,0:00:12.47,Cap,,0,0,0,,é realmente
+Dialogue: 0,0:00:12.47,0:00:13.43,Cap,,0,0,0,,bastante difícil.
+Dialogue: 0,0:00:13.43,0:00:13.73,Cap,,0,0,0,,É,
+Dialogue: 0,0:00:13.73,0:00:13.93,Cap,,0,0,0,,cê tem
+Dialogue: 0,0:00:13.93,0:00:14.39,Cap,,0,0,0,,que estudar,
+Dialogue: 0,0:00:14.39,0:00:14.57,Cap,,0,0,0,,né?
+Dialogue: 0,0:00:14.57,0:00:14.79,Cap,,0,0,0,,Tem a
+Dialogue: 0,0:00:14.79,0:00:15.17,Cap,,0,0,0,,P2,
+Dialogue: 0,0:00:15.17,0:00:15.25,Cap,,0,0,0,,que é
+Dialogue: 0,0:00:15.25,0:00:15.59,Cap,,0,0,0,,a segunda
+Dialogue: 0,0:00:15.59,0:00:15.85,Cap,,0,0,0,,prova que
+Dialogue: 0,0:00:15.85,0:00:16.15,Cap,,0,0,0,,a gente
+Dialogue: 0,0:00:16.15,0:00:16.71,Cap,,0,0,0,,faz de
+Dialogue: 0,0:00:16.71,0:00:17.21,Cap,,0,0,0,,bioquímica,
+Dialogue: 0,0:00:17.21,0:00:17.45,Cap,,0,0,0,,que é
+Dialogue: 0,0:00:17.45,0:00:18.15,Cap,,0,0,0,,bem complexa,
+Dialogue: 0,0:00:18.15,0:00:18.69,Cap,,0,0,0,,bem difícil,
+Dialogue: 0,0:00:18.69,0:00:19.05,Cap,,0,0,0,,cai ali
+Dialogue: 0,0:00:19.05,0:00:19.77,Cap,,0,0,0,,metabolismo.
+Dialogue: 0,0:00:19.77,0:00:20.40,Cap,,0,0,0,,Então cê
+Dialogue: 0,0:00:20.40,0:00:20.56,Cap,,0,0,0,,tem que
+Dialogue: 0,0:00:20.56,0:00:21.20,Cap,,0,0,0,,saber bastante
+Dialogue: 0,0:00:21.20,0:00:21.52,Cap,,0,0,0,,coisa,
+Dialogue: 0,0:00:21.52,0:00:22.02,Cap,,0,0,0,,né?

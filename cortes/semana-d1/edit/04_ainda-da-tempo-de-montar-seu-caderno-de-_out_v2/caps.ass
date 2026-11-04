@@ -1,0 +1,56 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Helvetica,67,&H00FFFFFF,&H00FFFFFF,&HC8000000,&HC8000000,0,1,0,0,100,100,0,0,1,6.7,6.7,2,60,60,540,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.04,0:00:00.36,Cap,,0,0,0,,Um detalhe
+Dialogue: 0,0:00:00.36,0:00:01.00,Cap,,0,0,0,,importante:
+Dialogue: 0,0:00:01.00,0:00:01.42,Cap,,0,0,0,,antes de
+Dialogue: 0,0:00:01.42,0:00:01.82,Cap,,0,0,0,,cada uma
+Dialogue: 0,0:00:01.82,0:00:02.66,Cap,,0,0,0,,dessas provas,
+Dialogue: 0,0:00:02.66,0:00:02.98,Cap,,0,0,0,,eu dava
+Dialogue: 0,0:00:02.98,0:00:03.48,Cap,,0,0,0,,uma relida
+Dialogue: 0,0:00:03.48,0:00:03.78,Cap,,0,0,0,,no meu
+Dialogue: 0,0:00:03.78,0:00:04.44,Cap,,0,0,0,,caderninho de
+Dialogue: 0,0:00:04.44,0:00:05.12,Cap,,0,0,0,,repertórios,
+Dialogue: 0,0:00:05.12,0:00:05.78,Cap,,0,0,0,,divididos por
+Dialogue: 0,0:00:05.78,0:00:06.86,Cap,,0,0,0,,eixos temáticos.
+Dialogue: 0,0:00:06.86,0:00:07.04,Cap,,0,0,0,,E se
+Dialogue: 0,0:00:07.04,0:00:07.46,Cap,,0,0,0,,você ainda
+Dialogue: 0,0:00:07.46,0:00:07.82,Cap,,0,0,0,,não tem
+Dialogue: 0,0:00:07.82,0:00:08.08,Cap,,0,0,0,,um,
+Dialogue: 0,0:00:08.08,0:00:08.66,Cap,,0,0,0,,vale muito
+Dialogue: 0,0:00:08.66,0:00:09.10,Cap,,0,0,0,,a pena
+Dialogue: 0,0:00:09.10,0:00:09.46,Cap,,0,0,0,,montar um
+Dialogue: 0,0:00:09.46,0:00:09.79,Cap,,0,0,0,,agora.
+Dialogue: 0,0:00:09.79,0:00:10.33,Cap,,0,0,0,,Pesquise e
+Dialogue: 0,0:00:10.33,0:00:10.99,Cap,,0,0,0,,separe alguns
+Dialogue: 0,0:00:10.99,0:00:11.75,Cap,,0,0,0,,repertórios pra
+Dialogue: 0,0:00:11.75,0:00:12.05,Cap,,0,0,0,,cada um
+Dialogue: 0,0:00:12.05,0:00:12.51,Cap,,0,0,0,,dos eixos
+Dialogue: 0,0:00:12.51,0:00:13.09,Cap,,0,0,0,,temáticos que
+Dialogue: 0,0:00:13.09,0:00:13.69,Cap,,0,0,0,,podem cair.
+Dialogue: 0,0:00:13.69,0:00:14.39,Cap,,0,0,0,,Educação,
+Dialogue: 0,0:00:14.39,0:00:15.23,Cap,,0,0,0,,meio ambiente,
+Dialogue: 0,0:00:15.23,0:00:15.81,Cap,,0,0,0,,saúde,
+Dialogue: 0,0:00:15.81,0:00:16.31,Cap,,0,0,0,,defesa das
+Dialogue: 0,0:00:16.31,0:00:17.19,Cap,,0,0,0,,minorias.
+Dialogue: 0,0:00:17.19,0:00:17.73,Cap,,0,0,0,,Você precisa
+Dialogue: 0,0:00:17.73,0:00:18.31,Cap,,0,0,0,,ter repertório
+Dialogue: 0,0:00:18.31,0:00:18.89,Cap,,0,0,0,,pra cada
+Dialogue: 0,0:00:18.89,0:00:19.73,Cap,,0,0,0,,um deles.
+Dialogue: 0,0:00:19.73,0:00:19.91,Cap,,0,0,0,,E se
+Dialogue: 0,0:00:19.91,0:00:20.29,Cap,,0,0,0,,você já
+Dialogue: 0,0:00:20.29,0:00:20.51,Cap,,0,0,0,,tem,
+Dialogue: 0,0:00:20.51,0:00:21.17,Cap,,0,0,0,,relê todos
+Dialogue: 0,0:00:21.17,0:00:21.69,Cap,,0,0,0,,os dias
+Dialogue: 0,0:00:21.69,0:00:22.13,Cap,,0,0,0,,antes da
+Dialogue: 0,0:00:22.13,0:00:23.11,Cap,,0,0,0,,prova simulada.
+Dialogue: 0,0:00:23.11,0:00:23.55,Cap,,0,0,0,,E

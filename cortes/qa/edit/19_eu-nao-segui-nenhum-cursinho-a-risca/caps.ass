@@ -1,0 +1,78 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Helvetica,67,&H00FFFFFF,&H00FFFFFF,&HC8000000,&HC8000000,0,1,0,0,100,100,0,0,1,6.7,6.7,2,60,60,300,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.04,0:00:00.42,Cap,,0,0,0,,O Ferreto
+Dialogue: 0,0:00:00.42,0:00:00.62,Cap,,0,0,0,,tem um
+Dialogue: 0,0:00:00.62,0:00:00.80,Cap,,0,0,0,,curso de
+Dialogue: 0,0:00:00.80,0:00:01.60,Cap,,0,0,0,,matemática muito
+Dialogue: 0,0:00:01.60,0:00:01.84,Cap,,0,0,0,,bom.
+Dialogue: 0,0:00:01.84,0:00:02.34,Cap,,0,0,0,,Então,
+Dialogue: 0,0:00:02.34,0:00:02.46,Cap,,0,0,0,,eu,
+Dialogue: 0,0:00:02.46,0:00:03.36,Cap,,0,0,0,,números complexos,
+Dialogue: 0,0:00:03.36,0:00:03.74,Cap,,0,0,0,,que cai
+Dialogue: 0,0:00:03.74,0:00:04.10,Cap,,0,0,0,,de forma
+Dialogue: 0,0:00:04.10,0:00:04.88,Cap,,0,0,0,,muito específica
+Dialogue: 0,0:00:04.88,0:00:05.50,Cap,,0,0,0,,na UnB,
+Dialogue: 0,0:00:05.50,0:00:06.02,Cap,,0,0,0,,estudei só
+Dialogue: 0,0:00:06.02,0:00:06.60,Cap,,0,0,0,,pelo Ferreto.
+Dialogue: 0,0:00:06.60,0:00:07.16,Cap,,0,0,0,,Tinha-- eu
+Dialogue: 0,0:00:07.16,0:00:07.44,Cap,,0,0,0,,vi,
+Dialogue: 0,0:00:07.44,0:00:07.88,Cap,,0,0,0,,eu zerei
+Dialogue: 0,0:00:07.88,0:00:08.26,Cap,,0,0,0,,o curso
+Dialogue: 0,0:00:08.26,0:00:08.70,Cap,,0,0,0,,deles de
+Dialogue: 0,0:00:08.70,0:00:09.70,Cap,,0,0,0,,números complexos.
+Dialogue: 0,0:00:09.70,0:00:10.06,Cap,,0,0,0,,Vi todas
+Dialogue: 0,0:00:10.06,0:00:10.54,Cap,,0,0,0,,as aulas,
+Dialogue: 0,0:00:10.54,0:00:10.86,Cap,,0,0,0,,fiz todos
+Dialogue: 0,0:00:10.86,0:00:11.48,Cap,,0,0,0,,os exercícios
+Dialogue: 0,0:00:11.48,0:00:12.02,Cap,,0,0,0,,e foi
+Dialogue: 0,0:00:12.02,0:00:12.42,Cap,,0,0,0,,muito bom
+Dialogue: 0,0:00:12.42,0:00:12.70,Cap,,0,0,0,,pra mim,
+Dialogue: 0,0:00:12.70,0:00:13.00,Cap,,0,0,0,,porque ele
+Dialogue: 0,0:00:13.00,0:00:13.14,Cap,,0,0,0,,dá um
+Dialogue: 0,0:00:13.14,0:00:13.80,Cap,,0,0,0,,aprofundamento um
+Dialogue: 0,0:00:13.80,0:00:14.36,Cap,,0,0,0,,pouco maior.
+Dialogue: 0,0:00:14.36,0:00:14.86,Cap,,0,0,0,,Porque querendo
+Dialogue: 0,0:00:14.86,0:00:15.12,Cap,,0,0,0,,ou não,
+Dialogue: 0,0:00:15.12,0:00:15.42,Cap,,0,0,0,,o dono
+Dialogue: 0,0:00:15.42,0:00:15.82,Cap,,0,0,0,,do Ferreto
+Dialogue: 0,0:00:15.82,0:00:16.14,Cap,,0,0,0,,um professor
+Dialogue: 0,0:00:16.14,0:00:16.72,Cap,,0,0,0,,de matemática,
+Dialogue: 0,0:00:16.72,0:00:16.96,Cap,,0,0,0,,então o
+Dialogue: 0,0:00:16.96,0:00:17.34,Cap,,0,0,0,,curso de
+Dialogue: 0,0:00:17.34,0:00:18.22,Cap,,0,0,0,,matemática deles
+Dialogue: 0,0:00:18.22,0:00:18.54,Cap,,0,0,0,,é muito
+Dialogue: 0,0:00:18.54,0:00:18.74,Cap,,0,0,0,,bom.
+Dialogue: 0,0:00:18.74,0:00:19.42,Cap,,0,0,0,,Então eu
+Dialogue: 0,0:00:19.42,0:00:19.82,Cap,,0,0,0,,utilizei a
+Dialogue: 0,0:00:19.82,0:00:20.54,Cap,,0,0,0,,Prova Total,
+Dialogue: 0,0:00:20.54,0:00:21.10,Cap,,0,0,0,,Poliedro,
+Dialogue: 0,0:00:21.10,0:00:21.82,Cap,,0,0,0,,Ferreto,
+Dialogue: 0,0:00:21.82,0:00:22.34,Cap,,0,0,0,,o Olimpo,
+Dialogue: 0,0:00:22.34,0:00:22.68,Cap,,0,0,0,,né,
+Dialogue: 0,0:00:22.68,0:00:23.34,Cap,,0,0,0,,e Academia
+Dialogue: 0,0:00:23.34,0:00:24.04,Cap,,0,0,0,,das Específicas.
+Dialogue: 0,0:00:24.04,0:00:24.38,Cap,,0,0,0,,Peguei um
+Dialogue: 0,0:00:24.38,0:00:24.90,Cap,,0,0,0,,pouco os
+Dialogue: 0,0:00:24.90,0:00:25.46,Cap,,0,0,0,,me-- os
+Dialogue: 0,0:00:25.46,0:00:25.76,Cap,,0,0,0,,melhor,
+Dialogue: 0,0:00:25.76,0:00:26.22,Cap,,0,0,0,,as melhores
+Dialogue: 0,0:00:26.22,0:00:26.98,Cap,,0,0,0,,coisas desses
+Dialogue: 0,0:00:26.98,0:00:27.44,Cap,,0,0,0,,cursinhos,
+Dialogue: 0,0:00:27.44,0:00:27.72,Cap,,0,0,0,,mas não
+Dialogue: 0,0:00:27.72,0:00:28.38,Cap,,0,0,0,,usei tudo
+Dialogue: 0,0:00:28.38,0:00:28.66,Cap,,0,0,0,,de um
+Dialogue: 0,0:00:28.66,0:00:29.24,Cap,,0,0,0,,só e
+Dialogue: 0,0:00:29.24,0:00:29.80,Cap,,0,0,0,,não segui
+Dialogue: 0,0:00:29.80,0:00:30.20,Cap,,0,0,0,,à risca
+Dialogue: 0,0:00:30.20,0:00:30.62,Cap,,0,0,0,,nenhum tipo
+Dialogue: 0,0:00:30.62,0:00:31.67,Cap,,0,0,0,,de cronograma.

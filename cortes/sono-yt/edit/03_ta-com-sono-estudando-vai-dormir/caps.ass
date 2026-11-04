@@ -1,0 +1,91 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Helvetica,67,&H00FFFFFF,&H00FFFFFF,&HC8000000,&HC8000000,0,1,0,0,100,100,0,0,1,6.7,6.7,2,60,60,300,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.04,0:00:00.38,Cap,,0,0,0,,Uma coisa
+Dialogue: 0,0:00:00.38,0:00:00.74,Cap,,0,0,0,,legal que
+Dialogue: 0,0:00:00.74,0:00:01.06,Cap,,0,0,0,,ele fala
+Dialogue: 0,0:00:01.06,0:00:01.50,Cap,,0,0,0,,no livro,
+Dialogue: 0,0:00:01.50,0:00:01.98,Cap,,0,0,0,,inclusive é
+Dialogue: 0,0:00:01.98,0:00:02.26,Cap,,0,0,0,,uma das
+Dialogue: 0,0:00:02.26,0:00:03.10,Cap,,0,0,0,,primeiras frases
+Dialogue: 0,0:00:03.10,0:00:03.28,Cap,,0,0,0,,que eu
+Dialogue: 0,0:00:03.28,0:00:04.10,Cap,,0,0,0,,lembro com
+Dialogue: 0,0:00:04.10,0:00:05.04,Cap,,0,0,0,,extrema clareza,
+Dialogue: 0,0:00:05.04,0:00:05.16,Cap,,0,0,0,,é que
+Dialogue: 0,0:00:05.16,0:00:05.72,Cap,,0,0,0,,ele fala:
+Dialogue: 0,0:00:05.72,0:00:06.62,Cap,,0,0,0,,"caro leitor,
+Dialogue: 0,0:00:06.62,0:00:07.12,Cap,,0,0,0,,caso você
+Dialogue: 0,0:00:07.12,0:00:07.82,Cap,,0,0,0,,sinta sono
+Dialogue: 0,0:00:07.82,0:00:08.06,Cap,,0,0,0,,ao ler
+Dialogue: 0,0:00:08.06,0:00:08.68,Cap,,0,0,0,,esse livro,
+Dialogue: 0,0:00:08.68,0:00:09.06,Cap,,0,0,0,,não,
+Dialogue: 0,0:00:09.06,0:00:09.42,Cap,,0,0,0,,não se
+Dialogue: 0,0:00:09.42,0:00:10.62,Cap,,0,0,0,,sinta incomodado
+Dialogue: 0,0:00:10.62,0:00:11.32,Cap,,0,0,0,,de dormir.
+Dialogue: 0,0:00:11.32,0:00:11.96,Cap,,0,0,0,,Na verdade,
+Dialogue: 0,0:00:11.96,0:00:12.46,Cap,,0,0,0,,eu até
+Dialogue: 0,0:00:12.46,0:00:12.96,Cap,,0,0,0,,prefiro que
+Dialogue: 0,0:00:12.96,0:00:13.59,Cap,,0,0,0,,você durma
+Dialogue: 0,0:00:13.59,0:00:13.81,Cap,,0,0,0,,pra que
+Dialogue: 0,0:00:13.81,0:00:14.55,Cap,,0,0,0,,você memorize
+Dialogue: 0,0:00:14.55,0:00:15.03,Cap,,0,0,0,,e aprenda
+Dialogue: 0,0:00:15.03,0:00:15.43,Cap,,0,0,0,,mais com
+Dialogue: 0,0:00:15.43,0:00:15.67,Cap,,0,0,0,,o meu
+Dialogue: 0,0:00:15.67,0:00:15.86,Cap,,0,0,0,,livro".
+Dialogue: 0,0:00:15.86,0:00:16.32,Cap,,0,0,0,,Então ele
+Dialogue: 0,0:00:16.32,0:00:17.08,Cap,,0,0,0,,fala justamente:
+Dialogue: 0,0:00:17.08,0:00:17.26,Cap,,0,0,0,,"cara,
+Dialogue: 0,0:00:17.26,0:00:17.52,Cap,,0,0,0,,você tá
+Dialogue: 0,0:00:17.52,0:00:18.06,Cap,,0,0,0,,cansando lendo
+Dialogue: 0,0:00:18.06,0:00:18.54,Cap,,0,0,0,,o livro?
+Dialogue: 0,0:00:18.54,0:00:18.74,Cap,,0,0,0,,Cara,
+Dialogue: 0,0:00:18.74,0:00:19.24,Cap,,0,0,0,,vai dormir,
+Dialogue: 0,0:00:19.24,0:00:19.74,Cap,,0,0,0,,depois você
+Dialogue: 0,0:00:19.74,0:00:19.98,Cap,,0,0,0,,tira um
+Dialogue: 0,0:00:19.98,0:00:20.40,Cap,,0,0,0,,tempinho pra
+Dialogue: 0,0:00:20.40,0:00:20.58,Cap,,0,0,0,,ler o
+Dialogue: 0,0:00:20.58,0:00:20.86,Cap,,0,0,0,,livro",
+Dialogue: 0,0:00:20.86,0:00:21.12,Cap,,0,0,0,,porque é
+Dialogue: 0,0:00:21.12,0:00:21.78,Cap,,0,0,0,,mais eficiente
+Dialogue: 0,0:00:21.78,0:00:22.20,Cap,,0,0,0,,você ler
+Dialogue: 0,0:00:22.20,0:00:22.90,Cap,,0,0,0,,um livro
+Dialogue: 0,0:00:22.90,0:00:23.40,Cap,,0,0,0,,e fazendo
+Dialogue: 0,0:00:23.40,0:00:23.88,Cap,,0,0,0,,um paralelo
+Dialogue: 0,0:00:23.88,0:00:24.44,Cap,,0,0,0,,pro vestibular,
+Dialogue: 0,0:00:24.44,0:00:25.35,Cap,,0,0,0,,você estudar
+Dialogue: 0,0:00:25.35,0:00:25.69,Cap,,0,0,0,,quando você
+Dialogue: 0,0:00:25.69,0:00:26.67,Cap,,0,0,0,,está descansado,
+Dialogue: 0,0:00:26.67,0:00:26.93,Cap,,0,0,0,,do que
+Dialogue: 0,0:00:26.93,0:00:27.37,Cap,,0,0,0,,você ler
+Dialogue: 0,0:00:27.37,0:00:27.86,Cap,,0,0,0,,um livro
+Dialogue: 0,0:00:27.86,0:00:28.46,Cap,,0,0,0,,ou estudar
+Dialogue: 0,0:00:28.46,0:00:28.98,Cap,,0,0,0,,quando você
+Dialogue: 0,0:00:28.98,0:00:29.34,Cap,,0,0,0,,tá com
+Dialogue: 0,0:00:29.34,0:00:29.62,Cap,,0,0,0,,sono,
+Dialogue: 0,0:00:29.62,0:00:30.02,Cap,,0,0,0,,porque não
+Dialogue: 0,0:00:30.02,0:00:30.64,Cap,,0,0,0,,é eficiente
+Dialogue: 0,0:00:30.64,0:00:31.30,Cap,,0,0,0,,você estudar
+Dialogue: 0,0:00:31.30,0:00:31.80,Cap,,0,0,0,,cansado.
+Dialogue: 0,0:00:31.80,0:00:32.40,Cap,,0,0,0,,Você justamente
+Dialogue: 0,0:00:32.40,0:00:32.90,Cap,,0,0,0,,vai se
+Dialogue: 0,0:00:32.90,0:00:33.58,Cap,,0,0,0,,exaurir mais,
+Dialogue: 0,0:00:33.58,0:00:33.78,Cap,,0,0,0,,você vai
+Dialogue: 0,0:00:33.78,0:00:34.28,Cap,,0,0,0,,ficar mais
+Dialogue: 0,0:00:34.28,0:00:34.86,Cap,,0,0,0,,cansado e
+Dialogue: 0,0:00:34.86,0:00:35.30,Cap,,0,0,0,,não vai
+Dialogue: 0,0:00:35.30,0:00:36.10,Cap,,0,0,0,,ser eficiente
+Dialogue: 0,0:00:36.10,0:00:36.58,Cap,,0,0,0,,aquele estudo,
+Dialogue: 0,0:00:36.58,0:00:36.80,Cap,,0,0,0,,você não
+Dialogue: 0,0:00:36.80,0:00:37.44,Cap,,0,0,0,,vai lembrar
+Dialogue: 0,0:00:37.44,0:00:37.80,Cap,,0,0,0,,aquilo que
+Dialogue: 0,0:00:37.80,0:00:38.44,Cap,,0,0,0,,você estudou
+Dialogue: 0,0:00:38.44,0:00:39.46,Cap,,0,0,0,,posteriormente.

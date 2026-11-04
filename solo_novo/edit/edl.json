@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "sources": {
+    "IMG_9509": "/Users/mac-matteo/marketing machine/solo_novo/IMG_9509.mov",
+    "IMG_9510": "/Users/mac-matteo/marketing machine/solo_novo/IMG_9510.mov",
+    "IMG_9512": "/Users/mac-matteo/marketing machine/solo_novo/IMG_9512.mov",
+    "IMG_9511": "/Users/mac-matteo/marketing machine/solo_novo/IMG_9511.mov"
+  },
+  "ranges": [
+    {
+      "source": "IMG_9509",
+      "start": 0.66,
+      "end": 4.299
+    },
+    {
+      "source": "IMG_9510",
+      "start": 0.46,
+      "end": 3.98
+    },
+    {
+      "source": "IMG_9510",
+      "start": 4.16,
+      "end": 7.66
+    },
+    {
+      "source": "IMG_9510",
+      "start": 8.06,
+      "end": 10.4
+    },
+    {
+      "source": "IMG_9510",
+      "start": 10.9,
+      "end": 12.938
+    },
+    {
+      "source": "IMG_9512",
+      "start": 0.48,
+      "end": 8.1
+    },
+    {
+      "source": "IMG_9511",
+      "start": 0.4,
+      "end": 2.15
+    },
+    {
+      "source": "IMG_9511",
+      "start": 3.0,
+      "end": 8.383
+    },
+    {
+      "source": "IMG_9511",
+      "start": 8.616,
+      "end": 12.261
+    },
+    {
+      "source": "IMG_9511",
+      "start": 12.595,
+      "end": 18.764
+    }
+  ],
+  "grade": "none",
+  "overlays": [],
+  "subtitle_case": "natural",
+  "subtitle_style": "FontName=Helvetica,FontSize=8,Bold=0,Italic=1,PrimaryColour=&H00FFFFFF,OutlineColour=&HC8000000,BorderStyle=1,Outline=1,Shadow=1,Alignment=2,MarginV=45",
+  "total_duration_s": 40.014
+}

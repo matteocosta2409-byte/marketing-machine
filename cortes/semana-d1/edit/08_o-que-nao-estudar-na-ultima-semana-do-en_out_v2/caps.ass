@@ -1,0 +1,39 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Helvetica,67,&H00FFFFFF,&H00FFFFFF,&HC8000000,&HC8000000,0,1,0,0,100,100,0,0,1,6.7,6.7,2,60,60,540,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.04,0:00:00.38,Cap,,0,0,0,,E por
+Dialogue: 0,0:00:00.38,0:00:00.76,Cap,,0,0,0,,último,
+Dialogue: 0,0:00:00.76,0:00:01.22,Cap,,0,0,0,,a última
+Dialogue: 0,0:00:01.22,0:00:01.70,Cap,,0,0,0,,dica é
+Dialogue: 0,0:00:01.70,0:00:02.76,Cap,,0,0,0,,fazer revisões
+Dialogue: 0,0:00:02.76,0:00:03.90,Cap,,0,0,0,,direcionadas.
+Dialogue: 0,0:00:03.90,0:00:04.26,Cap,,0,0,0,,Agora não
+Dialogue: 0,0:00:04.26,0:00:04.42,Cap,,0,0,0,,é hora
+Dialogue: 0,0:00:04.42,0:00:04.78,Cap,,0,0,0,,de estudar
+Dialogue: 0,0:00:04.78,0:00:05.02,Cap,,0,0,0,,a mais
+Dialogue: 0,0:00:05.02,0:00:05.58,Cap,,0,0,0,,difícil.
+Dialogue: 0,0:00:05.58,0:00:05.84,Cap,,0,0,0,,Não é
+Dialogue: 0,0:00:05.84,0:00:06.12,Cap,,0,0,0,,hora de
+Dialogue: 0,0:00:06.12,0:00:06.60,Cap,,0,0,0,,você pegar
+Dialogue: 0,0:00:06.60,0:00:07.48,Cap,,0,0,0,,aquela matéria
+Dialogue: 0,0:00:07.48,0:00:07.78,Cap,,0,0,0,,que você
+Dialogue: 0,0:00:07.78,0:00:08.22,Cap,,0,0,0,,não entendeu
+Dialogue: 0,0:00:08.22,0:00:08.68,Cap,,0,0,0,,na primeira
+Dialogue: 0,0:00:08.68,0:00:09.12,Cap,,0,0,0,,vez e
+Dialogue: 0,0:00:09.12,0:00:10.48,Cap,,0,0,0,,tentar reestudar
+Dialogue: 0,0:00:10.48,0:00:10.76,Cap,,0,0,0,,pra ganhar
+Dialogue: 0,0:00:10.76,0:00:11.22,Cap,,0,0,0,,um acerto.
+Dialogue: 0,0:00:11.22,0:00:11.56,Cap,,0,0,0,,Não é
+Dialogue: 0,0:00:11.56,0:00:11.92,Cap,,0,0,0,,isso que
+Dialogue: 0,0:00:11.92,0:00:12.42,Cap,,0,0,0,,vai aumentar
+Dialogue: 0,0:00:12.42,0:00:12.68,Cap,,0,0,0,,a sua
+Dialogue: 0,0:00:12.68,0:00:13.38,Cap,,0,0,0,,nota.

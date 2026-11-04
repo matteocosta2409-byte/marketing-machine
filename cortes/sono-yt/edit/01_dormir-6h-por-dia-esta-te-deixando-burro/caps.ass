@@ -1,0 +1,91 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Helvetica,67,&H00FFFFFF,&H00FFFFFF,&HC8000000,&HC8000000,0,1,0,0,100,100,0,0,1,6.7,6.7,2,60,60,300,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.04,0:00:01.90,Cap,,0,0,0,,Aproximadamente zero
+Dialogue: 0,0:00:01.90,0:00:02.32,Cap,,0,0,0,,por cento
+Dialogue: 0,0:00:02.32,0:00:03.08,Cap,,0,0,0,,da população,
+Dialogue: 0,0:00:03.08,0:00:03.36,Cap,,0,0,0,,é isso
+Dialogue: 0,0:00:03.36,0:00:03.82,Cap,,0,0,0,,mesmo,
+Dialogue: 0,0:00:03.82,0:00:04.28,Cap,,0,0,0,,zero por
+Dialogue: 0,0:00:04.28,0:00:04.56,Cap,,0,0,0,,cento da
+Dialogue: 0,0:00:04.56,0:00:05.58,Cap,,0,0,0,,população vive
+Dialogue: 0,0:00:05.58,0:00:06.12,Cap,,0,0,0,,bem e
+Dialogue: 0,0:00:06.12,0:00:06.36,Cap,,0,0,0,,tem as
+Dialogue: 0,0:00:06.36,0:00:07.12,Cap,,0,0,0,,suas capacidades
+Dialogue: 0,0:00:07.12,0:00:08.72,Cap,,0,0,0,,mentais mantidas
+Dialogue: 0,0:00:08.72,0:00:09.28,Cap,,0,0,0,,dormindo seis
+Dialogue: 0,0:00:09.28,0:00:09.70,Cap,,0,0,0,,horas por
+Dialogue: 0,0:00:09.70,0:00:09.96,Cap,,0,0,0,,dia.
+Dialogue: 0,0:00:09.96,0:00:10.56,Cap,,0,0,0,,Ou seja,
+Dialogue: 0,0:00:10.56,0:00:11.30,Cap,,0,0,0,,basicamente,
+Dialogue: 0,0:00:11.30,0:00:11.96,Cap,,0,0,0,,quase nenhum
+Dialogue: 0,0:00:11.96,0:00:12.46,Cap,,0,0,0,,ser humano,
+Dialogue: 0,0:00:12.46,0:00:12.96,Cap,,0,0,0,,apesar de
+Dialogue: 0,0:00:12.96,0:00:13.98,Cap,,0,0,0,,algumas exceções,
+Dialogue: 0,0:00:13.98,0:00:14.46,Cap,,0,0,0,,existe até
+Dialogue: 0,0:00:14.46,0:00:15.40,Cap,,0,0,0,,uma mutação
+Dialogue: 0,0:00:15.40,0:00:15.90,Cap,,0,0,0,,genética que
+Dialogue: 0,0:00:15.90,0:00:16.26,Cap,,0,0,0,,ele fala
+Dialogue: 0,0:00:16.26,0:00:16.74,Cap,,0,0,0,,que existem
+Dialogue: 0,0:00:16.74,0:00:17.31,Cap,,0,0,0,,pessoas que
+Dialogue: 0,0:00:17.31,0:00:18.03,Cap,,0,0,0,,conseguem dormir
+Dialogue: 0,0:00:18.03,0:00:18.53,Cap,,0,0,0,,seis horas
+Dialogue: 0,0:00:18.53,0:00:19.03,Cap,,0,0,0,,sem ter
+Dialogue: 0,0:00:19.03,0:00:19.41,Cap,,0,0,0,,o cérebro
+Dialogue: 0,0:00:19.41,0:00:20.21,Cap,,0,0,0,,afetado,
+Dialogue: 0,0:00:20.21,0:00:20.67,Cap,,0,0,0,,mas é
+Dialogue: 0,0:00:20.67,0:00:21.09,Cap,,0,0,0,,menos de
+Dialogue: 0,0:00:21.09,0:00:21.47,Cap,,0,0,0,,zero por
+Dialogue: 0,0:00:21.47,0:00:21.71,Cap,,0,0,0,,cento.
+Dialogue: 0,0:00:21.71,0:00:22.15,Cap,,0,0,0,,Ou seja,
+Dialogue: 0,0:00:22.15,0:00:22.59,Cap,,0,0,0,,noventa e
+Dialogue: 0,0:00:22.59,0:00:23.17,Cap,,0,0,0,,nove vírgula
+Dialogue: 0,0:00:23.17,0:00:23.59,Cap,,0,0,0,,nove por
+Dialogue: 0,0:00:23.59,0:00:23.87,Cap,,0,0,0,,cento da
+Dialogue: 0,0:00:23.87,0:00:25.27,Cap,,0,0,0,,população mundial
+Dialogue: 0,0:00:25.27,0:00:25.63,Cap,,0,0,0,,tem as
+Dialogue: 0,0:00:25.63,0:00:26.37,Cap,,0,0,0,,suas capacidades
+Dialogue: 0,0:00:26.37,0:00:27.64,Cap,,0,0,0,,mentais afetadas
+Dialogue: 0,0:00:27.64,0:00:28.32,Cap,,0,0,0,,por privação
+Dialogue: 0,0:00:28.32,0:00:28.70,Cap,,0,0,0,,de sono.
+Dialogue: 0,0:00:28.70,0:00:28.90,Cap,,0,0,0,,O que
+Dialogue: 0,0:00:28.90,0:00:29.22,Cap,,0,0,0,,é muito
+Dialogue: 0,0:00:29.22,0:00:29.96,Cap,,0,0,0,,importante que
+Dialogue: 0,0:00:29.96,0:00:30.46,Cap,,0,0,0,,você não
+Dialogue: 0,0:00:30.46,0:00:30.76,Cap,,0,0,0,,ache que
+Dialogue: 0,0:00:30.76,0:00:31.32,Cap,,0,0,0,,você esse
+Dialogue: 0,0:00:31.32,0:00:31.86,Cap,,0,0,0,,zero vírgula
+Dialogue: 0,0:00:31.86,0:00:32.20,Cap,,0,0,0,,zero um
+Dialogue: 0,0:00:32.20,0:00:32.60,Cap,,0,0,0,,por cento.
+Dialogue: 0,0:00:32.60,0:00:32.84,Cap,,0,0,0,,Você tem
+Dialogue: 0,0:00:32.84,0:00:33.30,Cap,,0,0,0,,que entender
+Dialogue: 0,0:00:33.30,0:00:33.72,Cap,,0,0,0,,que você
+Dialogue: 0,0:00:33.72,0:00:34.00,Cap,,0,0,0,,tem que
+Dialogue: 0,0:00:34.00,0:00:34.92,Cap,,0,0,0,,dormir entre
+Dialogue: 0,0:00:34.92,0:00:35.44,Cap,,0,0,0,,sete e
+Dialogue: 0,0:00:35.44,0:00:36.04,Cap,,0,0,0,,nove horas.
+Dialogue: 0,0:00:36.04,0:00:36.38,Cap,,0,0,0,,Esse o
+Dialogue: 0,0:00:36.38,0:00:37.23,Cap,,0,0,0,,período ideal.
+Dialogue: 0,0:00:37.23,0:00:37.69,Cap,,0,0,0,,Não seis
+Dialogue: 0,0:00:37.69,0:00:37.97,Cap,,0,0,0,,horas,
+Dialogue: 0,0:00:37.97,0:00:38.45,Cap,,0,0,0,,não cinco
+Dialogue: 0,0:00:38.45,0:00:38.75,Cap,,0,0,0,,horas,
+Dialogue: 0,0:00:38.75,0:00:39.47,Cap,,0,0,0,,entre sete
+Dialogue: 0,0:00:39.47,0:00:39.83,Cap,,0,0,0,,e nove
+Dialogue: 0,0:00:39.83,0:00:40.09,Cap,,0,0,0,,horas,
+Dialogue: 0,0:00:40.09,0:00:40.55,Cap,,0,0,0,,pra você
+Dialogue: 0,0:00:40.55,0:00:41.33,Cap,,0,0,0,,conseguir manter
+Dialogue: 0,0:00:41.33,0:00:41.79,Cap,,0,0,0,,uma rotina
+Dialogue: 0,0:00:41.79,0:00:42.31,Cap,,0,0,0,,de estudos
+Dialogue: 0,0:00:42.31,0:00:43.11,Cap,,0,0,0,,eficiente ao
+Dialogue: 0,0:00:43.11,0:00:43.47,Cap,,0,0,0,,longo da
+Dialogue: 0,0:00:43.47,0:00:44.54,Cap,,0,0,0,,sua preparação.

@@ -1,0 +1,163 @@
+{
+  "version": 1,
+  "sources": {
+    "src": "/Users/mac-matteo/marketing machine/solo_cien/src.mov"
+  },
+  "ranges": [
+    {
+      "source": "src",
+      "start": 0.86,
+      "end": 4.98
+    },
+    {
+      "source": "src",
+      "start": 5.3,
+      "end": 10.457
+    },
+    {
+      "source": "src",
+      "start": 10.82,
+      "end": 11.96
+    },
+    {
+      "source": "src",
+      "start": 13.86,
+      "end": 17.8
+    },
+    {
+      "source": "src",
+      "start": 18.16,
+      "end": 22.7
+    },
+    {
+      "source": "src",
+      "start": 22.96,
+      "end": 24.98
+    },
+    {
+      "source": "src",
+      "start": 25.48,
+      "end": 29.26
+    },
+    {
+      "source": "src",
+      "start": 29.54,
+      "end": 30.94
+    },
+    {
+      "source": "src",
+      "start": 31.2,
+      "end": 35.015
+    },
+    {
+      "source": "src",
+      "start": 35.4,
+      "end": 37.706
+    },
+    {
+      "source": "src",
+      "start": 37.972,
+      "end": 40.12
+    },
+    {
+      "source": "src",
+      "start": 42.38,
+      "end": 43.116
+    },
+    {
+      "source": "src",
+      "start": 43.316,
+      "end": 46.04
+    },
+    {
+      "source": "src",
+      "start": 46.32,
+      "end": 48.824
+    },
+    {
+      "source": "src",
+      "start": 49.1,
+      "end": 55.38
+    },
+    {
+      "source": "src",
+      "start": 55.68,
+      "end": 58.692
+    },
+    {
+      "source": "src",
+      "start": 59.06,
+      "end": 61.36
+    },
+    {
+      "source": "src",
+      "start": 61.62,
+      "end": 65.416
+    },
+    {
+      "source": "src",
+      "start": 65.7,
+      "end": 68.108
+    },
+    {
+      "source": "src",
+      "start": 68.48,
+      "end": 72.58
+    },
+    {
+      "source": "src",
+      "start": 72.82,
+      "end": 74.74
+    },
+    {
+      "source": "src",
+      "start": 75.06,
+      "end": 77.352
+    },
+    {
+      "source": "src",
+      "start": 77.64,
+      "end": 81.06
+    },
+    {
+      "source": "src",
+      "start": 81.36,
+      "end": 82.88
+    },
+    {
+      "source": "src",
+      "start": 86.82,
+      "end": 88.838
+    },
+    {
+      "source": "src",
+      "start": 89.14,
+      "end": 94.2
+    },
+    {
+      "source": "src",
+      "start": 94.52,
+      "end": 95.68
+    },
+    {
+      "source": "src",
+      "start": 95.94,
+      "end": 103.3
+    },
+    {
+      "source": "src",
+      "start": 103.62,
+      "end": 104.44
+    },
+    {
+      "source": "src",
+      "start": 105.02,
+      "end": 105.951
+    }
+  ],
+  "grade": "none",
+  "overlays": [],
+  "subtitle_case": "natural",
+  "subtitle_style": "FontName=Helvetica,FontSize=10,Bold=0,Italic=1,PrimaryColour=&H00FFFFFF,OutlineColour=&HC8000000,BorderStyle=1,Outline=1,Shadow=1,Alignment=2,MarginV=45",
+  "total_duration_s": 88.727
+}

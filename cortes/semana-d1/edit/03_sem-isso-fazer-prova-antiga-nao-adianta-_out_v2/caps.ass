@@ -1,0 +1,50 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Helvetica,67,&H00FFFFFF,&H00FFFFFF,&HC8000000,&HC8000000,0,1,0,0,100,100,0,0,1,6.7,6.7,2,60,60,540,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.04,0:00:00.38,Cap,,0,0,0,,Feita a
+Dialogue: 0,0:00:00.38,0:00:00.88,Cap,,0,0,0,,prova no
+Dialogue: 0,0:00:00.88,0:00:01.74,Cap,,0,0,0,,período noturno,
+Dialogue: 0,0:00:01.74,0:00:02.52,Cap,,0,0,0,,eu corrigia
+Dialogue: 0,0:00:02.52,0:00:02.92,Cap,,0,0,0,,ela.
+Dialogue: 0,0:00:02.92,0:00:03.28,Cap,,0,0,0,,Não só
+Dialogue: 0,0:00:03.28,0:00:03.72,Cap,,0,0,0,,contava os
+Dialogue: 0,0:00:03.72,0:00:04.42,Cap,,0,0,0,,acertos.
+Dialogue: 0,0:00:04.42,0:00:05.24,Cap,,0,0,0,,Olhava cada
+Dialogue: 0,0:00:05.24,0:00:05.52,Cap,,0,0,0,,erro e
+Dialogue: 0,0:00:05.52,0:00:05.98,Cap,,0,0,0,,entendia o
+Dialogue: 0,0:00:05.98,0:00:06.36,Cap,,0,0,0,,porquê que
+Dialogue: 0,0:00:06.36,0:00:06.62,Cap,,0,0,0,,eu tinha
+Dialogue: 0,0:00:06.62,0:00:07.12,Cap,,0,0,0,,errado.
+Dialogue: 0,0:00:07.12,0:00:07.38,Cap,,0,0,0,,Não tinha
+Dialogue: 0,0:00:07.38,0:00:07.74,Cap,,0,0,0,,entendido o
+Dialogue: 0,0:00:07.74,0:00:08.36,Cap,,0,0,0,,conteúdo?
+Dialogue: 0,0:00:08.36,0:00:08.74,Cap,,0,0,0,,Eu tinha
+Dialogue: 0,0:00:08.74,0:00:09.61,Cap,,0,0,0,,lido errado?
+Dialogue: 0,0:00:09.61,0:00:10.27,Cap,,0,0,0,,Tinha faltado
+Dialogue: 0,0:00:10.27,0:00:10.67,Cap,,0,0,0,,tempo?
+Dialogue: 0,0:00:10.67,0:00:10.99,Cap,,0,0,0,,E essa
+Dialogue: 0,0:00:10.99,0:00:11.61,Cap,,0,0,0,,correção é
+Dialogue: 0,0:00:11.61,0:00:11.99,Cap,,0,0,0,,o que
+Dialogue: 0,0:00:11.99,0:00:12.35,Cap,,0,0,0,,mostra o
+Dialogue: 0,0:00:12.35,0:00:12.51,Cap,,0,0,0,,que que
+Dialogue: 0,0:00:12.51,0:00:12.67,Cap,,0,0,0,,eu vou
+Dialogue: 0,0:00:12.67,0:00:13.15,Cap,,0,0,0,,revisar no
+Dialogue: 0,0:00:13.15,0:00:13.88,Cap,,0,0,0,,dia seguinte.
+Dialogue: 0,0:00:13.88,0:00:14.42,Cap,,0,0,0,,Sem ela,
+Dialogue: 0,0:00:14.42,0:00:14.76,Cap,,0,0,0,,a prova
+Dialogue: 0,0:00:14.76,0:00:15.16,Cap,,0,0,0,,vira mais
+Dialogue: 0,0:00:15.16,0:00:15.62,Cap,,0,0,0,,um treino
+Dialogue: 0,0:00:15.62,0:00:16.32,Cap,,0,0,0,,de resistência
+Dialogue: 0,0:00:16.32,0:00:16.44,Cap,,0,0,0,,e eu
+Dialogue: 0,0:00:16.44,0:00:16.80,Cap,,0,0,0,,não consigo
+Dialogue: 0,0:00:16.80,0:00:17.50,Cap,,0,0,0,,aprender nada
+Dialogue: 0,0:00:17.50,0:00:18.26,Cap,,0,0,0,,com ela.

@@ -1,0 +1,17 @@
+{
+  "language_code": "por",
+  "language_probability": 1.0,
+  "text": "[m\u00fasica tocando]",
+  "words": [
+    {
+      "text": "[m\u00fasica tocando]",
+      "start": 1.42,
+      "end": 39.96,
+      "type": "audio_event",
+      "speaker_id": "speaker_0",
+      "logprob": -0.1714424336373278
+    }
+  ],
+  "transcription_id": "GM5trh18mARBS0anceOm",
+  "audio_duration_secs": 42.1746875
+}

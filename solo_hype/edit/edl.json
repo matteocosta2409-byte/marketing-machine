@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "sources": {
+    "src": "/Users/mac-matteo/marketing machine/solo_hype/src.mov"
+  },
+  "ranges": [
+    {
+      "source": "src",
+      "start": 0.9,
+      "end": 2.92
+    },
+    {
+      "source": "src",
+      "start": 3.18,
+      "end": 4.82
+    },
+    {
+      "source": "src",
+      "start": 5.22,
+      "end": 5.64
+    },
+    {
+      "source": "src",
+      "start": 5.9,
+      "end": 6.76
+    },
+    {
+      "source": "src",
+      "start": 7.08,
+      "end": 7.72
+    },
+    {
+      "source": "src",
+      "start": 8.079,
+      "end": 9.38
+    },
+    {
+      "source": "src",
+      "start": 9.62,
+      "end": 12.06
+    },
+    {
+      "source": "src",
+      "start": 12.38,
+      "end": 14.736
+    }
+  ],
+  "grade": "none",
+  "overlays": [],
+  "subtitle_case": "natural",
+  "subtitle_style": "FontName=Helvetica,FontSize=10,Bold=0,Italic=1,PrimaryColour=&H00FFFFFF,OutlineColour=&HC8000000,BorderStyle=1,Outline=1,Shadow=1,Alignment=2,MarginV=45",
+  "total_duration_s": 11.677
+}

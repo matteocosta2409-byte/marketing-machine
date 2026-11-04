@@ -1,0 +1,76 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Helvetica,67,&H00FFFFFF,&H00FFFFFF,&HC8000000,&HC8000000,0,1,0,0,100,100,0,0,1,6.7,6.7,2,60,60,300,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.04,0:00:00.20,Cap,,0,0,0,,Agora,
+Dialogue: 0,0:00:00.20,0:00:00.48,Cap,,0,0,0,,o país
+Dialogue: 0,0:00:00.48,0:00:00.74,Cap,,0,0,0,,que eu
+Dialogue: 0,0:00:00.74,0:00:01.36,Cap,,0,0,0,,mais quero
+Dialogue: 0,0:00:01.36,0:00:01.68,Cap,,0,0,0,,ir na
+Dialogue: 0,0:00:01.68,0:00:02.10,Cap,,0,0,0,,vida é
+Dialogue: 0,0:00:02.10,0:00:02.55,Cap,,0,0,0,,a Rússia.
+Dialogue: 0,0:00:02.55,0:00:02.91,Cap,,0,0,0,,Eu quero
+Dialogue: 0,0:00:02.91,0:00:03.17,Cap,,0,0,0,,muito ir
+Dialogue: 0,0:00:03.17,0:00:03.61,Cap,,0,0,0,,pra Rússia.
+Dialogue: 0,0:00:03.61,0:00:03.75,Cap,,0,0,0,,Ah,
+Dialogue: 0,0:00:03.75,0:00:04.13,Cap,,0,0,0,,por quê?
+Dialogue: 0,0:00:04.13,0:00:04.47,Cap,,0,0,0,,Porque eu
+Dialogue: 0,0:00:04.47,0:00:04.85,Cap,,0,0,0,,ando tendo
+Dialogue: 0,0:00:04.85,0:00:05.37,Cap,,0,0,0,,contato com
+Dialogue: 0,0:00:05.37,0:00:05.99,Cap,,0,0,0,,cultura russa
+Dialogue: 0,0:00:05.99,0:00:06.29,Cap,,0,0,0,,muito,
+Dialogue: 0,0:00:06.29,0:00:06.79,Cap,,0,0,0,,em livros,
+Dialogue: 0,0:00:06.79,0:00:07.31,Cap,,0,0,0,,em música,
+Dialogue: 0,0:00:07.31,0:00:07.47,Cap,,0,0,0,,e eu
+Dialogue: 0,0:00:07.47,0:00:08.17,Cap,,0,0,0,,acho fenomenal
+Dialogue: 0,0:00:08.17,0:00:08.49,Cap,,0,0,0,,o quanto
+Dialogue: 0,0:00:08.49,0:00:08.69,Cap,,0,0,0,,que eles
+Dialogue: 0,0:00:08.69,0:00:09.05,Cap,,0,0,0,,são bons
+Dialogue: 0,0:00:09.05,0:00:09.39,Cap,,0,0,0,,nas coisas
+Dialogue: 0,0:00:09.39,0:00:09.63,Cap,,0,0,0,,que eles
+Dialogue: 0,0:00:09.63,0:00:09.93,Cap,,0,0,0,,fazem.
+Dialogue: 0,0:00:09.93,0:00:10.43,Cap,,0,0,0,,Os russos,
+Dialogue: 0,0:00:10.43,0:00:10.65,Cap,,0,0,0,,pra mim,
+Dialogue: 0,0:00:10.65,0:00:11.21,Cap,,0,0,0,,na literatura,
+Dialogue: 0,0:00:11.21,0:00:11.41,Cap,,0,0,0,,são os
+Dialogue: 0,0:00:11.41,0:00:11.91,Cap,,0,0,0,,melhores.
+Dialogue: 0,0:00:11.91,0:00:12.09,Cap,,0,0,0,,Eu tenho
+Dialogue: 0,0:00:12.09,0:00:12.57,Cap,,0,0,0,,um colega
+Dialogue: 0,0:00:12.57,0:00:13.05,Cap,,0,0,0,,da música,
+Dialogue: 0,0:00:13.05,0:00:13.49,Cap,,0,0,0,,faz música
+Dialogue: 0,0:00:13.49,0:00:13.87,Cap,,0,0,0,,na UnB,
+Dialogue: 0,0:00:13.87,0:00:14.03,Cap,,0,0,0,,que o
+Dialogue: 0,0:00:14.03,0:00:14.35,Cap,,0,0,0,,Miguel,
+Dialogue: 0,0:00:14.35,0:00:14.51,Cap,,0,0,0,,e eu
+Dialogue: 0,0:00:14.51,0:00:14.73,Cap,,0,0,0,,uma vez
+Dialogue: 0,0:00:14.73,0:00:15.15,Cap,,0,0,0,,eu perguntei:
+Dialogue: 0,0:00:15.15,0:00:15.37,Cap,,0,0,0,,"Pô,
+Dialogue: 0,0:00:15.37,0:00:15.83,Cap,,0,0,0,,quais são
+Dialogue: 0,0:00:15.83,0:00:16.29,Cap,,0,0,0,,os melhores
+Dialogue: 0,0:00:16.29,0:00:16.65,Cap,,0,0,0,,músicos?
+Dialogue: 0,0:00:16.65,0:00:16.87,Cap,,0,0,0,,Qual o
+Dialogue: 0,0:00:16.87,0:00:17.21,Cap,,0,0,0,,país que
+Dialogue: 0,0:00:17.21,0:00:17.37,Cap,,0,0,0,,tem os
+Dialogue: 0,0:00:17.37,0:00:18.05,Cap,,0,0,0,,melhores músicos?"
+Dialogue: 0,0:00:18.05,0:00:18.35,Cap,,0,0,0,,Ele falou
+Dialogue: 0,0:00:18.35,0:00:18.69,Cap,,0,0,0,,na lata:
+Dialogue: 0,0:00:18.69,0:00:19.29,Cap,,0,0,0,,"Os russos".
+Dialogue: 0,0:00:19.29,0:00:19.47,Cap,,0,0,0,,Então eu
+Dialogue: 0,0:00:19.47,0:00:19.87,Cap,,0,0,0,,quero muito
+Dialogue: 0,0:00:19.87,0:00:20.07,Cap,,0,0,0,,ir lá
+Dialogue: 0,0:00:20.07,0:00:21.01,Cap,,0,0,0,,conhecer essa
+Dialogue: 0,0:00:21.01,0:00:21.47,Cap,,0,0,0,,bela arte
+Dialogue: 0,0:00:21.47,0:00:21.81,Cap,,0,0,0,,que eles
+Dialogue: 0,0:00:21.81,0:00:22.35,Cap,,0,0,0,,produzem,
+Dialogue: 0,0:00:22.35,0:00:23.15,Cap,,0,0,0,,tanto literária
+Dialogue: 0,0:00:23.15,0:00:24.33,Cap,,0,0,0,,quanto musicalmente.
+Dialogue: 0,0:00:24.33,0:00:24.83,Cap,,0,0,0,,Então é
+Dialogue: 0,0:00:24.83,0:00:25.52,Cap,,0,0,0,,isso.

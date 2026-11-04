@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "sources": {
+    "src": "/Users/mac-matteo/marketing machine/solo_9947/src.mov"
+  },
+  "ranges": [
+    {
+      "source": "src",
+      "start": 1.16,
+      "end": 4.7
+    },
+    {
+      "source": "src",
+      "start": 5.18,
+      "end": 10.06
+    },
+    {
+      "source": "src",
+      "start": 10.32,
+      "end": 16.78
+    },
+    {
+      "source": "src",
+      "start": 17.0,
+      "end": 20.16
+    },
+    {
+      "source": "src",
+      "start": 20.44,
+      "end": 23.48
+    },
+    {
+      "source": "src",
+      "start": 24.02,
+      "end": 27.8
+    },
+    {
+      "source": "src",
+      "start": 28.12,
+      "end": 29.84
+    },
+    {
+      "source": "src",
+      "start": 30.1,
+      "end": 37.7
+    }
+  ],
+  "grade": "none",
+  "overlays": [],
+  "subtitle_case": "natural",
+  "subtitle_style": "FontName=Helvetica,FontSize=10,Bold=0,Italic=1,PrimaryColour=&H00FFFFFF,OutlineColour=&HC8000000,BorderStyle=1,Outline=1,Shadow=1,Alignment=2,MarginV=45",
+  "total_duration_s": 34.18
+}

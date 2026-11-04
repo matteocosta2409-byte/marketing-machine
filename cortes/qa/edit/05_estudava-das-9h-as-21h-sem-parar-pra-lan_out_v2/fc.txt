@@ -1,0 +1,26 @@
+[0:v]trim=start=1.000:end=4.352,setpts=PTS-STARTPTS,scale=1080:-2,pad=1080:1920:0:(oh-ih)/2:black,setsar=1[v0];
+[0:a]atrim=start=1.000:end=4.352,asetpts=PTS-STARTPTS[a0];
+[0:v]trim=start=4.568:end=8.451,setpts=PTS-STARTPTS,scale=1080:-2,pad=1080:1920:0:(oh-ih)/2:black,setsar=1[v1];
+[0:a]atrim=start=4.568:end=8.451,asetpts=PTS-STARTPTS[a1];
+[0:v]trim=start=8.711:end=10.640,setpts=PTS-STARTPTS,scale=1080:-2,pad=1080:1920:0:(oh-ih)/2:black,setsar=1[v2];
+[0:a]atrim=start=8.711:end=10.640,asetpts=PTS-STARTPTS[a2];
+[0:v]trim=start=10.980:end=12.876,setpts=PTS-STARTPTS,scale=1080:-2,pad=1080:1920:0:(oh-ih)/2:black,setsar=1[v3];
+[0:a]atrim=start=10.980:end=12.876,asetpts=PTS-STARTPTS[a3];
+[0:v]trim=start=43.060:end=44.960,setpts=PTS-STARTPTS,scale=1080:-2,pad=1080:1920:0:(oh-ih)/2:black,setsar=1[v4];
+[0:a]atrim=start=43.060:end=44.960,asetpts=PTS-STARTPTS[a4];
+[0:v]trim=start=45.200:end=49.797,setpts=PTS-STARTPTS,scale=1080:-2,pad=1080:1920:0:(oh-ih)/2:black,setsar=1[v5];
+[0:a]atrim=start=45.200:end=49.797,asetpts=PTS-STARTPTS[a5];
+[0:v]trim=start=50.180:end=55.740,setpts=PTS-STARTPTS,scale=1080:-2,pad=1080:1920:0:(oh-ih)/2:black,setsar=1[v6];
+[0:a]atrim=start=50.180:end=55.740,asetpts=PTS-STARTPTS[a6];
+[0:v]trim=start=56.220:end=59.300,setpts=PTS-STARTPTS,scale=1080:-2,pad=1080:1920:0:(oh-ih)/2:black,setsar=1[v7];
+[0:a]atrim=start=56.220:end=59.300,asetpts=PTS-STARTPTS[a7];
+[0:v]trim=start=59.660:end=64.917,setpts=PTS-STARTPTS,scale=1080:-2,pad=1080:1920:0:(oh-ih)/2:black,setsar=1[v8];
+[0:a]atrim=start=59.660:end=64.917,asetpts=PTS-STARTPTS[a8];
+[0:v]trim=start=65.220:end=71.393,setpts=PTS-STARTPTS,scale=1080:-2,pad=1080:1920:0:(oh-ih)/2:black,setsar=1[v9];
+[0:a]atrim=start=65.220:end=71.393,asetpts=PTS-STARTPTS[a9];
+[v0][a0][v1][a1][v2][a2][v3][a3][v4][a4][v5][a5][v6][a6][v7][a7][v8][a8][v9][a9]concat=n=10:v=1:a=1[cv0][ca];
+[cv0]zscale=tin=arib-std-b67:min=bt2020nc:pin=bt2020:rin=tv:t=linear:npl=100,format=gbrpf32le,zscale=p=bt709,tonemap=tonemap=hable:desat=0,zscale=t=bt709:m=bt709:r=tv,format=yuv420p[cv];
+[ca]loudnorm=I=-14:TP=-1:LRA=11[aout];
+movie='/Users/mac-matteo/marketing machine/cortes/qa/edit/05_estudava-das-9h-as-21h-sem-parar-pra-lan_out_v2/title.png',format=rgba,scale=out_color_matrix=bt709:out_range=tv,format=yuva420p[tt];
+[cv][tt]overlay=0:0[cvt];
+[cvt]ass='/Users/mac-matteo/marketing machine/cortes/qa/edit/05_estudava-das-9h-as-21h-sem-parar-pra-lan_out_v2/caps.ass':fontsdir='/Users/mac-matteo/marketing machine/assets/fonts/clipper'[outv]

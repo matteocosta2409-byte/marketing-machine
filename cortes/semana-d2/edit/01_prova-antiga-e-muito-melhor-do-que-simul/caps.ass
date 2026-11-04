@@ -1,0 +1,87 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Helvetica,67,&H00FFFFFF,&H00FFFFFF,&HC8000000,&HC8000000,0,1,0,0,100,100,0,0,1,6.7,6.7,2,60,60,300,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.04,0:00:00.24,Cap,,0,0,0,,E uma
+Dialogue: 0,0:00:00.24,0:00:01.20,Cap,,0,0,0,,coisa importante:
+Dialogue: 0,0:00:01.20,0:00:01.72,Cap,,0,0,0,,prova antiga
+Dialogue: 0,0:00:01.72,0:00:02.16,Cap,,0,0,0,,do Enem
+Dialogue: 0,0:00:02.16,0:00:02.76,Cap,,0,0,0,,é muito
+Dialogue: 0,0:00:02.76,0:00:03.18,Cap,,0,0,0,,melhor do
+Dialogue: 0,0:00:03.18,0:00:03.46,Cap,,0,0,0,,que seu
+Dialogue: 0,0:00:03.46,0:00:04.01,Cap,,0,0,0,,simulado.
+Dialogue: 0,0:00:04.01,0:00:04.75,Cap,,0,0,0,,Muito melhor
+Dialogue: 0,0:00:04.75,0:00:05.19,Cap,,0,0,0,,mesmo.
+Dialogue: 0,0:00:05.19,0:00:05.57,Cap,,0,0,0,,O simulado
+Dialogue: 0,0:00:05.57,0:00:06.17,Cap,,0,0,0,,do cursinho
+Dialogue: 0,0:00:06.17,0:00:06.81,Cap,,0,0,0,,tenta imitar
+Dialogue: 0,0:00:06.81,0:00:07.23,Cap,,0,0,0,,o Enem,
+Dialogue: 0,0:00:07.23,0:00:07.53,Cap,,0,0,0,,mas a
+Dialogue: 0,0:00:07.53,0:00:08.23,Cap,,0,0,0,,prova antiga
+Dialogue: 0,0:00:08.23,0:00:08.49,Cap,,0,0,0,,é o
+Dialogue: 0,0:00:08.49,0:00:09.07,Cap,,0,0,0,,próprio Enem,
+Dialogue: 0,0:00:09.07,0:00:09.45,Cap,,0,0,0,,que já
+Dialogue: 0,0:00:09.45,0:00:09.77,Cap,,0,0,0,,foi uma
+Dialogue: 0,0:00:09.77,0:00:10.35,Cap,,0,0,0,,prova oficial,
+Dialogue: 0,0:00:10.35,0:00:10.73,Cap,,0,0,0,,feito pelo
+Dialogue: 0,0:00:10.73,0:00:11.03,Cap,,0,0,0,,Inep.
+Dialogue: 0,0:00:11.03,0:00:11.69,Cap,,0,0,0,,Então recomendo
+Dialogue: 0,0:00:11.69,0:00:12.01,Cap,,0,0,0,,muito que
+Dialogue: 0,0:00:12.01,0:00:12.73,Cap,,0,0,0,,vocês façam
+Dialogue: 0,0:00:12.73,0:00:13.29,Cap,,0,0,0,,provas antigas
+Dialogue: 0,0:00:13.29,0:00:13.67,Cap,,0,0,0,,do Enem.
+Dialogue: 0,0:00:13.67,0:00:13.95,Cap,,0,0,0,,Pode ser
+Dialogue: 0,0:00:13.95,0:00:14.23,Cap,,0,0,0,,até as
+Dialogue: 0,0:00:14.23,0:00:15.07,Cap,,0,0,0,,mais antigas,
+Dialogue: 0,0:00:15.07,0:00:15.37,Cap,,0,0,0,,pode ser
+Dialogue: 0,0:00:15.37,0:00:15.75,Cap,,0,0,0,,o Enem
+Dialogue: 0,0:00:15.75,0:00:16.19,Cap,,0,0,0,,PPL,
+Dialogue: 0,0:00:16.19,0:00:16.45,Cap,,0,0,0,,que é
+Dialogue: 0,0:00:16.45,0:00:17.21,Cap,,0,0,0,,outra aplicação
+Dialogue: 0,0:00:17.21,0:00:17.49,Cap,,0,0,0,,do Enem
+Dialogue: 0,0:00:17.49,0:00:17.83,Cap,,0,0,0,,no mesmo
+Dialogue: 0,0:00:17.83,0:00:18.45,Cap,,0,0,0,,padrão,
+Dialogue: 0,0:00:18.45,0:00:18.71,Cap,,0,0,0,,porque é
+Dialogue: 0,0:00:18.71,0:00:19.19,Cap,,0,0,0,,o mais
+Dialogue: 0,0:00:19.19,0:00:19.79,Cap,,0,0,0,,próximo que
+Dialogue: 0,0:00:19.79,0:00:20.19,Cap,,0,0,0,,você vai
+Dialogue: 0,0:00:20.19,0:00:20.41,Cap,,0,0,0,,ter do
+Dialogue: 0,0:00:20.41,0:00:20.73,Cap,,0,0,0,,que vai
+Dialogue: 0,0:00:20.73,0:00:21.21,Cap,,0,0,0,,cair lá
+Dialogue: 0,0:00:21.21,0:00:21.71,Cap,,0,0,0,,no domingo.
+Dialogue: 0,0:00:21.71,0:00:21.95,Cap,,0,0,0,,Se você
+Dialogue: 0,0:00:21.95,0:00:22.45,Cap,,0,0,0,,já fez
+Dialogue: 0,0:00:22.45,0:00:22.79,Cap,,0,0,0,,todas as
+Dialogue: 0,0:00:22.79,0:00:23.61,Cap,,0,0,0,,provas antigas,
+Dialogue: 0,0:00:23.61,0:00:23.77,Cap,,0,0,0,,o que
+Dialogue: 0,0:00:23.77,0:00:24.33,Cap,,0,0,0,,é comum
+Dialogue: 0,0:00:24.33,0:00:24.65,Cap,,0,0,0,,ali pra
+Dialogue: 0,0:00:24.65,0:00:24.91,Cap,,0,0,0,,quem tá
+Dialogue: 0,0:00:24.91,0:00:25.47,Cap,,0,0,0,,batendo cento
+Dialogue: 0,0:00:25.47,0:00:26.23,Cap,,0,0,0,,e sessenta,
+Dialogue: 0,0:00:26.23,0:00:26.45,Cap,,0,0,0,,cento e
+Dialogue: 0,0:00:26.45,0:00:26.89,Cap,,0,0,0,,sessenta e
+Dialogue: 0,0:00:26.89,0:00:27.61,Cap,,0,0,0,,cinco acertos
+Dialogue: 0,0:00:27.61,0:00:27.95,Cap,,0,0,0,,ao longo
+Dialogue: 0,0:00:27.95,0:00:28.37,Cap,,0,0,0,,do ano,
+Dialogue: 0,0:00:28.37,0:00:28.71,Cap,,0,0,0,,aí,
+Dialogue: 0,0:00:28.71,0:00:28.89,Cap,,0,0,0,,sim,
+Dialogue: 0,0:00:28.89,0:00:29.31,Cap,,0,0,0,,eu recomendo
+Dialogue: 0,0:00:29.31,0:00:29.75,Cap,,0,0,0,,o simulado
+Dialogue: 0,0:00:29.75,0:00:30.45,Cap,,0,0,0,,de cursinho.
+Dialogue: 0,0:00:30.45,0:00:30.67,Cap,,0,0,0,,É uma
+Dialogue: 0,0:00:30.67,0:00:31.47,Cap,,0,0,0,,saída razoável,
+Dialogue: 0,0:00:31.47,0:00:31.99,Cap,,0,0,0,,mas sempre
+Dialogue: 0,0:00:31.99,0:00:32.43,Cap,,0,0,0,,que der,
+Dialogue: 0,0:00:32.43,0:00:33.09,Cap,,0,0,0,,prioriza a
+Dialogue: 0,0:00:33.09,0:00:33.77,Cap,,0,0,0,,prova antiga,
+Dialogue: 0,0:00:33.77,0:00:34.15,Cap,,0,0,0,,tá?
+Dialogue: 0,0:00:34.15,0:00:34.59,Cap,,0,0,0,,E

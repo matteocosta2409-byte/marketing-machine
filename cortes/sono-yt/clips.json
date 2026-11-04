@@ -1,0 +1,90 @@
+[
+ {
+  "id": 1,
+  "start": 398.67,
+  "end": 448.61,
+  "layout": "crop",
+  "score": 92,
+  "title": "Dormir 6h por noite|está te deixando burro",
+  "why": "Dado chocante (0% da população funciona bem com 6h) + recomendação clara de 7 a 9h.",
+  "caption": "Você NÃO é a exceção. Praticamente ninguém mantém o cérebro funcionando bem dormindo 6h por noite 😴 (Matthew Walker, Por Que Nós Dormimos)\n\n#vestibular #enem #medicina #sono #estudos",
+  "subtitle": "(dormi 8h por noite e passei em 1º lugar em Medicina 2x)"
+ },
+ {
+  "id": 2,
+  "start": 323.3,
+  "end": 386.61,
+  "layout": "crop",
+  "score": 88,
+  "title": "Por que que você deveria|dormir 8h por noite se quiser|passar no vestibular",
+  "why": "Experimento 6h vs 8h com virada: quem dormiu menos foi pior e nem percebeu.",
+  "caption": "\"Eu durmo pouco mas consigo me virar\" — o experimento mostra que não 👀\n\n#vestibular #enem #medicina #sono #estudos",
+  "subtitle": "(o experimento que mudou minha preparação)"
+ },
+ {
+  "id": 3,
+  "start": 508.93,
+  "end": 552.95,
+  "layout": "crop",
+  "score": 85,
+  "title": "Tá com sono estudando?|Vai dormir.",
+  "why": "Frase memorável do autor + permissão pra dormir, contraintuitivo pra vestibulando.",
+  "caption": "Estudar cansado não é eficiente. O próprio autor pede pro leitor dormir se der sono lendo o livro.\n\n#vestibular #enem #medicina #sono #estudos",
+  "subtitle": "(fiz isso e passei em 1º lugar em Medicina 2x)"
+ },
+ {
+  "id": 4,
+  "start": 228.9,
+  "end": 283.1,
+  "layout": "crop",
+  "score": 84,
+  "title": "O que seu cérebro faz|com o que você estudou",
+  "why": "Explica REM x não-REM aplicado ao estudo (hipocampo = memória RAM → córtex).",
+  "caption": "É dormindo que a matéria do dia vira memória de longo prazo 🧠\n\n#vestibular #enem #medicina #sono #memoria",
+  "subtitle": "(entendi isso e passei em 1º lugar em Medicina 2x)"
+ },
+ {
+  "id": 5,
+  "start": 724.21,
+  "end": 771.22,
+  "layout": "crop",
+  "score": 82,
+  "title": "O café da tarde|tá destruindo seu sono",
+  "why": "Regra prática e acionável: cafeína 6h antes de dormir (meia-vida).",
+  "caption": "Tomou café? Faz a conta: daqui 6h você tem que estar dormindo ☕\n\n#vestibular #enem #medicina #sono #cafeina",
+  "subtitle": "(fiz isso e passei em 1º lugar em Medicina 2x)"
+ },
+ {
+  "id": 6,
+  "start": 553.35,
+  "end": 604.13,
+  "layout": "crop",
+  "score": 78,
+  "title": "Por que que às vezes você acorda|no dia seguinte com a resposta|de questões que você não sabia|no dia anterior",
+  "why": "História do pianista + dormir sem saber a questão e acordar com a resposta.",
+  "caption": "O sono não é seu inimigo, ele é parte do aprendizado 🎹\n\n#vestibular #enem #medicina #sono #estudos",
+  "subtitle": "(o sono é parte do aprendizado)"
+ },
+ {
+  "id": 7,
+  "start": 771.58,
+  "end": 811.76,
+  "layout": "crop",
+  "score": 76,
+  "title": "Faça isso assim|que você acordar",
+  "why": "Hábito simples (tomar sol de manhã) com mecanismo (melatonina/ciclo circadiano) + resumo das 3 dicas.",
+  "caption": "Sol de manhã = sono melhor à noite ☀️\n\n#vestibular #enem #medicina #sono #rotina",
+  "subtitle": "(fiz isso e passei em 1º lugar em Medicina 2x)"
+ },
+ {
+  "id": 8,
+  "start": 604.63,
+  "end": 655.35,
+  "layout": "crop",
+  "score": 74,
+  "title": "O 1º lugar em Medicina|dormia 9 horas por noite",
+  "why": "Autoridade (1º lugar UnB) + defesa do cochilo e da sesta europeia.",
+  "caption": "Não perca nem um minuto de sono pra ficar estudando 😴\n\n#vestibular #enem #medicina #sono #unb",
+  "subtitle": "(fiz isso e passei em 1º lugar em Medicina 2x)"
+ }
+]

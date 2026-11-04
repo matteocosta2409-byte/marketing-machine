@@ -1,0 +1,48 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Helvetica,67,&H00FFFFFF,&H00FFFFFF,&HC8000000,&HC8000000,0,1,0,0,100,100,0,0,1,6.7,6.7,2,60,60,540,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.04,0:00:00.44,Cap,,0,0,0,,No fim,
+Dialogue: 0,0:00:00.44,0:00:01.56,Cap,,0,0,0,,sobravam aproximadamente
+Dialogue: 0,0:00:01.56,0:00:02.04,Cap,,0,0,0,,cinco questões
+Dialogue: 0,0:00:02.04,0:00:02.66,Cap,,0,0,0,,de natureza,
+Dialogue: 0,0:00:02.66,0:00:02.98,Cap,,0,0,0,,cinco de
+Dialogue: 0,0:00:02.98,0:00:03.84,Cap,,0,0,0,,Matemática.
+Dialogue: 0,0:00:03.84,0:00:04.32,Cap,,0,0,0,,Sempre as
+Dialogue: 0,0:00:04.32,0:00:05.22,Cap,,0,0,0,,mais difíceis.
+Dialogue: 0,0:00:05.22,0:00:05.34,Cap,,0,0,0,,E eu
+Dialogue: 0,0:00:05.34,0:00:05.74,Cap,,0,0,0,,gostava de
+Dialogue: 0,0:00:05.74,0:00:06.14,Cap,,0,0,0,,pensar que
+Dialogue: 0,0:00:06.14,0:00:06.60,Cap,,0,0,0,,esse momento
+Dialogue: 0,0:00:06.60,0:00:07.42,Cap,,0,0,0,,de garimpar
+Dialogue: 0,0:00:07.42,0:00:08.08,Cap,,0,0,0,,questões,
+Dialogue: 0,0:00:08.08,0:00:08.34,Cap,,0,0,0,,porque é
+Dialogue: 0,0:00:08.34,0:00:09.04,Cap,,0,0,0,,exatamente isso
+Dialogue: 0,0:00:09.04,0:00:09.34,Cap,,0,0,0,,que você
+Dialogue: 0,0:00:09.34,0:00:10.26,Cap,,0,0,0,,tá fazendo.
+Dialogue: 0,0:00:10.26,0:00:10.60,Cap,,0,0,0,,Você não
+Dialogue: 0,0:00:10.60,0:00:11.16,Cap,,0,0,0,,vai acertar
+Dialogue: 0,0:00:11.16,0:00:11.64,Cap,,0,0,0,,todas.
+Dialogue: 0,0:00:11.64,0:00:12.42,Cap,,0,0,0,,Ninguém gabarita
+Dialogue: 0,0:00:12.42,0:00:12.74,Cap,,0,0,0,,o segundo
+Dialogue: 0,0:00:12.74,0:00:12.96,Cap,,0,0,0,,dia do
+Dialogue: 0,0:00:12.96,0:00:13.23,Cap,,0,0,0,,Enem.
+Dialogue: 0,0:00:13.23,0:00:13.55,Cap,,0,0,0,,Então você
+Dialogue: 0,0:00:13.55,0:00:14.47,Cap,,0,0,0,,vai tentando,
+Dialogue: 0,0:00:14.47,0:00:14.89,Cap,,0,0,0,,pula,
+Dialogue: 0,0:00:14.89,0:00:15.25,Cap,,0,0,0,,volta,
+Dialogue: 0,0:00:15.25,0:00:15.67,Cap,,0,0,0,,procura um
+Dialogue: 0,0:00:15.67,0:00:16.69,Cap,,0,0,0,,raciocínio e
+Dialogue: 0,0:00:16.69,0:00:17.25,Cap,,0,0,0,,cada acerto
+Dialogue: 0,0:00:17.25,0:00:17.51,Cap,,0,0,0,,que sai
+Dialogue: 0,0:00:17.51,0:00:18.23,Cap,,0,0,0,,dali é
+Dialogue: 0,0:00:18.23,0:00:18.67,Cap,,0,0,0,,ouro pra
+Dialogue: 0,0:00:18.67,0:00:19.51,Cap,,0,0,0,,sua nota.

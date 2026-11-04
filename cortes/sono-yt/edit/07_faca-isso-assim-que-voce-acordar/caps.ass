@@ -1,0 +1,80 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Helvetica,67,&H00FFFFFF,&H00FFFFFF,&HC8000000,&HC8000000,0,1,0,0,100,100,0,0,1,6.7,6.7,2,60,60,300,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.04,0:00:00.40,Cap,,0,0,0,,E por
+Dialogue: 0,0:00:00.40,0:00:00.74,Cap,,0,0,0,,último,
+Dialogue: 0,0:00:00.74,0:00:01.30,Cap,,0,0,0,,é extremamente
+Dialogue: 0,0:00:01.30,0:00:02.10,Cap,,0,0,0,,importante que
+Dialogue: 0,0:00:02.10,0:00:02.56,Cap,,0,0,0,,você,
+Dialogue: 0,0:00:02.56,0:00:02.92,Cap,,0,0,0,,assim que
+Dialogue: 0,0:00:02.92,0:00:03.62,Cap,,0,0,0,,você acorde,
+Dialogue: 0,0:00:03.62,0:00:04.12,Cap,,0,0,0,,todos os
+Dialogue: 0,0:00:04.12,0:00:04.44,Cap,,0,0,0,,dias,
+Dialogue: 0,0:00:04.44,0:00:05.52,Cap,,0,0,0,,religiosamente,
+Dialogue: 0,0:00:05.52,0:00:06.42,Cap,,0,0,0,,tome sol.
+Dialogue: 0,0:00:06.42,0:00:06.70,Cap,,0,0,0,,Você tem
+Dialogue: 0,0:00:06.70,0:00:07.14,Cap,,0,0,0,,que tomar
+Dialogue: 0,0:00:07.14,0:00:08.04,Cap,,0,0,0,,sol justamente
+Dialogue: 0,0:00:08.04,0:00:08.60,Cap,,0,0,0,,pensando nessa
+Dialogue: 0,0:00:08.60,0:00:09.08,Cap,,0,0,0,,questão da
+Dialogue: 0,0:00:09.08,0:00:09.94,Cap,,0,0,0,,melatonina e
+Dialogue: 0,0:00:09.94,0:00:10.50,Cap,,0,0,0,,do ciclo
+Dialogue: 0,0:00:10.50,0:00:11.20,Cap,,0,0,0,,circadiano.
+Dialogue: 0,0:00:11.20,0:00:11.46,Cap,,0,0,0,,Assim que
+Dialogue: 0,0:00:11.46,0:00:12.14,Cap,,0,0,0,,você acorda,
+Dialogue: 0,0:00:12.14,0:00:12.54,Cap,,0,0,0,,se você
+Dialogue: 0,0:00:12.54,0:00:13.34,Cap,,0,0,0,,recebe essa
+Dialogue: 0,0:00:13.34,0:00:14.02,Cap,,0,0,0,,dose de
+Dialogue: 0,0:00:14.02,0:00:14.62,Cap,,0,0,0,,luz solar
+Dialogue: 0,0:00:14.62,0:00:15.00,Cap,,0,0,0,,entrando nos
+Dialogue: 0,0:00:15.00,0:00:15.48,Cap,,0,0,0,,seus olhos,
+Dialogue: 0,0:00:15.48,0:00:16.24,Cap,,0,0,0,,você sinaliza
+Dialogue: 0,0:00:16.24,0:00:16.60,Cap,,0,0,0,,pro seu-seu
+Dialogue: 0,0:00:16.60,0:00:17.08,Cap,,0,0,0,,cérebro:
+Dialogue: 0,0:00:17.08,0:00:17.52,Cap,,0,0,0,,está de
+Dialogue: 0,0:00:17.52,0:00:18.06,Cap,,0,0,0,,manhã.
+Dialogue: 0,0:00:18.06,0:00:18.36,Cap,,0,0,0,,Isso vai
+Dialogue: 0,0:00:18.36,0:00:19.03,Cap,,0,0,0,,auxiliar na
+Dialogue: 0,0:00:19.03,0:00:19.57,Cap,,0,0,0,,liberação de
+Dialogue: 0,0:00:19.57,0:00:20.69,Cap,,0,0,0,,melatonina daqui
+Dialogue: 0,0:00:20.69,0:00:20.87,Cap,,0,0,0,,a um
+Dialogue: 0,0:00:20.87,0:00:21.35,Cap,,0,0,0,,período de
+Dialogue: 0,0:00:21.35,0:00:21.73,Cap,,0,0,0,,tempo quando
+Dialogue: 0,0:00:21.73,0:00:22.19,Cap,,0,0,0,,você for
+Dialogue: 0,0:00:22.19,0:00:22.65,Cap,,0,0,0,,dormir.
+Dialogue: 0,0:00:22.65,0:00:23.09,Cap,,0,0,0,,Ou seja,
+Dialogue: 0,0:00:23.09,0:00:23.71,Cap,,0,0,0,,você tomar
+Dialogue: 0,0:00:23.71,0:00:24.21,Cap,,0,0,0,,sol pela
+Dialogue: 0,0:00:24.21,0:00:25.03,Cap,,0,0,0,,manhã auxilia
+Dialogue: 0,0:00:25.03,0:00:25.93,Cap,,0,0,0,,na liberação
+Dialogue: 0,0:00:25.93,0:00:26.45,Cap,,0,0,0,,do hormônio
+Dialogue: 0,0:00:26.45,0:00:27.19,Cap,,0,0,0,,do sono
+Dialogue: 0,0:00:27.19,0:00:27.51,Cap,,0,0,0,,assim que
+Dialogue: 0,0:00:27.51,0:00:27.89,Cap,,0,0,0,,você for
+Dialogue: 0,0:00:27.89,0:00:28.23,Cap,,0,0,0,,dormir.
+Dialogue: 0,0:00:28.23,0:00:28.75,Cap,,0,0,0,,Tudo isso,
+Dialogue: 0,0:00:28.75,0:00:29.45,Cap,,0,0,0,,essa tríade
+Dialogue: 0,0:00:29.45,0:00:29.61,Cap,,0,0,0,,ali,
+Dialogue: 0,0:00:29.61,0:00:30.03,Cap,,0,0,0,,então você
+Dialogue: 0,0:00:30.03,0:00:30.97,Cap,,0,0,0,,evitar telas,
+Dialogue: 0,0:00:30.97,0:00:31.59,Cap,,0,0,0,,você evitar
+Dialogue: 0,0:00:31.59,0:00:32.41,Cap,,0,0,0,,cafeína e
+Dialogue: 0,0:00:32.41,0:00:33.23,Cap,,0,0,0,,você tomar
+Dialogue: 0,0:00:33.23,0:00:33.65,Cap,,0,0,0,,sol logo
+Dialogue: 0,0:00:33.65,0:00:33.87,Cap,,0,0,0,,assim que
+Dialogue: 0,0:00:33.87,0:00:34.65,Cap,,0,0,0,,você acorda,
+Dialogue: 0,0:00:34.65,0:00:35.37,Cap,,0,0,0,,vão melhorar
+Dialogue: 0,0:00:35.37,0:00:35.97,Cap,,0,0,0,,e muito
+Dialogue: 0,0:00:35.97,0:00:36.23,Cap,,0,0,0,,a sua
+Dialogue: 0,0:00:36.23,0:00:36.73,Cap,,0,0,0,,rotina de
+Dialogue: 0,0:00:36.73,0:00:37.19,Cap,,0,0,0,,sono.
+Dialogue: 0,0:00:37.19,0:00:37.61,Cap,,0,0,0,,E

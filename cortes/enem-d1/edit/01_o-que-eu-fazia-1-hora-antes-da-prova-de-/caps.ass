@@ -1,0 +1,79 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Helvetica,67,&H00FFFFFF,&H00FFFFFF,&HC8000000,&HC8000000,0,1,0,0,100,100,0,0,1,6.7,6.7,2,60,60,300,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.04,0:00:00.72,Cap,,0,0,0,,Eu revisava
+Dialogue: 0,0:00:00.72,0:00:01.04,Cap,,0,0,0,,todos os
+Dialogue: 0,0:00:01.04,0:00:01.93,Cap,,0,0,0,,meus repertórios.
+Dialogue: 0,0:00:01.93,0:00:02.15,Cap,,0,0,0,,Eu tinha
+Dialogue: 0,0:00:02.15,0:00:02.73,Cap,,0,0,0,,um caderninho
+Dialogue: 0,0:00:02.73,0:00:03.61,Cap,,0,0,0,,de repertórios
+Dialogue: 0,0:00:03.61,0:00:03.79,Cap,,0,0,0,,e o
+Dialogue: 0,0:00:03.79,0:00:04.55,Cap,,0,0,0,,mais importante
+Dialogue: 0,0:00:04.55,0:00:04.69,Cap,,0,0,0,,é que
+Dialogue: 0,0:00:04.69,0:00:04.91,Cap,,0,0,0,,ele era
+Dialogue: 0,0:00:04.91,0:00:05.53,Cap,,0,0,0,,dividido por
+Dialogue: 0,0:00:05.53,0:00:06.57,Cap,,0,0,0,,eixo temático.
+Dialogue: 0,0:00:06.57,0:00:06.85,Cap,,0,0,0,,O tema
+Dialogue: 0,0:00:06.85,0:00:07.45,Cap,,0,0,0,,da redação
+Dialogue: 0,0:00:07.45,0:00:07.97,Cap,,0,0,0,,sempre cai
+Dialogue: 0,0:00:07.97,0:00:08.35,Cap,,0,0,0,,num eixo
+Dialogue: 0,0:00:08.35,0:00:09.47,Cap,,0,0,0,,temático específico.
+Dialogue: 0,0:00:09.47,0:00:09.89,Cap,,0,0,0,,Se cair
+Dialogue: 0,0:00:09.89,0:00:10.15,Cap,,0,0,0,,sobre o
+Dialogue: 0,0:00:10.15,0:00:10.79,Cap,,0,0,0,,meio ambiente,
+Dialogue: 0,0:00:10.79,0:00:11.27,Cap,,0,0,0,,você tem
+Dialogue: 0,0:00:11.27,0:00:11.69,Cap,,0,0,0,,que citar
+Dialogue: 0,0:00:11.69,0:00:12.33,Cap,,0,0,0,,repertório sobre
+Dialogue: 0,0:00:12.33,0:00:12.49,Cap,,0,0,0,,o meio
+Dialogue: 0,0:00:12.49,0:00:13.08,Cap,,0,0,0,,ambiente.
+Dialogue: 0,0:00:13.08,0:00:13.38,Cap,,0,0,0,,Se cair
+Dialogue: 0,0:00:13.38,0:00:14.34,Cap,,0,0,0,,sobre educação,
+Dialogue: 0,0:00:14.34,0:00:15.00,Cap,,0,0,0,,repertório sobre
+Dialogue: 0,0:00:15.00,0:00:15.82,Cap,,0,0,0,,educação.
+Dialogue: 0,0:00:15.82,0:00:16.04,Cap,,0,0,0,,E não
+Dialogue: 0,0:00:16.04,0:00:16.74,Cap,,0,0,0,,eram quaisquer
+Dialogue: 0,0:00:16.74,0:00:17.36,Cap,,0,0,0,,repertórios,
+Dialogue: 0,0:00:17.36,0:00:18.22,Cap,,0,0,0,,eram exatamente
+Dialogue: 0,0:00:18.22,0:00:18.82,Cap,,0,0,0,,aqueles que
+Dialogue: 0,0:00:18.82,0:00:19.84,Cap,,0,0,0,,eu utilizei
+Dialogue: 0,0:00:19.84,0:00:20.34,Cap,,0,0,0,,nas minhas
+Dialogue: 0,0:00:20.34,0:00:21.08,Cap,,0,0,0,,redações ao
+Dialogue: 0,0:00:21.08,0:00:21.38,Cap,,0,0,0,,longo do
+Dialogue: 0,0:00:21.38,0:00:21.60,Cap,,0,0,0,,ano de
+Dialogue: 0,0:00:21.60,0:00:22.21,Cap,,0,0,0,,preparação.
+Dialogue: 0,0:00:22.21,0:00:22.69,Cap,,0,0,0,,Aqueles que
+Dialogue: 0,0:00:22.69,0:00:23.01,Cap,,0,0,0,,eu já
+Dialogue: 0,0:00:23.01,0:00:23.81,Cap,,0,0,0,,tinha treinado,
+Dialogue: 0,0:00:23.81,0:00:24.03,Cap,,0,0,0,,que eu
+Dialogue: 0,0:00:24.03,0:00:24.65,Cap,,0,0,0,,sabia como
+Dialogue: 0,0:00:24.65,0:00:25.61,Cap,,0,0,0,,encaixar em
+Dialogue: 0,0:00:25.61,0:00:26.01,Cap,,0,0,0,,cada eixo
+Dialogue: 0,0:00:26.01,0:00:26.63,Cap,,0,0,0,,temático e
+Dialogue: 0,0:00:26.63,0:00:26.87,Cap,,0,0,0,,que eu
+Dialogue: 0,0:00:26.87,0:00:27.47,Cap,,0,0,0,,sabia que
+Dialogue: 0,0:00:27.47,0:00:28.79,Cap,,0,0,0,,funcionavam naqueles
+Dialogue: 0,0:00:28.79,0:00:29.41,Cap,,0,0,0,,temas.
+Dialogue: 0,0:00:29.41,0:00:29.87,Cap,,0,0,0,,E faltando
+Dialogue: 0,0:00:29.87,0:00:30.13,Cap,,0,0,0,,mais ou
+Dialogue: 0,0:00:30.13,0:00:30.71,Cap,,0,0,0,,menos uma
+Dialogue: 0,0:00:30.71,0:00:31.11,Cap,,0,0,0,,hora pra
+Dialogue: 0,0:00:31.11,0:00:31.49,Cap,,0,0,0,,prova,
+Dialogue: 0,0:00:31.49,0:00:31.83,Cap,,0,0,0,,eu dava
+Dialogue: 0,0:00:31.83,0:00:32.23,Cap,,0,0,0,,uma relida
+Dialogue: 0,0:00:32.23,0:00:32.61,Cap,,0,0,0,,em todos
+Dialogue: 0,0:00:32.61,0:00:32.89,Cap,,0,0,0,,os meus
+Dialogue: 0,0:00:32.89,0:00:33.51,Cap,,0,0,0,,repertórios,
+Dialogue: 0,0:00:33.51,0:00:33.97,Cap,,0,0,0,,pra chegar
+Dialogue: 0,0:00:33.97,0:00:34.35,Cap,,0,0,0,,com tudo
+Dialogue: 0,0:00:34.35,0:00:35.01,Cap,,0,0,0,,isso muito
+Dialogue: 0,0:00:35.01,0:00:35.49,Cap,,0,0,0,,fresco na
+Dialogue: 0,0:00:35.49,0:00:36.31,Cap,,0,0,0,,cabeça.

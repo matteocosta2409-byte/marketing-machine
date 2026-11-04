@@ -1,0 +1,14 @@
+[0:v]trim=start=1.000:end=1.504,setpts=PTS-STARTPTS,crop=606:1080:648:0,scale=1080:1920,setsar=1[v0];
+[0:a]atrim=start=1.000:end=1.504,asetpts=PTS-STARTPTS[a0];
+[0:v]trim=start=1.820:end=5.900,setpts=PTS-STARTPTS,crop=606:1080:648:0,scale=1080:1920,setsar=1[v1];
+[0:a]atrim=start=1.820:end=5.900,asetpts=PTS-STARTPTS[a1];
+[0:v]trim=start=6.200:end=13.580,setpts=PTS-STARTPTS,crop=606:1080:648:0,scale=1080:1920,setsar=1[v2];
+[0:a]atrim=start=6.200:end=13.580,asetpts=PTS-STARTPTS[a2];
+[0:v]trim=start=13.860:end=26.000,setpts=PTS-STARTPTS,crop=606:1080:648:0,scale=1080:1920,setsar=1[v3];
+[0:a]atrim=start=13.860:end=26.000,asetpts=PTS-STARTPTS[a3];
+[v0][a0][v1][a1][v2][a2][v3][a3]concat=n=4:v=1:a=1[cv0][ca];
+[cv0]format=yuv420p[cv];
+[ca]loudnorm=I=-14:TP=-1:LRA=11,aresample=48000,asetnsamples=n=1024:p=0,asetpts=N/SR/TB[aout];
+movie='/Users/mac-matteo/marketing machine/cortes/semana-d1/edit/05_as-redacoes-que-voce-deve-reler-na-seman/title.png',format=rgba,scale=out_color_matrix=bt709:out_range=tv,format=yuva420p[tt];
+[cv][tt]overlay=0:0:enable='lt(t,4.0)'[cvt];
+[cvt]ass='/Users/mac-matteo/marketing machine/cortes/semana-d1/edit/05_as-redacoes-que-voce-deve-reler-na-seman/caps.ass':fontsdir='/Users/mac-matteo/marketing machine/assets/fonts/clipper'[outv]

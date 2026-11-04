@@ -1,0 +1,117 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Helvetica,67,&H00FFFFFF,&H00FFFFFF,&HC8000000,&HC8000000,0,1,0,0,100,100,0,0,1,6.7,6.7,2,60,60,540,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.04,0:00:00.56,Cap,,0,0,0,,Músicas que
+Dialogue: 0,0:00:00.56,0:00:01.06,Cap,,0,0,0,,eu curto.
+Dialogue: 0,0:00:01.06,0:00:01.28,Cap,,0,0,0,,Eu vou
+Dialogue: 0,0:00:01.28,0:00:02.10,Cap,,0,0,0,,citar artistas,
+Dialogue: 0,0:00:02.10,0:00:02.34,Cap,,0,0,0,,porque eu
+Dialogue: 0,0:00:02.34,0:00:02.70,Cap,,0,0,0,,acho que
+Dialogue: 0,0:00:02.70,0:00:03.72,Cap,,0,0,0,,músicas específicas
+Dialogue: 0,0:00:03.72,0:00:04.20,Cap,,0,0,0,,é difícil.
+Dialogue: 0,0:00:04.20,0:00:04.54,Cap,,0,0,0,,Cara,
+Dialogue: 0,0:00:04.54,0:00:04.76,Cap,,0,0,0,,e de
+Dialogue: 0,0:00:04.76,0:00:05.26,Cap,,0,0,0,,música brasileira
+Dialogue: 0,0:00:05.26,0:00:05.54,Cap,,0,0,0,,eu gosto
+Dialogue: 0,0:00:05.54,0:00:05.82,Cap,,0,0,0,,muito de
+Dialogue: 0,0:00:05.82,0:00:06.38,Cap,,0,0,0,,Djavan e
+Dialogue: 0,0:00:06.38,0:00:06.94,Cap,,0,0,0,,Legião Urbana.
+Dialogue: 0,0:00:06.94,0:00:07.30,Cap,,0,0,0,,Eu gosto
+Dialogue: 0,0:00:07.30,0:00:07.78,Cap,,0,0,0,,muito desses
+Dialogue: 0,0:00:07.78,0:00:08.16,Cap,,0,0,0,,dois,
+Dialogue: 0,0:00:08.16,0:00:08.30,Cap,,0,0,0,,é,
+Dialogue: 0,0:00:08.30,0:00:08.90,Cap,,0,0,0,,artistas.
+Dialogue: 0,0:00:08.90,0:00:09.06,Cap,,0,0,0,,Cara,
+Dialogue: 0,0:00:09.06,0:00:09.36,Cap,,0,0,0,,de Legião
+Dialogue: 0,0:00:09.36,0:00:09.83,Cap,,0,0,0,,Urbana,
+Dialogue: 0,0:00:09.83,0:00:10.31,Cap,,0,0,0,,vou citar
+Dialogue: 0,0:00:10.31,0:00:11.36,Cap,,0,0,0,,uma queee--
+Dialogue: 0,0:00:11.36,0:00:11.74,Cap,,0,0,0,,"Pais e
+Dialogue: 0,0:00:11.74,0:00:12.04,Cap,,0,0,0,,Filhos",
+Dialogue: 0,0:00:12.04,0:00:12.46,Cap,,0,0,0,,eu gosto
+Dialogue: 0,0:00:12.46,0:00:12.96,Cap,,0,0,0,,muito dessa
+Dialogue: 0,0:00:12.96,0:00:13.22,Cap,,0,0,0,,música.
+Dialogue: 0,0:00:13.22,0:00:14.02,Cap,,0,0,0,,Do Djavan,
+Dialogue: 0,0:00:14.02,0:00:14.52,Cap,,0,0,0,,"Um Amor
+Dialogue: 0,0:00:14.52,0:00:14.82,Cap,,0,0,0,,Puro",
+Dialogue: 0,0:00:14.82,0:00:15.39,Cap,,0,0,0,,muito boa.
+Dialogue: 0,0:00:15.39,0:00:15.51,Cap,,0,0,0,,É,
+Dialogue: 0,0:00:15.51,0:00:15.85,Cap,,0,0,0,,de música
+Dialogue: 0,0:00:15.85,0:00:16.31,Cap,,0,0,0,,internacional,
+Dialogue: 0,0:00:16.31,0:00:16.65,Cap,,0,0,0,,eu gosto
+Dialogue: 0,0:00:16.65,0:00:16.99,Cap,,0,0,0,,muito de
+Dialogue: 0,0:00:16.99,0:00:17.29,Cap,,0,0,0,,rap,
+Dialogue: 0,0:00:17.29,0:00:17.97,Cap,,0,0,0,,então tem
+Dialogue: 0,0:00:17.97,0:00:18.35,Cap,,0,0,0,,uma certa
+Dialogue: 0,0:00:18.35,0:00:18.67,Cap,,0,0,0,,pessoa que
+Dialogue: 0,0:00:18.67,0:00:18.97,Cap,,0,0,0,,não dá
+Dialogue: 0,0:00:18.97,0:00:19.41,Cap,,0,0,0,,pra falar
+Dialogue: 0,0:00:19.41,0:00:19.75,Cap,,0,0,0,,o nome,
+Dialogue: 0,0:00:19.75,0:00:19.91,Cap,,0,0,0,,que ele
+Dialogue: 0,0:00:19.91,0:00:20.29,Cap,,0,0,0,,é meio
+Dialogue: 0,0:00:20.29,0:00:21.05,Cap,,0,0,0,,mal comentado,
+Dialogue: 0,0:00:21.05,0:00:21.73,Cap,,0,0,0,,mas querendo
+Dialogue: 0,0:00:21.73,0:00:22.03,Cap,,0,0,0,,ou não,
+Dialogue: 0,0:00:22.03,0:00:22.39,Cap,,0,0,0,,as músicas
+Dialogue: 0,0:00:22.39,0:00:22.75,Cap,,0,0,0,,dele são
+Dialogue: 0,0:00:22.75,0:00:23.19,Cap,,0,0,0,,boas.
+Dialogue: 0,0:00:23.19,0:00:23.55,Cap,,0,0,0,,Não vou,
+Dialogue: 0,0:00:23.55,0:00:23.81,Cap,,0,0,0,,não vou
+Dialogue: 0,0:00:23.81,0:00:23.93,Cap,,0,0,0,,dar a
+Dialogue: 0,0:00:23.93,0:00:24.49,Cap,,0,0,0,,entender muito,
+Dialogue: 0,0:00:24.49,0:00:24.61,Cap,,0,0,0,,acho que
+Dialogue: 0,0:00:24.61,0:00:24.89,Cap,,0,0,0,,cê sabe
+Dialogue: 0,0:00:24.89,0:00:25.05,Cap,,0,0,0,,que que
+Dialogue: 0,0:00:25.05,0:00:25.27,Cap,,0,0,0,,eu tô
+Dialogue: 0,0:00:25.27,0:00:25.63,Cap,,0,0,0,,falando,
+Dialogue: 0,0:00:25.63,0:00:25.83,Cap,,0,0,0,,que é
+Dialogue: 0,0:00:25.83,0:00:26.31,Cap,,0,0,0,,um cara,
+Dialogue: 0,0:00:26.31,0:00:26.75,Cap,,0,0,0,,ele-- as
+Dialogue: 0,0:00:26.75,0:00:27.11,Cap,,0,0,0,,músicas dele
+Dialogue: 0,0:00:27.11,0:00:27.51,Cap,,0,0,0,,são realmente
+Dialogue: 0,0:00:27.51,0:00:28.05,Cap,,0,0,0,,muito boas.
+Dialogue: 0,0:00:28.05,0:00:28.55,Cap,,0,0,0,,Além desse
+Dialogue: 0,0:00:28.55,0:00:28.73,Cap,,0,0,0,,cara,
+Dialogue: 0,0:00:28.73,0:00:29.09,Cap,,0,0,0,,eu gosto
+Dialogue: 0,0:00:29.09,0:00:29.89,Cap,,0,0,0,,muito do
+Dialogue: 0,0:00:29.89,0:00:30.59,Cap,,0,0,0,,ASAP Rocky
+Dialogue: 0,0:00:30.59,0:00:31.03,Cap,,0,0,0,,também,
+Dialogue: 0,0:00:31.03,0:00:31.29,Cap,,0,0,0,,é,
+Dialogue: 0,0:00:31.29,0:00:31.71,Cap,,0,0,0,,e coisas
+Dialogue: 0,0:00:31.71,0:00:32.25,Cap,,0,0,0,,nesse estilo
+Dialogue: 0,0:00:32.25,0:00:32.61,Cap,,0,0,0,,assim de
+Dialogue: 0,0:00:32.61,0:00:32.81,Cap,,0,0,0,,rap.
+Dialogue: 0,0:00:32.81,0:00:33.01,Cap,,0,0,0,,Deixa eu
+Dialogue: 0,0:00:33.01,0:00:33.17,Cap,,0,0,0,,ver,
+Dialogue: 0,0:00:33.17,0:00:33.59,Cap,,0,0,0,,eu gosto
+Dialogue: 0,0:00:33.59,0:00:33.95,Cap,,0,0,0,,muito de
+Dialogue: 0,0:00:33.95,0:00:34.53,Cap,,0,0,0,,rock também,
+Dialogue: 0,0:00:34.53,0:00:35.21,Cap,,0,0,0,,Linkin Park,
+Dialogue: 0,0:00:35.21,0:00:35.53,Cap,,0,0,0,,adoro,
+Dialogue: 0,0:00:35.53,0:00:36.45,Cap,,0,0,0,,acho irado,
+Dialogue: 0,0:00:36.45,0:00:37.01,Cap,,0,0,0,,gosto muito
+Dialogue: 0,0:00:37.01,0:00:37.33,Cap,,0,0,0,,mesmo.
+Dialogue: 0,0:00:37.33,0:00:37.63,Cap,,0,0,0,,Perdi o
+Dialogue: 0,0:00:37.63,0:00:37.85,Cap,,0,0,0,,show que
+Dialogue: 0,0:00:37.85,0:00:38.09,Cap,,0,0,0,,teve aqui
+Dialogue: 0,0:00:38.09,0:00:38.41,Cap,,0,0,0,,em Brasília,
+Dialogue: 0,0:00:38.41,0:00:38.95,Cap,,0,0,0,,mas gostaria
+Dialogue: 0,0:00:38.95,0:00:39.37,Cap,,0,0,0,,muito de
+Dialogue: 0,0:00:39.37,0:00:39.79,Cap,,0,0,0,,ter ido.
+Dialogue: 0,0:00:39.79,0:00:40.61,Cap,,0,0,0,,Eee cara,
+Dialogue: 0,0:00:40.61,0:00:40.89,Cap,,0,0,0,,acho que
+Dialogue: 0,0:00:40.89,0:00:41.23,Cap,,0,0,0,,no mais
+Dialogue: 0,0:00:41.23,0:00:41.69,Cap,,0,0,0,,é isso.
+Dialogue: 0,0:00:41.69,0:00:42.13,Cap,,0,0,0,,Gosto muito
+Dialogue: 0,0:00:42.13,0:00:42.95,Cap,,0,0,0,,de Djavan,
+Dialogue: 0,0:00:42.95,0:00:43.71,Cap,,0,0,0,,Legião Urbana,
+Dialogue: 0,0:00:43.71,0:00:44.77,Cap,,0,0,0,,ASAP Rocky

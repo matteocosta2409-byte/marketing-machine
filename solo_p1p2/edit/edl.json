@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "sources": {
+    "IMG_9563": "/Users/mac-matteo/marketing machine/solo_p1p2/IMG_9563.mov",
+    "IMG_9565": "/Users/mac-matteo/marketing machine/solo_p1p2/IMG_9565.mov"
+  },
+  "ranges": [
+    {
+      "source": "IMG_9563",
+      "start": 0.0,
+      "end": 3.8
+    },
+    {
+      "source": "IMG_9563",
+      "start": 4.12,
+      "end": 4.72
+    },
+    {
+      "source": "IMG_9563",
+      "start": 5.32,
+      "end": 9.98
+    },
+    {
+      "source": "IMG_9563",
+      "start": 11.26,
+      "end": 12.84
+    },
+    {
+      "source": "IMG_9563",
+      "start": 13.1,
+      "end": 13.26
+    },
+    {
+      "source": "IMG_9563",
+      "start": 13.64,
+      "end": 16.51
+    },
+    {
+      "source": "IMG_9563",
+      "start": 17.06,
+      "end": 19.9
+    },
+    {
+      "source": "IMG_9563",
+      "start": 20.2,
+      "end": 20.906
+    },
+    {
+      "source": "IMG_9565",
+      "start": 0.32,
+      "end": 4.62
+    },
+    {
+      "source": "IMG_9565",
+      "start": 5.0,
+      "end": 6.426
+    }
+  ],
+  "grade": "none",
+  "overlays": [],
+  "subtitle_case": "natural",
+  "subtitle_style": "FontName=Helvetica,FontSize=10,Bold=0,Italic=1,PrimaryColour=&H00FFFFFF,OutlineColour=&HC8000000,BorderStyle=1,Outline=1,Shadow=1,Alignment=2,MarginV=45",
+  "total_duration_s": 22.942
+}

@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "sources": {
+    "src": "/Users/mac-matteo/marketing machine/youtube-maker/v2a/src.mov"
+  },
+  "ranges": [
+    {
+      "source": "src",
+      "start": 0.539,
+      "end": 1.459
+    },
+    {
+      "source": "src",
+      "start": 1.879,
+      "end": 2.52
+    },
+    {
+      "source": "src",
+      "start": 2.759,
+      "end": 3.459
+    },
+    {
+      "source": "src",
+      "start": 3.799,
+      "end": 5.059
+    },
+    {
+      "source": "src",
+      "start": 5.4,
+      "end": 7.179
+    },
+    {
+      "source": "src",
+      "start": 7.579,
+      "end": 8.439
+    },
+    {
+      "source": "src",
+      "start": 8.72,
+      "end": 10.639
+    },
+    {
+      "source": "src",
+      "start": 10.84,
+      "end": 13.199
+    },
+    {
+      "source": "src",
+      "start": 17.319,
+      "end": 20.14
+    },
+    {
+      "source": "src",
+      "start": 20.439,
+      "end": 22.773
+    }
+  ],
+  "grade": "none",
+  "overlays": [
+    {
+      "file": "animations/cards/01_medicina.mov",
+      "start_in_output": 0.961,
+      "duration": 0.88
+    },
+    {
+      "file": "animations/cards/02_estudos.mov",
+      "start_in_output": 1.602,
+      "duration": 1.26
+    },
+    {
+      "file": "animations/cards/05_produtivo.mov",
+      "start_in_output": 2.522,
+      "duration": 1.4
+    },
+    {
+      "file": "animations/cards/08_cafe.mov",
+      "start_in_output": 3.861,
+      "duration": 1.4
+    },
+    {
+      "file": "animations/cards/07_musculacao.mov",
+      "start_in_output": 5.341,
+      "duration": 1.14
+    },
+    {
+      "file": "animations/cards/03_vibecoding.mov",
+      "start_in_output": 6.2,
+      "duration": 0.8
+    },
+    {
+      "file": "animations/cards/04_ia.mov",
+      "start_in_output": 7.0,
+      "duration": 1.32
+    },
+    {
+      "file": "animations/cards/10_piano.mov",
+      "start_in_output": 8.119,
+      "duration": 1.8
+    }
+  ],
+  "subtitle_case": "natural",
+  "subtitle_style": "FontName=Helvetica,FontSize=15,Bold=1,PrimaryColour=&H00FFFFFF,OutlineColour=&H00000000,BackColour=&H80000000,BorderStyle=1,Outline=0,Shadow=1,Alignment=2,MarginV=40",
+  "total_duration_s": 15.593
+}

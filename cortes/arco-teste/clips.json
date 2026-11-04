@@ -1,0 +1,17 @@
+[
+ {"id": 1, "start": 117.0, "end": 207.3, "score": 92,
+  "title": "Ninguém te avisa disso depois de passar em Medicina",
+  "why": "Dor universal de quem passou (o vazio pós-aprovação) + virada no final; gancho forte nos 3s.",
+  "caption": "O vazio depois da aprovação é real — e não é decepção com o curso. Você já sentiu isso?",
+  "kills": [[140.5, 156.3], [170.2, 178.9]]},
+ {"id": 2, "start": 14.9, "end": 108.8, "score": 85,
+  "title": "O arco do estudante de Medicina empreendedor",
+  "why": "Narrativa completa com identificação imediata (vestibulando viciado em evoluir).",
+  "caption": "Se você ficou viciado em ser melhor que na semana passada, esse vídeo é sobre você.",
+  "kills": [[60.6, 69.6]]},
+ {"id": 3, "start": 238.9, "end": 344.8, "score": 80,
+  "title": "Passar no vestibular é uma habilidade (e serve pra tudo)",
+  "why": "Reenquadra a aprovação como skill transferível; fecha com mentoria vs plataforma.",
+  "caption": "Achar o método e fazer funcionar vale pra qualquer coisa na vida.",
+  "kills": [[250.4, 270.1], [281.5, 289.6]]}
+]

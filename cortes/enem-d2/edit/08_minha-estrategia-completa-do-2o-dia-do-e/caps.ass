@@ -1,0 +1,69 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Helvetica,67,&H00FFFFFF,&H00FFFFFF,&HC8000000,&HC8000000,0,1,0,0,100,100,0,0,1,6.7,6.7,2,60,60,300,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.04,0:00:00.68,Cap,,0,0,0,,Resumindo,
+Dialogue: 0,0:00:00.68,0:00:01.02,Cap,,0,0,0,,antes da
+Dialogue: 0,0:00:01.02,0:00:01.36,Cap,,0,0,0,,prova,
+Dialogue: 0,0:00:01.36,0:00:01.90,Cap,,0,0,0,,sempre cinco
+Dialogue: 0,0:00:01.90,0:00:02.64,Cap,,0,0,0,,questões fáceis
+Dialogue: 0,0:00:02.64,0:00:03.40,Cap,,0,0,0,,de Matemática
+Dialogue: 0,0:00:03.40,0:00:03.86,Cap,,0,0,0,,pra aquecer
+Dialogue: 0,0:00:03.86,0:00:04.44,Cap,,0,0,0,,o cérebro
+Dialogue: 0,0:00:04.44,0:00:04.66,Cap,,0,0,0,,e me
+Dialogue: 0,0:00:04.66,0:00:05.50,Cap,,0,0,0,,sentir confiante.
+Dialogue: 0,0:00:05.50,0:00:06.00,Cap,,0,0,0,,Na primeira
+Dialogue: 0,0:00:06.00,0:00:06.28,Cap,,0,0,0,,hora,
+Dialogue: 0,0:00:06.28,0:00:07.36,Cap,,0,0,0,,natureza teórica.
+Dialogue: 0,0:00:07.36,0:00:07.84,Cap,,0,0,0,,Segunda hora
+Dialogue: 0,0:00:07.84,0:00:08.30,Cap,,0,0,0,,e meia
+Dialogue: 0,0:00:08.30,0:00:08.92,Cap,,0,0,0,,de prova,
+Dialogue: 0,0:00:08.92,0:00:09.80,Cap,,0,0,0,,Matemática,
+Dialogue: 0,0:00:09.80,0:00:10.22,Cap,,0,0,0,,as questões
+Dialogue: 0,0:00:10.22,0:00:10.88,Cap,,0,0,0,,mais rápidas.
+Dialogue: 0,0:00:10.88,0:00:11.42,Cap,,0,0,0,,Da segunda
+Dialogue: 0,0:00:11.42,0:00:11.66,Cap,,0,0,0,,hora e
+Dialogue: 0,0:00:11.66,0:00:12.14,Cap,,0,0,0,,meia até
+Dialogue: 0,0:00:12.14,0:00:12.62,Cap,,0,0,0,,a quarta
+Dialogue: 0,0:00:12.62,0:00:12.98,Cap,,0,0,0,,hora,
+Dialogue: 0,0:00:12.98,0:00:13.30,Cap,,0,0,0,,as que
+Dialogue: 0,0:00:13.30,0:00:13.86,Cap,,0,0,0,,ficaram,
+Dialogue: 0,0:00:13.86,0:00:14.40,Cap,,0,0,0,,pulando entre
+Dialogue: 0,0:00:14.40,0:00:14.74,Cap,,0,0,0,,as duas
+Dialogue: 0,0:00:14.74,0:00:15.27,Cap,,0,0,0,,matérias.
+Dialogue: 0,0:00:15.27,0:00:15.51,Cap,,0,0,0,,E na
+Dialogue: 0,0:00:15.51,0:00:16.27,Cap,,0,0,0,,última hora,
+Dialogue: 0,0:00:16.27,0:00:16.99,Cap,,0,0,0,,garimpando os
+Dialogue: 0,0:00:16.99,0:00:17.55,Cap,,0,0,0,,acertos.
+Dialogue: 0,0:00:17.55,0:00:18.15,Cap,,0,0,0,,Sempre lembrando
+Dialogue: 0,0:00:18.15,0:00:18.69,Cap,,0,0,0,,dos quinze
+Dialogue: 0,0:00:18.69,0:00:19.57,Cap,,0,0,0,,minutos finais
+Dialogue: 0,0:00:19.57,0:00:19.95,Cap,,0,0,0,,pra fechar
+Dialogue: 0,0:00:19.95,0:00:20.57,Cap,,0,0,0,,o gabarito.
+Dialogue: 0,0:00:20.57,0:00:21.05,Cap,,0,0,0,,E essa
+Dialogue: 0,0:00:21.05,0:00:21.23,Cap,,0,0,0,,era a
+Dialogue: 0,0:00:21.23,0:00:22.07,Cap,,0,0,0,,minha estratégia.
+Dialogue: 0,0:00:22.07,0:00:22.31,Cap,,0,0,0,,Ela não
+Dialogue: 0,0:00:22.31,0:00:22.45,Cap,,0,0,0,,é a
+Dialogue: 0,0:00:22.45,0:00:22.85,Cap,,0,0,0,,única que
+Dialogue: 0,0:00:22.85,0:00:23.53,Cap,,0,0,0,,funciona,
+Dialogue: 0,0:00:23.53,0:00:23.85,Cap,,0,0,0,,mas a
+Dialogue: 0,0:00:23.85,0:00:24.41,Cap,,0,0,0,,lógica por
+Dialogue: 0,0:00:24.41,0:00:24.91,Cap,,0,0,0,,trás dela
+Dialogue: 0,0:00:24.91,0:00:25.29,Cap,,0,0,0,,vale pra
+Dialogue: 0,0:00:25.29,0:00:26.20,Cap,,0,0,0,,qualquer pessoa.
+Dialogue: 0,0:00:26.20,0:00:26.74,Cap,,0,0,0,,Garantir as
+Dialogue: 0,0:00:26.74,0:00:27.42,Cap,,0,0,0,,fáceis primeiro
+Dialogue: 0,0:00:27.42,0:00:27.80,Cap,,0,0,0,,por conta
+Dialogue: 0,0:00:27.80,0:00:28.58,Cap,,0,0,0,,da TRI
+Dialogue: 0,0:00:28.58,0:00:29.02,Cap,,0,0,0,,e deixar
+Dialogue: 0,0:00:29.02,0:00:29.60,Cap,,0,0,0,,o difícil
+Dialogue: 0,0:00:29.60,0:00:30.44,Cap,,0,0,0,,pro final.

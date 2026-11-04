@@ -1,0 +1,81 @@
+{
+  "language_code": "por",
+  "language_probability": 1.0,
+  "text": "Eu n\u00e3o olhei pra c\u00e2mera",
+  "words": [
+    {
+      "text": "Eu",
+      "start": 0.68,
+      "end": 0.74,
+      "type": "word",
+      "speaker_id": "speaker_0",
+      "logprob": -0.41045868396759033
+    },
+    {
+      "text": " ",
+      "start": 0.74,
+      "end": 0.86,
+      "type": "spacing",
+      "speaker_id": "speaker_0",
+      "logprob": -1.171002745628357
+    },
+    {
+      "text": "n\u00e3o",
+      "start": 0.86,
+      "end": 0.86,
+      "type": "word",
+      "speaker_id": "speaker_0",
+      "logprob": -1.171002745628357
+    },
+    {
+      "text": " ",
+      "start": 0.86,
+      "end": 0.88,
+      "type": "spacing",
+      "speaker_id": "speaker_0",
+      "logprob": -1.0352813005447388
+    },
+    {
+      "text": "olhei",
+      "start": 0.88,
+      "end": 1.06,
+      "type": "word",
+      "speaker_id": "speaker_0",
+      "logprob": -0.48853410184383395
+    },
+    {
+      "text": " ",
+      "start": 1.06,
+      "end": 1.1,
+      "type": "spacing",
+      "speaker_id": "speaker_0",
+      "logprob": -1.077897071838379
+    },
+    {
+      "text": "pra",
+      "start": 1.1,
+      "end": 1.18,
+      "type": "word",
+      "speaker_id": "speaker_0",
+      "logprob": -1.077897071838379
+    },
+    {
+      "text": " ",
+      "start": 1.18,
+      "end": 1.22,
+      "type": "spacing",
+      "speaker_id": "speaker_0",
+      "logprob": -0.8482996225357056
+    },
+    {
+      "text": "c\u00e2mera",
+      "start": 1.22,
+      "end": 1.48,
+      "type": "word",
+      "speaker_id": "speaker_0",
+      "logprob": -0.8482996225357056
+    }
+  ],
+  "transcription_id": "ATSZF9dEMj80sR3CAhkY",
+  "audio_duration_secs": 1.5133125
+}

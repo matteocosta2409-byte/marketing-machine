@@ -1,0 +1,100 @@
+{
+  "version": 1,
+  "sources": {
+    "src": "/Users/mac-matteo/marketing machine/solo_idiota/ab_B/src.mov"
+  },
+  "ranges": [
+    {
+      "source": "src",
+      "start": 9.24,
+      "end": 11.08
+    },
+    {
+      "source": "src",
+      "start": 1.12,
+      "end": 5.68
+    },
+    {
+      "source": "src",
+      "start": 6.02,
+      "end": 8.818
+    },
+    {
+      "source": "src",
+      "start": 12.32,
+      "end": 19.51
+    },
+    {
+      "source": "src",
+      "start": 19.92,
+      "end": 24.551
+    },
+    {
+      "source": "src",
+      "start": 24.94,
+      "end": 26.457
+    },
+    {
+      "source": "src",
+      "start": 26.96,
+      "end": 28.267
+    }
+  ],
+  "grade": "none",
+  "overlays": [
+    {
+      "file": "/Users/mac-matteo/marketing machine/solo_idiota/preset_test/edit/motion/titulo.png",
+      "start_in_output": 0,
+      "duration": 23.843
+    },
+    {
+      "file": "/Users/mac-matteo/marketing machine/solo_idiota/preset_test/edit/motion/x10.mov",
+      "src_time": 3.04,
+      "start_in_output": 3.76
+    },
+    {
+      "file": "/Users/mac-matteo/marketing machine/solo_idiota/preset_test/edit/motion/acao.mov",
+      "src_time": 7.12,
+      "start_in_output": 7.5
+    },
+    {
+      "file": "/Users/mac-matteo/marketing machine/solo_idiota/preset_test/edit/motion/p70.mov",
+      "src_time": 9.98,
+      "start_in_output": 0.74
+    },
+    {
+      "file": "/Users/mac-matteo/marketing machine/solo_idiota/preset_test/edit/motion/parado.mov",
+      "src_time": 18.4,
+      "start_in_output": 15.278
+    }
+  ],
+  "subtitle_case": "natural",
+  "subtitle_style": "FontName=Helvetica,FontSize=10,Bold=0,Italic=1,PrimaryColour=&H00FFFFFF,OutlineColour=&HC8000000,BorderStyle=1,Outline=1,Shadow=1,Alignment=2,MarginV=45",
+  "total_duration_s": 23.843,
+  "sfx": [
+    {
+      "file": "/Users/mac-matteo/marketing machine/assets/sfx/pop.wav",
+      "src_time": 3.04,
+      "db": -6,
+      "time": 3.76
+    },
+    {
+      "file": "/Users/mac-matteo/marketing machine/assets/sfx/pop.wav",
+      "src_time": 7.12,
+      "db": -6,
+      "time": 7.5
+    },
+    {
+      "file": "/Users/mac-matteo/marketing machine/assets/sfx/pop.wav",
+      "src_time": 9.98,
+      "db": -6,
+      "time": 0.74
+    },
+    {
+      "file": "/Users/mac-matteo/marketing machine/assets/sfx/pop.wav",
+      "src_time": 18.4,
+      "db": -6,
+      "time": 15.278
+    }
+  ]
+}

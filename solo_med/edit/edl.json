@@ -1,0 +1,328 @@
+{
+  "version": 1,
+  "sources": {
+    "src": "/Users/mac-matteo/marketing machine/solo_med/src.mov"
+  },
+  "ranges": [
+    {
+      "source": "src",
+      "start": 0.58,
+      "end": 5.44
+    },
+    {
+      "source": "src",
+      "start": 6.04,
+      "end": 6.96
+    },
+    {
+      "source": "src",
+      "start": 7.28,
+      "end": 8.84
+    },
+    {
+      "source": "src",
+      "start": 9.16,
+      "end": 11.24
+    },
+    {
+      "source": "src",
+      "start": 11.56,
+      "end": 14.52
+    },
+    {
+      "source": "src",
+      "start": 14.98,
+      "end": 16.54
+    },
+    {
+      "source": "src",
+      "start": 17.04,
+      "end": 18.46
+    },
+    {
+      "source": "src",
+      "start": 18.9,
+      "end": 20.96
+    },
+    {
+      "source": "src",
+      "start": 21.36,
+      "end": 24.68
+    },
+    {
+      "source": "src",
+      "start": 24.94,
+      "end": 27.4
+    },
+    {
+      "source": "src",
+      "start": 27.64,
+      "end": 28.76
+    },
+    {
+      "source": "src",
+      "start": 29.02,
+      "end": 32.4
+    },
+    {
+      "source": "src",
+      "start": 32.78,
+      "end": 34.58
+    },
+    {
+      "source": "src",
+      "start": 34.9,
+      "end": 38.8
+    },
+    {
+      "source": "src",
+      "start": 39.3,
+      "end": 42.32
+    },
+    {
+      "source": "src",
+      "start": 42.68,
+      "end": 43.8
+    },
+    {
+      "source": "src",
+      "start": 44.64,
+      "end": 49.72
+    },
+    {
+      "source": "src",
+      "start": 50.22,
+      "end": 50.58
+    },
+    {
+      "source": "src",
+      "start": 50.96,
+      "end": 52.0
+    },
+    {
+      "source": "src",
+      "start": 52.96,
+      "end": 54.08
+    },
+    {
+      "source": "src",
+      "start": 54.42,
+      "end": 58.82
+    },
+    {
+      "source": "src",
+      "start": 59.58,
+      "end": 62.0
+    },
+    {
+      "source": "src",
+      "start": 62.74,
+      "end": 66.12
+    },
+    {
+      "source": "src",
+      "start": 66.5,
+      "end": 72.46
+    },
+    {
+      "source": "src",
+      "start": 72.72,
+      "end": 76.34
+    },
+    {
+      "source": "src",
+      "start": 76.9,
+      "end": 77.6
+    },
+    {
+      "source": "src",
+      "start": 77.84,
+      "end": 78.1
+    },
+    {
+      "source": "src",
+      "start": 78.32,
+      "end": 80.24
+    },
+    {
+      "source": "src",
+      "start": 80.58,
+      "end": 85.18
+    },
+    {
+      "source": "src",
+      "start": 85.48,
+      "end": 86.5
+    },
+    {
+      "source": "src",
+      "start": 86.92,
+      "end": 88.44
+    },
+    {
+      "source": "src",
+      "start": 88.92,
+      "end": 91.08
+    },
+    {
+      "source": "src",
+      "start": 91.48,
+      "end": 95.24
+    },
+    {
+      "source": "src",
+      "start": 95.58,
+      "end": 96.04
+    },
+    {
+      "source": "src",
+      "start": 96.62,
+      "end": 97.28
+    },
+    {
+      "source": "src",
+      "start": 97.84,
+      "end": 98.94
+    },
+    {
+      "source": "src",
+      "start": 99.24,
+      "end": 101.02
+    },
+    {
+      "source": "src",
+      "start": 101.32,
+      "end": 102.98
+    },
+    {
+      "source": "src",
+      "start": 103.86,
+      "end": 104.24
+    },
+    {
+      "source": "src",
+      "start": 104.66,
+      "end": 106.98
+    },
+    {
+      "source": "src",
+      "start": 107.48,
+      "end": 109.6
+    },
+    {
+      "source": "src",
+      "start": 110.0,
+      "end": 110.72
+    },
+    {
+      "source": "src",
+      "start": 111.38,
+      "end": 111.86
+    },
+    {
+      "source": "src",
+      "start": 113.24,
+      "end": 118.04
+    },
+    {
+      "source": "src",
+      "start": 118.34,
+      "end": 123.06
+    },
+    {
+      "source": "src",
+      "start": 123.9,
+      "end": 124.22
+    },
+    {
+      "source": "src",
+      "start": 124.46,
+      "end": 125.8
+    },
+    {
+      "source": "src",
+      "start": 126.44,
+      "end": 127.56
+    },
+    {
+      "source": "src",
+      "start": 127.82,
+      "end": 128.38
+    },
+    {
+      "source": "src",
+      "start": 128.8,
+      "end": 130.38
+    },
+    {
+      "source": "src",
+      "start": 130.82,
+      "end": 136.32
+    },
+    {
+      "source": "src",
+      "start": 137.7,
+      "end": 139.6
+    },
+    {
+      "source": "src",
+      "start": 139.94,
+      "end": 142.68
+    },
+    {
+      "source": "src",
+      "start": 143.0,
+      "end": 146.84
+    },
+    {
+      "source": "src",
+      "start": 147.08,
+      "end": 148.68
+    },
+    {
+      "source": "src",
+      "start": 149.02,
+      "end": 151.08
+    },
+    {
+      "source": "src",
+      "start": 151.92,
+      "end": 154.36
+    },
+    {
+      "source": "src",
+      "start": 154.74,
+      "end": 156.7
+    },
+    {
+      "source": "src",
+      "start": 156.92,
+      "end": 159.48
+    },
+    {
+      "source": "src",
+      "start": 159.86,
+      "end": 160.7
+    },
+    {
+      "source": "src",
+      "start": 160.98,
+      "end": 165.44
+    },
+    {
+      "source": "src",
+      "start": 165.8,
+      "end": 166.86
+    },
+    {
+      "source": "src",
+      "start": 167.22,
+      "end": 168.26
+    }
+  ],
+  "grade": "none",
+  "overlays": [],
+  "subtitle_case": "natural",
+  "subtitle_style": "FontName=Helvetica,FontSize=10,Bold=0,Italic=1,PrimaryColour=&H00FFFFFF,OutlineColour=&HC8000000,BorderStyle=1,Outline=1,Shadow=1,Alignment=2,MarginV=45",
+  "total_duration_s": 138.98
+}

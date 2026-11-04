@@ -1,0 +1,58 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Helvetica,67,&H00FFFFFF,&H00FFFFFF,&HC8000000,&HC8000000,0,1,0,0,100,100,0,0,1,6.7,6.7,2,60,60,300,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.04,0:00:00.48,Cap,,0,0,0,,Começou a
+Dialogue: 0,0:00:00.48,0:00:00.94,Cap,,0,0,0,,prova,
+Dialogue: 0,0:00:00.94,0:00:01.36,Cap,,0,0,0,,a primeira
+Dialogue: 0,0:00:01.36,0:00:01.60,Cap,,0,0,0,,coisa que
+Dialogue: 0,0:00:01.60,0:00:02.42,Cap,,0,0,0,,eu fazia
+Dialogue: 0,0:00:02.42,0:00:02.82,Cap,,0,0,0,,não era
+Dialogue: 0,0:00:02.82,0:00:03.48,Cap,,0,0,0,,resolver nada.
+Dialogue: 0,0:00:03.48,0:00:04.04,Cap,,0,0,0,,Eu folheava
+Dialogue: 0,0:00:04.04,0:00:04.40,Cap,,0,0,0,,a prova
+Dialogue: 0,0:00:04.40,0:00:05.00,Cap,,0,0,0,,inteira.
+Dialogue: 0,0:00:05.00,0:00:05.58,Cap,,0,0,0,,Passava por
+Dialogue: 0,0:00:05.58,0:00:06.04,Cap,,0,0,0,,todas as
+Dialogue: 0,0:00:06.04,0:00:06.56,Cap,,0,0,0,,páginas pra
+Dialogue: 0,0:00:06.56,0:00:06.90,Cap,,0,0,0,,ver como
+Dialogue: 0,0:00:06.90,0:00:07.06,Cap,,0,0,0,,é que
+Dialogue: 0,0:00:07.06,0:00:07.48,Cap,,0,0,0,,a prova
+Dialogue: 0,0:00:07.48,0:00:07.83,Cap,,0,0,0,,tava,
+Dialogue: 0,0:00:07.83,0:00:08.39,Cap,,0,0,0,,quais questões
+Dialogue: 0,0:00:08.39,0:00:09.07,Cap,,0,0,0,,tinham gráfico,
+Dialogue: 0,0:00:09.07,0:00:09.49,Cap,,0,0,0,,quais tinham
+Dialogue: 0,0:00:09.49,0:00:10.17,Cap,,0,0,0,,imagem,
+Dialogue: 0,0:00:10.17,0:00:10.59,Cap,,0,0,0,,quais tinham
+Dialogue: 0,0:00:10.59,0:00:11.55,Cap,,0,0,0,,textos maiores.
+Dialogue: 0,0:00:11.55,0:00:11.93,Cap,,0,0,0,,E isso
+Dialogue: 0,0:00:11.93,0:00:12.39,Cap,,0,0,0,,tirava um
+Dialogue: 0,0:00:12.39,0:00:13.05,Cap,,0,0,0,,pouco daquele
+Dialogue: 0,0:00:13.05,0:00:13.55,Cap,,0,0,0,,medo,
+Dialogue: 0,0:00:13.55,0:00:14.39,Cap,,0,0,0,,daquele silêncio
+Dialogue: 0,0:00:14.39,0:00:14.83,Cap,,0,0,0,,da prova
+Dialogue: 0,0:00:14.83,0:00:15.25,Cap,,0,0,0,,depois que
+Dialogue: 0,0:00:15.25,0:00:15.67,Cap,,0,0,0,,começou o
+Dialogue: 0,0:00:15.67,0:00:15.98,Cap,,0,0,0,,tempo.
+Dialogue: 0,0:00:15.98,0:00:16.18,Cap,,0,0,0,,Te dá
+Dialogue: 0,0:00:16.18,0:00:16.50,Cap,,0,0,0,,um pouco
+Dialogue: 0,0:00:16.50,0:00:17.40,Cap,,0,0,0,,de familiaridade
+Dialogue: 0,0:00:17.40,0:00:17.78,Cap,,0,0,0,,com aquela
+Dialogue: 0,0:00:17.78,0:00:18.20,Cap,,0,0,0,,prova que
+Dialogue: 0,0:00:18.20,0:00:18.46,Cap,,0,0,0,,vai te
+Dialogue: 0,0:00:18.46,0:00:19.30,Cap,,0,0,0,,acompanhar pelas
+Dialogue: 0,0:00:19.30,0:00:20.06,Cap,,0,0,0,,próximas cinco
+Dialogue: 0,0:00:20.06,0:00:20.50,Cap,,0,0,0,,horas.
+Dialogue: 0,0:00:20.50,0:00:20.68,Cap,,0,0,0,,E a
+Dialogue: 0,0:00:20.68,0:00:21.30,Cap,,0,0,0,,prova para
+Dialogue: 0,0:00:21.30,0:00:21.54,Cap,,0,0,0,,de ser
+Dialogue: 0,0:00:21.54,0:00:22.12,Cap,,0,0,0,,aquele grande
+Dialogue: 0,0:00:22.12,0:00:22.93,Cap,,0,0,0,,mistério.

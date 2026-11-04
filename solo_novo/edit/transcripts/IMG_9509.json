@@ -1,0 +1,209 @@
+{
+  "language_code": "por",
+  "language_probability": 1.0,
+  "text": "Quanto custa pra voc\u00ea lan\u00e7ar um aplicativo na loja de aplicativos da Apple?",
+  "words": [
+    {
+      "text": "Quanto",
+      "start": 0.7,
+      "end": 0.96,
+      "type": "word",
+      "speaker_id": "speaker_0",
+      "logprob": -0.004216115456074476
+    },
+    {
+      "text": " ",
+      "start": 0.96,
+      "end": 1.12,
+      "type": "spacing",
+      "speaker_id": "speaker_0",
+      "logprob": -4.672895011026412e-05
+    },
+    {
+      "text": "custa",
+      "start": 1.12,
+      "end": 1.44,
+      "type": "word",
+      "speaker_id": "speaker_0",
+      "logprob": -3.740700194470037e-05
+    },
+    {
+      "text": " ",
+      "start": 1.44,
+      "end": 1.46,
+      "type": "spacing",
+      "speaker_id": "speaker_0",
+      "logprob": -0.00033968876232393086
+    },
+    {
+      "text": "pra",
+      "start": 1.46,
+      "end": 1.56,
+      "type": "word",
+      "speaker_id": "speaker_0",
+      "logprob": -0.00033968876232393086
+    },
+    {
+      "text": " ",
+      "start": 1.56,
+      "end": 1.58,
+      "type": "spacing",
+      "speaker_id": "speaker_0",
+      "logprob": -1.1920922133867862e-06
+    },
+    {
+      "text": "voc\u00ea",
+      "start": 1.58,
+      "end": 1.76,
+      "type": "word",
+      "speaker_id": "speaker_0",
+      "logprob": -1.1920922133867862e-06
+    },
+    {
+      "text": " ",
+      "start": 1.76,
+      "end": 1.8,
+      "type": "spacing",
+      "speaker_id": "speaker_0",
+      "logprob": -1.5735502529423684e-05
+    },
+    {
+      "text": "lan\u00e7ar",
+      "start": 1.8,
+      "end": 2.0,
+      "type": "word",
+      "speaker_id": "speaker_0",
+      "logprob": -1.049033501961579e-05
+    },
+    {
+      "text": " ",
+      "start": 2.0,
+      "end": 2.02,
+      "type": "spacing",
+      "speaker_id": "speaker_0",
+      "logprob": -1.7881377516459906e-06
+    },
+    {
+      "text": "um",
+      "start": 2.02,
+      "end": 2.04,
+      "type": "word",
+      "speaker_id": "speaker_0",
+      "logprob": -1.7881377516459906e-06
+    },
+    {
+      "text": " ",
+      "start": 2.04,
+      "end": 2.08,
+      "type": "spacing",
+      "speaker_id": "speaker_0",
+      "logprob": -0.00010442188795423135
+    },
+    {
+      "text": "aplicativo",
+      "start": 2.08,
+      "end": 2.7,
+      "type": "word",
+      "speaker_id": "speaker_0",
+      "logprob": -0.00010442188795423135
+    },
+    {
+      "text": " ",
+      "start": 2.7,
+      "end": 2.76,
+      "type": "spacing",
+      "speaker_id": "speaker_0",
+      "logprob": -1.1920928244535389e-07
+    },
+    {
+      "text": "na",
+      "start": 2.76,
+      "end": 2.88,
+      "type": "word",
+      "speaker_id": "speaker_0",
+      "logprob": -1.1920928244535389e-07
+    },
+    {
+      "text": " ",
+      "start": 2.88,
+      "end": 2.92,
+      "type": "spacing",
+      "speaker_id": "speaker_0",
+      "logprob": -2.8132995794294402e-05
+    },
+    {
+      "text": "loja",
+      "start": 2.92,
+      "end": 3.2,
+      "type": "word",
+      "speaker_id": "speaker_0",
+      "logprob": -2.8132995794294402e-05
+    },
+    {
+      "text": " ",
+      "start": 3.2,
+      "end": 3.22,
+      "type": "spacing",
+      "speaker_id": "speaker_0",
+      "logprob": 0.0
+    },
+    {
+      "text": "de",
+      "start": 3.22,
+      "end": 3.28,
+      "type": "word",
+      "speaker_id": "speaker_0",
+      "logprob": 0.0
+    },
+    {
+      "text": " ",
+      "start": 3.28,
+      "end": 3.32,
+      "type": "spacing",
+      "speaker_id": "speaker_0",
+      "logprob": -5.638440416078083e-05
+    },
+    {
+      "text": "aplicativos",
+      "start": 3.32,
+      "end": 3.82,
+      "type": "word",
+      "speaker_id": "speaker_0",
+      "logprob": -5.638440416078083e-05
+    },
+    {
+      "text": " ",
+      "start": 3.82,
+      "end": 3.86,
+      "type": "spacing",
+      "speaker_id": "speaker_0",
+      "logprob": -1.1920928244535389e-07
+    },
+    {
+      "text": "da",
+      "start": 3.86,
+      "end": 3.96,
+      "type": "word",
+      "speaker_id": "speaker_0",
+      "logprob": -1.1920928244535389e-07
+    },
+    {
+      "text": " ",
+      "start": 3.96,
+      "end": 4.0,
+      "type": "spacing",
+      "speaker_id": "speaker_0",
+      "logprob": -8.22540732769994e-06
+    },
+    {
+      "text": "Apple?",
+      "start": 4.0,
+      "end": 4.26,
+      "type": "word",
+      "speaker_id": "speaker_0",
+      "logprob": -0.0002289721461844844
+    }
+  ],
+  "transcription_id": "1aj7HfLZ8hgJhv0im2Ty",
+  "audio_duration_secs": 5.7386875
+}

@@ -1,0 +1,113 @@
+{
+  "version": 1,
+  "sources": {
+    "src": "/Users/mac-matteo/marketing machine/solo_9561/src.mov"
+  },
+  "ranges": [
+    {
+      "source": "src",
+      "start": 0.0,
+      "end": 1.36
+    },
+    {
+      "source": "src",
+      "start": 1.72,
+      "end": 2.637
+    },
+    {
+      "source": "src",
+      "start": 2.828,
+      "end": 7.44
+    },
+    {
+      "source": "src",
+      "start": 8.6,
+      "end": 13.39
+    },
+    {
+      "source": "src",
+      "start": 13.84,
+      "end": 14.5
+    },
+    {
+      "source": "src",
+      "start": 14.88,
+      "end": 17.24
+    },
+    {
+      "source": "src",
+      "start": 17.68,
+      "end": 19.3
+    },
+    {
+      "source": "src",
+      "start": 19.58,
+      "end": 31.08
+    },
+    {
+      "source": "src",
+      "start": 31.36,
+      "end": 33.52
+    },
+    {
+      "source": "src",
+      "start": 33.78,
+      "end": 35.9
+    },
+    {
+      "source": "src",
+      "start": 36.2,
+      "end": 41.064
+    },
+    {
+      "source": "src",
+      "start": 41.56,
+      "end": 45.54
+    },
+    {
+      "source": "src",
+      "start": 45.86,
+      "end": 53.051
+    },
+    {
+      "source": "src",
+      "start": 53.239,
+      "end": 56.661
+    },
+    {
+      "source": "src",
+      "start": 57.22,
+      "end": 59.109
+    },
+    {
+      "source": "src",
+      "start": 59.38,
+      "end": 65.599
+    },
+    {
+      "source": "src",
+      "start": 65.828,
+      "end": 70.4
+    },
+    {
+      "source": "src",
+      "start": 70.86,
+      "end": 71.2
+    },
+    {
+      "source": "src",
+      "start": 71.72,
+      "end": 73.88
+    },
+    {
+      "source": "src",
+      "start": 74.24,
+      "end": 76.34
+    }
+  ],
+  "grade": "none",
+  "overlays": [],
+  "subtitle_case": "natural",
+  "subtitle_style": "FontName=Helvetica,FontSize=10,Bold=0,Italic=1,PrimaryColour=&H00FFFFFF,OutlineColour=&HC8000000,BorderStyle=1,Outline=1,Shadow=1,Alignment=2,MarginV=45",
+  "total_duration_s": 68.836
+}

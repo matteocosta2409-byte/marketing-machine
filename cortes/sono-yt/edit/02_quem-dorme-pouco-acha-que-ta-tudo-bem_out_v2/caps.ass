@@ -1,0 +1,116 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Helvetica,67,&H00FFFFFF,&H00FFFFFF,&HC8000000,&HC8000000,0,1,0,0,100,100,0,0,1,6.7,6.7,2,60,60,540,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.04,0:00:00.16,Cap,,0,0,0,,Tem um
+Dialogue: 0,0:00:00.16,0:00:00.98,Cap,,0,0,0,,experimento muito
+Dialogue: 0,0:00:00.98,0:00:01.88,Cap,,0,0,0,,emblemático que
+Dialogue: 0,0:00:01.88,0:00:02.56,Cap,,0,0,0,,ele apresenta
+Dialogue: 0,0:00:02.56,0:00:03.04,Cap,,0,0,0,,no livro,
+Dialogue: 0,0:00:03.04,0:00:03.22,Cap,,0,0,0,,que é
+Dialogue: 0,0:00:03.22,0:00:03.74,Cap,,0,0,0,,justamente,
+Dialogue: 0,0:00:03.74,0:00:04.08,Cap,,0,0,0,,ele faz
+Dialogue: 0,0:00:04.08,0:00:05.04,Cap,,0,0,0,,experimento com
+Dialogue: 0,0:00:05.04,0:00:05.78,Cap,,0,0,0,,algumas pessoas
+Dialogue: 0,0:00:05.78,0:00:06.50,Cap,,0,0,0,,dormindo durante
+Dialogue: 0,0:00:06.50,0:00:07.00,Cap,,0,0,0,,seis horas
+Dialogue: 0,0:00:07.00,0:00:07.44,Cap,,0,0,0,,por dia
+Dialogue: 0,0:00:07.44,0:00:07.84,Cap,,0,0,0,,e algumas
+Dialogue: 0,0:00:07.84,0:00:08.66,Cap,,0,0,0,,pessoas dormindo
+Dialogue: 0,0:00:08.66,0:00:09.10,Cap,,0,0,0,,oito horas
+Dialogue: 0,0:00:09.10,0:00:09.50,Cap,,0,0,0,,por dia,
+Dialogue: 0,0:00:09.50,0:00:09.88,Cap,,0,0,0,,que seria
+Dialogue: 0,0:00:09.88,0:00:10.35,Cap,,0,0,0,,o ideal.
+Dialogue: 0,0:00:10.35,0:00:10.85,Cap,,0,0,0,,Ele aplica
+Dialogue: 0,0:00:10.85,0:00:11.57,Cap,,0,0,0,,um teste
+Dialogue: 0,0:00:11.57,0:00:11.83,Cap,,0,0,0,,assim que
+Dialogue: 0,0:00:11.83,0:00:12.51,Cap,,0,0,0,,essas pessoas
+Dialogue: 0,0:00:12.51,0:00:13.17,Cap,,0,0,0,,acordam e
+Dialogue: 0,0:00:13.17,0:00:13.65,Cap,,0,0,0,,vê quem
+Dialogue: 0,0:00:13.65,0:00:14.37,Cap,,0,0,0,,vai melhor.
+Dialogue: 0,0:00:14.37,0:00:15.09,Cap,,0,0,0,,Nitidamente,
+Dialogue: 0,0:00:15.09,0:00:15.69,Cap,,0,0,0,,as pessoas
+Dialogue: 0,0:00:15.69,0:00:16.27,Cap,,0,0,0,,que dormiram
+Dialogue: 0,0:00:16.27,0:00:17.06,Cap,,0,0,0,,mais tempo
+Dialogue: 0,0:00:17.06,0:00:17.72,Cap,,0,0,0,,foram melhor.
+Dialogue: 0,0:00:17.72,0:00:18.06,Cap,,0,0,0,,Então as
+Dialogue: 0,0:00:18.06,0:00:18.64,Cap,,0,0,0,,pessoas que
+Dialogue: 0,0:00:18.64,0:00:19.46,Cap,,0,0,0,,dormiram durante
+Dialogue: 0,0:00:19.46,0:00:19.98,Cap,,0,0,0,,oito horas
+Dialogue: 0,0:00:19.98,0:00:20.70,Cap,,0,0,0,,tiraram notas
+Dialogue: 0,0:00:20.70,0:00:21.40,Cap,,0,0,0,,melhores em
+Dialogue: 0,0:00:21.40,0:00:22.53,Cap,,0,0,0,,comparação àquelas
+Dialogue: 0,0:00:22.53,0:00:23.01,Cap,,0,0,0,,que dormiram
+Dialogue: 0,0:00:23.01,0:00:23.75,Cap,,0,0,0,,durante apenas
+Dialogue: 0,0:00:23.75,0:00:24.30,Cap,,0,0,0,,seis horas.
+Dialogue: 0,0:00:24.30,0:00:24.48,Cap,,0,0,0,,O que
+Dialogue: 0,0:00:24.48,0:00:25.06,Cap,,0,0,0,,é curioso
+Dialogue: 0,0:00:25.06,0:00:25.78,Cap,,0,0,0,,do experimento
+Dialogue: 0,0:00:25.78,0:00:26.02,Cap,,0,0,0,,é que
+Dialogue: 0,0:00:26.02,0:00:27.00,Cap,,0,0,0,,justamente as
+Dialogue: 0,0:00:27.00,0:00:27.48,Cap,,0,0,0,,pessoas que
+Dialogue: 0,0:00:27.48,0:00:28.26,Cap,,0,0,0,,tiraram notas
+Dialogue: 0,0:00:28.26,0:00:28.74,Cap,,0,0,0,,piores e
+Dialogue: 0,0:00:28.74,0:00:29.62,Cap,,0,0,0,,dormiram menos
+Dialogue: 0,0:00:29.62,0:00:30.28,Cap,,0,0,0,,alegavam que
+Dialogue: 0,0:00:30.28,0:00:30.88,Cap,,0,0,0,,estavam tão
+Dialogue: 0,0:00:30.88,0:00:31.48,Cap,,0,0,0,,bem quantos
+Dialogue: 0,0:00:31.48,0:00:32.10,Cap,,0,0,0,,e achavam
+Dialogue: 0,0:00:32.10,0:00:32.46,Cap,,0,0,0,,que tinham
+Dialogue: 0,0:00:32.46,0:00:32.90,Cap,,0,0,0,,ido tão
+Dialogue: 0,0:00:32.90,0:00:33.34,Cap,,0,0,0,,bem quanto
+Dialogue: 0,0:00:33.34,0:00:33.82,Cap,,0,0,0,,as pessoas
+Dialogue: 0,0:00:33.82,0:00:34.30,Cap,,0,0,0,,que dormiram
+Dialogue: 0,0:00:34.30,0:00:34.66,Cap,,0,0,0,,mais.
+Dialogue: 0,0:00:34.66,0:00:35.92,Cap,,0,0,0,,Mas evidentemente,
+Dialogue: 0,0:00:35.92,0:00:36.38,Cap,,0,0,0,,as pessoas
+Dialogue: 0,0:00:36.38,0:00:37.08,Cap,,0,0,0,,que tiraram,
+Dialogue: 0,0:00:37.08,0:00:37.68,Cap,,0,0,0,,que dormiram
+Dialogue: 0,0:00:37.68,0:00:38.20,Cap,,0,0,0,,durante mais
+Dialogue: 0,0:00:38.20,0:00:38.50,Cap,,0,0,0,,horas,
+Dialogue: 0,0:00:38.50,0:00:39.04,Cap,,0,0,0,,foram muito
+Dialogue: 0,0:00:39.04,0:00:39.50,Cap,,0,0,0,,melhores que
+Dialogue: 0,0:00:39.50,0:00:39.72,Cap,,0,0,0,,as que
+Dialogue: 0,0:00:39.72,0:00:40.26,Cap,,0,0,0,,dormiram seis
+Dialogue: 0,0:00:40.26,0:00:40.78,Cap,,0,0,0,,horas.
+Dialogue: 0,0:00:40.78,0:00:41.02,Cap,,0,0,0,,O que
+Dialogue: 0,0:00:41.02,0:00:41.22,Cap,,0,0,0,,que a
+Dialogue: 0,0:00:41.22,0:00:41.86,Cap,,0,0,0,,conclusão desse
+Dialogue: 0,0:00:41.86,0:00:42.39,Cap,,0,0,0,,experimento?
+Dialogue: 0,0:00:42.39,0:00:42.99,Cap,,0,0,0,,Muitas vezes,
+Dialogue: 0,0:00:42.99,0:00:43.71,Cap,,0,0,0,,as pessoas
+Dialogue: 0,0:00:43.71,0:00:43.99,Cap,,0,0,0,,acham que
+Dialogue: 0,0:00:43.99,0:00:44.53,Cap,,0,0,0,,estão dormindo
+Dialogue: 0,0:00:44.53,0:00:45.03,Cap,,0,0,0,,da forma
+Dialogue: 0,0:00:45.03,0:00:45.75,Cap,,0,0,0,,como deveriam,
+Dialogue: 0,0:00:45.75,0:00:45.89,Cap,,0,0,0,,mas,
+Dialogue: 0,0:00:45.89,0:00:46.35,Cap,,0,0,0,,na verdade,
+Dialogue: 0,0:00:46.35,0:00:47.07,Cap,,0,0,0,,não estão.
+Dialogue: 0,0:00:47.07,0:00:47.63,Cap,,0,0,0,,Elas estão
+Dialogue: 0,0:00:47.63,0:00:47.99,Cap,,0,0,0,,tendo suas
+Dialogue: 0,0:00:47.99,0:00:49.23,Cap,,0,0,0,,capacidades cognitivas
+Dialogue: 0,0:00:49.23,0:00:49.83,Cap,,0,0,0,,e mentais
+Dialogue: 0,0:00:49.83,0:00:50.73,Cap,,0,0,0,,afetadas,
+Dialogue: 0,0:00:50.73,0:00:51.47,Cap,,0,0,0,,mas julgam
+Dialogue: 0,0:00:51.47,0:00:51.77,Cap,,0,0,0,,que está
+Dialogue: 0,0:00:51.77,0:00:52.45,Cap,,0,0,0,,tudo bem.
+Dialogue: 0,0:00:52.45,0:00:52.77,Cap,,0,0,0,,É aquela
+Dialogue: 0,0:00:52.77,0:00:53.19,Cap,,0,0,0,,pessoa que
+Dialogue: 0,0:00:53.19,0:00:53.77,Cap,,0,0,0,,dorme pouco,
+Dialogue: 0,0:00:53.77,0:00:54.23,Cap,,0,0,0,,mas fala:
+Dialogue: 0,0:00:54.23,0:00:54.47,Cap,,0,0,0,,"Pô,
+Dialogue: 0,0:00:54.47,0:00:54.83,Cap,,0,0,0,,tá tudo
+Dialogue: 0,0:00:54.83,0:00:55.13,Cap,,0,0,0,,bem,
+Dialogue: 0,0:00:55.13,0:00:55.59,Cap,,0,0,0,,eu durmo
+Dialogue: 0,0:00:55.59,0:00:55.85,Cap,,0,0,0,,pouco,
+Dialogue: 0,0:00:55.85,0:00:56.11,Cap,,0,0,0,,mas eu
+Dialogue: 0,0:00:56.11,0:00:56.57,Cap,,0,0,0,,consigo me
+Dialogue: 0,0:00:56.57,0:00:57.19,Cap,,0,0,0,,virar".

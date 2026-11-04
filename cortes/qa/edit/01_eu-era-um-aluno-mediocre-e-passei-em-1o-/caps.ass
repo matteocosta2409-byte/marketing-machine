@@ -1,0 +1,108 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Helvetica,67,&H00FFFFFF,&H00FFFFFF,&HC8000000,&HC8000000,0,1,0,0,100,100,0,0,1,6.7,6.7,2,60,60,300,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.04,0:00:00.58,Cap,,0,0,0,,Então era
+Dialogue: 0,0:00:00.58,0:00:01.04,Cap,,0,0,0,,pandemia,
+Dialogue: 0,0:00:01.04,0:00:01.28,Cap,,0,0,0,,eu era
+Dialogue: 0,0:00:01.28,0:00:02.02,Cap,,0,0,0,,um péssimo
+Dialogue: 0,0:00:02.02,0:00:02.44,Cap,,0,0,0,,aluno,
+Dialogue: 0,0:00:02.44,0:00:02.74,Cap,,0,0,0,,fa-- tinha
+Dialogue: 0,0:00:02.74,0:00:03.42,Cap,,0,0,0,,notas muito
+Dialogue: 0,0:00:03.42,0:00:04.08,Cap,,0,0,0,,ruins mesmo.
+Dialogue: 0,0:00:04.08,0:00:04.76,Cap,,0,0,0,,e comecei
+Dialogue: 0,0:00:04.76,0:00:05.12,Cap,,0,0,0,,ali no
+Dialogue: 0,0:00:05.12,0:00:05.64,Cap,,0,0,0,,meu terceiro
+Dialogue: 0,0:00:05.64,0:00:06.22,Cap,,0,0,0,,ano com
+Dialogue: 0,0:00:06.22,0:00:06.86,Cap,,0,0,0,,uma nota
+Dialogue: 0,0:00:06.86,0:00:07.42,Cap,,0,0,0,,péssima no
+Dialogue: 0,0:00:07.42,0:00:07.64,Cap,,0,0,0,,Enem,
+Dialogue: 0,0:00:07.64,0:00:08.04,Cap,,0,0,0,,assim,
+Dialogue: 0,0:00:08.04,0:00:08.68,Cap,,0,0,0,,uma média,
+Dialogue: 0,0:00:08.68,0:00:09.24,Cap,,0,0,0,,nem chegava
+Dialogue: 0,0:00:09.24,0:00:09.86,Cap,,0,0,0,,nos 700
+Dialogue: 0,0:00:09.86,0:00:10.36,Cap,,0,0,0,,pontos,
+Dialogue: 0,0:00:10.36,0:00:11.26,Cap,,0,0,0,,650,
+Dialogue: 0,0:00:11.26,0:00:11.76,Cap,,0,0,0,,630,
+Dialogue: 0,0:00:11.76,0:00:12.00,Cap,,0,0,0,,era uma
+Dialogue: 0,0:00:12.00,0:00:12.62,Cap,,0,0,0,,média realmente
+Dialogue: 0,0:00:12.62,0:00:13.38,Cap,,0,0,0,,bastante baixa.
+Dialogue: 0,0:00:13.38,0:00:13.58,Cap,,0,0,0,,Como eu
+Dialogue: 0,0:00:13.58,0:00:14.12,Cap,,0,0,0,,queria Medicina,
+Dialogue: 0,0:00:14.12,0:00:14.48,Cap,,0,0,0,,eu tinha
+Dialogue: 0,0:00:14.48,0:00:14.84,Cap,,0,0,0,,que ampliar
+Dialogue: 0,0:00:14.84,0:00:15.24,Cap,,0,0,0,,essa média
+Dialogue: 0,0:00:15.24,0:00:15.64,Cap,,0,0,0,,e muito,
+Dialogue: 0,0:00:15.64,0:00:16.18,Cap,,0,0,0,,muito mesmo.
+Dialogue: 0,0:00:16.18,0:00:16.42,Cap,,0,0,0,,Então eu
+Dialogue: 0,0:00:16.42,0:00:16.84,Cap,,0,0,0,,estudava ali
+Dialogue: 0,0:00:16.84,0:00:17.28,Cap,,0,0,0,,no Olimpo,
+Dialogue: 0,0:00:17.28,0:00:17.70,Cap,,0,0,0,,aqui de
+Dialogue: 0,0:00:17.70,0:00:18.26,Cap,,0,0,0,,Águas Claras,
+Dialogue: 0,0:00:18.26,0:00:18.52,Cap,,0,0,0,,pra quem
+Dialogue: 0,0:00:18.52,0:00:18.68,Cap,,0,0,0,,é de
+Dialogue: 0,0:00:18.68,0:00:19.14,Cap,,0,0,0,,Brasília,
+Dialogue: 0,0:00:19.14,0:00:19.94,Cap,,0,0,0,,e utilizei
+Dialogue: 0,0:00:19.94,0:00:20.24,Cap,,0,0,0,,ali os
+Dialogue: 0,0:00:20.24,0:00:20.98,Cap,,0,0,0,,livros dele,
+Dialogue: 0,0:00:20.98,0:00:21.30,Cap,,0,0,0,,deles,
+Dialogue: 0,0:00:21.30,0:00:21.50,Cap,,0,0,0,,né,
+Dialogue: 0,0:00:21.50,0:00:21.86,Cap,,0,0,0,,os livros
+Dialogue: 0,0:00:21.86,0:00:22.20,Cap,,0,0,0,,do Olimpo,
+Dialogue: 0,0:00:22.20,0:00:22.64,Cap,,0,0,0,,que eram
+Dialogue: 0,0:00:22.64,0:00:23.32,Cap,,0,0,0,,bastante bons,
+Dialogue: 0,0:00:23.32,0:00:23.82,Cap,,0,0,0,,assistia às
+Dialogue: 0,0:00:23.82,0:00:24.20,Cap,,0,0,0,,aulas pela
+Dialogue: 0,0:00:24.20,0:00:24.60,Cap,,0,0,0,,manhã,
+Dialogue: 0,0:00:24.60,0:00:25.04,Cap,,0,0,0,,fazia os
+Dialogue: 0,0:00:25.04,0:00:25.70,Cap,,0,0,0,,exercícios do
+Dialogue: 0,0:00:25.70,0:00:26.10,Cap,,0,0,0,,livro à
+Dialogue: 0,0:00:26.10,0:00:26.44,Cap,,0,0,0,,tarde,
+Dialogue: 0,0:00:26.44,0:00:27.12,Cap,,0,0,0,,então estudei
+Dialogue: 0,0:00:27.12,0:00:27.96,Cap,,0,0,0,,bastante durante
+Dialogue: 0,0:00:27.96,0:00:28.32,Cap,,0,0,0,,esse ano,
+Dialogue: 0,0:00:28.32,0:00:28.84,Cap,,0,0,0,,fiz bastante
+Dialogue: 0,0:00:28.84,0:00:29.34,Cap,,0,0,0,,prova antiga
+Dialogue: 0,0:00:29.34,0:00:29.78,Cap,,0,0,0,,do Enem
+Dialogue: 0,0:00:29.78,0:00:30.11,Cap,,0,0,0,,também.
+Dialogue: 0,0:00:30.11,0:00:30.59,Cap,,0,0,0,,E acabei
+Dialogue: 0,0:00:30.59,0:00:31.07,Cap,,0,0,0,,chegando na
+Dialogue: 0,0:00:31.07,0:00:31.49,Cap,,0,0,0,,média ali
+Dialogue: 0,0:00:31.49,0:00:32.63,Cap,,0,0,0,,de 770
+Dialogue: 0,0:00:32.63,0:00:33.01,Cap,,0,0,0,,pontos,
+Dialogue: 0,0:00:33.01,0:00:33.75,Cap,,0,0,0,,780 pontos.
+Dialogue: 0,0:00:33.75,0:00:34.07,Cap,,0,0,0,,Foi algo
+Dialogue: 0,0:00:34.07,0:00:34.75,Cap,,0,0,0,,nesse intervalo,
+Dialogue: 0,0:00:34.75,0:00:35.09,Cap,,0,0,0,,não lembro
+Dialogue: 0,0:00:35.09,0:00:35.85,Cap,,0,0,0,,exatamente qual
+Dialogue: 0,0:00:35.85,0:00:36.07,Cap,,0,0,0,,foi a
+Dialogue: 0,0:00:36.07,0:00:36.51,Cap,,0,0,0,,minha média
+Dialogue: 0,0:00:36.51,0:00:37.04,Cap,,0,0,0,,aritmética,
+Dialogue: 0,0:00:37.04,0:00:37.53,Cap,,0,0,0,,mas foi
+Dialogue: 0,0:00:37.53,0:00:38.37,Cap,,0,0,0,,basicamente isso.
+Dialogue: 0,0:00:38.37,0:00:38.53,Cap,,0,0,0,,Eu,
+Dialogue: 0,0:00:38.53,0:00:39.27,Cap,,0,0,0,,evoluí muito
+Dialogue: 0,0:00:39.27,0:00:39.79,Cap,,0,0,0,,nesse ano,
+Dialogue: 0,0:00:39.79,0:00:40.25,Cap,,0,0,0,,sem dúvida,
+Dialogue: 0,0:00:40.25,0:00:40.45,Cap,,0,0,0,,foi ano
+Dialogue: 0,0:00:40.45,0:00:40.65,Cap,,0,0,0,,que eu
+Dialogue: 0,0:00:40.65,0:00:41.31,Cap,,0,0,0,,mais evoluí,
+Dialogue: 0,0:00:41.31,0:00:41.69,Cap,,0,0,0,,foi ali
+Dialogue: 0,0:00:41.69,0:00:41.85,Cap,,0,0,0,,no ano
+Dialogue: 0,0:00:41.85,0:00:42.01,Cap,,0,0,0,,que eu
+Dialogue: 0,0:00:42.01,0:00:42.65,Cap,,0,0,0,,construí minha
+Dialogue: 0,0:00:42.65,0:00:43.21,Cap,,0,0,0,,base e
+Dialogue: 0,0:00:43.21,0:00:43.77,Cap,,0,0,0,,consolidei ali
+Dialogue: 0,0:00:43.77,0:00:44.05,Cap,,0,0,0,,a minha
+Dialogue: 0,0:00:44.05,0:00:44.73,Cap,,0,0,0,,base teórica
+Dialogue: 0,0:00:44.73,0:00:45.39,Cap,,0,0,0,,de conhecimento
+Dialogue: 0,0:00:45.39,0:00:45.65,Cap,,0,0,0,,dos,
+Dialogue: 0,0:00:45.65,0:00:46.79,Cap,,0,0,0,,das matérias.

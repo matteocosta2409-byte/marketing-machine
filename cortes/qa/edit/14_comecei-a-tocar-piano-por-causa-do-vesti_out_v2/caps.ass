@@ -1,0 +1,130 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Helvetica,67,&H00FFFFFF,&H00FFFFFF,&HC8000000,&HC8000000,0,1,0,0,100,100,0,0,1,6.7,6.7,2,60,60,540,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.04,0:00:00.42,Cap,,0,0,0,,pra ser
+Dialogue: 0,0:00:00.42,0:00:01.02,Cap,,0,0,0,,bem sincero,
+Dialogue: 0,0:00:01.02,0:00:01.42,Cap,,0,0,0,,eu comecei
+Dialogue: 0,0:00:01.42,0:00:01.82,Cap,,0,0,0,,a tocar
+Dialogue: 0,0:00:01.82,0:00:02.78,Cap,,0,0,0,,piano porque
+Dialogue: 0,0:00:02.78,0:00:03.08,Cap,,0,0,0,,eu ia
+Dialogue: 0,0:00:03.08,0:00:03.26,Cap,,0,0,0,,fazer o
+Dialogue: 0,0:00:03.26,0:00:03.72,Cap,,0,0,0,,vestibular,
+Dialogue: 0,0:00:03.72,0:00:04.32,Cap,,0,0,0,,porque tinha
+Dialogue: 0,0:00:04.32,0:00:04.72,Cap,,0,0,0,,o vestibular
+Dialogue: 0,0:00:04.72,0:00:05.12,Cap,,0,0,0,,da UnB,
+Dialogue: 0,0:00:05.12,0:00:05.44,Cap,,0,0,0,,eu sabia
+Dialogue: 0,0:00:05.44,0:00:05.94,Cap,,0,0,0,,que cobrava
+Dialogue: 0,0:00:05.94,0:00:06.35,Cap,,0,0,0,,música.
+Dialogue: 0,0:00:06.35,0:00:06.71,Cap,,0,0,0,,Eu sabia
+Dialogue: 0,0:00:06.71,0:00:06.93,Cap,,0,0,0,,que eu
+Dialogue: 0,0:00:06.93,0:00:07.45,Cap,,0,0,0,,ten-- tinha
+Dialogue: 0,0:00:07.45,0:00:07.67,Cap,,0,0,0,,que ter
+Dialogue: 0,0:00:07.67,0:00:08.25,Cap,,0,0,0,,um conhecimento
+Dialogue: 0,0:00:08.25,0:00:09.11,Cap,,0,0,0,,ali básico,
+Dialogue: 0,0:00:09.11,0:00:09.57,Cap,,0,0,0,,pelo menos,
+Dialogue: 0,0:00:09.57,0:00:09.95,Cap,,0,0,0,,de leitura
+Dialogue: 0,0:00:09.95,0:00:10.61,Cap,,0,0,0,,de partitura,
+Dialogue: 0,0:00:10.61,0:00:10.89,Cap,,0,0,0,,saber que
+Dialogue: 0,0:00:10.89,0:00:11.69,Cap,,0,0,0,,um compasso,
+Dialogue: 0,0:00:11.69,0:00:12.11,Cap,,0,0,0,,ter a
+Dialogue: 0,0:00:12.11,0:00:12.77,Cap,,0,0,0,,mínima noção
+Dialogue: 0,0:00:12.77,0:00:13.13,Cap,,0,0,0,,de história
+Dialogue: 0,0:00:13.13,0:00:13.57,Cap,,0,0,0,,da música,
+Dialogue: 0,0:00:13.57,0:00:14.15,Cap,,0,0,0,,tanto mundial
+Dialogue: 0,0:00:14.15,0:00:14.47,Cap,,0,0,0,,quanto do
+Dialogue: 0,0:00:14.47,0:00:14.94,Cap,,0,0,0,,Brasil.
+Dialogue: 0,0:00:14.94,0:00:15.04,Cap,,0,0,0,,E eu
+Dialogue: 0,0:00:15.04,0:00:16.04,Cap,,0,0,0,,decidi começar
+Dialogue: 0,0:00:16.04,0:00:16.28,Cap,,0,0,0,,a tocar
+Dialogue: 0,0:00:16.28,0:00:16.80,Cap,,0,0,0,,um instrumento.
+Dialogue: 0,0:00:16.80,0:00:17.38,Cap,,0,0,0,,Tinha o
+Dialogue: 0,0:00:17.38,0:00:17.68,Cap,,0,0,0,,piano da
+Dialogue: 0,0:00:17.68,0:00:18.02,Cap,,0,0,0,,minha irmã
+Dialogue: 0,0:00:18.02,0:00:18.30,Cap,,0,0,0,,ali que
+Dialogue: 0,0:00:18.30,0:00:18.62,Cap,,0,0,0,,tava meio
+Dialogue: 0,0:00:18.62,0:00:19.17,Cap,,0,0,0,,abandonado.
+Dialogue: 0,0:00:19.17,0:00:19.35,Cap,,0,0,0,,Falei:
+Dialogue: 0,0:00:19.35,0:00:19.61,Cap,,0,0,0,,"Cara,
+Dialogue: 0,0:00:19.61,0:00:19.91,Cap,,0,0,0,,por que
+Dialogue: 0,0:00:19.91,0:00:20.07,Cap,,0,0,0,,não,
+Dialogue: 0,0:00:20.07,0:00:20.21,Cap,,0,0,0,,né?
+Dialogue: 0,0:00:20.21,0:00:20.65,Cap,,0,0,0,,Vou começar
+Dialogue: 0,0:00:20.65,0:00:21.03,Cap,,0,0,0,,a tocar
+Dialogue: 0,0:00:21.03,0:00:21.67,Cap,,0,0,0,,esse instrumento".
+Dialogue: 0,0:00:21.67,0:00:21.81,Cap,,0,0,0,,É,
+Dialogue: 0,0:00:21.81,0:00:22.35,Cap,,0,0,0,,me apaixonei
+Dialogue: 0,0:00:22.35,0:00:22.85,Cap,,0,0,0,,100%.
+Dialogue: 0,0:00:22.85,0:00:23.07,Cap,,0,0,0,,Eu acho
+Dialogue: 0,0:00:23.07,0:00:23.31,Cap,,0,0,0,,que é
+Dialogue: 0,0:00:23.31,0:00:23.57,Cap,,0,0,0,,um,
+Dialogue: 0,0:00:23.57,0:00:24.03,Cap,,0,0,0,,um instrumento
+Dialogue: 0,0:00:24.03,0:00:24.39,Cap,,0,0,0,,muito lindo,
+Dialogue: 0,0:00:24.39,0:00:24.63,Cap,,0,0,0,,dá pra
+Dialogue: 0,0:00:24.63,0:00:25.25,Cap,,0,0,0,,tocar todo
+Dialogue: 0,0:00:25.25,0:00:25.53,Cap,,0,0,0,,tipo de
+Dialogue: 0,0:00:25.53,0:00:25.71,Cap,,0,0,0,,música,
+Dialogue: 0,0:00:25.71,0:00:25.89,Cap,,0,0,0,,dá pra
+Dialogue: 0,0:00:25.89,0:00:26.37,Cap,,0,0,0,,tocar música
+Dialogue: 0,0:00:26.37,0:00:26.73,Cap,,0,0,0,,clássica,
+Dialogue: 0,0:00:26.73,0:00:27.28,Cap,,0,0,0,,erudita.
+Dialogue: 0,0:00:27.28,0:00:27.74,Cap,,0,0,0,,Eu comecei
+Dialogue: 0,0:00:27.74,0:00:27.96,Cap,,0,0,0,,quando eu
+Dialogue: 0,0:00:27.96,0:00:28.18,Cap,,0,0,0,,tava no
+Dialogue: 0,0:00:28.18,0:00:28.52,Cap,,0,0,0,,meu primeiro
+Dialogue: 0,0:00:28.52,0:00:28.76,Cap,,0,0,0,,ano de
+Dialogue: 0,0:00:28.76,0:00:29.40,Cap,,0,0,0,,cursinho ali,
+Dialogue: 0,0:00:29.40,0:00:29.66,Cap,,0,0,0,,mas não
+Dialogue: 0,0:00:29.66,0:00:30.22,Cap,,0,0,0,,tocava quase
+Dialogue: 0,0:00:30.22,0:00:30.42,Cap,,0,0,0,,nada.
+Dialogue: 0,0:00:30.42,0:00:30.54,Cap,,0,0,0,,Aí no
+Dialogue: 0,0:00:30.54,0:00:30.92,Cap,,0,0,0,,meu segundo
+Dialogue: 0,0:00:30.92,0:00:31.14,Cap,,0,0,0,,ano de
+Dialogue: 0,0:00:31.14,0:00:31.56,Cap,,0,0,0,,cursinho,
+Dialogue: 0,0:00:31.56,0:00:31.96,Cap,,0,0,0,,eu passei
+Dialogue: 0,0:00:31.96,0:00:32.16,Cap,,0,0,0,,ali o
+Dialogue: 0,0:00:32.16,0:00:32.54,Cap,,0,0,0,,ano inteiro
+Dialogue: 0,0:00:32.54,0:00:32.90,Cap,,0,0,0,,nos meus
+Dialogue: 0,0:00:32.90,0:00:33.56,Cap,,0,0,0,,intervalos dos
+Dialogue: 0,0:00:33.56,0:00:33.86,Cap,,0,0,0,,estudos,
+Dialogue: 0,0:00:33.86,0:00:34.28,Cap,,0,0,0,,eu tocava
+Dialogue: 0,0:00:34.28,0:00:34.80,Cap,,0,0,0,,quase todo
+Dialogue: 0,0:00:34.80,0:00:35.05,Cap,,0,0,0,,dia.
+Dialogue: 0,0:00:35.05,0:00:35.29,Cap,,0,0,0,,É,
+Dialogue: 0,0:00:35.29,0:00:35.65,Cap,,0,0,0,,e foi
+Dialogue: 0,0:00:35.65,0:00:36.31,Cap,,0,0,0,,muito prazeroso
+Dialogue: 0,0:00:36.31,0:00:36.59,Cap,,0,0,0,,ali nos
+Dialogue: 0,0:00:36.59,0:00:37.29,Cap,,0,0,0,,meus intervalos.
+Dialogue: 0,0:00:37.29,0:00:37.47,Cap,,0,0,0,,E a
+Dialogue: 0,0:00:37.47,0:00:37.75,Cap,,0,0,0,,m-- e
+Dialogue: 0,0:00:37.75,0:00:38.45,Cap,,0,0,0,,mesmo assim,
+Dialogue: 0,0:00:38.45,0:00:38.77,Cap,,0,0,0,,sendo meu
+Dialogue: 0,0:00:38.77,0:00:39.15,Cap,,0,0,0,,lazer,
+Dialogue: 0,0:00:39.15,0:00:39.55,Cap,,0,0,0,,foi uma
+Dialogue: 0,0:00:39.55,0:00:39.93,Cap,,0,0,0,,área que
+Dialogue: 0,0:00:39.93,0:00:40.37,Cap,,0,0,0,,me ajudou
+Dialogue: 0,0:00:40.37,0:00:40.71,Cap,,0,0,0,,muito no
+Dialogue: 0,0:00:40.71,0:00:41.17,Cap,,0,0,0,,vestibular,
+Dialogue: 0,0:00:41.17,0:00:41.69,Cap,,0,0,0,,porque cai
+Dialogue: 0,0:00:41.69,0:00:42.19,Cap,,0,0,0,,muito música
+Dialogue: 0,0:00:42.19,0:00:42.59,Cap,,0,0,0,,no vestibular
+Dialogue: 0,0:00:42.59,0:00:43.03,Cap,,0,0,0,,da UnB,
+Dialogue: 0,0:00:43.03,0:00:43.31,Cap,,0,0,0,,que era
+Dialogue: 0,0:00:43.31,0:00:43.61,Cap,,0,0,0,,um,
+Dialogue: 0,0:00:43.61,0:00:44.05,Cap,,0,0,0,,um vestibular
+Dialogue: 0,0:00:44.05,0:00:44.17,Cap,,0,0,0,,que eu
+Dialogue: 0,0:00:44.17,0:00:44.63,Cap,,0,0,0,,ia prestar.
+Dialogue: 0,0:00:44.63,0:00:44.95,Cap,,0,0,0,,Então,
+Dialogue: 0,0:00:44.95,0:00:45.03,Cap,,0,0,0,,é,
+Dialogue: 0,0:00:45.03,0:00:45.29,Cap,,0,0,0,,foi dessa
+Dialogue: 0,0:00:45.29,0:00:45.61,Cap,,0,0,0,,maneira que
+Dialogue: 0,0:00:45.61,0:00:46.03,Cap,,0,0,0,,eu comecei
+Dialogue: 0,0:00:46.03,0:00:46.89,Cap,,0,0,0,,a tocar.

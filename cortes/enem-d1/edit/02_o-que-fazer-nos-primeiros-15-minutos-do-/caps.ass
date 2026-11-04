@@ -1,0 +1,113 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Helvetica,67,&H00FFFFFF,&H00FFFFFF,&HC8000000,&HC8000000,0,1,0,0,100,100,0,0,1,6.7,6.7,2,60,60,300,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.04,0:00:00.30,Cap,,0,0,0,,Pronto,
+Dialogue: 0,0:00:00.30,0:00:00.72,Cap,,0,0,0,,recebi a
+Dialogue: 0,0:00:00.72,0:00:01.10,Cap,,0,0,0,,prova,
+Dialogue: 0,0:00:01.10,0:00:01.34,Cap,,0,0,0,,dou uma
+Dialogue: 0,0:00:01.34,0:00:02.16,Cap,,0,0,0,,folheada rápida
+Dialogue: 0,0:00:02.16,0:00:02.48,Cap,,0,0,0,,e vou
+Dialogue: 0,0:00:02.48,0:00:03.08,Cap,,0,0,0,,direto pro
+Dialogue: 0,0:00:03.08,0:00:03.36,Cap,,0,0,0,,tema da
+Dialogue: 0,0:00:03.36,0:00:03.88,Cap,,0,0,0,,redação.
+Dialogue: 0,0:00:03.88,0:00:04.40,Cap,,0,0,0,,No primeiro
+Dialogue: 0,0:00:04.40,0:00:04.74,Cap,,0,0,0,,dia,
+Dialogue: 0,0:00:04.74,0:00:05.04,Cap,,0,0,0,,o que
+Dialogue: 0,0:00:05.04,0:00:06.02,Cap,,0,0,0,,gera ansiedade
+Dialogue: 0,0:00:06.02,0:00:06.18,Cap,,0,0,0,,é a
+Dialogue: 0,0:00:06.18,0:00:06.78,Cap,,0,0,0,,redação.
+Dialogue: 0,0:00:06.78,0:00:07.28,Cap,,0,0,0,,Enquanto você
+Dialogue: 0,0:00:07.28,0:00:07.80,Cap,,0,0,0,,não sabe
+Dialogue: 0,0:00:07.80,0:00:08.22,Cap,,0,0,0,,o tema,
+Dialogue: 0,0:00:08.22,0:00:08.74,Cap,,0,0,0,,sua cabeça
+Dialogue: 0,0:00:08.74,0:00:09.16,Cap,,0,0,0,,não vai
+Dialogue: 0,0:00:09.16,0:00:10.04,Cap,,0,0,0,,ficar tranquila.
+Dialogue: 0,0:00:10.04,0:00:10.76,Cap,,0,0,0,,Então descobre
+Dialogue: 0,0:00:10.76,0:00:11.16,Cap,,0,0,0,,logo e
+Dialogue: 0,0:00:11.16,0:00:11.62,Cap,,0,0,0,,tira esse
+Dialogue: 0,0:00:11.62,0:00:11.94,Cap,,0,0,0,,peso das
+Dialogue: 0,0:00:11.94,0:00:12.60,Cap,,0,0,0,,suas costas.
+Dialogue: 0,0:00:12.60,0:00:12.90,Cap,,0,0,0,,Visto o
+Dialogue: 0,0:00:12.90,0:00:13.26,Cap,,0,0,0,,tema,
+Dialogue: 0,0:00:13.26,0:00:13.64,Cap,,0,0,0,,eu fazia
+Dialogue: 0,0:00:13.64,0:00:14.22,Cap,,0,0,0,,um esqueleto
+Dialogue: 0,0:00:14.22,0:00:14.66,Cap,,0,0,0,,rápido,
+Dialogue: 0,0:00:14.66,0:00:15.12,Cap,,0,0,0,,uns quinze
+Dialogue: 0,0:00:15.12,0:00:15.82,Cap,,0,0,0,,minutos ali
+Dialogue: 0,0:00:15.82,0:00:16.30,Cap,,0,0,0,,na própria
+Dialogue: 0,0:00:16.30,0:00:16.54,Cap,,0,0,0,,folha de
+Dialogue: 0,0:00:16.54,0:00:17.26,Cap,,0,0,0,,redação.
+Dialogue: 0,0:00:17.26,0:00:18.16,Cap,,0,0,0,,Bem simples.
+Dialogue: 0,0:00:18.16,0:00:18.90,Cap,,0,0,0,,Na introdução,
+Dialogue: 0,0:00:18.90,0:00:19.16,Cap,,0,0,0,,o que
+Dialogue: 0,0:00:19.16,0:00:19.34,Cap,,0,0,0,,que eu
+Dialogue: 0,0:00:19.34,0:00:20.12,Cap,,0,0,0,,ia contextualizar
+Dialogue: 0,0:00:20.12,0:00:20.40,Cap,,0,0,0,,o meu
+Dialogue: 0,0:00:20.40,0:00:20.88,Cap,,0,0,0,,texto e
+Dialogue: 0,0:00:20.88,0:00:21.60,Cap,,0,0,0,,qual repertório
+Dialogue: 0,0:00:21.60,0:00:21.76,Cap,,0,0,0,,que eu
+Dialogue: 0,0:00:21.76,0:00:22.14,Cap,,0,0,0,,ia abrir
+Dialogue: 0,0:00:22.14,0:00:22.70,Cap,,0,0,0,,a redação.
+Dialogue: 0,0:00:22.70,0:00:23.28,Cap,,0,0,0,,No D1,
+Dialogue: 0,0:00:23.28,0:00:23.60,Cap,,0,0,0,,qual que
+Dialogue: 0,0:00:23.60,0:00:23.76,Cap,,0,0,0,,era o
+Dialogue: 0,0:00:23.76,0:00:24.18,Cap,,0,0,0,,meu primeiro
+Dialogue: 0,0:00:24.18,0:00:24.98,Cap,,0,0,0,,argumento e
+Dialogue: 0,0:00:24.98,0:00:25.40,Cap,,0,0,0,,qual seria
+Dialogue: 0,0:00:25.40,0:00:25.60,Cap,,0,0,0,,o meu
+Dialogue: 0,0:00:25.60,0:00:26.28,Cap,,0,0,0,,repertório pra
+Dialogue: 0,0:00:26.28,0:00:26.88,Cap,,0,0,0,,embasar ele.
+Dialogue: 0,0:00:26.88,0:00:27.24,Cap,,0,0,0,,E no
+Dialogue: 0,0:00:27.24,0:00:27.66,Cap,,0,0,0,,D2,
+Dialogue: 0,0:00:27.66,0:00:28.08,Cap,,0,0,0,,a mesma
+Dialogue: 0,0:00:28.08,0:00:28.45,Cap,,0,0,0,,coisa.
+Dialogue: 0,0:00:28.45,0:00:28.75,Cap,,0,0,0,,Qual que
+Dialogue: 0,0:00:28.75,0:00:29.07,Cap,,0,0,0,,seria o
+Dialogue: 0,0:00:29.07,0:00:29.51,Cap,,0,0,0,,meu segundo
+Dialogue: 0,0:00:29.51,0:00:30.13,Cap,,0,0,0,,argumento e
+Dialogue: 0,0:00:30.13,0:00:30.77,Cap,,0,0,0,,o repertório
+Dialogue: 0,0:00:30.77,0:00:30.95,Cap,,0,0,0,,que eu
+Dialogue: 0,0:00:30.95,0:00:31.67,Cap,,0,0,0,,ia utilizar
+Dialogue: 0,0:00:31.67,0:00:32.75,Cap,,0,0,0,,para embasá-lo.
+Dialogue: 0,0:00:32.75,0:00:32.89,Cap,,0,0,0,,E a
+Dialogue: 0,0:00:32.89,0:00:33.25,Cap,,0,0,0,,proposta de
+Dialogue: 0,0:00:33.25,0:00:33.79,Cap,,0,0,0,,intervenção,
+Dialogue: 0,0:00:33.79,0:00:33.89,Cap,,0,0,0,,que é
+Dialogue: 0,0:00:33.89,0:00:34.53,Cap,,0,0,0,,mais tranquila,
+Dialogue: 0,0:00:34.53,0:00:34.95,Cap,,0,0,0,,mas vale
+Dialogue: 0,0:00:34.95,0:00:35.71,Cap,,0,0,0,,deixar anotada
+Dialogue: 0,0:00:35.71,0:00:36.21,Cap,,0,0,0,,já direto
+Dialogue: 0,0:00:36.21,0:00:36.81,Cap,,0,0,0,,no começo.
+Dialogue: 0,0:00:36.81,0:00:37.10,Cap,,0,0,0,,Pronto,
+Dialogue: 0,0:00:37.10,0:00:37.48,Cap,,0,0,0,,com quinze
+Dialogue: 0,0:00:37.48,0:00:37.88,Cap,,0,0,0,,minutos de
+Dialogue: 0,0:00:37.88,0:00:38.34,Cap,,0,0,0,,prova,
+Dialogue: 0,0:00:38.34,0:00:38.68,Cap,,0,0,0,,eu já
+Dialogue: 0,0:00:38.68,0:00:38.94,Cap,,0,0,0,,tinha o
+Dialogue: 0,0:00:38.94,0:00:39.36,Cap,,0,0,0,,tema,
+Dialogue: 0,0:00:39.36,0:00:39.62,Cap,,0,0,0,,o que
+Dialogue: 0,0:00:39.62,0:00:39.82,Cap,,0,0,0,,que eu
+Dialogue: 0,0:00:39.82,0:00:40.04,Cap,,0,0,0,,ia ter
+Dialogue: 0,0:00:40.04,0:00:40.72,Cap,,0,0,0,,que fazer
+Dialogue: 0,0:00:40.72,0:00:40.84,Cap,,0,0,0,,e o
+Dialogue: 0,0:00:40.84,0:00:41.06,Cap,,0,0,0,,que que
+Dialogue: 0,0:00:41.06,0:00:41.32,Cap,,0,0,0,,eu ia
+Dialogue: 0,0:00:41.32,0:00:41.72,Cap,,0,0,0,,falar em
+Dialogue: 0,0:00:41.72,0:00:41.98,Cap,,0,0,0,,cada um
+Dialogue: 0,0:00:41.98,0:00:42.52,Cap,,0,0,0,,dos três
+Dialogue: 0,0:00:42.52,0:00:43.88,Cap,,0,0,0,,primeiros parágrafos.
+Dialogue: 0,0:00:43.88,0:00:44.18,Cap,,0,0,0,,E você
+Dialogue: 0,0:00:44.18,0:00:44.92,Cap,,0,0,0,,já fica
+Dialogue: 0,0:00:44.92,0:00:45.44,Cap,,0,0,0,,muito mais
+Dialogue: 0,0:00:45.44,0:00:45.90,Cap,,0,0,0,,tranquilo pra
+Dialogue: 0,0:00:45.90,0:00:46.16,Cap,,0,0,0,,fazer o
+Dialogue: 0,0:00:46.16,0:00:46.83,Cap,,0,0,0,,resto.

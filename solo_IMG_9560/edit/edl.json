@@ -1,0 +1,103 @@
+{
+  "version": 1,
+  "sources": {
+    "src": "/Users/mac-matteo/marketing machine/solo_IMG_9560/src.mov"
+  },
+  "ranges": [
+    {
+      "source": "src",
+      "start": 0.0,
+      "end": 3.46
+    },
+    {
+      "source": "src",
+      "start": 4.08,
+      "end": 8.36
+    },
+    {
+      "source": "src",
+      "start": 8.74,
+      "end": 14.28
+    },
+    {
+      "source": "src",
+      "start": 14.68,
+      "end": 15.6
+    },
+    {
+      "source": "src",
+      "start": 16.72,
+      "end": 22.0
+    },
+    {
+      "source": "src",
+      "start": 22.4,
+      "end": 28.5
+    },
+    {
+      "source": "src",
+      "start": 28.94,
+      "end": 30.99
+    },
+    {
+      "source": "src",
+      "start": 31.2,
+      "end": 33.62
+    },
+    {
+      "source": "src",
+      "start": 34.2,
+      "end": 35.18
+    },
+    {
+      "source": "src",
+      "start": 35.52,
+      "end": 40.44
+    },
+    {
+      "source": "src",
+      "start": 40.62,
+      "end": 42.08
+    },
+    {
+      "source": "src",
+      "start": 42.4,
+      "end": 45.62
+    },
+    {
+      "source": "src",
+      "start": 45.9,
+      "end": 46.64
+    },
+    {
+      "source": "src",
+      "start": 46.92,
+      "end": 47.8
+    },
+    {
+      "source": "src",
+      "start": 48.02,
+      "end": 50.02
+    },
+    {
+      "source": "src",
+      "start": 53.1,
+      "end": 54.96
+    },
+    {
+      "source": "src",
+      "start": 55.08,
+      "end": 57.76
+    },
+    {
+      "source": "src",
+      "start": 58.1,
+      "end": 59.149
+    }
+  ],
+  "grade": "none",
+  "overlays": [],
+  "subtitle_case": "natural",
+  "subtitle_style": "FontName=Helvetica,FontSize=10,Bold=0,Italic=1,PrimaryColour=&H00FFFFFF,OutlineColour=&HC8000000,BorderStyle=1,Outline=1,Shadow=1,Alignment=2,MarginV=45",
+  "total_duration_s": 49.839
+}

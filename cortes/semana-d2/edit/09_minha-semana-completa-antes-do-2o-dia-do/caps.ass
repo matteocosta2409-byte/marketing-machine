@@ -1,0 +1,58 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Helvetica,67,&H00FFFFFF,&H00FFFFFF,&HC8000000,&HC8000000,0,1,0,0,100,100,0,0,1,6.7,6.7,2,60,60,300,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.04,0:00:00.52,Cap,,0,0,0,,E juntando
+Dialogue: 0,0:00:00.52,0:00:00.83,Cap,,0,0,0,,tudo,
+Dialogue: 0,0:00:00.83,0:00:01.25,Cap,,0,0,0,,todas as
+Dialogue: 0,0:00:01.25,0:00:01.61,Cap,,0,0,0,,tardes,
+Dialogue: 0,0:00:01.61,0:00:02.09,Cap,,0,0,0,,de segunda
+Dialogue: 0,0:00:02.09,0:00:02.77,Cap,,0,0,0,,a sexta,
+Dialogue: 0,0:00:02.77,0:00:03.19,Cap,,0,0,0,,faz uma
+Dialogue: 0,0:00:03.19,0:00:03.83,Cap,,0,0,0,,prova antiga
+Dialogue: 0,0:00:03.83,0:00:04.37,Cap,,0,0,0,,do segundo
+Dialogue: 0,0:00:04.37,0:00:04.61,Cap,,0,0,0,,dia,
+Dialogue: 0,0:00:04.61,0:00:05.05,Cap,,0,0,0,,de cinco
+Dialogue: 0,0:00:05.05,0:00:06.49,Cap,,0,0,0,,horas cronometradas.
+Dialogue: 0,0:00:06.49,0:00:06.87,Cap,,0,0,0,,Todas as
+Dialogue: 0,0:00:06.87,0:00:07.39,Cap,,0,0,0,,manhãs,
+Dialogue: 0,0:00:07.39,0:00:07.85,Cap,,0,0,0,,tenta fazer
+Dialogue: 0,0:00:07.85,0:00:08.37,Cap,,0,0,0,,questões de
+Dialogue: 0,0:00:08.37,0:00:08.77,Cap,,0,0,0,,Natureza e
+Dialogue: 0,0:00:08.77,0:00:09.63,Cap,,0,0,0,,Matemática em
+Dialogue: 0,0:00:09.63,0:00:10.53,Cap,,0,0,0,,altíssimo volume,
+Dialogue: 0,0:00:10.53,0:00:12.41,Cap,,0,0,0,,revisando direcionadamente
+Dialogue: 0,0:00:12.41,0:00:12.91,Cap,,0,0,0,,os seus
+Dialogue: 0,0:00:12.91,0:00:13.23,Cap,,0,0,0,,erros.
+Dialogue: 0,0:00:13.23,0:00:13.57,Cap,,0,0,0,,E todas
+Dialogue: 0,0:00:13.57,0:00:14.03,Cap,,0,0,0,,as noites,
+Dialogue: 0,0:00:14.03,0:00:14.65,Cap,,0,0,0,,corrige essa
+Dialogue: 0,0:00:14.65,0:00:15.19,Cap,,0,0,0,,prova,
+Dialogue: 0,0:00:15.19,0:00:15.83,Cap,,0,0,0,,separando os
+Dialogue: 0,0:00:15.83,0:00:16.27,Cap,,0,0,0,,erros pelo
+Dialogue: 0,0:00:16.27,0:00:17.05,Cap,,0,0,0,,motivo que
+Dialogue: 0,0:00:17.05,0:00:17.81,Cap,,0,0,0,,você errou.
+Dialogue: 0,0:00:17.81,0:00:18.17,Cap,,0,0,0,,Todos os
+Dialogue: 0,0:00:18.17,0:00:18.55,Cap,,0,0,0,,dias,
+Dialogue: 0,0:00:18.55,0:00:19.69,Cap,,0,0,0,,flashcards pra
+Dialogue: 0,0:00:19.69,0:00:20.23,Cap,,0,0,0,,você conseguir
+Dialogue: 0,0:00:20.23,0:00:20.81,Cap,,0,0,0,,revisar ali
+Dialogue: 0,0:00:20.81,0:00:21.21,Cap,,0,0,0,,as matérias
+Dialogue: 0,0:00:21.21,0:00:21.71,Cap,,0,0,0,,que você
+Dialogue: 0,0:00:21.71,0:00:22.13,Cap,,0,0,0,,estudou ao
+Dialogue: 0,0:00:22.13,0:00:22.55,Cap,,0,0,0,,longo do
+Dialogue: 0,0:00:22.55,0:00:22.99,Cap,,0,0,0,,ano.
+Dialogue: 0,0:00:22.99,0:00:23.23,Cap,,0,0,0,,E no
+Dialogue: 0,0:00:23.23,0:00:23.61,Cap,,0,0,0,,sábado,
+Dialogue: 0,0:00:23.61,0:00:24.59,Cap,,0,0,0,,descansa e
+Dialogue: 0,0:00:24.59,0:00:25.33,Cap,,0,0,0,,deixa tudo
+Dialogue: 0,0:00:25.33,0:00:25.69,Cap,,0,0,0,,pronto pro
+Dialogue: 0,0:00:25.69,0:00:26.41,Cap,,0,0,0,,domingo.

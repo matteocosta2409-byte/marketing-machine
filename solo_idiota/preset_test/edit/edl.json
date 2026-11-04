@@ -1,0 +1,92 @@
+{
+  "version": 1,
+  "sources": {
+    "src": "/Users/mac-matteo/marketing machine/solo_idiota/preset_test/src.mov"
+  },
+  "ranges": [
+    {
+      "source": "src",
+      "start": 1.12,
+      "end": 5.68
+    },
+    {
+      "source": "src",
+      "start": 6.02,
+      "end": 8.818
+    },
+    {
+      "source": "src",
+      "start": 9.24,
+      "end": 11.08
+    },
+    {
+      "source": "src",
+      "start": 12.32,
+      "end": 19.51
+    },
+    {
+      "source": "src",
+      "start": 19.92,
+      "end": 24.551
+    },
+    {
+      "source": "src",
+      "start": 24.94,
+      "end": 26.457
+    },
+    {
+      "source": "src",
+      "start": 26.96,
+      "end": 28.267
+    }
+  ],
+  "grade": "none",
+  "overlays": [
+    {
+      "file": "edit/motion/titulo_maior.png",
+      "start_in_output": 0,
+      "duration": 23.843
+    },
+    {
+      "file": "edit/motion/x10.mov",
+      "start_in_output": 1.94
+    },
+    {
+      "file": "edit/motion/acao.mov",
+      "start_in_output": 5.68
+    },
+    {
+      "file": "edit/motion/p70.mov",
+      "start_in_output": 8.118
+    },
+    {
+      "file": "edit/motion/parado.mov",
+      "start_in_output": 15.298
+    }
+  ],
+  "subtitle_case": "natural",
+  "subtitle_style": "FontName=Helvetica,FontSize=10,Bold=0,Italic=1,PrimaryColour=&H00FFFFFF,OutlineColour=&HC8000000,BorderStyle=1,Outline=1,Shadow=1,Alignment=2,MarginV=45",
+  "total_duration_s": 23.843,
+  "sfx": [
+    {
+      "file": "/Users/mac-matteo/marketing machine/assets/sfx/pop.wav",
+      "time": 1.94,
+      "db": -6
+    },
+    {
+      "file": "/Users/mac-matteo/marketing machine/assets/sfx/pop.wav",
+      "time": 5.68,
+      "db": -6
+    },
+    {
+      "file": "/Users/mac-matteo/marketing machine/assets/sfx/pop.wav",
+      "time": 8.118,
+      "db": -6
+    },
+    {
+      "file": "/Users/mac-matteo/marketing machine/assets/sfx/pop.wav",
+      "time": 15.298,
+      "db": -6
+    }
+  ]
+}

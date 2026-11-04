@@ -1,0 +1,104 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Helvetica,67,&H00FFFFFF,&H00FFFFFF,&HC8000000,&HC8000000,0,1,0,0,100,100,0,0,1,6.7,6.7,2,60,60,300,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.04,0:00:00.52,Cap,,0,0,0,,Depois,
+Dialogue: 0,0:00:00.52,0:00:00.92,Cap,,0,0,0,,eu comecei
+Dialogue: 0,0:00:00.92,0:00:01.18,Cap,,0,0,0,,a estudar
+Dialogue: 0,0:00:01.18,0:00:01.74,Cap,,0,0,0,,em casa,
+Dialogue: 0,0:00:01.74,0:00:02.00,Cap,,0,0,0,,no meu
+Dialogue: 0,0:00:02.00,0:00:02.38,Cap,,0,0,0,,primeiro ano
+Dialogue: 0,0:00:02.38,0:00:02.76,Cap,,0,0,0,,de cursinho.
+Dialogue: 0,0:00:02.76,0:00:03.70,Cap,,0,0,0,,Então 2023,
+Dialogue: 0,0:00:03.70,0:00:04.06,Cap,,0,0,0,,depois que
+Dialogue: 0,0:00:04.06,0:00:04.26,Cap,,0,0,0,,eu me
+Dialogue: 0,0:00:04.26,0:00:04.56,Cap,,0,0,0,,formei,
+Dialogue: 0,0:00:04.56,0:00:04.86,Cap,,0,0,0,,eu comecei
+Dialogue: 0,0:00:04.86,0:00:05.10,Cap,,0,0,0,,a estudar
+Dialogue: 0,0:00:05.10,0:00:05.56,Cap,,0,0,0,,em casa,
+Dialogue: 0,0:00:05.56,0:00:05.86,Cap,,0,0,0,,porque eu
+Dialogue: 0,0:00:05.86,0:00:06.42,Cap,,0,0,0,,não gostava
+Dialogue: 0,0:00:06.42,0:00:06.70,Cap,,0,0,0,,muito da
+Dialogue: 0,0:00:06.70,0:00:07.34,Cap,,0,0,0,,ideia de
+Dialogue: 0,0:00:07.34,0:00:07.66,Cap,,0,0,0,,ter que
+Dialogue: 0,0:00:07.66,0:00:07.92,Cap,,0,0,0,,ir pro
+Dialogue: 0,0:00:07.92,0:00:08.44,Cap,,0,0,0,,cursinho,
+Dialogue: 0,0:00:08.44,0:00:08.96,Cap,,0,0,0,,perder aquele
+Dialogue: 0,0:00:08.96,0:00:09.32,Cap,,0,0,0,,tempo de
+Dialogue: 0,0:00:09.32,0:00:10.30,Cap,,0,0,0,,deslocamento.
+Dialogue: 0,0:00:10.30,0:00:10.70,Cap,,0,0,0,,Eu achava
+Dialogue: 0,0:00:10.70,0:00:10.86,Cap,,0,0,0,,que eu
+Dialogue: 0,0:00:10.86,0:00:11.48,Cap,,0,0,0,,me virava
+Dialogue: 0,0:00:11.48,0:00:12.31,Cap,,0,0,0,,melhor sozinho.
+Dialogue: 0,0:00:12.31,0:00:12.57,Cap,,0,0,0,,Então eu
+Dialogue: 0,0:00:12.57,0:00:12.73,Cap,,0,0,0,,falei:
+Dialogue: 0,0:00:12.73,0:00:12.97,Cap,,0,0,0,,"Cara,
+Dialogue: 0,0:00:12.97,0:00:13.23,Cap,,0,0,0,,vou estudar
+Dialogue: 0,0:00:13.23,0:00:13.67,Cap,,0,0,0,,em casa".
+Dialogue: 0,0:00:13.67,0:00:14.15,Cap,,0,0,0,,Cês imaginem
+Dialogue: 0,0:00:14.15,0:00:14.39,Cap,,0,0,0,,a minha
+Dialogue: 0,0:00:14.39,0:00:14.55,Cap,,0,0,0,,mãe,
+Dialogue: 0,0:00:14.55,0:00:15.03,Cap,,0,0,0,,meu pai:
+Dialogue: 0,0:00:15.03,0:00:15.27,Cap,,0,0,0,,"Cara,
+Dialogue: 0,0:00:15.27,0:00:15.67,Cap,,0,0,0,,esse,
+Dialogue: 0,0:00:15.67,0:00:16.13,Cap,,0,0,0,,esse meu
+Dialogue: 0,0:00:16.13,0:00:16.83,Cap,,0,0,0,,filho tá,
+Dialogue: 0,0:00:16.83,0:00:17.23,Cap,,0,0,0,,vai ficar
+Dialogue: 0,0:00:17.23,0:00:18.11,Cap,,0,0,0,,vagabundiano,
+Dialogue: 0,0:00:18.11,0:00:18.37,Cap,,0,0,0,,não vai
+Dialogue: 0,0:00:18.37,0:00:18.99,Cap,,0,0,0,,querer estudar".
+Dialogue: 0,0:00:18.99,0:00:19.13,Cap,,0,0,0,,É,
+Dialogue: 0,0:00:19.13,0:00:19.41,Cap,,0,0,0,,mas eu
+Dialogue: 0,0:00:19.41,0:00:19.73,Cap,,0,0,0,,tomei essa
+Dialogue: 0,0:00:19.73,0:00:20.05,Cap,,0,0,0,,decisão de
+Dialogue: 0,0:00:20.05,0:00:20.37,Cap,,0,0,0,,estudar em
+Dialogue: 0,0:00:20.37,0:00:20.67,Cap,,0,0,0,,casa e
+Dialogue: 0,0:00:20.67,0:00:20.89,Cap,,0,0,0,,eu acho
+Dialogue: 0,0:00:20.89,0:00:21.33,Cap,,0,0,0,,que eles,
+Dialogue: 0,0:00:21.33,0:00:21.63,Cap,,0,0,0,,ao longo
+Dialogue: 0,0:00:21.63,0:00:21.99,Cap,,0,0,0,,do tempo,
+Dialogue: 0,0:00:21.99,0:00:22.79,Cap,,0,0,0,,compraram mais
+Dialogue: 0,0:00:22.79,0:00:23.05,Cap,,0,0,0,,a minha
+Dialogue: 0,0:00:23.05,0:00:23.47,Cap,,0,0,0,,ideia.
+Dialogue: 0,0:00:23.47,0:00:23.99,Cap,,0,0,0,,Eu assinei,
+Dialogue: 0,0:00:23.99,0:00:24.31,Cap,,0,0,0,,já assinei
+Dialogue: 0,0:00:24.31,0:00:24.81,Cap,,0,0,0,,o Aprova
+Dialogue: 0,0:00:24.81,0:00:25.22,Cap,,0,0,0,,Total,
+Dialogue: 0,0:00:25.22,0:00:25.34,Cap,,0,0,0,,que é
+Dialogue: 0,0:00:25.34,0:00:26.02,Cap,,0,0,0,,um cursinho
+Dialogue: 0,0:00:26.02,0:00:26.36,Cap,,0,0,0,,que tem
+Dialogue: 0,0:00:26.36,0:00:27.18,Cap,,0,0,0,,aí online.
+Dialogue: 0,0:00:27.18,0:00:28.08,Cap,,0,0,0,,Assisti algumas
+Dialogue: 0,0:00:28.08,0:00:28.38,Cap,,0,0,0,,aulas,
+Dialogue: 0,0:00:28.38,0:00:28.90,Cap,,0,0,0,,outras não.
+Dialogue: 0,0:00:28.90,0:00:29.34,Cap,,0,0,0,,Não segui
+Dialogue: 0,0:00:29.34,0:00:29.90,Cap,,0,0,0,,o cronograma
+Dialogue: 0,0:00:29.90,0:00:30.36,Cap,,0,0,0,,à risca,
+Dialogue: 0,0:00:30.36,0:00:30.62,Cap,,0,0,0,,porque eu
+Dialogue: 0,0:00:30.62,0:00:30.92,Cap,,0,0,0,,já tinha
+Dialogue: 0,0:00:30.92,0:00:31.42,Cap,,0,0,0,,uma base
+Dialogue: 0,0:00:31.42,0:00:32.27,Cap,,0,0,0,,boa consolidada
+Dialogue: 0,0:00:32.27,0:00:32.53,Cap,,0,0,0,,ali no
+Dialogue: 0,0:00:32.53,0:00:33.01,Cap,,0,0,0,,meu terceiro
+Dialogue: 0,0:00:33.01,0:00:33.29,Cap,,0,0,0,,ano no
+Dialogue: 0,0:00:33.29,0:00:33.79,Cap,,0,0,0,,ensino médio.
+Dialogue: 0,0:00:33.79,0:00:34.65,Cap,,0,0,0,,Eu gostava
+Dialogue: 0,0:00:34.65,0:00:35.13,Cap,,0,0,0,,muito das
+Dialogue: 0,0:00:35.13,0:00:35.85,Cap,,0,0,0,,questões deles,
+Dialogue: 0,0:00:35.85,0:00:36.05,Cap,,0,0,0,,tinha um
+Dialogue: 0,0:00:36.05,0:00:36.37,Cap,,0,0,0,,banco de
+Dialogue: 0,0:00:36.37,0:00:36.99,Cap,,0,0,0,,questão muito
+Dialogue: 0,0:00:36.99,0:00:37.71,Cap,,0,0,0,,bem organizado
+Dialogue: 0,0:00:37.71,0:00:38.31,Cap,,0,0,0,,por matéria,
+Dialogue: 0,0:00:38.31,0:00:38.67,Cap,,0,0,0,,muito bom
+Dialogue: 0,0:00:38.67,0:00:38.87,Cap,,0,0,0,,mesmo,
+Dialogue: 0,0:00:38.87,0:00:39.25,Cap,,0,0,0,,eu gostava
+Dialogue: 0,0:00:39.25,0:00:40.11,Cap,,0,0,0,,bastante.

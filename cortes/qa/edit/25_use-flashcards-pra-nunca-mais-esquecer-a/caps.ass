@@ -1,0 +1,50 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Helvetica,67,&H00FFFFFF,&H00FFFFFF,&HC8000000,&HC8000000,0,1,0,0,100,100,0,0,1,6.7,6.7,2,60,60,300,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.04,0:00:00.77,Cap,,0,0,0,,Depois disso,
+Dialogue: 0,0:00:00.77,0:00:01.39,Cap,,0,0,0,,flashcard.
+Dialogue: 0,0:00:01.39,0:00:01.55,Cap,,0,0,0,,Cê vai
+Dialogue: 0,0:00:01.55,0:00:02.29,Cap,,0,0,0,,fazer flashcard
+Dialogue: 0,0:00:02.29,0:00:02.77,Cap,,0,0,0,,das matérias
+Dialogue: 0,0:00:02.77,0:00:02.95,Cap,,0,0,0,,que cê
+Dialogue: 0,0:00:02.95,0:00:03.13,Cap,,0,0,0,,acha que
+Dialogue: 0,0:00:03.13,0:00:03.53,Cap,,0,0,0,,vais mais
+Dialogue: 0,0:00:03.53,0:00:03.95,Cap,,0,0,0,,esquecer.
+Dialogue: 0,0:00:03.95,0:00:04.17,Cap,,0,0,0,,Então,
+Dialogue: 0,0:00:04.17,0:00:05.15,Cap,,0,0,0,,eletromagnetismo,
+Dialogue: 0,0:00:05.15,0:00:05.53,Cap,,0,0,0,,tudo quanto
+Dialogue: 0,0:00:05.53,0:00:06.05,Cap,,0,0,0,,é fórmula
+Dialogue: 0,0:00:06.05,0:00:06.27,Cap,,0,0,0,,que cê
+Dialogue: 0,0:00:06.27,0:00:06.85,Cap,,0,0,0,,vai esquecer,
+Dialogue: 0,0:00:06.85,0:00:07.11,Cap,,0,0,0,,faz um
+Dialogue: 0,0:00:07.11,0:00:08.13,Cap,,0,0,0,,flashcard daquilo.
+Dialogue: 0,0:00:08.13,0:00:08.53,Cap,,0,0,0,,Tudo quanto
+Dialogue: 0,0:00:08.53,0:00:09.13,Cap,,0,0,0,,é conceito
+Dialogue: 0,0:00:09.13,0:00:09.31,Cap,,0,0,0,,que cê
+Dialogue: 0,0:00:09.31,0:00:09.83,Cap,,0,0,0,,vai esquecer,
+Dialogue: 0,0:00:09.83,0:00:10.47,Cap,,0,0,0,,faz flashcards
+Dialogue: 0,0:00:10.47,0:00:10.93,Cap,,0,0,0,,daquilo,
+Dialogue: 0,0:00:10.93,0:00:11.53,Cap,,0,0,0,,porque pelo
+Dialogue: 0,0:00:11.53,0:00:11.99,Cap,,0,0,0,,próprio ali
+Dialogue: 0,0:00:11.99,0:00:12.61,Cap,,0,0,0,,algoritmo do
+Dialogue: 0,0:00:12.61,0:00:12.97,Cap,,0,0,0,,Anki vai
+Dialogue: 0,0:00:12.97,0:00:13.79,Cap,,0,0,0,,ficar voltando
+Dialogue: 0,0:00:13.79,0:00:14.57,Cap,,0,0,0,,pra você
+Dialogue: 0,0:00:14.57,0:00:15.23,Cap,,0,0,0,,aquelas matérias
+Dialogue: 0,0:00:15.23,0:00:15.57,Cap,,0,0,0,,e você
+Dialogue: 0,0:00:15.57,0:00:15.93,Cap,,0,0,0,,nunca vai
+Dialogue: 0,0:00:15.93,0:00:16.93,Cap,,0,0,0,,esquecer nada
+Dialogue: 0,0:00:16.93,0:00:17.17,Cap,,0,0,0,,do que
+Dialogue: 0,0:00:17.17,0:00:17.85,Cap,,0,0,0,,você tem
+Dialogue: 0,0:00:17.85,0:00:18.23,Cap,,0,0,0,,que lembrar
+Dialogue: 0,0:00:18.23,0:00:18.45,Cap,,0,0,0,,no dia
+Dialogue: 0,0:00:18.45,0:00:19.24,Cap,,0,0,0,,da prova.

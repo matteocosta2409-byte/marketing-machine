@@ -1,0 +1,77 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Helvetica,67,&H00FFFFFF,&H00FFFFFF,&HC8000000,&HC8000000,0,1,0,0,100,100,0,0,1,6.7,6.7,2,60,60,540,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.04,0:00:00.38,Cap,,0,0,0,,E essa
+Dialogue: 0,0:00:00.38,0:00:00.76,Cap,,0,0,0,,prova de
+Dialogue: 0,0:00:00.76,0:00:01.24,Cap,,0,0,0,,tarde não
+Dialogue: 0,0:00:01.24,0:00:01.84,Cap,,0,0,0,,serve só
+Dialogue: 0,0:00:01.84,0:00:02.24,Cap,,0,0,0,,pra treinar
+Dialogue: 0,0:00:02.24,0:00:02.94,Cap,,0,0,0,,o conteúdo.
+Dialogue: 0,0:00:02.94,0:00:03.08,Cap,,0,0,0,,Ela é
+Dialogue: 0,0:00:03.08,0:00:03.80,Cap,,0,0,0,,um ensaio
+Dialogue: 0,0:00:03.80,0:00:03.98,Cap,,0,0,0,,do que
+Dialogue: 0,0:00:03.98,0:00:04.18,Cap,,0,0,0,,que vou
+Dialogue: 0,0:00:04.18,0:00:04.98,Cap,,0,0,0,,fazer no
+Dialogue: 0,0:00:04.98,0:00:05.82,Cap,,0,0,0,,dia oficial.
+Dialogue: 0,0:00:05.82,0:00:06.16,Cap,,0,0,0,,Então o
+Dialogue: 0,0:00:06.16,0:00:06.46,Cap,,0,0,0,,ideal é
+Dialogue: 0,0:00:06.46,0:00:06.98,Cap,,0,0,0,,começar às
+Dialogue: 0,0:00:06.98,0:00:07.32,Cap,,0,0,0,,treze e
+Dialogue: 0,0:00:07.32,0:00:07.66,Cap,,0,0,0,,trinta,
+Dialogue: 0,0:00:07.66,0:00:07.82,Cap,,0,0,0,,que é
+Dialogue: 0,0:00:07.82,0:00:08.16,Cap,,0,0,0,,o horário
+Dialogue: 0,0:00:08.16,0:00:08.78,Cap,,0,0,0,,de verdade.
+Dialogue: 0,0:00:08.78,0:00:09.56,Cap,,0,0,0,,Sem celular,
+Dialogue: 0,0:00:09.56,0:00:10.48,Cap,,0,0,0,,sem calculadora,
+Dialogue: 0,0:00:10.48,0:00:11.06,Cap,,0,0,0,,se possível,
+Dialogue: 0,0:00:11.06,0:00:11.38,Cap,,0,0,0,,até com
+Dialogue: 0,0:00:11.38,0:00:12.70,Cap,,0,0,0,,cartão-resposta impresso
+Dialogue: 0,0:00:12.70,0:00:13.06,Cap,,0,0,0,,pra você
+Dialogue: 0,0:00:13.06,0:00:13.94,Cap,,0,0,0,,conseguir treinar
+Dialogue: 0,0:00:13.94,0:00:14.66,Cap,,0,0,0,,até isso.
+Dialogue: 0,0:00:14.66,0:00:14.92,Cap,,0,0,0,,E se
+Dialogue: 0,0:00:14.92,0:00:15.20,Cap,,0,0,0,,der,
+Dialogue: 0,0:00:15.20,0:00:15.44,Cap,,0,0,0,,faz o
+Dialogue: 0,0:00:15.44,0:00:16.14,Cap,,0,0,0,,mesmo aquecimento
+Dialogue: 0,0:00:16.14,0:00:16.34,Cap,,0,0,0,,que eu
+Dialogue: 0,0:00:16.34,0:00:16.72,Cap,,0,0,0,,fazia no
+Dialogue: 0,0:00:16.72,0:00:17.00,Cap,,0,0,0,,dia da
+Dialogue: 0,0:00:17.00,0:00:17.62,Cap,,0,0,0,,prova.
+Dialogue: 0,0:00:17.62,0:00:18.08,Cap,,0,0,0,,Umas onze
+Dialogue: 0,0:00:18.08,0:00:18.64,Cap,,0,0,0,,da manhã,
+Dialogue: 0,0:00:18.64,0:00:19.00,Cap,,0,0,0,,antes de
+Dialogue: 0,0:00:19.00,0:00:19.40,Cap,,0,0,0,,sair de
+Dialogue: 0,0:00:19.40,0:00:19.66,Cap,,0,0,0,,casa,
+Dialogue: 0,0:00:19.66,0:00:19.96,Cap,,0,0,0,,eu sempre
+Dialogue: 0,0:00:19.96,0:00:20.66,Cap,,0,0,0,,fazia cinco
+Dialogue: 0,0:00:20.66,0:00:21.50,Cap,,0,0,0,,questões fáceis
+Dialogue: 0,0:00:21.50,0:00:22.26,Cap,,0,0,0,,de matemática.
+Dialogue: 0,0:00:22.26,0:00:22.78,Cap,,0,0,0,,Só questões
+Dialogue: 0,0:00:22.78,0:00:23.46,Cap,,0,0,0,,fáceis.
+Dialogue: 0,0:00:23.46,0:00:23.98,Cap,,0,0,0,,Isso servia
+Dialogue: 0,0:00:23.98,0:00:24.54,Cap,,0,0,0,,pra duas
+Dialogue: 0,0:00:24.54,0:00:24.96,Cap,,0,0,0,,coisas:
+Dialogue: 0,0:00:24.96,0:00:25.58,Cap,,0,0,0,,aqueceu meu
+Dialogue: 0,0:00:25.58,0:00:26.02,Cap,,0,0,0,,cérebro,
+Dialogue: 0,0:00:26.02,0:00:26.34,Cap,,0,0,0,,porque nos
+Dialogue: 0,0:00:26.34,0:00:27.00,Cap,,0,0,0,,primeiros minutos
+Dialogue: 0,0:00:27.00,0:00:27.40,Cap,,0,0,0,,de prova
+Dialogue: 0,0:00:27.40,0:00:27.92,Cap,,0,0,0,,você ainda
+Dialogue: 0,0:00:27.92,0:00:28.60,Cap,,0,0,0,,tá meio
+Dialogue: 0,0:00:28.60,0:00:28.80,Cap,,0,0,0,,que com
+Dialogue: 0,0:00:28.80,0:00:29.20,Cap,,0,0,0,,seu cérebro
+Dialogue: 0,0:00:29.20,0:00:29.84,Cap,,0,0,0,,desligado,
+Dialogue: 0,0:00:29.84,0:00:30.56,Cap,,0,0,0,,e chegar
+Dialogue: 0,0:00:30.56,0:00:31.42,Cap,,0,0,0,,confiante já
+Dialogue: 0,0:00:31.42,0:00:32.33,Cap,,0,0,0,,tendo acertado
+Dialogue: 0,0:00:32.33,0:00:33.03,Cap,,0,0,0,,cinco questões
+Dialogue: 0,0:00:33.03,0:00:33.81,Cap,,0,0,0,,fáceis.

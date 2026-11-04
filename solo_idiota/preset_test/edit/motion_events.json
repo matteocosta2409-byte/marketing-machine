@@ -1,0 +1,7 @@
+[
+ {"id": "titulo", "comp": "Titulo", "still": true, "props": {"headline": "O idiota impaciente >\no gênio que pensa demais", "kicker": ""}},
+ {"id": "x10", "props": {"kind": "counter", "text": "", "to": 10, "suffix": "X", "seconds": 1.2}},
+ {"id": "acao", "props": {"kind": "word", "text": "AÇÃO", "seconds": 0.65}},
+ {"id": "p70", "props": {"kind": "counter", "text": "", "to": 70, "suffix": "%", "seconds": 1.1}},
+ {"id": "parado", "props": {"kind": "word", "text": "PARADO", "seconds": 1.0}}
+]

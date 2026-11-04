@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "sources": {
+    "src": "/Users/mac-matteo/marketing machine/solo_jornada/src.mov"
+  },
+  "ranges": [
+    {
+      "source": "src",
+      "start": 1.0,
+      "end": 6.44
+    },
+    {
+      "source": "src",
+      "start": 6.767,
+      "end": 7.58
+    },
+    {
+      "source": "src",
+      "start": 7.94,
+      "end": 11.34
+    },
+    {
+      "source": "src",
+      "start": 11.66,
+      "end": 14.06
+    },
+    {
+      "source": "src",
+      "start": 14.48,
+      "end": 16.62
+    },
+    {
+      "source": "src",
+      "start": 16.961,
+      "end": 20.24
+    },
+    {
+      "source": "src",
+      "start": 20.56,
+      "end": 22.82
+    },
+    {
+      "source": "src",
+      "start": 23.24,
+      "end": 24.8
+    },
+    {
+      "source": "src",
+      "start": 25.06,
+      "end": 27.5
+    },
+    {
+      "source": "src",
+      "start": 27.72,
+      "end": 31.905
+    }
+  ],
+  "grade": "none",
+  "overlays": [],
+  "subtitle_case": "natural",
+  "subtitle_style": "FontName=Helvetica,FontSize=10,Bold=0,Italic=1,PrimaryColour=&H00FFFFFF,OutlineColour=&HC8000000,BorderStyle=1,Outline=1,Shadow=1,Alignment=2,MarginV=45",
+  "total_duration_s": 27.917
+}

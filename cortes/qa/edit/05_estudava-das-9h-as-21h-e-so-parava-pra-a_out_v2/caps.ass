@@ -1,0 +1,74 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Helvetica,67,&H00FFFFFF,&H00FFFFFF,&HC8000000,&HC8000000,0,1,0,0,100,100,0,0,1,6.7,6.7,2,60,60,540,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.04,0:00:00.24,Cap,,0,0,0,,foi uma
+Dialogue: 0,0:00:00.24,0:00:00.52,Cap,,0,0,0,,época que
+Dialogue: 0,0:00:00.52,0:00:00.94,Cap,,0,0,0,,eu estudei
+Dialogue: 0,0:00:00.94,0:00:01.66,Cap,,0,0,0,,bastante,
+Dialogue: 0,0:00:01.66,0:00:02.10,Cap,,0,0,0,,chegava no
+Dialogue: 0,0:00:02.10,0:00:02.48,Cap,,0,0,0,,cursinho ali
+Dialogue: 0,0:00:02.48,0:00:02.82,Cap,,0,0,0,,por volta
+Dialogue: 0,0:00:02.82,0:00:03.24,Cap,,0,0,0,,das nove
+Dialogue: 0,0:00:03.24,0:00:03.64,Cap,,0,0,0,,da manhã,
+Dialogue: 0,0:00:03.64,0:00:03.80,Cap,,0,0,0,,só ia
+Dialogue: 0,0:00:03.80,0:00:04.22,Cap,,0,0,0,,embora às
+Dialogue: 0,0:00:04.22,0:00:04.52,Cap,,0,0,0,,nove da
+Dialogue: 0,0:00:04.52,0:00:04.72,Cap,,0,0,0,,noite.
+Dialogue: 0,0:00:04.72,0:00:05.10,Cap,,0,0,0,,Então era
+Dialogue: 0,0:00:05.10,0:00:05.56,Cap,,0,0,0,,um estudo
+Dialogue: 0,0:00:05.56,0:00:06.26,Cap,,0,0,0,,bem intenso.
+Dialogue: 0,0:00:06.26,0:00:06.72,Cap,,0,0,0,,Eu parava
+Dialogue: 0,0:00:06.72,0:00:06.96,Cap,,0,0,0,,só pra
+Dialogue: 0,0:00:06.96,0:00:07.74,Cap,,0,0,0,,almoçar.
+Dialogue: 0,0:00:07.74,0:00:08.02,Cap,,0,0,0,,A galera
+Dialogue: 0,0:00:08.02,0:00:08.34,Cap,,0,0,0,,às vezes
+Dialogue: 0,0:00:08.34,0:00:08.76,Cap,,0,0,0,,me olhava
+Dialogue: 0,0:00:08.76,0:00:09.18,Cap,,0,0,0,,torto lá,
+Dialogue: 0,0:00:09.18,0:00:09.46,Cap,,0,0,0,,achava que
+Dialogue: 0,0:00:09.46,0:00:09.60,Cap,,0,0,0,,eu era
+Dialogue: 0,0:00:09.60,0:00:10.08,Cap,,0,0,0,,meio maluco,
+Dialogue: 0,0:00:10.08,0:00:10.26,Cap,,0,0,0,,porque eu
+Dialogue: 0,0:00:10.26,0:00:10.68,Cap,,0,0,0,,não parava
+Dialogue: 0,0:00:10.68,0:00:11.28,Cap,,0,0,0,,pra lanchar
+Dialogue: 0,0:00:11.28,0:00:11.82,Cap,,0,0,0,,e assim,
+Dialogue: 0,0:00:11.82,0:00:12.00,Cap,,0,0,0,,é,
+Dialogue: 0,0:00:12.00,0:00:12.66,Cap,,0,0,0,,realmente eu
+Dialogue: 0,0:00:12.66,0:00:13.46,Cap,,0,0,0,,era meio
+Dialogue: 0,0:00:13.46,0:00:13.98,Cap,,0,0,0,,louco nessa
+Dialogue: 0,0:00:13.98,0:00:14.16,Cap,,0,0,0,,época,
+Dialogue: 0,0:00:14.16,0:00:14.90,Cap,,0,0,0,,estudava bastante,
+Dialogue: 0,0:00:14.90,0:00:15.66,Cap,,0,0,0,,mas foi
+Dialogue: 0,0:00:15.66,0:00:16.04,Cap,,0,0,0,,uma época
+Dialogue: 0,0:00:16.04,0:00:16.74,Cap,,0,0,0,,muito importante
+Dialogue: 0,0:00:16.74,0:00:16.98,Cap,,0,0,0,,pra eu
+Dialogue: 0,0:00:16.98,0:00:17.58,Cap,,0,0,0,,conseguir ali
+Dialogue: 0,0:00:17.58,0:00:17.92,Cap,,0,0,0,,buscar o
+Dialogue: 0,0:00:17.92,0:00:18.36,Cap,,0,0,0,,meu sonho
+Dialogue: 0,0:00:18.36,0:00:19.00,Cap,,0,0,0,,depois conseguir
+Dialogue: 0,0:00:19.00,0:00:19.44,Cap,,0,0,0,,ser aprovado
+Dialogue: 0,0:00:19.44,0:00:19.82,Cap,,0,0,0,,em primeiro
+Dialogue: 0,0:00:19.82,0:00:20.15,Cap,,0,0,0,,lugar.
+Dialogue: 0,0:00:20.15,0:00:20.67,Cap,,0,0,0,,Então eu
+Dialogue: 0,0:00:20.67,0:00:20.93,Cap,,0,0,0,,digo que
+Dialogue: 0,0:00:20.93,0:00:21.27,Cap,,0,0,0,,valeu muito
+Dialogue: 0,0:00:21.27,0:00:21.71,Cap,,0,0,0,,a pena
+Dialogue: 0,0:00:21.71,0:00:22.31,Cap,,0,0,0,,e basicamente
+Dialogue: 0,0:00:22.31,0:00:22.81,Cap,,0,0,0,,os cursinhos
+Dialogue: 0,0:00:22.81,0:00:22.97,Cap,,0,0,0,,que eu
+Dialogue: 0,0:00:22.97,0:00:23.71,Cap,,0,0,0,,passei ao
+Dialogue: 0,0:00:23.71,0:00:24.03,Cap,,0,0,0,,longo da
+Dialogue: 0,0:00:24.03,0:00:24.61,Cap,,0,0,0,,minha trajetória
+Dialogue: 0,0:00:24.61,0:00:25.15,Cap,,0,0,0,,foram esses,
+Dialogue: 0,0:00:25.15,0:00:25.45,Cap,,0,0,0,,eu acho
+Dialogue: 0,0:00:25.45,0:00:25.53,Cap,,0,0,0,,que eu
+Dialogue: 0,0:00:25.53,0:00:25.87,Cap,,0,0,0,,não esqueci
+Dialogue: 0,0:00:25.87,0:00:26.69,Cap,,0,0,0,,de nenhum.

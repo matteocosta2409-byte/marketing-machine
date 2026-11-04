@@ -1,0 +1,62 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Helvetica,67,&H00FFFFFF,&H00FFFFFF,&HC8000000,&HC8000000,0,1,0,0,100,100,0,0,1,6.7,6.7,2,60,60,300,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.04,0:00:00.24,Cap,,0,0,0,,Era a
+Dialogue: 0,0:00:00.24,0:00:00.58,Cap,,0,0,0,,prova que
+Dialogue: 0,0:00:00.58,0:00:01.02,Cap,,0,0,0,,eu tinha
+Dialogue: 0,0:00:01.02,0:00:01.96,Cap,,0,0,0,,mais facilidade
+Dialogue: 0,0:00:01.96,0:00:02.54,Cap,,0,0,0,,comparado com
+Dialogue: 0,0:00:02.54,0:00:03.08,Cap,,0,0,0,,Linguagens,
+Dialogue: 0,0:00:03.08,0:00:03.29,Cap,,0,0,0,,né?
+Dialogue: 0,0:00:03.29,0:00:03.53,Cap,,0,0,0,,Na minha
+Dialogue: 0,0:00:03.53,0:00:04.05,Cap,,0,0,0,,cabeça,
+Dialogue: 0,0:00:04.05,0:00:04.51,Cap,,0,0,0,,Humanas é
+Dialogue: 0,0:00:04.51,0:00:05.15,Cap,,0,0,0,,uma prova
+Dialogue: 0,0:00:05.15,0:00:06.24,Cap,,0,0,0,,muito interpretativa.
+Dialogue: 0,0:00:06.24,0:00:06.80,Cap,,0,0,0,,Tem professores
+Dialogue: 0,0:00:06.80,0:00:07.14,Cap,,0,0,0,,que vão
+Dialogue: 0,0:00:07.14,0:00:07.72,Cap,,0,0,0,,discordar,
+Dialogue: 0,0:00:07.72,0:00:08.28,Cap,,0,0,0,,mas lendo
+Dialogue: 0,0:00:08.28,0:00:08.60,Cap,,0,0,0,,bem os
+Dialogue: 0,0:00:08.60,0:00:09.36,Cap,,0,0,0,,textos base
+Dialogue: 0,0:00:09.36,0:00:10.16,Cap,,0,0,0,,das questões
+Dialogue: 0,0:00:10.16,0:00:10.60,Cap,,0,0,0,,e sabendo
+Dialogue: 0,0:00:10.60,0:00:11.16,Cap,,0,0,0,,o básico
+Dialogue: 0,0:00:11.16,0:00:11.72,Cap,,0,0,0,,da matéria,
+Dialogue: 0,0:00:11.72,0:00:11.98,Cap,,0,0,0,,dá pra
+Dialogue: 0,0:00:11.98,0:00:13.02,Cap,,0,0,0,,acertar bastante
+Dialogue: 0,0:00:13.02,0:00:13.44,Cap,,0,0,0,,questão.
+Dialogue: 0,0:00:13.44,0:00:13.60,Cap,,0,0,0,,E a
+Dialogue: 0,0:00:13.60,0:00:14.00,Cap,,0,0,0,,regra era
+Dialogue: 0,0:00:14.00,0:00:14.94,Cap,,0,0,0,,muito simples:
+Dialogue: 0,0:00:14.94,0:00:15.10,Cap,,0,0,0,,as que
+Dialogue: 0,0:00:15.10,0:00:15.30,Cap,,0,0,0,,eu não
+Dialogue: 0,0:00:15.30,0:00:15.92,Cap,,0,0,0,,sabia,
+Dialogue: 0,0:00:15.92,0:00:16.34,Cap,,0,0,0,,eu pulava
+Dialogue: 0,0:00:16.34,0:00:16.70,Cap,,0,0,0,,e deixava
+Dialogue: 0,0:00:16.70,0:00:17.17,Cap,,0,0,0,,pro final.
+Dialogue: 0,0:00:17.17,0:00:17.65,Cap,,0,0,0,,A ideia
+Dialogue: 0,0:00:17.65,0:00:18.07,Cap,,0,0,0,,é ganhar
+Dialogue: 0,0:00:18.07,0:00:18.65,Cap,,0,0,0,,volume de
+Dialogue: 0,0:00:18.65,0:00:19.45,Cap,,0,0,0,,questões em
+Dialogue: 0,0:00:19.45,0:00:20.11,Cap,,0,0,0,,pouco tempo
+Dialogue: 0,0:00:20.11,0:00:20.53,Cap,,0,0,0,,de prova
+Dialogue: 0,0:00:20.53,0:00:21.41,Cap,,0,0,0,,nesse começo.
+Dialogue: 0,0:00:21.41,0:00:21.75,Cap,,0,0,0,,Em mais
+Dialogue: 0,0:00:21.75,0:00:22.25,Cap,,0,0,0,,ou menos
+Dialogue: 0,0:00:22.25,0:00:22.51,Cap,,0,0,0,,uma hora
+Dialogue: 0,0:00:22.51,0:00:23.29,Cap,,0,0,0,,e quinze,
+Dialogue: 0,0:00:23.29,0:00:23.57,Cap,,0,0,0,,já dava
+Dialogue: 0,0:00:23.57,0:00:23.91,Cap,,0,0,0,,pra fazer
+Dialogue: 0,0:00:23.91,0:00:24.53,Cap,,0,0,0,,umas quarenta
+Dialogue: 0,0:00:24.53,0:00:24.87,Cap,,0,0,0,,questões de
+Dialogue: 0,0:00:24.87,0:00:25.73,Cap,,0,0,0,,Humanas.

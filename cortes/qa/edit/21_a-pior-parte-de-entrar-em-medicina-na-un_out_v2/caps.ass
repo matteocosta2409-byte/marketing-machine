@@ -1,0 +1,107 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Helvetica,67,&H00FFFFFF,&H00FFFFFF,&HC8000000,&HC8000000,0,1,0,0,100,100,0,0,1,6.7,6.7,2,60,60,540,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.04,0:00:00.30,Cap,,0,0,0,,não vai
+Dialogue: 0,0:00:00.30,0:00:01.10,Cap,,0,0,0,,agradar tanta
+Dialogue: 0,0:00:01.10,0:00:01.36,Cap,,0,0,0,,gente,
+Dialogue: 0,0:00:01.36,0:00:01.72,Cap,,0,0,0,,porque não
+Dialogue: 0,0:00:01.72,0:00:02.28,Cap,,0,0,0,,assim uma,
+Dialogue: 0,0:00:02.28,0:00:02.82,Cap,,0,0,0,,uma mudança
+Dialogue: 0,0:00:02.82,0:00:03.28,Cap,,0,0,0,,positiva,
+Dialogue: 0,0:00:03.28,0:00:03.64,Cap,,0,0,0,,uma mudança
+Dialogue: 0,0:00:03.64,0:00:04.22,Cap,,0,0,0,,negativa,
+Dialogue: 0,0:00:04.22,0:00:04.36,Cap,,0,0,0,,né?
+Dialogue: 0,0:00:04.36,0:00:04.56,Cap,,0,0,0,,Que eu
+Dialogue: 0,0:00:04.56,0:00:05.06,Cap,,0,0,0,,tive ali
+Dialogue: 0,0:00:05.06,0:00:05.94,Cap,,0,0,0,,que começar
+Dialogue: 0,0:00:05.94,0:00:06.16,Cap,,0,0,0,,a ir
+Dialogue: 0,0:00:06.16,0:00:06.56,Cap,,0,0,0,,pra Asa
+Dialogue: 0,0:00:06.56,0:00:07.16,Cap,,0,0,0,,Norte todo
+Dialogue: 0,0:00:07.16,0:00:07.30,Cap,,0,0,0,,dia.
+Dialogue: 0,0:00:07.30,0:00:07.52,Cap,,0,0,0,,Eu moro
+Dialogue: 0,0:00:07.52,0:00:07.84,Cap,,0,0,0,,em Águas
+Dialogue: 0,0:00:07.84,0:00:08.22,Cap,,0,0,0,,Claras,
+Dialogue: 0,0:00:08.22,0:00:08.58,Cap,,0,0,0,,então,
+Dialogue: 0,0:00:08.58,0:00:08.84,Cap,,0,0,0,,é,
+Dialogue: 0,0:00:08.84,0:00:09.20,Cap,,0,0,0,,é muito
+Dialogue: 0,0:00:09.20,0:00:09.76,Cap,,0,0,0,,ruim morar
+Dialogue: 0,0:00:09.76,0:00:10.24,Cap,,0,0,0,,Águas Claras,
+Dialogue: 0,0:00:10.24,0:00:10.50,Cap,,0,0,0,,porque Asa
+Dialogue: 0,0:00:10.50,0:00:10.86,Cap,,0,0,0,,Norte é
+Dialogue: 0,0:00:10.86,0:00:11.40,Cap,,0,0,0,,super longe,
+Dialogue: 0,0:00:11.40,0:00:11.94,Cap,,0,0,0,,eu gasto,
+Dialogue: 0,0:00:11.94,0:00:12.28,Cap,,0,0,0,,assim,
+Dialogue: 0,0:00:12.28,0:00:13.00,Cap,,0,0,0,,por baixo
+Dialogue: 0,0:00:13.00,0:00:13.46,Cap,,0,0,0,,mesmo,
+Dialogue: 0,0:00:13.46,0:00:13.92,Cap,,0,0,0,,uma hora
+Dialogue: 0,0:00:13.92,0:00:14.32,Cap,,0,0,0,,pra ir,
+Dialogue: 0,0:00:14.32,0:00:14.64,Cap,,0,0,0,,uma hora
+Dialogue: 0,0:00:14.64,0:00:15.16,Cap,,0,0,0,,pra voltar
+Dialogue: 0,0:00:15.16,0:00:15.62,Cap,,0,0,0,,quando não
+Dialogue: 0,0:00:15.62,0:00:16.23,Cap,,0,0,0,,tem trânsito,
+Dialogue: 0,0:00:16.23,0:00:16.63,Cap,,0,0,0,,quando tá
+Dialogue: 0,0:00:16.63,0:00:17.07,Cap,,0,0,0,,um trânsito
+Dialogue: 0,0:00:17.07,0:00:17.57,Cap,,0,0,0,,tranquilo.
+Dialogue: 0,0:00:17.57,0:00:17.93,Cap,,0,0,0,,Eu já
+Dialogue: 0,0:00:17.93,0:00:18.19,Cap,,0,0,0,,cheguei a
+Dialogue: 0,0:00:18.19,0:00:18.61,Cap,,0,0,0,,gastar uma
+Dialogue: 0,0:00:18.61,0:00:18.77,Cap,,0,0,0,,hora e
+Dialogue: 0,0:00:18.77,0:00:19.11,Cap,,0,0,0,,meia pra
+Dialogue: 0,0:00:19.11,0:00:19.19,Cap,,0,0,0,,ir,
+Dialogue: 0,0:00:19.19,0:00:19.37,Cap,,0,0,0,,uma hora
+Dialogue: 0,0:00:19.37,0:00:19.63,Cap,,0,0,0,,e meia
+Dialogue: 0,0:00:19.63,0:00:20.13,Cap,,0,0,0,,pra voltar,
+Dialogue: 0,0:00:20.13,0:00:20.57,Cap,,0,0,0,,porque eu
+Dialogue: 0,0:00:20.57,0:00:21.01,Cap,,0,0,0,,vou cedo,
+Dialogue: 0,0:00:21.01,0:00:21.13,Cap,,0,0,0,,né,
+Dialogue: 0,0:00:21.13,0:00:21.39,Cap,,0,0,0,,a aula
+Dialogue: 0,0:00:21.39,0:00:21.79,Cap,,0,0,0,,começa às
+Dialogue: 0,0:00:21.79,0:00:22.07,Cap,,0,0,0,,oito da
+Dialogue: 0,0:00:22.07,0:00:22.35,Cap,,0,0,0,,manhã,
+Dialogue: 0,0:00:22.35,0:00:22.45,Cap,,0,0,0,,é o
+Dialogue: 0,0:00:22.45,0:00:22.97,Cap,,0,0,0,,horário de
+Dialogue: 0,0:00:22.97,0:00:23.71,Cap,,0,0,0,,pico máximo
+Dialogue: 0,0:00:23.71,0:00:24.11,Cap,,0,0,0,,ali,
+Dialogue: 0,0:00:24.11,0:00:24.33,Cap,,0,0,0,,e na
+Dialogue: 0,0:00:24.33,0:00:24.87,Cap,,0,0,0,,volta também,
+Dialogue: 0,0:00:24.87,0:00:25.21,Cap,,0,0,0,,porque aí
+Dialogue: 0,0:00:25.21,0:00:25.57,Cap,,0,0,0,,eu volto
+Dialogue: 0,0:00:25.57,0:00:25.75,Cap,,0,0,0,,mais ou
+Dialogue: 0,0:00:25.75,0:00:26.09,Cap,,0,0,0,,menos umas
+Dialogue: 0,0:00:26.09,0:00:26.41,Cap,,0,0,0,,seis da
+Dialogue: 0,0:00:26.41,0:00:26.97,Cap,,0,0,0,,tarde ali
+Dialogue: 0,0:00:26.97,0:00:27.21,Cap,,0,0,0,,e tá
+Dialogue: 0,0:00:27.21,0:00:27.55,Cap,,0,0,0,,um trânsito
+Dialogue: 0,0:00:27.55,0:00:28.15,Cap,,0,0,0,,também absurdo.
+Dialogue: 0,0:00:28.15,0:00:28.65,Cap,,0,0,0,,Então essa
+Dialogue: 0,0:00:28.65,0:00:28.89,Cap,,0,0,0,,foi a
+Dialogue: 0,0:00:28.89,0:00:29.57,Cap,,0,0,0,,grande mudança
+Dialogue: 0,0:00:29.57,0:00:29.79,Cap,,0,0,0,,na minha
+Dialogue: 0,0:00:29.79,0:00:30.13,Cap,,0,0,0,,rotina,
+Dialogue: 0,0:00:30.13,0:00:30.41,Cap,,0,0,0,,eu tive
+Dialogue: 0,0:00:30.41,0:00:30.63,Cap,,0,0,0,,que me
+Dialogue: 0,0:00:30.63,0:00:31.21,Cap,,0,0,0,,readequar,
+Dialogue: 0,0:00:31.21,0:00:31.95,Cap,,0,0,0,,me reorganizar
+Dialogue: 0,0:00:31.95,0:00:32.55,Cap,,0,0,0,,bem melhor
+Dialogue: 0,0:00:32.55,0:00:32.87,Cap,,0,0,0,,a minha
+Dialogue: 0,0:00:32.87,0:00:33.19,Cap,,0,0,0,,vida pra
+Dialogue: 0,0:00:33.19,0:00:33.67,Cap,,0,0,0,,eu conseguir
+Dialogue: 0,0:00:33.67,0:00:34.07,Cap,,0,0,0,,ali fazer
+Dialogue: 0,0:00:34.07,0:00:34.45,Cap,,0,0,0,,as coisas
+Dialogue: 0,0:00:34.45,0:00:34.63,Cap,,0,0,0,,que eu
+Dialogue: 0,0:00:34.63,0:00:35.23,Cap,,0,0,0,,gosto fazer
+Dialogue: 0,0:00:35.23,0:00:35.69,Cap,,0,0,0,,e conseguir
+Dialogue: 0,0:00:35.69,0:00:36.37,Cap,,0,0,0,,estudar,
+Dialogue: 0,0:00:36.37,0:00:36.81,Cap,,0,0,0,,mesmo tendo
+Dialogue: 0,0:00:36.81,0:00:37.17,Cap,,0,0,0,,esse tempo
+Dialogue: 0,0:00:37.17,0:00:37.77,Cap,,0,0,0,,de deslocamento
+Dialogue: 0,0:00:37.77,0:00:38.75,Cap,,0,0,0,,muito grande.

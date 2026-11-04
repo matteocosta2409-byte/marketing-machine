@@ -1,0 +1,88 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Helvetica,67,&H00FFFFFF,&H00FFFFFF,&HC8000000,&HC8000000,0,1,0,0,100,100,0,0,1,6.7,6.7,2,60,60,300,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.04,0:00:00.50,Cap,,0,0,0,,Outra dica
+Dialogue: 0,0:00:00.50,0:00:01.74,Cap,,0,0,0,,extremamente importante
+Dialogue: 0,0:00:01.74,0:00:02.24,Cap,,0,0,0,,é você
+Dialogue: 0,0:00:02.24,0:00:03.12,Cap,,0,0,0,,evitar ingerir
+Dialogue: 0,0:00:03.12,0:00:03.76,Cap,,0,0,0,,cafeína.
+Dialogue: 0,0:00:03.76,0:00:04.08,Cap,,0,0,0,,Então,
+Dialogue: 0,0:00:04.08,0:00:05.20,Cap,,0,0,0,,café Energético,
+Dialogue: 0,0:00:05.20,0:00:05.66,Cap,,0,0,0,,os próprios
+Dialogue: 0,0:00:05.66,0:00:06.44,Cap,,0,0,0,,refrigerantes têm
+Dialogue: 0,0:00:06.44,0:00:07.24,Cap,,0,0,0,,bastante cafeína.
+Dialogue: 0,0:00:07.24,0:00:08.06,Cap,,0,0,0,,Você evitar
+Dialogue: 0,0:00:08.06,0:00:08.88,Cap,,0,0,0,,ingerir essas
+Dialogue: 0,0:00:08.88,0:00:09.70,Cap,,0,0,0,,bebidas com
+Dialogue: 0,0:00:09.70,0:00:10.14,Cap,,0,0,0,,seis horas
+Dialogue: 0,0:00:10.14,0:00:10.88,Cap,,0,0,0,,de antecedência
+Dialogue: 0,0:00:10.88,0:00:11.18,Cap,,0,0,0,,antes de
+Dialogue: 0,0:00:11.18,0:00:11.48,Cap,,0,0,0,,você ir
+Dialogue: 0,0:00:11.48,0:00:11.77,Cap,,0,0,0,,dormir.
+Dialogue: 0,0:00:11.77,0:00:12.17,Cap,,0,0,0,,Por quê?
+Dialogue: 0,0:00:12.17,0:00:12.69,Cap,,0,0,0,,Seis horas
+Dialogue: 0,0:00:12.69,0:00:12.83,Cap,,0,0,0,,é o
+Dialogue: 0,0:00:12.83,0:00:13.27,Cap,,0,0,0,,tempo de
+Dialogue: 0,0:00:13.27,0:00:14.11,Cap,,0,0,0,,meia-vida da
+Dialogue: 0,0:00:14.11,0:00:14.67,Cap,,0,0,0,,cafeína,
+Dialogue: 0,0:00:14.67,0:00:14.81,Cap,,0,0,0,,que é
+Dialogue: 0,0:00:14.81,0:00:15.55,Cap,,0,0,0,,o químico
+Dialogue: 0,0:00:15.55,0:00:16.23,Cap,,0,0,0,,presente nessas
+Dialogue: 0,0:00:16.23,0:00:16.95,Cap,,0,0,0,,bebidas que
+Dialogue: 0,0:00:16.95,0:00:17.29,Cap,,0,0,0,,vai agir
+Dialogue: 0,0:00:17.29,0:00:17.59,Cap,,0,0,0,,no seu
+Dialogue: 0,0:00:17.59,0:00:18.59,Cap,,0,0,0,,cérebro impedindo
+Dialogue: 0,0:00:18.59,0:00:19.17,Cap,,0,0,0,,que você
+Dialogue: 0,0:00:19.17,0:00:19.61,Cap,,0,0,0,,vá dormir
+Dialogue: 0,0:00:19.61,0:00:20.07,Cap,,0,0,0,,da maneira
+Dialogue: 0,0:00:20.07,0:00:20.49,Cap,,0,0,0,,como você
+Dialogue: 0,0:00:20.49,0:00:20.98,Cap,,0,0,0,,deveria.
+Dialogue: 0,0:00:20.98,0:00:21.66,Cap,,0,0,0,,Justamente por
+Dialogue: 0,0:00:21.66,0:00:21.89,Cap,,0,0,0,,isso,
+Dialogue: 0,0:00:21.89,0:00:22.17,Cap,,0,0,0,,a gente
+Dialogue: 0,0:00:22.17,0:00:23.09,Cap,,0,0,0,,quer evitar
+Dialogue: 0,0:00:23.09,0:00:23.25,Cap,,0,0,0,,que a
+Dialogue: 0,0:00:23.25,0:00:23.89,Cap,,0,0,0,,cafeína esteja
+Dialogue: 0,0:00:23.89,0:00:24.87,Cap,,0,0,0,,em concentrações
+Dialogue: 0,0:00:24.87,0:00:25.47,Cap,,0,0,0,,altas quando
+Dialogue: 0,0:00:25.47,0:00:25.85,Cap,,0,0,0,,você for
+Dialogue: 0,0:00:25.85,0:00:26.33,Cap,,0,0,0,,dormir.
+Dialogue: 0,0:00:26.33,0:00:27.02,Cap,,0,0,0,,Pensando nisso,
+Dialogue: 0,0:00:27.02,0:00:27.32,Cap,,0,0,0,,a partir
+Dialogue: 0,0:00:27.32,0:00:27.70,Cap,,0,0,0,,do momento
+Dialogue: 0,0:00:27.70,0:00:28.04,Cap,,0,0,0,,que você
+Dialogue: 0,0:00:28.04,0:00:28.32,Cap,,0,0,0,,toma um
+Dialogue: 0,0:00:28.32,0:00:28.70,Cap,,0,0,0,,café,
+Dialogue: 0,0:00:28.70,0:00:29.04,Cap,,0,0,0,,você tem
+Dialogue: 0,0:00:29.04,0:00:29.52,Cap,,0,0,0,,que pensar
+Dialogue: 0,0:00:29.52,0:00:29.86,Cap,,0,0,0,,que daqui
+Dialogue: 0,0:00:29.86,0:00:30.24,Cap,,0,0,0,,seis horas
+Dialogue: 0,0:00:30.24,0:00:30.66,Cap,,0,0,0,,você tem
+Dialogue: 0,0:00:30.66,0:00:31.16,Cap,,0,0,0,,que tá
+Dialogue: 0,0:00:31.16,0:00:31.66,Cap,,0,0,0,,dormindo.
+Dialogue: 0,0:00:31.66,0:00:32.30,Cap,,0,0,0,,Então você
+Dialogue: 0,0:00:32.30,0:00:32.76,Cap,,0,0,0,,não pode
+Dialogue: 0,0:00:32.76,0:00:33.09,Cap,,0,0,0,,tomar,
+Dialogue: 0,0:00:33.09,0:00:33.79,Cap,,0,0,0,,forma alguma,
+Dialogue: 0,0:00:33.79,0:00:34.23,Cap,,0,0,0,,café,
+Dialogue: 0,0:00:34.23,0:00:34.94,Cap,,0,0,0,,energético ou
+Dialogue: 0,0:00:34.94,0:00:35.78,Cap,,0,0,0,,refrigerante,
+Dialogue: 0,0:00:35.78,0:00:36.36,Cap,,0,0,0,,faltando seis
+Dialogue: 0,0:00:36.36,0:00:36.68,Cap,,0,0,0,,horas pra
+Dialogue: 0,0:00:36.68,0:00:36.96,Cap,,0,0,0,,você ir
+Dialogue: 0,0:00:36.96,0:00:37.42,Cap,,0,0,0,,dormir.
+Dialogue: 0,0:00:37.42,0:00:37.70,Cap,,0,0,0,,Isso também
+Dialogue: 0,0:00:37.70,0:00:38.32,Cap,,0,0,0,,é importante
+Dialogue: 0,0:00:38.32,0:00:38.84,Cap,,0,0,0,,pra manter
+Dialogue: 0,0:00:38.84,0:00:39.28,Cap,,0,0,0,,uma boa
+Dialogue: 0,0:00:39.28,0:00:39.78,Cap,,0,0,0,,rotina de
+Dialogue: 0,0:00:39.78,0:00:40.36,Cap,,0,0,0,,sono.

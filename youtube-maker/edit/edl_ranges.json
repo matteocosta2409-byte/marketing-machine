@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sources": {
+    "maker": "/Users/mac-matteo/marketing machine/youtube-maker/maker.mov"
+  },
+  "ranges": [
+    {
+      "source": "maker",
+      "start": 0.149,
+      "end": 1.075
+    },
+    {
+      "source": "maker",
+      "start": 1.444,
+      "end": 4.934
+    },
+    {
+      "source": "maker",
+      "start": 5.284,
+      "end": 11.095
+    },
+    {
+      "source": "maker",
+      "start": 11.404,
+      "end": 17.739
+    }
+  ],
+  "grade": "none",
+  "total_duration_s": 16.56
+}

@@ -1,0 +1,62 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Helvetica,67,&H00FFFFFF,&H00FFFFFF,&HC8000000,&HC8000000,0,1,0,0,100,100,0,0,1,6.7,6.7,2,60,60,300,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.04,0:00:00.54,Cap,,0,0,0,,Outra coisa:
+Dialogue: 0,0:00:00.54,0:00:00.84,Cap,,0,0,0,,reler as
+Dialogue: 0,0:00:00.84,0:00:01.50,Cap,,0,0,0,,redações que
+Dialogue: 0,0:00:01.50,0:00:02.18,Cap,,0,0,0,,deram certo
+Dialogue: 0,0:00:02.18,0:00:02.64,Cap,,0,0,0,,no ano.
+Dialogue: 0,0:00:02.64,0:00:03.20,Cap,,0,0,0,,Então aquelas
+Dialogue: 0,0:00:03.20,0:00:03.48,Cap,,0,0,0,,que você
+Dialogue: 0,0:00:03.48,0:00:04.02,Cap,,0,0,0,,tirou novecentos
+Dialogue: 0,0:00:04.02,0:00:04.62,Cap,,0,0,0,,sessenta,
+Dialogue: 0,0:00:04.62,0:00:05.08,Cap,,0,0,0,,novecentos e
+Dialogue: 0,0:00:05.08,0:00:05.46,Cap,,0,0,0,,vinte,
+Dialogue: 0,0:00:05.46,0:00:05.98,Cap,,0,0,0,,até mil
+Dialogue: 0,0:00:05.98,0:00:06.42,Cap,,0,0,0,,na correção
+Dialogue: 0,0:00:06.42,0:00:06.62,Cap,,0,0,0,,do seu
+Dialogue: 0,0:00:06.62,0:00:07.26,Cap,,0,0,0,,cursinho,
+Dialogue: 0,0:00:07.26,0:00:07.72,Cap,,0,0,0,,porque nessa
+Dialogue: 0,0:00:07.72,0:00:08.10,Cap,,0,0,0,,altura do
+Dialogue: 0,0:00:08.10,0:00:08.66,Cap,,0,0,0,,campeonato,
+Dialogue: 0,0:00:08.66,0:00:08.90,Cap,,0,0,0,,o seu
+Dialogue: 0,0:00:08.90,0:00:09.34,Cap,,0,0,0,,modelo de
+Dialogue: 0,0:00:09.34,0:00:09.76,Cap,,0,0,0,,texto já
+Dialogue: 0,0:00:09.76,0:00:09.98,Cap,,0,0,0,,tem que
+Dialogue: 0,0:00:09.98,0:00:10.56,Cap,,0,0,0,,tá pronto.
+Dialogue: 0,0:00:10.56,0:00:10.94,Cap,,0,0,0,,Você já
+Dialogue: 0,0:00:10.94,0:00:11.68,Cap,,0,0,0,,escreveu várias
+Dialogue: 0,0:00:11.68,0:00:12.00,Cap,,0,0,0,,vezes,
+Dialogue: 0,0:00:12.00,0:00:12.54,Cap,,0,0,0,,sabe quanto
+Dialogue: 0,0:00:12.54,0:00:13.32,Cap,,0,0,0,,tempo demora,
+Dialogue: 0,0:00:13.32,0:00:13.74,Cap,,0,0,0,,sabe como
+Dialogue: 0,0:00:13.74,0:00:14.38,Cap,,0,0,0,,encaixar as
+Dialogue: 0,0:00:14.38,0:00:14.84,Cap,,0,0,0,,ideias no
+Dialogue: 0,0:00:14.84,0:00:15.10,Cap,,0,0,0,,D1 e
+Dialogue: 0,0:00:15.10,0:00:15.88,Cap,,0,0,0,,no D2,
+Dialogue: 0,0:00:15.88,0:00:16.52,Cap,,0,0,0,,como introduzir
+Dialogue: 0,0:00:16.52,0:00:16.72,Cap,,0,0,0,,um bom
+Dialogue: 0,0:00:16.72,0:00:17.42,Cap,,0,0,0,,argumento e
+Dialogue: 0,0:00:17.42,0:00:18.00,Cap,,0,0,0,,como montar
+Dialogue: 0,0:00:18.00,0:00:18.58,Cap,,0,0,0,,uma proposta
+Dialogue: 0,0:00:18.58,0:00:19.32,Cap,,0,0,0,,de intervenção
+Dialogue: 0,0:00:19.32,0:00:19.62,Cap,,0,0,0,,com os
+Dialogue: 0,0:00:19.62,0:00:20.54,Cap,,0,0,0,,cinco elementos.
+Dialogue: 0,0:00:20.54,0:00:20.70,Cap,,0,0,0,,O que
+Dialogue: 0,0:00:20.70,0:00:21.10,Cap,,0,0,0,,você quer
+Dialogue: 0,0:00:21.10,0:00:21.60,Cap,,0,0,0,,agora é
+Dialogue: 0,0:00:21.60,0:00:21.78,Cap,,0,0,0,,ver o
+Dialogue: 0,0:00:21.78,0:00:22.54,Cap,,0,0,0,,que funcionou
+Dialogue: 0,0:00:22.54,0:00:23.24,Cap,,0,0,0,,e reproduzir
+Dialogue: 0,0:00:23.24,0:00:23.46,Cap,,0,0,0,,lá no
+Dialogue: 0,0:00:23.46,0:00:24.02,Cap,,0,0,0,,domingo.
+Dialogue: 0,0:00:24.02,0:00:24.46,Cap,,0,0,0,,E

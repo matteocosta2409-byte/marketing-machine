@@ -1,0 +1,75 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Helvetica,67,&H00FFFFFF,&H00FFFFFF,&HC8000000,&HC8000000,0,1,0,0,100,100,0,0,1,6.7,6.7,2,60,60,540,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.04,0:00:00.36,Cap,,0,0,0,,Eu tinha
+Dialogue: 0,0:00:00.36,0:00:01.40,Cap,,0,0,0,,bastante dificuldade
+Dialogue: 0,0:00:01.40,0:00:01.84,Cap,,0,0,0,,em matérias
+Dialogue: 0,0:00:01.84,0:00:02.60,Cap,,0,0,0,,de português,
+Dialogue: 0,0:00:02.60,0:00:03.52,Cap,,0,0,0,,desde gramática.
+Dialogue: 0,0:00:03.52,0:00:04.06,Cap,,0,0,0,,Literatura eu
+Dialogue: 0,0:00:04.06,0:00:04.52,Cap,,0,0,0,,passei a
+Dialogue: 0,0:00:04.52,0:00:04.90,Cap,,0,0,0,,gostar ao
+Dialogue: 0,0:00:04.90,0:00:05.28,Cap,,0,0,0,,longo do
+Dialogue: 0,0:00:05.28,0:00:05.60,Cap,,0,0,0,,tempo,
+Dialogue: 0,0:00:05.60,0:00:05.96,Cap,,0,0,0,,até hoje
+Dialogue: 0,0:00:05.96,0:00:06.34,Cap,,0,0,0,,eu gosto
+Dialogue: 0,0:00:06.34,0:00:06.76,Cap,,0,0,0,,bastante,
+Dialogue: 0,0:00:06.76,0:00:07.22,Cap,,0,0,0,,eu busco
+Dialogue: 0,0:00:07.22,0:00:08.16,Cap,,0,0,0,,ler literatura,
+Dialogue: 0,0:00:08.16,0:00:08.70,Cap,,0,0,0,,inclusive hoje
+Dialogue: 0,0:00:08.70,0:00:09.08,Cap,,0,0,0,,em dia,
+Dialogue: 0,0:00:09.08,0:00:09.38,Cap,,0,0,0,,mas na
+Dialogue: 0,0:00:09.38,0:00:09.84,Cap,,0,0,0,,época eu
+Dialogue: 0,0:00:09.84,0:00:10.30,Cap,,0,0,0,,não gostava
+Dialogue: 0,0:00:10.30,0:00:10.70,Cap,,0,0,0,,tanto assim.
+Dialogue: 0,0:00:10.70,0:00:11.48,Cap,,0,0,0,,Então Literatura,
+Dialogue: 0,0:00:11.48,0:00:12.36,Cap,,0,0,0,,Português,
+Dialogue: 0,0:00:12.36,0:00:13.38,Cap,,0,0,0,,própria Redação,
+Dialogue: 0,0:00:13.38,0:00:13.68,Cap,,0,0,0,,que eu
+Dialogue: 0,0:00:13.68,0:00:13.94,Cap,,0,0,0,,tinha uma
+Dialogue: 0,0:00:13.94,0:00:14.72,Cap,,0,0,0,,certa dificuldade
+Dialogue: 0,0:00:14.72,0:00:15.12,Cap,,0,0,0,,assim.
+Dialogue: 0,0:00:15.12,0:00:15.52,Cap,,0,0,0,,Normalmente o
+Dialogue: 0,0:00:15.52,0:00:15.88,Cap,,0,0,0,,pessoal que
+Dialogue: 0,0:00:15.88,0:00:16.14,Cap,,0,0,0,,fala que
+Dialogue: 0,0:00:16.14,0:00:16.62,Cap,,0,0,0,,são uma
+Dialogue: 0,0:00:16.62,0:00:17.12,Cap,,0,0,0,,matéria mais
+Dialogue: 0,0:00:17.12,0:00:17.42,Cap,,0,0,0,,fácil,
+Dialogue: 0,0:00:17.42,0:00:17.76,Cap,,0,0,0,,Redação,
+Dialogue: 0,0:00:17.76,0:00:17.96,Cap,,0,0,0,,mas eu
+Dialogue: 0,0:00:17.96,0:00:18.30,Cap,,0,0,0,,tinha certa
+Dialogue: 0,0:00:18.30,0:00:18.88,Cap,,0,0,0,,dificuldade.
+Dialogue: 0,0:00:18.88,0:00:19.20,Cap,,0,0,0,,Inclusive aí
+Dialogue: 0,0:00:19.20,0:00:19.90,Cap,,0,0,0,,agradecer professora
+Dialogue: 0,0:00:19.90,0:00:20.42,Cap,,0,0,0,,Vanessa aí
+Dialogue: 0,0:00:20.42,0:00:20.90,Cap,,0,0,0,,do Olímpio,
+Dialogue: 0,0:00:20.90,0:00:21.38,Cap,,0,0,0,,que me
+Dialogue: 0,0:00:21.38,0:00:21.92,Cap,,0,0,0,,auxiliou muito
+Dialogue: 0,0:00:21.92,0:00:22.16,Cap,,0,0,0,,na minha
+Dialogue: 0,0:00:22.16,0:00:22.64,Cap,,0,0,0,,jornada ali.
+Dialogue: 0,0:00:22.64,0:00:22.96,Cap,,0,0,0,,Eu tava
+Dialogue: 0,0:00:22.96,0:00:23.34,Cap,,0,0,0,,fazendo,
+Dialogue: 0,0:00:23.34,0:00:24.04,Cap,,0,0,0,,notas muito
+Dialogue: 0,0:00:24.04,0:00:24.68,Cap,,0,0,0,,baixas ali,
+Dialogue: 0,0:00:24.68,0:00:24.92,Cap,,0,0,0,,quando eu
+Dialogue: 0,0:00:24.92,0:00:25.18,Cap,,0,0,0,,cheguei no
+Dialogue: 0,0:00:25.18,0:00:25.70,Cap,,0,0,0,,meu terceiro
+Dialogue: 0,0:00:25.70,0:00:26.06,Cap,,0,0,0,,ano e
+Dialogue: 0,0:00:26.06,0:00:26.64,Cap,,0,0,0,,fiz novecentos
+Dialogue: 0,0:00:26.64,0:00:27.08,Cap,,0,0,0,,e quarenta
+Dialogue: 0,0:00:27.08,0:00:27.40,Cap,,0,0,0,,logo do
+Dialogue: 0,0:00:27.40,0:00:27.80,Cap,,0,0,0,,terceirão,
+Dialogue: 0,0:00:27.80,0:00:28.17,Cap,,0,0,0,,então fiquei
+Dialogue: 0,0:00:28.17,0:00:28.77,Cap,,0,0,0,,bastante feliz
+Dialogue: 0,0:00:28.77,0:00:29.17,Cap,,0,0,0,,e consegui
+Dialogue: 0,0:00:29.17,0:00:29.67,Cap,,0,0,0,,melhorar nessa
+Dialogue: 0,0:00:29.67,0:00:30.31,Cap,,0,0,0,,parte.

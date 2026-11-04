@@ -1,0 +1,24 @@
+[0:v]trim=start=1.000:end=4.930,setpts=PTS-STARTPTS,scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,setsar=1[v0];
+[0:a]atrim=start=1.000:end=4.930,asetpts=PTS-STARTPTS[a0];
+[0:v]trim=start=5.520:end=5.825,setpts=PTS-STARTPTS,scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,setsar=1[v1];
+[0:a]atrim=start=5.520:end=5.825,asetpts=PTS-STARTPTS[a1];
+[0:v]trim=start=14.139:end=15.325,setpts=PTS-STARTPTS,scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,setsar=1[v2];
+[0:a]atrim=start=14.139:end=15.325,asetpts=PTS-STARTPTS[a2];
+[0:v]trim=start=16.217:end=17.701,setpts=PTS-STARTPTS,scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,setsar=1[v3];
+[0:a]atrim=start=16.217:end=17.701,asetpts=PTS-STARTPTS[a3];
+[0:v]trim=start=22.700:end=24.280,setpts=PTS-STARTPTS,scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,setsar=1[v4];
+[0:a]atrim=start=22.700:end=24.280,asetpts=PTS-STARTPTS[a4];
+[0:v]trim=start=40.300:end=45.691,setpts=PTS-STARTPTS,scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,setsar=1[v5];
+[0:a]atrim=start=40.300:end=45.691,asetpts=PTS-STARTPTS[a5];
+[0:v]trim=start=62.900:end=66.825,setpts=PTS-STARTPTS,scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,setsar=1[v6];
+[0:a]atrim=start=62.900:end=66.825,asetpts=PTS-STARTPTS[a6];
+[0:v]trim=start=75.923:end=77.940,setpts=PTS-STARTPTS,scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,setsar=1[v7];
+[0:a]atrim=start=75.923:end=77.940,asetpts=PTS-STARTPTS[a7];
+[0:v]trim=start=87.321:end=90.955,setpts=PTS-STARTPTS,scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,setsar=1[v8];
+[0:a]atrim=start=87.321:end=90.955,asetpts=PTS-STARTPTS[a8];
+[v0][a0][v1][a1][v2][a2][v3][a3][v4][a4][v5][a5][v6][a6][v7][a7][v8][a8]concat=n=9:v=1:a=1[cv0][ca];
+[cv0]zscale=tin=arib-std-b67:min=bt2020nc:pin=bt2020:rin=tv:t=linear:npl=100,format=gbrpf32le,zscale=p=bt709,tonemap=tonemap=hable:desat=0,zscale=t=bt709:m=bt709:r=tv,format=yuv420p[cv];
+[ca]loudnorm=I=-14:TP=-1:LRA=11[aout];
+movie='/Users/mac-matteo/marketing machine/cortes/arco-teste/edit/01_ninguem-te-avisa-disso-depois-de-passar-/title.png',format=rgba,scale=out_color_matrix=bt709:out_range=tv,format=yuva420p[tt];
+[cv][tt]overlay=0:0:enable='lt(t,4.0)'[cvt];
+[cvt]ass='/Users/mac-matteo/marketing machine/cortes/arco-teste/edit/01_ninguem-te-avisa-disso-depois-de-passar-/caps.ass':fontsdir='/Users/mac-matteo/marketing machine/assets/fonts/clipper'[outv]

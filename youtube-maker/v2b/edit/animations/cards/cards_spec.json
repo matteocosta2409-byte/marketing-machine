@@ -1,0 +1,42 @@
+[
+  {
+    "file": "01_medicina.jpg",
+    "start": 1.011,
+    "duration": 0.9
+  },
+  {
+    "file": "02_estudos.jpg",
+    "start": 1.69,
+    "duration": 1.12
+  },
+  {
+    "file": "05_produtivo.jpg",
+    "start": 2.57,
+    "duration": 1.4
+  },
+  {
+    "file": "08_cafe.jpg",
+    "start": 3.771,
+    "duration": 1.4
+  },
+  {
+    "file": "03_vibecoding.jpg",
+    "start": 5.072,
+    "duration": 1.1
+  },
+  {
+    "file": "04_ia.jpg",
+    "start": 5.911,
+    "duration": 0.33
+  },
+  {
+    "file": "09_empreender.jpg",
+    "start": 6.29,
+    "duration": 1.09
+  },
+  {
+    "file": "10_piano.jpg",
+    "start": 7.149,
+    "duration": 1.8
+  }
+]
